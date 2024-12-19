@@ -3,10 +3,10 @@ layout: post
 title:  "Best Rated Lawn Bowls For Leads"
 author: reece
 categories: [ guide ]
-image: assets/images/best-bowls-for-leads.jpg
+background: /img/posts/best-bowls-for-leads.jpg
 featured: false
 description: "What are the best rated lawn bowls for leads? Check out our top 4. Are yours on the list?"
-last_modified_at: 2020-10-22
+date: 2020-10-22
 ---
 
 ## Top 4 Lawn bowls for leads
