@@ -77,4 +77,9 @@ img::-moz-selection {
 
 table {
     width: 100%;
+    thead {
+        th {
+            background: $gray-300;
+        }
+    }
 }
