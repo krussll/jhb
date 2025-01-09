@@ -20,6 +20,10 @@ header.masthead {
 
     .page-img {
         overflow: hidden;
+
+        img {
+            max-height: 600px;
+        }
     }
 
     .page-heading,
