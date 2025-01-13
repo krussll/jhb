@@ -8,6 +8,10 @@ header.masthead {
     position: relative;
     background-size: cover;
 
+    .row {
+        margin-left: 0;
+        margin-right: 0;
+    }
     .overlay {
         position: absolute;
         top: 0;
