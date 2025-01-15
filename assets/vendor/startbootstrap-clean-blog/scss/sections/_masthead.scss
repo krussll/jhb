@@ -29,7 +29,10 @@ header.masthead {
         overflow: hidden;
 
         img {
-            max-height: 600px;
+            max-height: 400px;
+            @media only screen and (min-width: 768px) {
+                max-height: 600px;
+            }
         }
     }
 
