@@ -10,6 +10,10 @@ header.masthead {
 
     .row {
         margin-right: 0;
+        
+        @media only screen and (max-width: 768px) {
+            flex-direction: column-reverse !important;
+        }
     }
     .overlay {
         position: absolute;
@@ -36,7 +40,7 @@ header.masthead {
     .page-heading,
     .post-heading,
     .site-heading {
-        padding: 200px 0 150px;
+        padding: 200px 20px 150px;
         color: white;
 
         @media only screen and (min-width: 768px) {
