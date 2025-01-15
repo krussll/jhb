@@ -19,7 +19,7 @@ layout: default
               {% if page.subtitle %}
               <h2 class="subheading">{{ page.subtitle }}</h2>
               {% endif %}
-              <span class="meta">Posted by
+              <span class="meta">
                 Last updated: {{ page.date | date: '%B %d, %Y' }} &middot; {% include read_time.html
                 content=page.content %}
                 <meta itemprop="dateModified" content="{{ page.date | date: '%Y-%m-%dT%H:%M:%S.%Lz' }}">
