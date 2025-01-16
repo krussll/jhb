@@ -79,7 +79,7 @@ table {
     width: 100%;
     thead {
         th {
-            background: $gray-200;
+            background: #FAFAFA;
             padding: 8px 16px;
         }
     }
@@ -90,11 +90,15 @@ table {
 }
 
 .pack-feature {
-    background: $gray-200;
+    background: #FAFAFA;
     padding: 16px 32px;
     margin-bottom: 30px;
 
     a {
         background-color: #EB8533;
+    }
+
+    img {
+        width: 100%;
     }
 }
