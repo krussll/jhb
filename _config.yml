@@ -4,6 +4,7 @@ description:        Bringing you the best online bowls reviews and guides for pl
 author:             Reece Williams 
 baseurl:            "/jhb"
 url:                "https://krussll.github.io" 
+permalink:          /:categories/:title
 
 # Social Profiles
 twitter_username:   
