@@ -90,6 +90,11 @@ table {
 }
 
 .pack-feature {
-            background: $gray-200;
-            padding: 16px 32px;
+    background: $gray-200;
+    padding: 16px 32px;
+    margin-bottom: 30px;
+
+    a {
+        background-color: $orange-500;
+    }
 }
