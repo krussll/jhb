@@ -12,6 +12,7 @@
         img {
             width: 34px;
             margin-right: 5px;
+            filter: invert(1);
         }
     }
 
@@ -45,6 +46,13 @@
             &:focus,
             &:hover {
                 color: fade-out($white, .2);
+            img {
+                filter: invert(0.3);
+            }
+            }
+            
+            img {
+                filter: invert(0);
             }
         }
 
