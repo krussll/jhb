@@ -65,6 +65,8 @@ The final part of a bowl’s line characteristics is it’s “finish”. This d
 
 Finally, where are you planning on playing? Some models focus either on indoor, or outdoor play whereas others try to be multi-purpose. Make sure you get the most on your purchase, especially if you play year round.
 
+{% include drill-pack-feature.html %}
+
 ## Drakes Pride D-Tec
 
 <a href="https://www.amazon.co.uk/gp/product/B07VF5RJH8/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=jackhighbow0a-21&creative=6738&linkCode=as2&creativeASIN=B07VF5RJH8&linkId=e5b90d4e6fd7c6bf5c239d43a275d8da" class="btn more"  target="_blank">See more</a>
