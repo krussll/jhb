@@ -14,7 +14,7 @@ date: 2022-07-22 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":1389,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="/img/posts/What-Does-A-Marker-Do-In-Lawn-Bowls.jpg" alt="" class="wp-image-1389"/></figure>
+<figure class="wp-block-image size-full"><img src="{{ '/img/posts/What-Does-A-Marker-Do-In-Lawn-Bowls.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-1389"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

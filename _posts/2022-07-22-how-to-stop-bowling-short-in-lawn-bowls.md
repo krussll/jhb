@@ -14,7 +14,7 @@ date: 2022-07-22 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":1395,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="/img/posts/How-To-Stop-Bowling-Short-In-Lawn-Bowls.jpg" alt="" class="wp-image-1395"/></figure>
+<figure class="wp-block-image size-full"><img src="{{ '/img/posts/How-To-Stop-Bowling-Short-In-Lawn-Bowls.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-1395"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

@@ -14,7 +14,7 @@ date: 2022-06-11 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":1196,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="/img/posts/The-Draw-Shot-In-Lawn-Bowls.jpg" alt="" class="wp-image-1196"/></figure>
+<figure class="wp-block-image size-full"><img src="{{ '/img/posts/The-Draw-Shot-In-Lawn-Bowls.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-1196"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

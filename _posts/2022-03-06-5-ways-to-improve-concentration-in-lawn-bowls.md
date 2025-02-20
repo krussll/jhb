@@ -14,7 +14,7 @@ date: 2022-03-06 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":530,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="/img/posts/5-Ways-To-Improve-Concentration-In-Lawn-Bowls.jpg" alt="5 Ways To Improve Concentration In Lawn Bowls" class="wp-image-530"/></figure>
+<figure class="wp-block-image size-full"><img src="{{ '/img/posts/5-Ways-To-Improve-Concentration-In-Lawn-Bowls.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="5 Ways To Improve Concentration In Lawn Bowls" class="wp-image-530"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

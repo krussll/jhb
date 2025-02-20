@@ -14,7 +14,7 @@ date: 2021-03-31 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":173,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="/img/posts/how-to-play-a-yard-on-shot.jpg" alt="How To Play A Yard-On Shot In Lawn Bowls | A Helpful Illustrated Guide" class="wp-image-173"/></figure>
+<figure class="wp-block-image size-full"><img src="{{ '/img/posts/how-to-play-a-yard-on-shot.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="How To Play A Yard-On Shot In Lawn Bowls | A Helpful Illustrated Guide" class="wp-image-173"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

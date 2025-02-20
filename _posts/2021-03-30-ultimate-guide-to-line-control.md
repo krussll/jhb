@@ -14,7 +14,7 @@ date: 2021-03-30 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":176,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="/img/posts/ultimate-guide-to-line-contol.jpg" alt="The Ultimate Guide To Line Control In Lawn Bowls | A Helpful Illustrated Guide" class="wp-image-176"/></figure>
+<figure class="wp-block-image size-full"><img src="{{ '/img/posts/ultimate-guide-to-line-contol.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="The Ultimate Guide To Line Control In Lawn Bowls | A Helpful Illustrated Guide" class="wp-image-176"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

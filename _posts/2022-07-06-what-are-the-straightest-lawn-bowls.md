@@ -14,7 +14,7 @@ date: 2022-07-06 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":1294,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="/img/posts/What-Are-The-Straightest-Lawn-Bowls.jpg" alt="" class="wp-image-1294"/></figure>
+<figure class="wp-block-image size-full"><img src="{{ '/img/posts/What-Are-The-Straightest-Lawn-Bowls.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-1294"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

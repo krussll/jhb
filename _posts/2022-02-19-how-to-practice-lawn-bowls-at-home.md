@@ -14,7 +14,7 @@ date: 2022-02-19 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":83,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="/img/posts/how-to-practice-lawn-bowls-at-home.jpg" alt="How to practice lawn bowls at home" class="wp-image-83"/></figure>
+<figure class="wp-block-image size-full"><img src="{{ '/img/posts/how-to-practice-lawn-bowls-at-home.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="How to practice lawn bowls at home" class="wp-image-83"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

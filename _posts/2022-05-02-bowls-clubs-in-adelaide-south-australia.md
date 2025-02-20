@@ -14,7 +14,7 @@ date: 2022-05-02 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":921,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="/img/posts/bowls-clubs-Adelaide.jpg" alt="bowls clubs Adelaide" class="wp-image-921"/></figure>
+<figure class="wp-block-image size-full"><img src="{{ '/img/posts/bowls-clubs-Adelaide.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="bowls clubs Adelaide" class="wp-image-921"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading -->

@@ -14,7 +14,7 @@ date: 2022-06-29 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":1267,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="/img/posts/How-Do-I-Stop-My-Lawn-Bowl-From-Dumping.jpg" alt="" class="wp-image-1267"/></figure>
+<figure class="wp-block-image size-full"><img src="{{ '/img/posts/How-Do-I-Stop-My-Lawn-Bowl-From-Dumping.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-1267"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

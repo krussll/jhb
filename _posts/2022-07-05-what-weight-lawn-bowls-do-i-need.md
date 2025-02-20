@@ -14,7 +14,7 @@ date: 2022-07-05 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":1283,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="/img/posts/What-Weight-Lawn-Bowls-Do-I-Need.jpg" alt="" class="wp-image-1283"/></figure>
+<figure class="wp-block-image size-full"><img src="{{ '/img/posts/What-Weight-Lawn-Bowls-Do-I-Need.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-1283"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -90,7 +90,7 @@ date: 2022-07-05 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":1282,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="/img/posts/image-1.png" alt="" class="wp-image-1282"/></figure>
+<figure class="wp-block-image size-full"><img src="{{ '/img/posts/image-1.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-1282"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

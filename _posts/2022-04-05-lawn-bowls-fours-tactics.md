@@ -14,7 +14,7 @@ date: 2022-04-05 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":782,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="/img/posts/Lawn-Bowls-Fours-Tactics.jpg" alt="Lawn Bowls Fours Tactics" class="wp-image-782"/></figure>
+<figure class="wp-block-image size-full"><img src="{{ '/img/posts/Lawn-Bowls-Fours-Tactics.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Lawn Bowls Fours Tactics" class="wp-image-782"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

@@ -14,7 +14,7 @@ date: 2021-05-09 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":137,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="/img/posts/5-tips-and-tricks-to-improve-your-lawn-bowls-delivery.jpg" alt="5 tips and tricks to improve your lawn bowls delivery" class="wp-image-137"/></figure>
+<figure class="wp-block-image size-full"><img src="{{ '/img/posts/5-tips-and-tricks-to-improve-your-lawn-bowls-delivery.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="5 tips and tricks to improve your lawn bowls delivery" class="wp-image-137"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

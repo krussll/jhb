@@ -14,11 +14,11 @@ date: 2021-02-01 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":191,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="/img/posts/jokes-about-lawn-bowls.jpg" alt="Jokes About Lawn Bowls" class="wp-image-191"/></figure>
+<figure class="wp-block-image size-full"><img src="{{ '/img/posts/jokes-about-lawn-bowls.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Jokes About Lawn Bowls" class="wp-image-191"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="/img/posts/joke-1.jpg" alt=""/></a></figure>
+<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/joke-1.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt=""/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading -->
@@ -78,7 +78,7 @@ date: 2021-02-01 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="/img/posts/joke-3.jpg" alt=""/></a></figure>
+<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/joke-3.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt=""/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading -->
@@ -134,11 +134,11 @@ date: 2021-02-01 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="/img/posts/joke-4.jpg" alt=""/></a></figure>
+<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/joke-4.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt=""/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="/img/posts/joke-5.jpg" alt=""/></a></figure>
+<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/joke-5.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt=""/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading -->
@@ -178,18 +178,18 @@ date: 2021-02-01 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="/img/posts/joke-7.jpg" alt=""/></a></figure>
+<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/joke-7.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt=""/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="/img/posts/joke-8.jpg" alt=""/></a></figure>
+<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/joke-8.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt=""/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="/img/posts/joke-9.jpg" alt=""/></a></figure>
+<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/joke-9.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt=""/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="/img/posts/joke-10.jpg" alt=""/></a></figure>
+<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/joke-10.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt=""/></a></figure>
 <!-- /wp:image -->
     

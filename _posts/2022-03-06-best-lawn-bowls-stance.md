@@ -14,7 +14,7 @@ date: 2022-03-06 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":566,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="/img/posts/Best-Lawn-Bowls-Stance.jpg" alt="Best Lawn Bowls Stance" class="wp-image-566"/></figure>
+<figure class="wp-block-image size-full"><img src="{{ '/img/posts/Best-Lawn-Bowls-Stance.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Best Lawn Bowls Stance" class="wp-image-566"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -70,7 +70,7 @@ date: 2022-03-06 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"center","id":552,"sizeSlug":"medium","linkDestination":"none"} -->
-<div class="wp-block-image"><figure class="aligncenter size-medium"><img src="/img/posts/shooter-stance-diagram-200x300.png" alt="" class="wp-image-552"/><figcaption>Example foot positioning on a lawn bowls mat</figcaption></figure></div>
+<div class="wp-block-image"><figure class="aligncenter size-medium"><img src="{{ '/img/posts/shooter-stance-diagram-200x300.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-552"/><figcaption>Example foot positioning on a lawn bowls mat</figcaption></figure></div>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -102,7 +102,7 @@ date: 2022-03-06 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"center","id":553,"sizeSlug":"medium","linkDestination":"none"} -->
-<div class="wp-block-image"><figure class="aligncenter size-medium"><img src="/img/posts/side-by-side-stance-diagram-200x300.png" alt="" class="wp-image-553"/><figcaption>Example foot positioning on a lawn bowls mat - Square on stance</figcaption></figure></div>
+<div class="wp-block-image"><figure class="aligncenter size-medium"><img src="{{ '/img/posts/side-by-side-stance-diagram-200x300.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-553"/><figcaption>Example foot positioning on a lawn bowls mat - Square on stance</figcaption></figure></div>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

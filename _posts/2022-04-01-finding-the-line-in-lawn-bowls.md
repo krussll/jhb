@@ -14,7 +14,7 @@ date: 2022-04-01 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":581,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="/img/posts/Finding-The-Line-In-Lawn-Bowls.jpg" alt="Finding The Line In Lawn Bowls" class="wp-image-581"/></figure>
+<figure class="wp-block-image size-full"><img src="{{ '/img/posts/Finding-The-Line-In-Lawn-Bowls.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Finding The Line In Lawn Bowls" class="wp-image-581"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -222,7 +222,7 @@ date: 2022-04-01 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":1651,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="/img/posts/all-aiming-points.jpg" alt="" class="wp-image-1651"/><figcaption class="wp-element-caption"><a href="https://howtoplaysport.com/lawn-bowls/using-aiming-points-in-lawn-bowls" data-type="URL" data-id="https://howtoplaysport.com/lawn-bowls/using-aiming-points-in-lawn-bowls">https://howtoplaysport.com/lawn-bowls/using-aiming-points-in-lawn-bowls</a></figcaption></figure>
+<figure class="wp-block-image size-full"><img src="{{ '/img/posts/all-aiming-points.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-1651"/><figcaption class="wp-element-caption"><a href="https://howtoplaysport.com/lawn-bowls/using-aiming-points-in-lawn-bowls" data-type="URL" data-id="https://howtoplaysport.com/lawn-bowls/using-aiming-points-in-lawn-bowls">https://howtoplaysport.com/lawn-bowls/using-aiming-points-in-lawn-bowls</a></figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

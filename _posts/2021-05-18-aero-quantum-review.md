@@ -14,7 +14,7 @@ date: 2021-05-18 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":129,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="/img/posts/aero-quantum-lawn-bowls-review.jpg" alt="Aero Quantum Lawn Bowls Review" class="wp-image-129"/></figure>
+<figure class="wp-block-image size-full"><img src="{{ '/img/posts/aero-quantum-lawn-bowls-review.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Aero Quantum Lawn Bowls Review" class="wp-image-129"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading -->
@@ -71,23 +71,23 @@ date: 2021-05-18 13:00:00 -0400
 
 <!-- wp:group {"layout":{"type":"flex","allowOrientation":false}} -->
 <div class="wp-block-group"><!-- wp:image {"id":447,"width":25,"height":25,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full is-resized"><img src="/img/posts/icon-star.jpg" alt="" class="wp-image-447" width="25" height="25"/></figure>
+<figure class="wp-block-image size-full is-resized"><img src="{{ '/img/posts/icon-star.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-447" width="25" height="25"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":447,"width":25,"height":25,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full is-resized"><img src="/img/posts/icon-star.jpg" alt="" class="wp-image-447" width="25" height="25"/></figure>
+<figure class="wp-block-image size-full is-resized"><img src="{{ '/img/posts/icon-star.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-447" width="25" height="25"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":447,"width":25,"height":25,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full is-resized"><img src="/img/posts/icon-star.jpg" alt="" class="wp-image-447" width="25" height="25"/></figure>
+<figure class="wp-block-image size-full is-resized"><img src="{{ '/img/posts/icon-star.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-447" width="25" height="25"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":447,"width":25,"height":25,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full is-resized"><img src="/img/posts/icon-star.jpg" alt="" class="wp-image-447" width="25" height="25"/></figure>
+<figure class="wp-block-image size-full is-resized"><img src="{{ '/img/posts/icon-star.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-447" width="25" height="25"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":447,"width":25,"height":25,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full is-resized"><img src="/img/posts/icon-star.jpg" alt="" class="wp-image-447" width="25" height="25"/></figure>
+<figure class="wp-block-image size-full is-resized"><img src="{{ '/img/posts/icon-star.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-447" width="25" height="25"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:group -->
 
@@ -100,7 +100,7 @@ date: 2021-05-18 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="/img/posts/aero-quantum-set.jpg" alt=""/></a></figure>
+<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/aero-quantum-set.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt=""/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading -->
@@ -114,7 +114,7 @@ date: 2021-05-18 13:00:00 -0400
 <!-- wp:block {"ref":2826} /-->
 
 <!-- wp:image {"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="/img/posts/aero-indoor-uk-trajectory-guide-2020.png" alt="Trajectory guide/bias guide for Aero lawn bowl indoor models"/></a></figure>
+<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/aero-indoor-uk-trajectory-guide-2020.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="Trajectory guide/bias guide for Aero lawn bowl indoor models"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -144,7 +144,7 @@ date: 2021-05-18 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="/img/posts/aero-quantum-single.jpg" alt=""/></a></figure>
+<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/aero-quantum-single.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt=""/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -190,7 +190,7 @@ date: 2021-05-18 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="/img/posts/aero-quantum-side.jpg" alt=""/></a></figure>
+<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/aero-quantum-side.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt=""/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -236,7 +236,7 @@ date: 2021-05-18 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="/img/posts/aero-quantum-grip.jpg" alt=""/></a></figure>
+<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/aero-quantum-grip.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt=""/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -286,7 +286,7 @@ date: 2021-05-18 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="/img/posts/aero-quantum-surface.jpg" alt=""/></a></figure>
+<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/aero-quantum-surface.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt=""/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

@@ -14,7 +14,7 @@ date: 2022-02-18 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":99,"width":800,"height":450,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full is-resized"><img src="/img/posts/9-tips-for-how-to-play-bowls-well.jpg" alt="9 Tips For How to Play Lawn Bowls Well" class="wp-image-99" width="800" height="450"/></figure>
+<figure class="wp-block-image size-full is-resized"><img src="{{ '/img/posts/9-tips-for-how-to-play-bowls-well.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="9 Tips For How to Play Lawn Bowls Well" class="wp-image-99" width="800" height="450"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

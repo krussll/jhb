@@ -14,7 +14,7 @@ date: 2022-07-07 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":1313,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="/img/posts/What-To-Wear-To-Barefoot-Bowls.jpg" alt="" class="wp-image-1313"/></figure>
+<figure class="wp-block-image size-full"><img src="{{ '/img/posts/What-To-Wear-To-Barefoot-Bowls.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-1313"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -34,7 +34,7 @@ date: 2022-07-07 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":1312,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="/img/posts/image-2.png" alt="" class="wp-image-1312"/></figure>
+<figure class="wp-block-image size-full"><img src="{{ '/img/posts/image-2.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-1312"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

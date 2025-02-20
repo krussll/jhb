@@ -14,7 +14,7 @@ date: 2022-05-15 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":974,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="/img/posts/Lawn-bowls-Bias-Explained.jpg" alt="" class="wp-image-974"/></figure>
+<figure class="wp-block-image size-full"><img src="{{ '/img/posts/Lawn-bowls-Bias-Explained.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-974"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -76,7 +76,7 @@ date: 2022-05-15 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":975,"sizeSlug":"medium","linkDestination":"none"} -->
-<figure class="wp-block-image size-medium"><img src="/img/posts/DSC08176-800x795-1-300x298.jpg" alt="" class="wp-image-975"/></figure>
+<figure class="wp-block-image size-medium"><img src="{{ '/img/posts/DSC08176-800x795-1-300x298.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-975"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading -->

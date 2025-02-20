@@ -14,7 +14,7 @@ date: 2022-04-18 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":803,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="/img/posts/cheap-lawn-bowls-1.jpg" alt="" class="wp-image-803"/></figure>
+<figure class="wp-block-image size-full"><img src="{{ '/img/posts/cheap-lawn-bowls-1.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-803"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

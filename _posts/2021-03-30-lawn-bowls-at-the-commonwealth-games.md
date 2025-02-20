@@ -14,7 +14,7 @@ date: 2021-03-30 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":179,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="/img/posts/lawn-bowls-commonwealth-games.jpg" alt="A Guide To Lawn Bowls At The Commonwealth Games" class="wp-image-179"/></figure>
+<figure class="wp-block-image size-full"><img src="{{ '/img/posts/lawn-bowls-commonwealth-games.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="A Guide To Lawn Bowls At The Commonwealth Games" class="wp-image-179"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

@@ -14,7 +14,7 @@ date: 2022-03-06 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":542,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="/img/posts/What-Is-Jack-High-In-Lawn-Bowls.jpg" alt="What Is Jack High In Lawn Bowls?" class="wp-image-542"/></figure>
+<figure class="wp-block-image size-full"><img src="{{ '/img/posts/What-Is-Jack-High-In-Lawn-Bowls.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="What Is Jack High In Lawn Bowls?" class="wp-image-542"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -86,7 +86,7 @@ date: 2022-03-06 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":544,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="/img/posts/jack-high.jpg" alt="" class="wp-image-544"/></figure>
+<figure class="wp-block-image size-full"><img src="{{ '/img/posts/jack-high.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-544"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

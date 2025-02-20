@@ -14,7 +14,7 @@ date: 2022-02-23 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":71,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="/img/posts/lawn-bowls-tips-for-skips.jpg" alt="Lawn Bowls Tips For Skips" class="wp-image-71"/></figure>
+<figure class="wp-block-image size-full"><img src="{{ '/img/posts/lawn-bowls-tips-for-skips.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Lawn Bowls Tips For Skips" class="wp-image-71"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

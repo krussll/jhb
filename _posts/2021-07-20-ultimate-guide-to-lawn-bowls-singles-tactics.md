@@ -14,7 +14,7 @@ date: 2021-07-20 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":114,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="/img/posts/lawn-bowls-singles-tactics.jpg" alt="The Ultimate Guide To Lawn Bowls Singles Tactics" class="wp-image-114"/></figure>
+<figure class="wp-block-image size-full"><img src="{{ '/img/posts/lawn-bowls-singles-tactics.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="The Ultimate Guide To Lawn Bowls Singles Tactics" class="wp-image-114"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

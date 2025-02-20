@@ -14,7 +14,7 @@ date: 2022-03-06 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":508,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="/img/posts/lawn-bowls-triples-tactics.jpg" alt="Lawn Bowls Triples Tactics | A Complete Guide" class="wp-image-508"/></figure>
+<figure class="wp-block-image size-full"><img src="{{ '/img/posts/lawn-bowls-triples-tactics.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Lawn Bowls Triples Tactics | A Complete Guide" class="wp-image-508"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

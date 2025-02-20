@@ -18,7 +18,7 @@ date: 2022-02-27 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":43,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="/img/posts/lawn-bowls-pairs-tactics.jpg" alt="Lawn Bowls Pairs Tactics" class="wp-image-43"/></figure>
+<figure class="wp-block-image size-full"><img src="{{ '/img/posts/lawn-bowls-pairs-tactics.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Lawn Bowls Pairs Tactics" class="wp-image-43"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

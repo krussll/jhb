@@ -14,7 +14,7 @@ date: 2022-05-02 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":913,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="/img/posts/bowls-clubs-Edinburgh.jpg" alt="" class="wp-image-913"/></figure>
+<figure class="wp-block-image size-full"><img src="{{ '/img/posts/bowls-clubs-Edinburgh.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-913"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading -->

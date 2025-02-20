@@ -14,7 +14,7 @@ date: 2022-02-27 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":62,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="/img/posts/5-common-lawn-bowls-delivery-faults.jpg" alt="5 Common Delivery Faults And How To Fix Them" class="wp-image-62"/></figure>
+<figure class="wp-block-image size-full"><img src="{{ '/img/posts/5-common-lawn-bowls-delivery-faults.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="5 Common Delivery Faults And How To Fix Them" class="wp-image-62"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

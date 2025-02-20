@@ -14,7 +14,7 @@ date: 2021-02-12 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":185,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="/img/posts/best-lawn-bowls-player-of-all-time.jpg" alt="Who is the Best Lawn Bowler Of All Time? | A Full Guide and WINNER" class="wp-image-185"/></figure>
+<figure class="wp-block-image size-full"><img src="{{ '/img/posts/best-lawn-bowls-player-of-all-time.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Who is the Best Lawn Bowler Of All Time? | A Full Guide and WINNER" class="wp-image-185"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

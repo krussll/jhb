@@ -14,7 +14,7 @@ date: 2021-01-28 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":194,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="/img/posts/is-lawn-bowls-a-dying-sport.jpeg" alt="Lawn Bowls Is A Dying Sport. How Can It Be Saved?" class="wp-image-194"/></figure>
+<figure class="wp-block-image size-full"><img src="{{ '/img/posts/is-lawn-bowls-a-dying-sport.jpeg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Lawn Bowls Is A Dying Sport. How Can It Be Saved?" class="wp-image-194"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading -->
@@ -106,7 +106,7 @@ date: 2021-01-28 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="/img/posts/cramlington-bowling-club-lawn-bowls-northumberland-header2-250px.jpg" alt="cramlington bowls club closes for 2020 season"/></a></figure>
+<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/cramlington-bowling-club-lawn-bowls-northumberland-header2-250px.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="cramlington bowls club closes for 2020 season"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:quote -->

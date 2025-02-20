@@ -14,7 +14,7 @@ date: 2022-04-05 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":955,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="/img/posts/Building-The-Head-In-Lawn-Bowls.jpg" alt="Building The Head In Lawn Bowls" class="wp-image-955"/></figure>
+<figure class="wp-block-image size-full"><img src="{{ '/img/posts/Building-The-Head-In-Lawn-Bowls.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Building The Head In Lawn Bowls" class="wp-image-955"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -74,7 +74,7 @@ date: 2022-04-05 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":961,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/img/posts/building-the-head-step-1-1024x576.jpg" alt="" class="wp-image-961"/></figure>
+<figure class="wp-block-image size-large"><img src="{{ '/img/posts/building-the-head-step-1-1024x576.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-961"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -106,7 +106,7 @@ date: 2022-04-05 13:00:00 -0400
 <!-- /wp:list -->
 
 <!-- wp:image {"id":962,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/img/posts/building-the-head-step-2-1024x576.jpg" alt="" class="wp-image-962"/></figure>
+<figure class="wp-block-image size-large"><img src="{{ '/img/posts/building-the-head-step-2-1024x576.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-962"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -130,7 +130,7 @@ date: 2022-04-05 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":963,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/img/posts/building-the-head-step-3-1024x576.jpg" alt="" class="wp-image-963"/></figure>
+<figure class="wp-block-image size-large"><img src="{{ '/img/posts/building-the-head-step-3-1024x576.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-963"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -150,7 +150,7 @@ date: 2022-04-05 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":964,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/img/posts/building-the-head-step-4-1024x576.jpg" alt="" class="wp-image-964"/></figure>
+<figure class="wp-block-image size-large"><img src="{{ '/img/posts/building-the-head-step-4-1024x576.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-964"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

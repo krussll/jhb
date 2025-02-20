@@ -14,7 +14,7 @@ date: 2022-06-10 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":1200,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="/img/posts/Lawn-Bowls-Forehand-Or-Backhand.jpg" alt="" class="wp-image-1200"/></figure>
+<figure class="wp-block-image size-full"><img src="{{ '/img/posts/Lawn-Bowls-Forehand-Or-Backhand.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-1200"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

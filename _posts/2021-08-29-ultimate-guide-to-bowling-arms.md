@@ -14,7 +14,7 @@ date: 2021-08-29 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":109,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="/img/posts/ultimate-guide-to-bowling-arms.jpg" alt="The Ultimate Guide To Lawn Bowling Arms" class="wp-image-109"/></figure>
+<figure class="wp-block-image size-full"><img src="{{ '/img/posts/ultimate-guide-to-bowling-arms.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="The Ultimate Guide To Lawn Bowling Arms" class="wp-image-109"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

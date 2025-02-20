@@ -14,7 +14,7 @@ date: 2021-07-13 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":119,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="/img/posts/common-lawn-bowls-injuries.jpg" alt="4 Common Injuries In Lawn Bowls - And How To Prevent Them" class="wp-image-119"/></figure>
+<figure class="wp-block-image size-full"><img src="{{ '/img/posts/common-lawn-bowls-injuries.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="4 Common Injuries In Lawn Bowls - And How To Prevent Them" class="wp-image-119"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

@@ -14,7 +14,7 @@ date: 2022-06-07 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":1124,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="/img/posts/Lawn-Bowls-Bowling-Aids.jpg" alt="" class="wp-image-1124"/></figure>
+<figure class="wp-block-image size-full"><img src="{{ '/img/posts/Lawn-Bowls-Bowling-Aids.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-1124"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -30,7 +30,7 @@ date: 2022-06-07 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":1118,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="/img/posts/Hens-bowls-and-jack-lifter.jpg.webp" alt="" class="wp-image-1118"/></figure>
+<figure class="wp-block-image size-full"><img src="{{ '/img/posts/Hens-bowls-and-jack-lifter.jpg.webp' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-1118"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -58,7 +58,7 @@ date: 2022-06-07 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":1119,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="/img/posts/Using-walking-stick-with-large-ferrule-to-aid-stability.jpg" alt="" class="wp-image-1119"/></figure>
+<figure class="wp-block-image size-full"><img src="{{ '/img/posts/Using-walking-stick-with-large-ferrule-to-aid-stability.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-1119"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -86,7 +86,7 @@ date: 2022-06-07 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":1121,"width":512,"height":397,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large is-resized"><img src="/img/posts/34376Team-Announcement-Photo-1159x898-1-1024x793.jpg" alt="" class="wp-image-1121" width="512" height="397"/></figure>
+<figure class="wp-block-image size-large is-resized"><img src="{{ '/img/posts/34376Team-Announcement-Photo-1159x898-1-1024x793.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-1121" width="512" height="397"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

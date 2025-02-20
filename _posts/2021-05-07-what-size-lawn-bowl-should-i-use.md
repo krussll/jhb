@@ -14,7 +14,7 @@ date: 2021-05-07 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":141,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="/img/posts/what-size-lawn-bowl-should-I-use.jpg" alt="What Size Lawn Bowl Should I Use? | A Helpful Guide" class="wp-image-141"/></figure>
+<figure class="wp-block-image size-full"><img src="{{ '/img/posts/what-size-lawn-bowl-should-I-use.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="What Size Lawn Bowl Should I Use? | A Helpful Guide" class="wp-image-141"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

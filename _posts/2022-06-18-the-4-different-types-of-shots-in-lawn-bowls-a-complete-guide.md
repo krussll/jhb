@@ -14,7 +14,7 @@ date: 2022-06-18 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":1225,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="/img/posts/The-4-Different-Types-Of-Shots-In-Lawn-Bowls.jpg" alt="" class="wp-image-1225"/></figure>
+<figure class="wp-block-image size-full"><img src="{{ '/img/posts/The-4-Different-Types-Of-Shots-In-Lawn-Bowls.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-1225"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

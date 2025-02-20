@@ -14,7 +14,7 @@ date: 2022-04-01 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":680,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="/img/posts/Best-lawn-bowls-for-skips.jpg" alt="" class="wp-image-680"/></figure>
+<figure class="wp-block-image size-full"><img src="{{ '/img/posts/Best-lawn-bowls-for-skips.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-680"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

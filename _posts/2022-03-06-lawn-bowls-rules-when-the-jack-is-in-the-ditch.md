@@ -14,7 +14,7 @@ date: 2022-03-06 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":569,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="/img/posts/Lawn-Bowls-Rules-When-The-Jack-Is-In-The-Ditch.jpg" alt="Lawn Bowls Rules When The Jack Is In The Ditch" class="wp-image-569"/></figure>
+<figure class="wp-block-image size-full"><img src="{{ '/img/posts/Lawn-Bowls-Rules-When-The-Jack-Is-In-The-Ditch.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Lawn Bowls Rules When The Jack Is In The Ditch" class="wp-image-569"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -62,7 +62,7 @@ date: 2022-03-06 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":571,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="/img/posts/Jack-Marker-on-bank-edited.jpg" alt="" class="wp-image-571"/></figure>
+<figure class="wp-block-image size-full"><img src="{{ '/img/posts/Jack-Marker-on-bank-edited.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-571"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

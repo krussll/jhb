@@ -14,7 +14,7 @@ date: 2022-03-06 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":511,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="/img/posts/How-Do-You-Judge-The-Length-Of-A-Jack-In-Lawn-Bowls.jpg" alt="How Do You Judge The Length Of A Jack In Lawn Bowls" class="wp-image-511"/></figure>
+<figure class="wp-block-image size-full"><img src="{{ '/img/posts/How-Do-You-Judge-The-Length-Of-A-Jack-In-Lawn-Bowls.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="How Do You Judge The Length Of A Jack In Lawn Bowls" class="wp-image-511"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

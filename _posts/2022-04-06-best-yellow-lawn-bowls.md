@@ -14,7 +14,7 @@ date: 2022-04-06 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":870,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="/img/posts/best-yellow-lawn-bowls.jpg" alt="" class="wp-image-870"/></figure>
+<figure class="wp-block-image size-full"><img src="{{ '/img/posts/best-yellow-lawn-bowls.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-870"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -50,7 +50,7 @@ date: 2022-04-06 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":848,"width":217,"height":206,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full is-resized"><img src="/img/posts/taylor-ace-lemon-sherbert.png" alt="" class="wp-image-848" width="217" height="206"/></figure>
+<figure class="wp-block-image size-full is-resized"><img src="{{ '/img/posts/taylor-ace-lemon-sherbert.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-848" width="217" height="206"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -66,7 +66,7 @@ date: 2022-04-06 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":849,"width":217,"height":206,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full is-resized"><img src="/img/posts/taylor-international-yellow-white.png" alt="" class="wp-image-849" width="217" height="206"/></figure>
+<figure class="wp-block-image size-full is-resized"><img src="{{ '/img/posts/taylor-international-yellow-white.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-849" width="217" height="206"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -96,19 +96,19 @@ date: 2022-04-06 13:00:00 -0400
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image -->
-<figure class="wp-block-image"><img src="/img/posts/Aero-Defence-Calypso_485x.png?v=1583251331" alt="Aero Defiance Bowls Set – Potters Bowls"/></figure>
+<figure class="wp-block-image"><img src="{{ '/img/posts/Aero-Defence-Calypso_485x.png?v=1583251331' | prepend: site.baseurl | replace: '//', '/' }}" alt="Aero Defiance Bowls Set – Potters Bowls"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image -->
-<figure class="wp-block-image"><img src="/img/posts/Aero-Sonic-SurfnSki_300x300.png?v=1583251593" alt="Aero Sonic Bowls – Potters Bowls"/></figure>
+<figure class="wp-block-image"><img src="{{ '/img/posts/Aero-Sonic-SurfnSki_300x300.png?v=1583251593' | prepend: site.baseurl | replace: '//', '/' }}" alt="Aero Sonic Bowls – Potters Bowls"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image -->
-<figure class="wp-block-image"><img src="/img/posts/aero-defiance-solar-flare-main-image_1.png" alt="Aero Bowls | Aero Lawn Bowls for Sale UK"/></figure>
+<figure class="wp-block-image"><img src="{{ '/img/posts/aero-defiance-solar-flare-main-image_1.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="Aero Bowls | Aero Lawn Bowls for Sale UK"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
@@ -116,19 +116,19 @@ date: 2022-04-06 13:00:00 -0400
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image -->
-<figure class="wp-block-image"><img src="/img/posts/4fde44983c6870ede6dba2f61bb15e82--aero-lawn.jpg" alt="Pin on Lawn bowls"/></figure>
+<figure class="wp-block-image"><img src="{{ '/img/posts/4fde44983c6870ede6dba2f61bb15e82--aero-lawn.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Pin on Lawn bowls"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image -->
-<figure class="wp-block-image"><img src="/img/posts/13564e1620a2df461c3fdc30fcacd841--aero-revolutions.jpg" alt="Pin on Lawn bowls"/></figure>
+<figure class="wp-block-image"><img src="{{ '/img/posts/13564e1620a2df461c3fdc30fcacd841--aero-revolutions.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Pin on Lawn bowls"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image -->
-<figure class="wp-block-image"><img src="/img/posts/267cdc11df670f0b8b64363204cc1bc0.jpg" alt="New Color from Aero | Lawn bowls, Bowl, New color"/></figure>
+<figure class="wp-block-image"><img src="{{ '/img/posts/267cdc11df670f0b8b64363204cc1bc0.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="New Color from Aero | Lawn bowls, Bowl, New color"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
@@ -156,13 +156,13 @@ date: 2022-04-06 13:00:00 -0400
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image -->
-<figure class="wp-block-image"><img src="/img/posts/T170F-L.jpg" alt="Henselite Dreamline XG Resort Size 2 Heavy Gripped Yellow/Mid Blue/Lime -  Dreamline XG - Henselite - Lawn Bowls"/></figure>
+<figure class="wp-block-image"><img src="{{ '/img/posts/T170F-L.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Henselite Dreamline XG Resort Size 2 Heavy Gripped Yellow/Mid Blue/Lime -  Dreamline XG - Henselite - Lawn Bowls"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image -->
-<figure class="wp-block-image"><img src="/img/posts/Gold_Coast_Front_Dreamline_XG_Ref_wBG_530x@2x.jpg?v=1496373520" alt="Gold Coast Suns – Henselite AFL"/></figure>
+<figure class="wp-block-image"><img src="{{ '/img/posts/Gold_Coast_Front_Dreamline_XG_Ref_wBG_530x@2x.jpg?v=1496373520' | prepend: site.baseurl | replace: '//', '/' }}" alt="Gold Coast Suns – Henselite AFL"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
@@ -184,7 +184,7 @@ date: 2022-04-06 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"width":270,"height":270} -->
-<figure class="wp-block-image is-resized"><img src="/img/posts/2983912949.jpg" alt="Handpainted Bowls – British Racing Green (Set of 4)" width="270" height="270"/></figure>
+<figure class="wp-block-image is-resized"><img src="{{ '/img/posts/2983912949.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Handpainted Bowls – British Racing Green (Set of 4)" width="270" height="270"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading -->

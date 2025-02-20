@@ -14,7 +14,7 @@ date: 2020-11-10 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":200,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/img/posts/short-mat-bowls-rules-1024x576.jpeg" alt="Rules Of Short Mat Bowls | A Helpful Guide" class="wp-image-200"/></figure>
+<figure class="wp-block-image size-large"><img src="{{ '/img/posts/short-mat-bowls-rules-1024x576.jpeg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Rules Of Short Mat Bowls | A Helpful Guide" class="wp-image-200"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading -->

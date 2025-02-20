@@ -14,7 +14,7 @@ date: 2021-05-12 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":134,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="/img/posts/sledging-in-lawn-bowls.jpg" alt="Sledging In Lawn Bowls. Is It Right?" class="wp-image-134"/></figure>
+<figure class="wp-block-image size-full"><img src="{{ '/img/posts/sledging-in-lawn-bowls.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Sledging In Lawn Bowls. Is It Right?" class="wp-image-134"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading -->

@@ -14,7 +14,7 @@ date: 2022-05-21 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":1077,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="/img/posts/Price-Of-Aero-Lawn-Bowls.jpg" alt="Price Of Aero Lawn Bowls" class="wp-image-1077"/></figure>
+<figure class="wp-block-image size-full"><img src="{{ '/img/posts/Price-Of-Aero-Lawn-Bowls.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Price Of Aero Lawn Bowls" class="wp-image-1077"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

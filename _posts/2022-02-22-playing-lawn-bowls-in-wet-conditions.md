@@ -14,7 +14,7 @@ date: 2022-02-22 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":20,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="/img/posts/playing-lawn-bowls-in-wet-conditions.jpg" alt="The Ultimate Guide To Playing Lawn Bowls In Wet Conditions" class="wp-image-20"/></figure>
+<figure class="wp-block-image size-full"><img src="{{ '/img/posts/playing-lawn-bowls-in-wet-conditions.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="The Ultimate Guide To Playing Lawn Bowls In Wet Conditions" class="wp-image-20"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -150,7 +150,7 @@ date: 2022-02-22 13:00:00 -0400
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"align":"center","width":283,"height":189,"linkDestination":"custom"} -->
-<div class="wp-block-image"><figure class="aligncenter is-resized"><a href="https://camo.githubusercontent.com/93e09667f6caf0aa087a8b583cbdd47b52155740b324333f3d83d1781ccc5655/68747470733a2f2f7777772e6a616d657367617264656e736c62632e63612f496d616765732f437261646c652d477269702e6a7067" target="_blank" rel="noreferrer noopener"><img src="/img/posts/68747470733a2f2f7777772e6a616d657367617264656e736c62632e63612f496d616765732f437261646c652d477269702e6a7067" alt="" width="283" height="189"/></a></figure></div>
+<div class="wp-block-image"><figure class="aligncenter is-resized"><a href="https://camo.githubusercontent.com/93e09667f6caf0aa087a8b583cbdd47b52155740b324333f3d83d1781ccc5655/68747470733a2f2f7777772e6a616d657367617264656e736c62632e63612f496d616765732f437261646c652d477269702e6a7067" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/68747470733a2f2f7777772e6a616d657367617264656e736c62632e63612f496d616765732f437261646c652d477269702e6a7067' | prepend: site.baseurl | replace: '//', '/' }}" alt="" width="283" height="189"/></a></figure></div>
 <!-- /wp:image --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->

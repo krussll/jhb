@@ -14,7 +14,7 @@ date: 2022-02-24 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":67,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="/img/posts/5-fundamental-ways-to-improve-your-lawn-bowls-delivery.jpg" alt="5 Fundamental Ways To Boost Your Lawn Bowls Delivery" class="wp-image-67"/></figure>
+<figure class="wp-block-image size-full"><img src="{{ '/img/posts/5-fundamental-ways-to-improve-your-lawn-bowls-delivery.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="5 Fundamental Ways To Boost Your Lawn Bowls Delivery" class="wp-image-67"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

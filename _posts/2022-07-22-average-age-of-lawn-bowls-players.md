@@ -14,7 +14,7 @@ date: 2022-07-22 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":1401,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="/img/posts/Average-Age-Of-Lawn-Bowls-Players.jpg" alt="" class="wp-image-1401"/></figure>
+<figure class="wp-block-image size-full"><img src="{{ '/img/posts/Average-Age-Of-Lawn-Bowls-Players.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-1401"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

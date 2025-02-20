@@ -14,7 +14,7 @@ date: 2022-06-07 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":1133,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="/img/posts/Best-Crown-Green-Bowls-for-Beginners.jpg" alt="" class="wp-image-1133"/></figure>
+<figure class="wp-block-image size-full"><img src="{{ '/img/posts/Best-Crown-Green-Bowls-for-Beginners.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-1133"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -30,7 +30,7 @@ date: 2022-06-07 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:image -->
-<figure class="wp-block-image"><img src="/img/posts/9UUadFHvGfv_sK8Dp4udZCMGEmWDr87elIe9NkG8Ujil0Ii4cJKdCOMbpg7foIE9joQ8lUXLinSqBCqBSayhM7l7jHT3djcKYVNDKk_xVwgY0BtX5_rNmX5P5ltwg6X88Q2Zu7B4F6ovl1DW" alt=""/></figure>
+<figure class="wp-block-image"><img src="{{ '/img/posts/9UUadFHvGfv_sK8Dp4udZCMGEmWDr87elIe9NkG8Ujil0Ii4cJKdCOMbpg7foIE9joQ8lUXLinSqBCqBSayhM7l7jHT3djcKYVNDKk_xVwgY0BtX5_rNmX5P5ltwg6X88Q2Zu7B4F6ovl1DW' | prepend: site.baseurl | replace: '//', '/' }}" alt=""/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -82,7 +82,7 @@ date: 2022-06-07 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:image -->
-<figure class="wp-block-image"><img src="/img/posts/tbp77ONShXNEq_RlNN3px79IrUbNzF53T2WrI0VV0vQBzVUJFgbNlNbmGFGeiJnqX0THG0tCvzRekIh533_lqxkVTb7VRvwlPWFyWjeL3UEGsPmT4OMNGm_2yoGD9pkGWGb2QabRejqTb19q" alt=""/></figure>
+<figure class="wp-block-image"><img src="{{ '/img/posts/tbp77ONShXNEq_RlNN3px79IrUbNzF53T2WrI0VV0vQBzVUJFgbNlNbmGFGeiJnqX0THG0tCvzRekIh533_lqxkVTb7VRvwlPWFyWjeL3UEGsPmT4OMNGm_2yoGD9pkGWGb2QabRejqTb19q' | prepend: site.baseurl | replace: '//', '/' }}" alt=""/></figure>
 <!-- /wp:image -->
 
 <!-- wp:embed {"url":"https://www.mastersofgames.com/cat/bowls/drakes-pride-bowls-crown-green.htm"} -->

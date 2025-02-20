@@ -14,7 +14,7 @@ date: 2022-03-06 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":520,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="/img/posts/Is-Lawn-Bowls-Dangerous.jpg" alt="Is Lawn Bowls Dangerous?" class="wp-image-520"/></figure>
+<figure class="wp-block-image size-full"><img src="{{ '/img/posts/Is-Lawn-Bowls-Dangerous.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Is Lawn Bowls Dangerous?" class="wp-image-520"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

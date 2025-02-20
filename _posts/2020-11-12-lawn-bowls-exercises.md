@@ -14,7 +14,7 @@ date: 2020-11-12 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":197,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="/img/posts/lawn-bowls-exercises.jpeg" alt="Lawn Bowls Exercises. Improve Your Technical, Physical, and Tactical Skills | A Helpful Guide" class="wp-image-197"/></figure>
+<figure class="wp-block-image size-full"><img src="{{ '/img/posts/lawn-bowls-exercises.jpeg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Lawn Bowls Exercises. Improve Your Technical, Physical, and Tactical Skills | A Helpful Guide" class="wp-image-197"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

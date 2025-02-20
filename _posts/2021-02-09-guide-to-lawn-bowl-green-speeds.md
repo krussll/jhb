@@ -14,7 +14,7 @@ date: 2021-02-09 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":188,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="/img/posts/lawn-bowls-green-speed.jpg" alt="Guide to Lawn Bowl Green Speed | What is it? And how is it measured?" class="wp-image-188"/></figure>
+<figure class="wp-block-image size-full"><img src="{{ '/img/posts/lawn-bowls-green-speed.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Guide to Lawn Bowl Green Speed | What is it? And how is it measured?" class="wp-image-188"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

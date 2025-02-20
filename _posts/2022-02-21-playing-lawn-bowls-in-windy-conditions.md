@@ -14,7 +14,7 @@ date: 2022-02-21 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":80,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="/img/posts/playing-lawn-bowls-in-windy-conditions.jpg" alt="Playing lawn bowls in windy conditions" class="wp-image-80"/></figure>
+<figure class="wp-block-image size-full"><img src="{{ '/img/posts/playing-lawn-bowls-in-windy-conditions.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Playing lawn bowls in windy conditions" class="wp-image-80"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

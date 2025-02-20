@@ -14,7 +14,7 @@ date: 2022-04-22 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":818,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="/img/posts/Lawn-Bowls-Heavy-Or-Medium.jpg" alt="Lawn Bowls Heavy Or Medium" class="wp-image-818"/></figure>
+<figure class="wp-block-image size-full"><img src="{{ '/img/posts/Lawn-Bowls-Heavy-Or-Medium.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Lawn Bowls Heavy Or Medium" class="wp-image-818"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

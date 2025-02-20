@@ -14,7 +14,7 @@ date: 2022-05-16 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":1021,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="/img/posts/How-to-Choose-Petanque-Boules.jpg" alt="" class="wp-image-1021"/></figure>
+<figure class="wp-block-image size-full"><img src="{{ '/img/posts/How-to-Choose-Petanque-Boules.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-1021"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

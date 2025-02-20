@@ -14,7 +14,7 @@ date: 2021-05-19 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":125,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="/img/posts/how-lawn-bowls-are-made.jpg" alt="How Lawn Bowls Are Made | A Simple Guide" class="wp-image-125"/></figure>
+<figure class="wp-block-image size-full"><img src="{{ '/img/posts/how-lawn-bowls-are-made.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="How Lawn Bowls Are Made | A Simple Guide" class="wp-image-125"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading -->

@@ -14,7 +14,7 @@ date: 2021-02-12 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":182,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="/img/posts/commonwealth-games-2022-lawn-bowls.jpg" alt="Lawn Bowls At The Commonwealth Games 2022 | A Simple Illustrated Guide" class="wp-image-182"/></figure>
+<figure class="wp-block-image size-full"><img src="{{ '/img/posts/commonwealth-games-2022-lawn-bowls.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Lawn Bowls At The Commonwealth Games 2022 | A Simple Illustrated Guide" class="wp-image-182"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

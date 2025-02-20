@@ -14,7 +14,7 @@ date: 2021-04-30 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":156,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="/img/posts/mental-training-in-lawn-bowls.jpg" alt="Ultimate Guide To Mental Training In Lawn Bowls | A Helpful Illustrated Guide" class="wp-image-156"/></figure>
+<figure class="wp-block-image size-full"><img src="{{ '/img/posts/mental-training-in-lawn-bowls.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Ultimate Guide To Mental Training In Lawn Bowls | A Helpful Illustrated Guide" class="wp-image-156"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

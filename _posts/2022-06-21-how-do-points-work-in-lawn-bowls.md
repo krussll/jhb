@@ -14,7 +14,7 @@ date: 2022-06-21 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":1238,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="/img/posts/How-Do-Points-Work-In-Lawn-Bowls.jpg" alt="" class="wp-image-1238"/></figure>
+<figure class="wp-block-image size-full"><img src="{{ '/img/posts/How-Do-Points-Work-In-Lawn-Bowls.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-1238"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -38,7 +38,7 @@ date: 2022-06-21 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":962,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/img/posts/building-the-head-step-2-1024x576.jpg" alt="" class="wp-image-962"/><figcaption class="wp-element-caption">An example of how a game is scored</figcaption></figure>
+<figure class="wp-block-image size-large"><img src="{{ '/img/posts/building-the-head-step-2-1024x576.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-962"/><figcaption class="wp-element-caption">An example of how a game is scored</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -92,7 +92,7 @@ date: 2022-06-21 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":1237,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="/img/posts/image.png" alt="" class="wp-image-1237"/><figcaption class="wp-element-caption">Examples of lawn bowls measures</figcaption></figure>
+<figure class="wp-block-image size-full"><img src="{{ '/img/posts/image.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-1237"/><figcaption class="wp-element-caption">Examples of lawn bowls measures</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

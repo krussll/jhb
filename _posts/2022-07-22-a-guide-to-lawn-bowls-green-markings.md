@@ -14,7 +14,7 @@ date: 2022-07-22 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":1404,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="/img/posts/A-Guide-To-Lawn-Bowls-Green-Markings.jpg" alt="" class="wp-image-1404"/></figure>
+<figure class="wp-block-image size-full"><img src="{{ '/img/posts/A-Guide-To-Lawn-Bowls-Green-Markings.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-1404"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

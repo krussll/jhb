@@ -18,7 +18,7 @@ date: 2022-05-23 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":1081,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="/img/posts/How-To-Improve-Grip-On-Your-Lawn-Bowls.jpg" alt="How To Improve Grip On Your Lawn Bowls" class="wp-image-1081"/></figure>
+<figure class="wp-block-image size-full"><img src="{{ '/img/posts/How-To-Improve-Grip-On-Your-Lawn-Bowls.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="How To Improve Grip On Your Lawn Bowls" class="wp-image-1081"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

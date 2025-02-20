@@ -14,7 +14,7 @@ date: 2022-02-22 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":76,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="/img/posts/are-short-mat-bowls-the-same-as-lawn-bowls.jpg" alt="Are Short Mat Bowls Different To Lawn Bowls?" class="wp-image-76"/></figure>
+<figure class="wp-block-image size-full"><img src="{{ '/img/posts/are-short-mat-bowls-the-same-as-lawn-bowls.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Are Short Mat Bowls Different To Lawn Bowls?" class="wp-image-76"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
