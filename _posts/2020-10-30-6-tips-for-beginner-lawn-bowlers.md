@@ -14,7 +14,7 @@ date: 2020-10-30 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":216,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="/img/posts/tips-for-beginner-bowlers.jpeg" alt="6 Tips For Beginner Lawn Bowlers" class="wp-image-216"/></figure>
+<figure class="wp-block-image size-full"><img src="{{ '/img/posts/tips-for-beginner-bowlers.jpeg' | prepend: site.baseurl | replace: '//', '/' }}" alt="6 Tips For Beginner Lawn Bowlers" class="wp-image-216"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

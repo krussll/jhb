@@ -14,7 +14,7 @@ date: 2019-07-14 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":317,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="/img/posts/using-aiming-points-inlawn-bowls.jpg" alt="Using aiming points in lawn bowls" class="wp-image-317"/></figure>
+<figure class="wp-block-image size-full"><img src="{{ '/img/posts/using-aiming-points-inlawn-bowls.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Using aiming points in lawn bowls" class="wp-image-317"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -108,7 +108,7 @@ date: 2019-07-14 13:00:00 -0400
 <!-- /wp:list -->
 
 <!-- wp:image {"id":1651,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="/img/posts/all-aiming-points.jpg" alt="Lawn bowls aiming points" class="wp-image-1651"/><figcaption class="wp-element-caption"><a href="https://howtoplaysport.com/lawn-bowls/using-aiming-points-in-lawn-bowls">https://howtoplaysport.com/lawn-bowls/using-aiming-points-in-lawn-bowls</a></figcaption></figure>
+<figure class="wp-block-image size-full"><img src="{{ '/img/posts/all-aiming-points.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Lawn bowls aiming points" class="wp-image-1651"/><figcaption class="wp-element-caption"><a href="https://howtoplaysport.com/lawn-bowls/using-aiming-points-in-lawn-bowls">https://howtoplaysport.com/lawn-bowls/using-aiming-points-in-lawn-bowls</a></figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading -->

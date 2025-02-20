@@ -14,7 +14,7 @@ date: 2019-04-30 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":359,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="/img/posts/lawn-bowls-tips-for-leads.jpg" alt="Lawn bowls tips for leads" class="wp-image-359"/></figure>
+<figure class="wp-block-image size-full"><img src="{{ '/img/posts/lawn-bowls-tips-for-leads.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Lawn bowls tips for leads" class="wp-image-359"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

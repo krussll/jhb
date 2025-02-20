@@ -14,7 +14,7 @@ date: 2019-04-09 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":365,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="/img/posts/best-lawn-bowls-for-beginners.jpg" alt="Best lawn bowls for beginners" class="wp-image-365"/></figure>
+<figure class="wp-block-image size-full"><img src="{{ '/img/posts/best-lawn-bowls-for-beginners.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Best lawn bowls for beginners" class="wp-image-365"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading -->

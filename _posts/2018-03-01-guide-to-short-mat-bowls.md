@@ -14,7 +14,7 @@ date: 2018-03-01 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":374,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="/img/posts/guide-to-short-mat-bowls.jpg" alt="Guide to short mat bowls" class="wp-image-374"/></figure>
+<figure class="wp-block-image size-full"><img src="{{ '/img/posts/guide-to-short-mat-bowls.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Guide to short mat bowls" class="wp-image-374"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

@@ -14,7 +14,7 @@ date: 2019-04-24 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":362,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="/img/posts/a-guide-to-lawn-bowls-etiquette.jpg" alt="Lawn bowls rules and etiquette" class="wp-image-362"/></figure>
+<figure class="wp-block-image size-full"><img src="{{ '/img/posts/a-guide-to-lawn-bowls-etiquette.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Lawn bowls rules and etiquette" class="wp-image-362"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -46,7 +46,7 @@ date: 2019-04-24 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="/img/posts/lawn_bowls_etiquette_one.jpg" alt=""/></a></figure>
+<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/lawn_bowls_etiquette_one.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt=""/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"level":3} -->
@@ -74,7 +74,7 @@ date: 2019-04-24 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="/img/posts/lawn_bowls_etiquette_two.jpg" alt=""/></a></figure>
+<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/lawn_bowls_etiquette_two.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt=""/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"level":3} -->
@@ -102,7 +102,7 @@ date: 2019-04-24 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="/img/posts/lawn_bowls_etiquette_three.jpg" alt=""/></a></figure>
+<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/lawn_bowls_etiquette_three.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt=""/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"level":3} -->
@@ -130,7 +130,7 @@ date: 2019-04-24 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="/img/posts/lawn_bowls_etiquette_four.jpg" alt=""/></a></figure>
+<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/lawn_bowls_etiquette_four.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt=""/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading -->

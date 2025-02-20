@@ -14,7 +14,7 @@ date: 2019-05-01 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":355,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="/img/posts/best-lawn-bowls-bags.jpg" alt="Best lawn bowls bags" class="wp-image-355"/></figure>
+<figure class="wp-block-image size-full"><img src="{{ '/img/posts/best-lawn-bowls-bags.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Best lawn bowls bags" class="wp-image-355"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading -->

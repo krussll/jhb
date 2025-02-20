@@ -14,7 +14,7 @@ date: 2020-07-11 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":275,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="/img/posts/best-ladies-bowls-shoes.jpg" alt="Best Lawn Bowling Shoes For Ladies" class="wp-image-275"/></figure>
+<figure class="wp-block-image size-full"><img src="{{ '/img/posts/best-ladies-bowls-shoes.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Best Lawn Bowling Shoes For Ladies" class="wp-image-275"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading -->

@@ -14,7 +14,7 @@ date: 2021-04-27 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":167,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="/img/posts/best-lawn-bowls-grip.jpg" alt="The Best Lawn Bowl Grips" class="wp-image-167"/></figure>
+<figure class="wp-block-image size-full"><img src="{{ '/img/posts/best-lawn-bowls-grip.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="The Best Lawn Bowl Grips" class="wp-image-167"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -114,7 +114,7 @@ date: 2021-04-27 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:image {"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="https://camo.githubusercontent.com/504ded06a35772d1c80c27d3ac3c08b9e04f227c6d5279fe5ac3b7e0ea71267a/68747470733a2f2f63726f776e677265656e6b696e672e66696c65732e776f726470726573732e636f6d2f323031322f30392f636c61772d677269702d636f6d62696e65642e6a7067" target="_blank" rel="noreferrer noopener"><img src="/img/posts/68747470733a2f2f63726f776e677265656e6b696e672e66696c65732e776f726470726573732e636f6d2f323031322f30392f636c61772d677269702d636f6d62696e65642e6a7067" alt=""/></a></figure>
+<figure class="wp-block-image"><a href="https://camo.githubusercontent.com/504ded06a35772d1c80c27d3ac3c08b9e04f227c6d5279fe5ac3b7e0ea71267a/68747470733a2f2f63726f776e677265656e6b696e672e66696c65732e776f726470726573732e636f6d2f323031322f30392f636c61772d677269702d636f6d62696e65642e6a7067" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/68747470733a2f2f63726f776e677265656e6b696e672e66696c65732e776f726470726573732e636f6d2f323031322f30392f636c61772d677269702d636f6d62696e65642e6a7067' | prepend: site.baseurl | replace: '//', '/' }}" alt=""/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -130,7 +130,7 @@ date: 2021-04-27 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="https://camo.githubusercontent.com/b9fc42ac3346de14d76014d54b6546c0fad2101889ebda522de2bfd72e92ee24/68747470733a2f2f63726f776e677265656e6b696e672e66696c65732e776f726470726573732e636f6d2f323031322f30392f637261646c652d677269702d636f6d62696e65642e6a7067" target="_blank" rel="noreferrer noopener"><img src="/img/posts/68747470733a2f2f63726f776e677265656e6b696e672e66696c65732e776f726470726573732e636f6d2f323031322f30392f637261646c652d677269702d636f6d62696e65642e6a7067" alt=""/></a></figure>
+<figure class="wp-block-image"><a href="https://camo.githubusercontent.com/b9fc42ac3346de14d76014d54b6546c0fad2101889ebda522de2bfd72e92ee24/68747470733a2f2f63726f776e677265656e6b696e672e66696c65732e776f726470726573732e636f6d2f323031322f30392f637261646c652d677269702d636f6d62696e65642e6a7067" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/68747470733a2f2f63726f776e677265656e6b696e672e66696c65732e776f726470726573732e636f6d2f323031322f30392f637261646c652d677269702d636f6d62696e65642e6a7067' | prepend: site.baseurl | replace: '//', '/' }}" alt=""/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"level":3} -->
@@ -146,7 +146,7 @@ date: 2021-04-27 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="https://camo.githubusercontent.com/c9002997a38dfb2dbfba1fb79f61990245a8c595e3df17edac45c69b14b98b1f/68747470733a2f2f69312e77702e636f6d2f7777772e77696e6e696e67626f776c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031322f30382f332d322d352e6a70673f773d373130" target="_blank" rel="noreferrer noopener"><img src="/img/posts/68747470733a2f2f69312e77702e636f6d2f7777772e77696e6e696e67626f776c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031322f30382f332d322d352e6a70673f773d373130" alt=""/></a></figure>
+<figure class="wp-block-image"><a href="https://camo.githubusercontent.com/c9002997a38dfb2dbfba1fb79f61990245a8c595e3df17edac45c69b14b98b1f/68747470733a2f2f69312e77702e636f6d2f7777772e77696e6e696e67626f776c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031322f30382f332d322d352e6a70673f773d373130" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/68747470733a2f2f69312e77702e636f6d2f7777772e77696e6e696e67626f776c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031322f30382f332d322d352e6a70673f773d373130' | prepend: site.baseurl | replace: '//', '/' }}" alt=""/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading -->

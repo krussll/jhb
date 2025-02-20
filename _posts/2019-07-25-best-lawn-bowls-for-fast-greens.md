@@ -14,7 +14,7 @@ date: 2019-07-25 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":314,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="/img/posts/best-lawn-bowls-for-fast-greens.jpg" alt="Best Lawn Bowls For Fast Greens" class="wp-image-314"/></figure>
+<figure class="wp-block-image size-full"><img src="{{ '/img/posts/best-lawn-bowls-for-fast-greens.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Best Lawn Bowls For Fast Greens" class="wp-image-314"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

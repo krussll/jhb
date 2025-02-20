@@ -14,7 +14,7 @@ date: 2020-07-01 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":279,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="/img/posts/best-lawn-bowls-grip-enhancers.jpg" alt="Best lawn bowls grip enhancers" class="wp-image-279"/></figure>
+<figure class="wp-block-image size-full"><img src="{{ '/img/posts/best-lawn-bowls-grip-enhancers.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Best lawn bowls grip enhancers" class="wp-image-279"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -66,7 +66,7 @@ date: 2020-07-01 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:image {"align":"right","linkDestination":"custom"} -->
-<div class="wp-block-image"><figure class="alignright"><a href="#" target="_blank" rel="noreferrer noopener"><img src="/img/posts/grip-it-lawn-bowls-wax.jpg" alt=""/></a></figure></div>
+<div class="wp-block-image"><figure class="alignright"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/grip-it-lawn-bowls-wax.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt=""/></a></figure></div>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -98,7 +98,7 @@ date: 2020-07-01 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:image {"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="/img/posts/grippo.jpg" alt=""/></a></figure>
+<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/grippo.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt=""/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -126,7 +126,7 @@ date: 2020-07-01 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:image {"align":"right","width":400,"height":400,"linkDestination":"custom"} -->
-<div class="wp-block-image"><figure class="alignright is-resized"><a href="#" target="_blank" rel="noreferrer noopener"><img src="/img/posts/crack-a-jack-lawn-bowls-wax.jpg" alt="" width="400" height="400"/></a></figure></div>
+<div class="wp-block-image"><figure class="alignright is-resized"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/crack-a-jack-lawn-bowls-wax.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" width="400" height="400"/></a></figure></div>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -150,7 +150,7 @@ date: 2020-07-01 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:image {"align":"right","width":780,"height":1040,"linkDestination":"custom"} -->
-<div class="wp-block-image"><figure class="alignright is-resized"><a href="#" target="_blank" rel="noreferrer noopener"><img src="/img/posts/bulldog.jpg" alt="" width="780" height="1040"/></a></figure></div>
+<div class="wp-block-image"><figure class="alignright is-resized"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/bulldog.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" width="780" height="1040"/></a></figure></div>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

@@ -14,7 +14,7 @@ date: 2019-04-05 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":368,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="/img/posts/world-bowls.jpg" alt="World Bowls" class="wp-image-368"/></figure>
+<figure class="wp-block-image size-full"><img src="{{ '/img/posts/world-bowls.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="World Bowls" class="wp-image-368"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

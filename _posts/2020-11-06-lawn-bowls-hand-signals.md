@@ -14,7 +14,7 @@ date: 2020-11-06 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":210,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="/img/posts/lawn-bowls-hand-signals.jpeg" alt="Lawn Bowls Hand Signals | A Helpful Illustrated Guide" class="wp-image-210"/></figure>
+<figure class="wp-block-image size-full"><img src="{{ '/img/posts/lawn-bowls-hand-signals.jpeg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Lawn Bowls Hand Signals | A Helpful Illustrated Guide" class="wp-image-210"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -86,7 +86,7 @@ date: 2020-11-06 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:image {"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="/img/posts/forehand.png" alt="lawn bowls hand signal for bowling on the forehand"/></a></figure>
+<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/forehand.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="lawn bowls hand signal for bowling on the forehand"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:quote -->
@@ -106,7 +106,7 @@ date: 2020-11-06 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:image {"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="/img/posts/backhand.png" alt="lawn bowls hand signal for  bowling on the backhand"/></a></figure>
+<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/backhand.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="lawn bowls hand signal for  bowling on the backhand"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:quote -->
@@ -126,7 +126,7 @@ date: 2020-11-06 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:image {"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="/img/posts/bowl-to-a-spot.png" alt="lawn bowls hand signal for bowling to a spot"/></a></figure>
+<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/bowl-to-a-spot.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="lawn bowls hand signal for bowling to a spot"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:quote -->
@@ -150,7 +150,7 @@ date: 2020-11-06 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:image {"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="/img/posts/our-bowl.png" alt="lawn bowls hand signal for indicating our bowl"/></a></figure>
+<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/our-bowl.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="lawn bowls hand signal for indicating our bowl"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:quote -->
@@ -170,7 +170,7 @@ date: 2020-11-06 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:image {"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="/img/posts/their-bowl.png" alt="lawn bowls hand signal for indicating their bowl"/></a></figure>
+<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/their-bowl.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="lawn bowls hand signal for indicating their bowl"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:quote -->
@@ -190,7 +190,7 @@ date: 2020-11-06 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:image {"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="/img/posts/bowls-are-touching.png" alt="lawn bowls hand signal for indicating bowls are touching"/></a></figure>
+<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/bowls-are-touching.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="lawn bowls hand signal for indicating bowls are touching"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:quote -->
@@ -210,7 +210,7 @@ date: 2020-11-06 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:image {"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="/img/posts/where-is-the-jack.png" alt="lawn bowls hand signal for showing where the jack is"/></a></figure>
+<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/where-is-the-jack.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="lawn bowls hand signal for showing where the jack is"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:quote -->
@@ -230,7 +230,7 @@ date: 2020-11-06 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:image {"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="/img/posts/distance-to-jack.png" alt="lawn bowls hand signal for describing the distance between a bowl and the jack"/></a></figure>
+<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/distance-to-jack.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="lawn bowls hand signal for describing the distance between a bowl and the jack"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:quote -->
@@ -250,7 +250,7 @@ date: 2020-11-06 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":544,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="/img/posts/jack-high.jpg" alt="" class="wp-image-544"/></figure>
+<figure class="wp-block-image size-full"><img src="{{ '/img/posts/jack-high.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-544"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -274,7 +274,7 @@ date: 2020-11-06 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:image {"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="/img/posts/shots-for-us.png" alt="lawn bowls hand signal for 'shots to us'"/></a></figure>
+<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/shots-for-us.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="lawn bowls hand signal for 'shots to us'"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:quote -->
@@ -294,7 +294,7 @@ date: 2020-11-06 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:image {"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="/img/posts/shots-against-us.png" alt="lawn bowls hand signal for 'shots against us'"/></a></figure>
+<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/shots-against-us.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="lawn bowls hand signal for 'shots against us'"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:quote -->
@@ -314,7 +314,7 @@ date: 2020-11-06 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:image {"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="/img/posts/measure-for-shot.png" alt="lawn bowls hand signal for indicating its a measure for shot"/></a></figure>
+<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/measure-for-shot.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="lawn bowls hand signal for indicating its a measure for shot"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:quote -->

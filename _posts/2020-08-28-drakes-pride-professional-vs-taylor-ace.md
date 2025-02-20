@@ -14,7 +14,7 @@ date: 2020-08-28 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":262,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="/img/posts/drakes-pride-vs-taylor-ace.jpeg" alt="Drakes Pride Professional vs Taylor Ace - Which to choose?" class="wp-image-262"/></figure>
+<figure class="wp-block-image size-full"><img src="{{ '/img/posts/drakes-pride-vs-taylor-ace.jpeg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Drakes Pride Professional vs Taylor Ace - Which to choose?" class="wp-image-262"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading -->

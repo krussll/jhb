@@ -14,7 +14,7 @@ date: 2020-10-01 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":237,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="/img/posts/world-bowls-player-rankings.jpeg" alt="World Bowls player rankings 2019/2020" class="wp-image-237"/></figure>
+<figure class="wp-block-image size-full"><img src="{{ '/img/posts/world-bowls-player-rankings.jpeg' | prepend: site.baseurl | replace: '//', '/' }}" alt="World Bowls player rankings 2019/2020" class="wp-image-237"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading -->

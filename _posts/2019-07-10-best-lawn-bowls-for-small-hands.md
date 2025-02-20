@@ -14,7 +14,7 @@ date: 2019-07-10 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":320,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="/img/posts/best-lawn-bowls-for-small-hands.jpg" alt="Best lawn bowls for small hands" class="wp-image-320"/></figure>
+<figure class="wp-block-image size-full"><img src="{{ '/img/posts/best-lawn-bowls-for-small-hands.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Best lawn bowls for small hands" class="wp-image-320"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

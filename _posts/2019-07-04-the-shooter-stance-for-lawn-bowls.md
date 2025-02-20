@@ -14,7 +14,7 @@ date: 2019-07-04 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":327,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="/img/posts/the-shooter-stance-for-lawn-bowls.jpg" alt="'The Shooter Stance' For Lawn Bowls | A Complete Guide" class="wp-image-327"/></figure>
+<figure class="wp-block-image size-full"><img src="{{ '/img/posts/the-shooter-stance-for-lawn-bowls.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="'The Shooter Stance' For Lawn Bowls | A Complete Guide" class="wp-image-327"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -42,7 +42,7 @@ date: 2019-07-04 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"center","id":552,"sizeSlug":"medium","linkDestination":"none"} -->
-<div class="wp-block-image"><figure class="aligncenter size-medium"><img src="/img/posts/shooter-stance-diagram-200x300.png" alt="" class="wp-image-552"/><figcaption>Example foot positioning on a lawn bowls mat</figcaption></figure></div>
+<div class="wp-block-image"><figure class="aligncenter size-medium"><img src="{{ '/img/posts/shooter-stance-diagram-200x300.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-552"/><figcaption>Example foot positioning on a lawn bowls mat</figcaption></figure></div>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

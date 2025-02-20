@@ -14,7 +14,7 @@ date: 2020-08-05 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":268,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="/img/posts/best-lawn-bowls-for-indoors.jpeg" alt="Best Lawn Bowls for Indoors" class="wp-image-268"/></figure>
+<figure class="wp-block-image size-full"><img src="{{ '/img/posts/best-lawn-bowls-for-indoors.jpeg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Best Lawn Bowls for Indoors" class="wp-image-268"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading -->

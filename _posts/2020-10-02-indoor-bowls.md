@@ -14,7 +14,7 @@ date: 2020-10-02 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":233,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="/img/posts/indoors-bowls.jpeg" alt="Indoor lawn bowls | What is the difference between indoor and outdoor bowls? | How long is an indoor bowls green? | What are the rules of indoor bowls? | Who won the World Indoor Bowls Championship 2020? | How can I play indoor bowls better?" class="wp-image-233"/></figure>
+<figure class="wp-block-image size-full"><img src="{{ '/img/posts/indoors-bowls.jpeg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Indoor lawn bowls | What is the difference between indoor and outdoor bowls? | How long is an indoor bowls green? | What are the rules of indoor bowls? | Who won the World Indoor Bowls Championship 2020? | How can I play indoor bowls better?" class="wp-image-233"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading -->

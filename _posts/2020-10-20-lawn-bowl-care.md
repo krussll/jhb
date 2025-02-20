@@ -14,7 +14,7 @@ date: 2020-10-20 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":226,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="/img/posts/lawn-bowl-care.jpeg" alt="How To Care For Lawn Bowls | A Helpful Guide" class="wp-image-226"/></figure>
+<figure class="wp-block-image size-full"><img src="{{ '/img/posts/lawn-bowl-care.jpeg' | prepend: site.baseurl | replace: '//', '/' }}" alt="How To Care For Lawn Bowls | A Helpful Guide" class="wp-image-226"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

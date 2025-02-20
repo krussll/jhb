@@ -14,7 +14,7 @@ date: 2020-11-02 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":213,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="/img/posts/lawn-bowls-players.jpeg" alt="Best Lawn and Indoor Bowlers In The World | A Helpful Guide" class="wp-image-213"/></figure>
+<figure class="wp-block-image size-full"><img src="{{ '/img/posts/lawn-bowls-players.jpeg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Best Lawn and Indoor Bowlers In The World | A Helpful Guide" class="wp-image-213"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -26,7 +26,7 @@ date: 2020-11-02 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:image {"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="/img/posts/stewart-anderson.jpg" alt="Stewart ANDERSON lawn bowls"/></a></figure>
+<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/stewart-anderson.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Stewart ANDERSON lawn bowls"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"level":3} -->
@@ -82,7 +82,7 @@ date: 2020-11-02 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:image {"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="/img/posts/nicky-brett.jpg" alt="Nicky BRETT lawn bowls"/></a></figure>
+<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/nicky-brett.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Nicky BRETT lawn bowls"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"level":3} -->
@@ -150,7 +150,7 @@ date: 2020-11-02 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:image {"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="/img/posts/mark-dawes.jpg" alt="Mark Dawes lawn bowls"/></a></figure>
+<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/mark-dawes.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Mark Dawes lawn bowls"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"level":3} -->
@@ -202,7 +202,7 @@ date: 2020-11-02 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:image {"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="/img/posts/julie-forrest.jpg" alt="Julie FORREST lawn bowls"/></a></figure>
+<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/julie-forrest.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Julie FORREST lawn bowls"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"level":3} -->
@@ -254,7 +254,7 @@ date: 2020-11-02 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:image {"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="/img/posts/paul-foster.jpg" alt="Paul FOSTER lawn bowls"/></a></figure>
+<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/paul-foster.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Paul FOSTER lawn bowls"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"level":3} -->
@@ -374,7 +374,7 @@ date: 2020-11-02 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:image {"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="/img/posts/les-gillett.jpg" alt="Les GILLETT lawn bowls"/></a></figure>
+<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/les-gillett.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Les GILLETT lawn bowls"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"level":3} -->
@@ -426,7 +426,7 @@ date: 2020-11-02 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:image {"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="/img/posts/greg-harlow.jpg" alt="Greg HARLOW lawn bowls"/></a></figure>
+<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/greg-harlow.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Greg HARLOW lawn bowls"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"level":3} -->
@@ -486,7 +486,7 @@ date: 2020-11-02 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:image {"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="/img/posts/mervyn-king.jpg" alt="Mervyn KING lawn bowls"/></a></figure>
+<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/mervyn-king.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Mervyn KING lawn bowls"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"level":3} -->
@@ -546,7 +546,7 @@ date: 2020-11-02 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:image {"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="/img/posts/barrie-lester.jpg" alt="Barrie LESTER lawn bowls"/></a></figure>
+<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/barrie-lester.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Barrie LESTER lawn bowls"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"level":3} -->
@@ -586,7 +586,7 @@ date: 2020-11-02 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:image {"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="/img/posts/alex-marshall.jpg" alt="Alex MARSHALL lawn bowls"/></a></figure>
+<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/alex-marshall.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Alex MARSHALL lawn bowls"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"level":3} -->
@@ -738,7 +738,7 @@ date: 2020-11-02 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:image {"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="/img/posts/karen-murphy.jpg" alt="Karen MURPHY lawn bowls"/></a></figure>
+<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/karen-murphy.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Karen MURPHY lawn bowls"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"level":3} -->
@@ -814,7 +814,7 @@ date: 2020-11-02 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:image {"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="/img/posts/robert-paxton.jpg" alt="Robert PAXTON lawn bowls"/></a></figure>
+<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/robert-paxton.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Robert PAXTON lawn bowls"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"level":3} -->
@@ -882,7 +882,7 @@ date: 2020-11-02 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:image {"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="/img/posts/katherine-rednall.jpg" alt="Katherine REDNALL lawn bowls"/></a></figure>
+<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/katherine-rednall.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Katherine REDNALL lawn bowls"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"level":3} -->
@@ -942,7 +942,7 @@ date: 2020-11-02 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:image {"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="/img/posts/aron-sherriff.jpg" alt="Aron SHERRIFF lawn bowls"/></a></figure>
+<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/aron-sherriff.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Aron SHERRIFF lawn bowls"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"level":3} -->
@@ -998,7 +998,7 @@ date: 2020-11-02 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:image {"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="/img/posts/brett-wilkie.jpg" alt="Brett WILKIE lawn bowls"/></a></figure>
+<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/brett-wilkie.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Brett WILKIE lawn bowls"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"level":3} -->

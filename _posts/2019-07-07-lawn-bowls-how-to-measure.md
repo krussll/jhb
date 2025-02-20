@@ -14,7 +14,7 @@ date: 2019-07-07 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":323,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="/img/posts/lawn-bowls-how-to-measure.jpeg" alt="Lawn bowls - how to measure" class="wp-image-323"/></figure>
+<figure class="wp-block-image size-full"><img src="{{ '/img/posts/lawn-bowls-how-to-measure.jpeg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Lawn bowls - how to measure" class="wp-image-323"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

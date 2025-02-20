@@ -14,7 +14,7 @@ date: 2019-05-07 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":349,"width":803,"height":451,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full is-resized"><img src="/img/posts/everything-you-wanted-to-know-about-bowls.jpg" alt="Lawn Bowls: 11 Things Every Beginner Needs To Know" class="wp-image-349" width="803" height="451"/></figure>
+<figure class="wp-block-image size-full is-resized"><img src="{{ '/img/posts/everything-you-wanted-to-know-about-bowls.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Lawn Bowls: 11 Things Every Beginner Needs To Know" class="wp-image-349" width="803" height="451"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading -->

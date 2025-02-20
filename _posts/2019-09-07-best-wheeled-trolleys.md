@@ -14,7 +14,7 @@ date: 2019-09-07 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":302,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="/img/posts/best-wheeled-trolleys.jpg" alt="Best Wheeled Trolleys for Lawn Bowls" class="wp-image-302"/></figure>
+<figure class="wp-block-image size-full"><img src="{{ '/img/posts/best-wheeled-trolleys.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Best Wheeled Trolleys for Lawn Bowls" class="wp-image-302"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

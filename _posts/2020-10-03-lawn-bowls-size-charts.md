@@ -14,7 +14,7 @@ date: 2020-10-03 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":229,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="/img/posts/lawn-bowl-size-guides.jpeg" alt="Size charts for all major lawn bowls brands" class="wp-image-229"/></figure>
+<figure class="wp-block-image size-full"><img src="{{ '/img/posts/lawn-bowl-size-guides.jpeg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Size charts for all major lawn bowls brands" class="wp-image-229"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

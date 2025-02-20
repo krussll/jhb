@@ -14,7 +14,7 @@ date: 2021-04-28 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":161,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="/img/posts/how_to_build_a_lawn_bowling_green.jpg" alt="How To Build And Maintain A Lawn Bowls Green | A Simple Guide" class="wp-image-161"/></figure>
+<figure class="wp-block-image size-full"><img src="{{ '/img/posts/how_to_build_a_lawn_bowling_green.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="How To Build And Maintain A Lawn Bowls Green | A Simple Guide" class="wp-image-161"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

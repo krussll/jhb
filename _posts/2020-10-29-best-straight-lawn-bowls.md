@@ -14,7 +14,7 @@ date: 2020-10-29 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":219,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="/img/posts/best-straight-lawn-bowls.jpeg" alt="7 Best Straight Lawn Bowls | A Helpful Guide" class="wp-image-219"/></figure>
+<figure class="wp-block-image size-full"><img src="{{ '/img/posts/best-straight-lawn-bowls.jpeg' | prepend: site.baseurl | replace: '//', '/' }}" alt="7 Best Straight Lawn Bowls | A Helpful Guide" class="wp-image-219"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading -->
@@ -140,7 +140,7 @@ date: 2020-10-29 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:image {"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="/img/posts/aero-defiance-display.jpg" alt="Aero Defiance lawn bowls"/></a></figure>
+<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/aero-defiance-display.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Aero Defiance lawn bowls"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -180,7 +180,7 @@ date: 2020-10-29 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:image {"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="/img/posts/henselite-classic-ii-display.jpg" alt="Henselite Classic II lawn bowls"/></a></figure>
+<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/henselite-classic-ii-display.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Henselite Classic II lawn bowls"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -210,7 +210,7 @@ date: 2020-10-29 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:image {"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="/img/posts/aero-profile-display.jpg" alt="Aero Profile lawn bowls"/></a></figure>
+<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/aero-profile-display.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Aero Profile lawn bowls"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

@@ -14,7 +14,7 @@ date: 2019-05-12 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":345,"width":797,"height":448,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full is-resized"><img src="/img/posts/henselite-tiger-sport-lawn-bowls-shoes-review.jpg" alt="Henselite Tiger Sport Bowls Shoes Review" class="wp-image-345" width="797" height="448"/></figure>
+<figure class="wp-block-image size-full is-resized"><img src="{{ '/img/posts/henselite-tiger-sport-lawn-bowls-shoes-review.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Henselite Tiger Sport Bowls Shoes Review" class="wp-image-345" width="797" height="448"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

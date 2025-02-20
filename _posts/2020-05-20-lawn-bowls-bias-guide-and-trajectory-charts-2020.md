@@ -14,7 +14,7 @@ date: 2020-05-20 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":288,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="/img/posts/lawn-bowls-trajectory-guide.jpg" alt="Lawn Bowls Bias Guide And Trajectory Charts | A Helpful Illustrated Guide" class="wp-image-288"/></figure>
+<figure class="wp-block-image size-full"><img src="{{ '/img/posts/lawn-bowls-trajectory-guide.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Lawn Bowls Bias Guide And Trajectory Charts | A Helpful Illustrated Guide" class="wp-image-288"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -62,11 +62,11 @@ date: 2020-05-20 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="/img/posts/aero-outdoor-uk-trajectory-guide-2020.png" alt="Trajecotry guide/bias guide for Aero lawn bowl outdoor models"/></a></figure>
+<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/aero-outdoor-uk-trajectory-guide-2020.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="Trajecotry guide/bias guide for Aero lawn bowl outdoor models"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="/img/posts/aero-indoor-uk-trajectory-guide-2020.png" alt="Trajecotry guide/bias guide for Aero lawn bowl indoor models"/></a></figure>
+<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/aero-indoor-uk-trajectory-guide-2020.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="Trajecotry guide/bias guide for Aero lawn bowl indoor models"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -96,7 +96,7 @@ date: 2020-05-20 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="/img/posts/drakes-pride-trajectory-guide-2020.png" alt="Trajecotry guide/bias guide for Drakes Pride lawn bowl models"/></a></figure>
+<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/drakes-pride-trajectory-guide-2020.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="Trajecotry guide/bias guide for Drakes Pride lawn bowl models"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"level":3} -->
@@ -136,7 +136,7 @@ date: 2020-05-20 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":1687,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/img/posts/henselite-bowls-trajectory-guide-1024x788.jpg" alt="" class="wp-image-1687"/><figcaption class="wp-element-caption"><a href="https://howtoplaysport.com/lawn-bowls/lawn-bowls-bias-guides">https://howtoplaysport.com/lawn-bowls/lawn-bowls-bias-guides</a></figcaption></figure>
+<figure class="wp-block-image size-large"><img src="{{ '/img/posts/henselite-bowls-trajectory-guide-1024x788.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-1687"/><figcaption class="wp-element-caption"><a href="https://howtoplaysport.com/lawn-bowls/lawn-bowls-bias-guides">https://howtoplaysport.com/lawn-bowls/lawn-bowls-bias-guides</a></figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading -->
@@ -148,7 +148,7 @@ date: 2020-05-20 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="/img/posts/thomas-taylor-trajectory-guide-2020.png" alt="Trajecotry guide/bias guide for Thomas Taylor lawn bowl models"/></a></figure>
+<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/thomas-taylor-trajectory-guide-2020.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="Trajecotry guide/bias guide for Thomas Taylor lawn bowl models"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"level":3} -->

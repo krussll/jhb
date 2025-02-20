@@ -14,7 +14,7 @@ date: 2018-01-12 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":380,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="/img/posts/second-hand-bowls-buyers-guide.jpg" alt="Second hand and pre-loved lawn bowls buyers guide" class="wp-image-380"/></figure>
+<figure class="wp-block-image size-full"><img src="{{ '/img/posts/second-hand-bowls-buyers-guide.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Second hand and pre-loved lawn bowls buyers guide" class="wp-image-380"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

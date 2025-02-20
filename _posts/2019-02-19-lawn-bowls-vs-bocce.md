@@ -14,7 +14,7 @@ date: 2019-02-19 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":103,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="/img/posts/lawn-bowls-vs-bocce.jpg" alt="Lawn Bowls vs Bocce" class="wp-image-103"/></figure>
+<figure class="wp-block-image size-full"><img src="{{ '/img/posts/lawn-bowls-vs-bocce.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Lawn Bowls vs Bocce" class="wp-image-103"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -126,7 +126,7 @@ date: 2019-02-19 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="/img/posts/bocce.png" alt="lawn bowls vs bocce"/></a><figcaption><a href="https://worldbocce.org/how-to-play-bocce.html">https://worldbocce.org/how-to-play-bocce.html</a></figcaption></figure>
+<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/bocce.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="lawn bowls vs bocce"/></a><figcaption><a href="https://worldbocce.org/how-to-play-bocce.html">https://worldbocce.org/how-to-play-bocce.html</a></figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"level":3} -->
@@ -174,7 +174,7 @@ date: 2019-02-19 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:image {"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="/img/posts/lawn-bowls-ditch.png" alt="lawn bowls vs bocce"/></a><figcaption><a href="https://www.cliftonrubber.co.uk/product/bowls-green-ditch-liner/">A lawn bowls ditch</a></figcaption></figure>
+<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/lawn-bowls-ditch.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="lawn bowls vs bocce"/></a><figcaption><a href="https://www.cliftonrubber.co.uk/product/bowls-green-ditch-liner/">A lawn bowls ditch</a></figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -190,7 +190,7 @@ date: 2019-02-19 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:image {"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="/img/posts/guide-to-bocce.png" alt="lawn bowls vs bocce"/></a><figcaption><a href="https://en.wikipedia.org/wiki/Bocce">A game of bocce</a></figcaption></figure>
+<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/guide-to-bocce.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="lawn bowls vs bocce"/></a><figcaption><a href="https://en.wikipedia.org/wiki/Bocce">A game of bocce</a></figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

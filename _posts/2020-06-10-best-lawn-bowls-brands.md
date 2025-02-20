@@ -14,7 +14,7 @@ date: 2020-06-10 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":285,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="/img/posts/best-lawn-bowls-brands.jpeg" alt="7 Best lawn bowls brands" class="wp-image-285"/></figure>
+<figure class="wp-block-image size-full"><img src="{{ '/img/posts/best-lawn-bowls-brands.jpeg' | prepend: site.baseurl | replace: '//', '/' }}" alt="7 Best lawn bowls brands" class="wp-image-285"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading -->

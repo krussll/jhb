@@ -14,7 +14,7 @@ date: 2021-04-27 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":164,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="/img/posts/taylor_international_lawn_bowls_review.jpg" alt="Taylor International Lawn Bowls Review" class="wp-image-164"/></figure>
+<figure class="wp-block-image size-full"><img src="{{ '/img/posts/taylor_international_lawn_bowls_review.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Taylor International Lawn Bowls Review" class="wp-image-164"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:group {"style":{"color":{"background":"#f8fafb"}}} -->
@@ -62,23 +62,23 @@ date: 2021-04-27 13:00:00 -0400
 
 <!-- wp:group {"layout":{"type":"flex","allowOrientation":false}} -->
 <div class="wp-block-group"><!-- wp:image {"id":481,"width":25,"height":25,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full is-resized"><img src="/img/posts/icon-star.png" alt="" class="wp-image-481" width="25" height="25"/></figure>
+<figure class="wp-block-image size-full is-resized"><img src="{{ '/img/posts/icon-star.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-481" width="25" height="25"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":481,"width":25,"height":25,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full is-resized"><img src="/img/posts/icon-star.png" alt="" class="wp-image-481" width="25" height="25"/></figure>
+<figure class="wp-block-image size-full is-resized"><img src="{{ '/img/posts/icon-star.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-481" width="25" height="25"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":481,"width":25,"height":25,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full is-resized"><img src="/img/posts/icon-star.png" alt="" class="wp-image-481" width="25" height="25"/></figure>
+<figure class="wp-block-image size-full is-resized"><img src="{{ '/img/posts/icon-star.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-481" width="25" height="25"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":481,"width":25,"height":25,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full is-resized"><img src="/img/posts/icon-star.png" alt="" class="wp-image-481" width="25" height="25"/></figure>
+<figure class="wp-block-image size-full is-resized"><img src="{{ '/img/posts/icon-star.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-481" width="25" height="25"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":481,"width":25,"height":25,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full is-resized"><img src="/img/posts/icon-star.png" alt="" class="wp-image-481" width="25" height="25"/></figure>
+<figure class="wp-block-image size-full is-resized"><img src="{{ '/img/posts/icon-star.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-481" width="25" height="25"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:group -->
 
@@ -114,7 +114,7 @@ date: 2021-04-27 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="/img/posts/taylor-international.jpg" alt=""/></a></figure>
+<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/taylor-international.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt=""/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading -->
@@ -138,7 +138,7 @@ date: 2021-04-27 13:00:00 -0400
 <!-- /wp:list -->
 
 <!-- wp:image {"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="/img/posts/taylor-international-colour.jpg" alt=""/></a></figure>
+<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/taylor-international-colour.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt=""/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -162,7 +162,7 @@ date: 2021-04-27 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="/img/posts/taylor-international-grip.jpg" alt=""/></a></figure>
+<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/taylor-international-grip.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt=""/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

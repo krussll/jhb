@@ -14,7 +14,7 @@ date: 2020-09-17 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":252,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="/img/posts/best-lawn-bowls-shoes.jpeg" alt="Best Lawn Bowls Shoes" class="wp-image-252"/></figure>
+<figure class="wp-block-image size-full"><img src="{{ '/img/posts/best-lawn-bowls-shoes.jpeg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Best Lawn Bowls Shoes" class="wp-image-252"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -146,7 +146,7 @@ date: 2020-09-17 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"right","width":494,"height":319,"linkDestination":"custom"} -->
-<div class="wp-block-image"><figure class="alignright is-resized"><a href="#" target="_blank" rel="noreferrer noopener"><img src="/img/posts/henselite-hm74.png" alt="Henselite HM74 shoe" width="494" height="319"/></a></figure></div>
+<div class="wp-block-image"><figure class="alignright is-resized"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/henselite-hm74.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="Henselite HM74 shoe" width="494" height="319"/></a></figure></div>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -174,7 +174,7 @@ date: 2020-09-17 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"right","width":350,"height":219,"linkDestination":"custom"} -->
-<div class="wp-block-image"><figure class="alignright is-resized"><a href="#" target="_blank" rel="noreferrer noopener"><img src="/img/posts/henselite-blade34.png" alt="Henselite Blade34 shoe" width="350" height="219"/></a></figure></div>
+<div class="wp-block-image"><figure class="alignright is-resized"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/henselite-blade34.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="Henselite Blade34 shoe" width="350" height="219"/></a></figure></div>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -202,7 +202,7 @@ date: 2020-09-17 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"right","width":488,"height":366,"linkDestination":"custom"} -->
-<div class="wp-block-image"><figure class="alignright is-resized"><a href="#" target="_blank" rel="noreferrer noopener"><img src="/img/posts/aero-sprint.png" alt="Aero Sprint shoe" width="488" height="366"/></a></figure></div>
+<div class="wp-block-image"><figure class="alignright is-resized"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/aero-sprint.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="Aero Sprint shoe" width="488" height="366"/></a></figure></div>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -230,7 +230,7 @@ date: 2020-09-17 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"right","width":375,"height":195,"linkDestination":"custom"} -->
-<div class="wp-block-image"><figure class="alignright is-resized"><a href="#" target="_blank" rel="noreferrer noopener"><img src="/img/posts/henselite-moccasin.png" alt="Henselite moccasin shoe" width="375" height="195"/></a></figure></div>
+<div class="wp-block-image"><figure class="alignright is-resized"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/henselite-moccasin.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="Henselite moccasin shoe" width="375" height="195"/></a></figure></div>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -250,7 +250,7 @@ date: 2020-09-17 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"right","linkDestination":"custom"} -->
-<div class="wp-block-image"><figure class="alignright"><a href="#" target="_blank" rel="noreferrer noopener"><img src="/img/posts/henselite-hm75.png" alt="Henselite HM75 shoe"/></a></figure></div>
+<div class="wp-block-image"><figure class="alignright"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/henselite-hm75.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="Henselite HM75 shoe"/></a></figure></div>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -274,7 +274,7 @@ date: 2020-09-17 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"right","width":375,"height":250,"linkDestination":"custom"} -->
-<div class="wp-block-image"><figure class="alignright is-resized"><a href="#" target="_blank" rel="noreferrer noopener"><img src="/img/posts/drakes-pride-astro.png" alt="Drakes Pride Astro shoe" width="375" height="250"/></a></figure></div>
+<div class="wp-block-image"><figure class="alignright is-resized"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/drakes-pride-astro.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="Drakes Pride Astro shoe" width="375" height="250"/></a></figure></div>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

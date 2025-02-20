@@ -14,7 +14,7 @@ date: 2018-01-12 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":389,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="/img/posts/best-bowls-for-leads.jpg" alt="Best Rated Lawn Bowls For Leads" class="wp-image-389"/></figure>
+<figure class="wp-block-image size-full"><img src="{{ '/img/posts/best-bowls-for-leads.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Best Rated Lawn Bowls For Leads" class="wp-image-389"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading -->

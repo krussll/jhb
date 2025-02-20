@@ -14,7 +14,7 @@ date: 2019-05-20 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":339,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="/img/posts/used-aero-bowls-for-sale.jpeg" alt="Used Aero Bowls For Sale" class="wp-image-339"/></figure>
+<figure class="wp-block-image size-full"><img src="{{ '/img/posts/used-aero-bowls-for-sale.jpeg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Used Aero Bowls For Sale" class="wp-image-339"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -38,7 +38,7 @@ date: 2019-05-20 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:image {"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="/img/posts/aero-groove.jpg" alt="" title="Aero GrooVe"/></a></figure>
+<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/aero-groove.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" title="Aero GrooVe"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -54,7 +54,7 @@ date: 2019-05-20 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:image {"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="/img/posts/aero-sonic.jpg" alt="" title="Aero Sonic"/></a></figure>
+<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/aero-sonic.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" title="Aero Sonic"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -70,7 +70,7 @@ date: 2019-05-20 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:image {"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="/img/posts/aero-quantum.jpg" alt="" title="Aero Quantum"/></a></figure>
+<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/aero-quantum.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" title="Aero Quantum"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -86,7 +86,7 @@ date: 2019-05-20 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:image {"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="/img/posts/aero-maxim.jpg" alt="" title="Aero Maxim"/></a></figure>
+<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/aero-maxim.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" title="Aero Maxim"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -102,7 +102,7 @@ date: 2019-05-20 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:image {"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="/img/posts/aero-profile.jpg" alt="" title="Aero Profile"/></a></figure>
+<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/aero-profile.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" title="Aero Profile"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -118,7 +118,7 @@ date: 2019-05-20 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:image {"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="/img/posts/aero-defiance.jpg" alt="" title="Aero Defiance"/></a></figure>
+<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/aero-defiance.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" title="Aero Defiance"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

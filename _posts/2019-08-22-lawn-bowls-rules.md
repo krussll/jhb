@@ -22,11 +22,11 @@ date: 2019-08-22 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":305,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="/img/posts/lawn-bowls-rules-for-beginners.jpg" alt="Lawn Bowls Rules For Beginners - How To Play Bowls | A Helpful Illustrated Guide" class="wp-image-305"/></figure>
+<figure class="wp-block-image size-full"><img src="{{ '/img/posts/lawn-bowls-rules-for-beginners.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Lawn Bowls Rules For Beginners - How To Play Bowls | A Helpful Illustrated Guide" class="wp-image-305"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="/img/posts/how-to-play-lawn-bowls-rules-of-lawn-bowls.jpg" alt="How to play lawn bowls. The rules of lawn bowls"/></a></figure>
+<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/how-to-play-lawn-bowls-rules-of-lawn-bowls.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="How to play lawn bowls. The rules of lawn bowls"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading -->
@@ -130,7 +130,7 @@ date: 2019-08-22 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:image {"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="/img/posts/placing-the-mat-lawn-bowls.jpg" alt="How to place the mat lawn bowls"/></a></figure>
+<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/placing-the-mat-lawn-bowls.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="How to place the mat lawn bowls"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -152,7 +152,7 @@ date: 2019-08-22 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:image {"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="/img/posts/how-to-score-in-lawn-bowls.jpg" alt="How to score in lawn bowls"/></a></figure>
+<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/how-to-score-in-lawn-bowls.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="How to score in lawn bowls"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:list -->
@@ -280,7 +280,7 @@ date: 2019-08-22 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:image {"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="/img/posts/lawn-bowls-green-dimensions.jpg" alt="Lawn Bowls Green Dimensions"/></a></figure>
+<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/lawn-bowls-green-dimensions.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Lawn Bowls Green Dimensions"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

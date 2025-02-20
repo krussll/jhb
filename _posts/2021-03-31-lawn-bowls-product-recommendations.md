@@ -14,7 +14,7 @@ date: 2021-03-31 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":170,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="/img/posts/lawn-bowls-product-recommendations.jpg" alt="Lawn Bowls Product Recommendations" class="wp-image-170"/></figure>
+<figure class="wp-block-image size-full"><img src="{{ '/img/posts/lawn-bowls-product-recommendations.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Lawn Bowls Product Recommendations" class="wp-image-170"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -94,7 +94,7 @@ date: 2021-03-31 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":1264,"width":200,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full is-resized"><img src="/img/posts/61szh6rH2fL._AC_SY679_.jpg" alt="" class="wp-image-1264" width="200"/></figure>
+<figure class="wp-block-image size-full is-resized"><img src="{{ '/img/posts/61szh6rH2fL._AC_SY679_.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-1264" width="200"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -114,7 +114,7 @@ date: 2021-03-31 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":1263,"width":300,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full is-resized"><img src="/img/posts/71Gt25oGwgL._AC_UX695_.jpg" alt="" class="wp-image-1263" width="300"/></figure>
+<figure class="wp-block-image size-full is-resized"><img src="{{ '/img/posts/71Gt25oGwgL._AC_UX695_.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-1263" width="300"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -134,7 +134,7 @@ date: 2021-03-31 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":1262,"width":300,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full is-resized"><img src="/img/posts/41zMjyauLEL._AC_.jpg" alt="" class="wp-image-1262" width="300"/></figure>
+<figure class="wp-block-image size-full is-resized"><img src="{{ '/img/posts/41zMjyauLEL._AC_.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-1262" width="300"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -154,7 +154,7 @@ date: 2021-03-31 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":1260,"width":300,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full is-resized"><img src="/img/posts/415H5VAsY6L._AC_.jpg" alt="" class="wp-image-1260" width="300"/></figure>
+<figure class="wp-block-image size-full is-resized"><img src="{{ '/img/posts/415H5VAsY6L._AC_.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-1260" width="300"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

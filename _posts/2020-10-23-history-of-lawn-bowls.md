@@ -14,7 +14,7 @@ date: 2020-10-23 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":222,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="/img/posts/history-of-lawn-bowls.jpeg" alt="The History Of Lawn Bowls | A Helpful Guide" class="wp-image-222"/></figure>
+<figure class="wp-block-image size-full"><img src="{{ '/img/posts/history-of-lawn-bowls.jpeg' | prepend: site.baseurl | replace: '//', '/' }}" alt="The History Of Lawn Bowls | A Helpful Guide" class="wp-image-222"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -34,7 +34,7 @@ date: 2020-10-23 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="/img/posts/bocce-ancient-rome.jpg" alt=""/></a><figcaption>SOURCE: <a href="https://www.orderisda.org/culture/sports/italian-sport-the-history-of-italys-second-favorite-sport-bocce-ball/">www.orderisda.org</a></figcaption></figure>
+<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/bocce-ancient-rome.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt=""/></a><figcaption>SOURCE: <a href="https://www.orderisda.org/culture/sports/italian-sport-the-history-of-italys-second-favorite-sport-bocce-ball/">www.orderisda.org</a></figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading -->
@@ -50,7 +50,7 @@ date: 2020-10-23 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="/img/posts/edward-iii.png" alt=""/></a><figcaption>SOURCE: <a href="https://www.onthisday.com/people/edward-iii">www.onthisday.com</a></figcaption></figure>
+<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/edward-iii.png' | prepend: site.baseurl | replace: '//', '/' }}" alt=""/></a><figcaption>SOURCE: <a href="https://www.onthisday.com/people/edward-iii">www.onthisday.com</a></figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -62,7 +62,7 @@ date: 2020-10-23 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="/img/posts/henry-VIII.png" alt=""/></a><figcaption>SOURCE: <a href="https://www.britannica.com/biography/Henry-VIII-king-of-England/Loss-of-popularity">www.britannica.com</a></figcaption></figure>
+<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/henry-VIII.png' | prepend: site.baseurl | replace: '//', '/' }}" alt=""/></a><figcaption>SOURCE: <a href="https://www.britannica.com/biography/Henry-VIII-king-of-England/Loss-of-popularity">www.britannica.com</a></figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -70,7 +70,7 @@ date: 2020-10-23 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="/img/posts/queen-mary.png" alt=""/></a><figcaption>SOURCE: <a href="https://www.britain-magazine.com/features/happy-birthday-to-the-first-queen-of-england-mary-i/">www.britain-magazine.com</a></figcaption></figure>
+<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/queen-mary.png' | prepend: site.baseurl | replace: '//', '/' }}" alt=""/></a><figcaption>SOURCE: <a href="https://www.britain-magazine.com/features/happy-birthday-to-the-first-queen-of-england-mary-i/">www.britain-magazine.com</a></figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -82,7 +82,7 @@ date: 2020-10-23 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="/img/posts/shakespeare.png" alt=""/></a><figcaption>SOURCE: <a href="https://www.britannica.com/biography/William-Shakespeare">www.britannica.com</a></figcaption></figure>
+<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/shakespeare.png' | prepend: site.baseurl | replace: '//', '/' }}" alt=""/></a><figcaption>SOURCE: <a href="https://www.britannica.com/biography/William-Shakespeare">www.britannica.com</a></figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -98,7 +98,7 @@ date: 2020-10-23 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="/img/posts/francis-drake-lawn-bowls.png" alt=""/></a><figcaption>SOURCE: <a href="https://www.historic-uk.com/CultureUK/Legend-Of-Drakes-Drum/">www.historic-uk.com</a></figcaption></figure>
+<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/francis-drake-lawn-bowls.png' | prepend: site.baseurl | replace: '//', '/' }}" alt=""/></a><figcaption>SOURCE: <a href="https://www.historic-uk.com/CultureUK/Legend-Of-Drakes-Drum/">www.historic-uk.com</a></figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"level":3} -->
@@ -110,7 +110,7 @@ date: 2020-10-23 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="/img/posts/sandy-bay-tasmania.png" alt=""/></a><figcaption>SOURCE: <a href="https://en.wikipedia.org/wiki/Sandy_Bay,_Tasmania">en.wikipedia.org</a></figcaption></figure>
+<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/sandy-bay-tasmania.png' | prepend: site.baseurl | replace: '//', '/' }}" alt=""/></a><figcaption>SOURCE: <a href="https://en.wikipedia.org/wiki/Sandy_Bay,_Tasmania">en.wikipedia.org</a></figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -118,7 +118,7 @@ date: 2020-10-23 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="/img/posts/usa-lawn-bowls.png" alt=""/></a><figcaption>SOURCE: <a href="https://www.visitsarasota.com/lawn-bowling/sarasota-lawn-bowling-club">www.visitsarasota.com</a></figcaption></figure>
+<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/usa-lawn-bowls.png' | prepend: site.baseurl | replace: '//', '/' }}" alt=""/></a><figcaption>SOURCE: <a href="https://www.visitsarasota.com/lawn-bowling/sarasota-lawn-bowling-club">www.visitsarasota.com</a></figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -138,7 +138,7 @@ date: 2020-10-23 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:image {"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="/img/posts/edwin-beard-budding.png" alt=""/></a><figcaption>SOURCE: <a href="http://worldkings.org/news/new-nominations/world-discovery-p13-edwin-bread-budding-1796-1846-england-the-engineer-invented-the-first-lawn-mower-in-the-world">worldkings.org</a></figcaption></figure>
+<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/edwin-beard-budding.png' | prepend: site.baseurl | replace: '//', '/' }}" alt=""/></a><figcaption>SOURCE: <a href="http://worldkings.org/news/new-nominations/world-discovery-p13-edwin-bread-budding-1796-1846-england-the-engineer-invented-the-first-lawn-mower-in-the-world">worldkings.org</a></figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -174,7 +174,7 @@ date: 2020-10-23 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="/img/posts/royal-victorian-bowling-association.png" alt=""/></a><figcaption>SOURCE: <a href="https://victoriancollections.net.au/items/56415df92162f10e3895a72b">victoriancollections.net.au</a></figcaption></figure>
+<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/royal-victorian-bowling-association.png' | prepend: site.baseurl | replace: '//', '/' }}" alt=""/></a><figcaption>SOURCE: <a href="https://victoriancollections.net.au/items/56415df92162f10e3895a72b">victoriancollections.net.au</a></figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

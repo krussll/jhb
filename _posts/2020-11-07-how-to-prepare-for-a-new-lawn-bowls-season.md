@@ -14,7 +14,7 @@ date: 2020-11-07 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":207,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="/img/posts/lawn-bowls-how-to-prepare-for-a-new-season.jpeg" alt="How To Prepare For A New Lawn Bowls Season | A Helpful Guide" class="wp-image-207"/></figure>
+<figure class="wp-block-image size-full"><img src="{{ '/img/posts/lawn-bowls-how-to-prepare-for-a-new-season.jpeg' | prepend: site.baseurl | replace: '//', '/' }}" alt="How To Prepare For A New Lawn Bowls Season | A Helpful Guide" class="wp-image-207"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

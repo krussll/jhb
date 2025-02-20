@@ -14,7 +14,7 @@ date: 2020-10-01 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":240,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="/img/posts/best-junior-lawn-bowls.jpeg" alt="Best junior lawn bowls" class="wp-image-240"/></figure>
+<figure class="wp-block-image size-full"><img src="{{ '/img/posts/best-junior-lawn-bowls.jpeg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Best junior lawn bowls" class="wp-image-240"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading -->
@@ -58,7 +58,7 @@ date: 2020-10-01 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="/img/posts/junior-bowlers.png" alt=""/></a></figure>
+<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/junior-bowlers.png' | prepend: site.baseurl | replace: '//', '/' }}" alt=""/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -82,7 +82,7 @@ date: 2020-10-01 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:image {"align":"right","width":300,"height":300,"linkDestination":"custom"} -->
-<div class="wp-block-image"><figure class="alignright is-resized"><a href="#" target="_blank" rel="noreferrer noopener"><img src="/img/posts/junior-taylor-ace.png" alt="" width="300" height="300"/></a></figure></div>
+<div class="wp-block-image"><figure class="alignright is-resized"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/junior-taylor-ace.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="" width="300" height="300"/></a></figure></div>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -90,7 +90,7 @@ date: 2020-10-01 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="/img/posts/junior-taylor-ace-colours.png" alt=""/></a></figure>
+<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/junior-taylor-ace-colours.png' | prepend: site.baseurl | replace: '//', '/' }}" alt=""/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -102,7 +102,7 @@ date: 2020-10-01 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:image {"align":"right","width":375,"height":242,"linkDestination":"custom"} -->
-<div class="wp-block-image"><figure class="alignright is-resized"><a href="#" target="_blank" rel="noreferrer noopener"><img src="/img/posts/junior-drakes-pride-professional.png" alt="" width="375" height="242"/></a></figure></div>
+<div class="wp-block-image"><figure class="alignright is-resized"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/junior-drakes-pride-professional.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="" width="375" height="242"/></a></figure></div>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

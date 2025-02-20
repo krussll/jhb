@@ -14,7 +14,7 @@ date: 2019-10-04 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":294,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="/img/posts/lawn-bowls-coaching.jpg" alt="Lawn bowls coaching" class="wp-image-294"/></figure>
+<figure class="wp-block-image size-full"><img src="{{ '/img/posts/lawn-bowls-coaching.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Lawn bowls coaching" class="wp-image-294"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading -->

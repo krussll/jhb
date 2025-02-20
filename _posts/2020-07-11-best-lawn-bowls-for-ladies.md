@@ -14,7 +14,7 @@ date: 2020-07-11 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":122,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="/img/posts/best-lawn-bowls-for-ladies.jpg" alt="post The best Lawn Bowls For Ladies" class="wp-image-122"/></figure>
+<figure class="wp-block-image size-full"><img src="{{ '/img/posts/best-lawn-bowls-for-ladies.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="post The best Lawn Bowls For Ladies" class="wp-image-122"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

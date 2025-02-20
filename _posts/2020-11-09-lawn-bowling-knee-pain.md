@@ -14,7 +14,7 @@ date: 2020-11-09 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":204,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="/img/posts/lawn-bowls-knee-pain.jpeg" alt="Lawn Bowling Knee Pain | A Helpful Guide" class="wp-image-204"/></figure>
+<figure class="wp-block-image size-full"><img src="{{ '/img/posts/lawn-bowls-knee-pain.jpeg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Lawn Bowling Knee Pain | A Helpful Guide" class="wp-image-204"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

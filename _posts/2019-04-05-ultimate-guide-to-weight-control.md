@@ -14,7 +14,7 @@ date: 2019-04-05 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":371,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="/img/posts/ultimate-guide-to-weight-control.jpg" alt="Ultimate guide to weight control in lawn bowls. Pendulum swing or delivery stance?" class="wp-image-371"/></figure>
+<figure class="wp-block-image size-full"><img src="{{ '/img/posts/ultimate-guide-to-weight-control.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Ultimate guide to weight control in lawn bowls. Pendulum swing or delivery stance?" class="wp-image-371"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

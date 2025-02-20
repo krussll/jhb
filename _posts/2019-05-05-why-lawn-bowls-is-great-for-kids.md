@@ -14,7 +14,7 @@ date: 2019-05-05 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":352,"width":800,"height":449,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full is-resized"><img src="/img/posts/why-lawn-bowls-is-great-for-kids.jpg" alt="5 reasons why lawn bowls is great for kids" class="wp-image-352" width="800" height="449"/></figure>
+<figure class="wp-block-image size-full is-resized"><img src="{{ '/img/posts/why-lawn-bowls-is-great-for-kids.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="5 reasons why lawn bowls is great for kids" class="wp-image-352" width="800" height="449"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

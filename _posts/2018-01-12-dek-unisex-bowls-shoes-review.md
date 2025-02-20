@@ -14,7 +14,7 @@ date: 2018-01-12 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":386,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="/img/posts/dek-unisex-bowls-shoe-review.jpg" alt="Dek Unisex Bowls Shoes Review" class="wp-image-386"/></figure>
+<figure class="wp-block-image size-full"><img src="{{ '/img/posts/dek-unisex-bowls-shoe-review.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Dek Unisex Bowls Shoes Review" class="wp-image-386"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

@@ -14,7 +14,7 @@ date: 2020-06-16 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":282,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="/img/posts/how-much-does-lawn-bowls-cost.jpg" alt="How much lawn bowls costs" class="wp-image-282"/></figure>
+<figure class="wp-block-image size-full"><img src="{{ '/img/posts/how-much-does-lawn-bowls-cost.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="How much lawn bowls costs" class="wp-image-282"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

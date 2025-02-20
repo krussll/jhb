@@ -14,7 +14,7 @@ date: 2019-10-30 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":291,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="/img/posts/lawn-bowls-player-positions.jpg" alt="Lawn Bowls Player Positions Guide | Player Roles and Duties" class="wp-image-291"/></figure>
+<figure class="wp-block-image size-full"><img src="{{ '/img/posts/lawn-bowls-player-positions.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Lawn Bowls Player Positions Guide | Player Roles and Duties" class="wp-image-291"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
