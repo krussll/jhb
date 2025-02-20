@@ -14,7 +14,7 @@ date: 2023-03-22 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":1952,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/img/posts/henselite-tiger-pro-vs-drakes-pride-d-tec-1024x576.jpg" alt="Henselite Tiger Pro vs Drakes Pride D-TEC" class="wp-image-1952"/></figure>
+<figure class="wp-block-image size-large"><img src="{{ '/img/posts/henselite-tiger-pro-vs-drakes-pride-d-tec-1024x576.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Henselite Tiger Pro vs Drakes Pride D-TEC" class="wp-image-1952"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

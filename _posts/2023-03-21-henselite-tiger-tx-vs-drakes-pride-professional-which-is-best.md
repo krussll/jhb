@@ -14,7 +14,7 @@ date: 2023-03-21 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":1970,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/img/posts/henselite-tiger-tx-vs-drakes-pride-professional-1024x576.jpg" alt="Henselite Tiger TX vs Drakes Pride Professional" class="wp-image-1970"/></figure>
+<figure class="wp-block-image size-large"><img src="{{ '/img/posts/henselite-tiger-tx-vs-drakes-pride-professional-1024x576.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Henselite Tiger TX vs Drakes Pride Professional" class="wp-image-1970"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

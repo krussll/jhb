@@ -14,7 +14,7 @@ date: 2023-03-21 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":2008,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/img/posts/taylor-international-vs-aero-sonic-1024x576.jpg" alt="Taylor International vs Aero Sonic" class="wp-image-2008"/></figure>
+<figure class="wp-block-image size-large"><img src="{{ '/img/posts/taylor-international-vs-aero-sonic-1024x576.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Taylor International vs Aero Sonic" class="wp-image-2008"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

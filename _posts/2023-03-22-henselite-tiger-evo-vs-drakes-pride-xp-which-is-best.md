@@ -14,7 +14,7 @@ date: 2023-03-22 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":1941,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/img/posts/henselite-tiger-evo-vs-drakes-pride-xp-1024x576.jpg" alt="Henselite Tiger EVO vs Drakes Pride XP" class="wp-image-1941"/></figure>
+<figure class="wp-block-image size-large"><img src="{{ '/img/posts/henselite-tiger-evo-vs-drakes-pride-xp-1024x576.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Henselite Tiger EVO vs Drakes Pride XP" class="wp-image-1941"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

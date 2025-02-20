@@ -14,7 +14,7 @@ date: 2023-04-25 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":3180,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/img/posts/Is-Rounders-the-Same-as-Baseball-1024x576.jpg" alt="" class="wp-image-3180"/></figure>
+<figure class="wp-block-image size-large"><img src="{{ '/img/posts/Is-Rounders-the-Same-as-Baseball-1024x576.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-3180"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

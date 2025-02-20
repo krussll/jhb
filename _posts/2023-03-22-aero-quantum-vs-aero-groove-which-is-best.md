@@ -14,7 +14,7 @@ date: 2023-03-22 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":1933,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/img/posts/aero-quantum-vs-aero-groove-1024x576.jpg" alt="" class="wp-image-1933"/></figure>
+<figure class="wp-block-image size-large"><img src="{{ '/img/posts/aero-quantum-vs-aero-groove-1024x576.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-1933"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

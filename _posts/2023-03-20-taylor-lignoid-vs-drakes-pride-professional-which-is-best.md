@@ -14,7 +14,7 @@ date: 2023-03-20 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":1981,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/img/posts/taylor-lignoid-vs-drakes-pride-professional-1024x576.jpg" alt="" class="wp-image-1981"/></figure>
+<figure class="wp-block-image size-large"><img src="{{ '/img/posts/taylor-lignoid-vs-drakes-pride-professional-1024x576.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-1981"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

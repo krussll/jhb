@@ -14,7 +14,7 @@ date: 2023-03-21 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":1939,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/img/posts/henselite-tiger-vs-aero-groove-1024x576.jpg" alt="" class="wp-image-1939"/></figure>
+<figure class="wp-block-image size-large"><img src="{{ '/img/posts/henselite-tiger-vs-aero-groove-1024x576.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-1939"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

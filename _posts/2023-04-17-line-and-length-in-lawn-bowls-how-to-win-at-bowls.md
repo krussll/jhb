@@ -14,7 +14,7 @@ date: 2023-04-17 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":3089,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/img/posts/line-and-length-1024x576.jpg" alt="" class="wp-image-3089"/></figure>
+<figure class="wp-block-image size-large"><img src="{{ '/img/posts/line-and-length-1024x576.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-3089"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -168,7 +168,7 @@ date: 2023-04-17 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":1651,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="/img/posts/all-aiming-points.jpg" alt="Lawn bowls aiming points" class="wp-image-1651"/></figure>
+<figure class="wp-block-image size-full"><img src="{{ '/img/posts/all-aiming-points.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Lawn bowls aiming points" class="wp-image-1651"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
