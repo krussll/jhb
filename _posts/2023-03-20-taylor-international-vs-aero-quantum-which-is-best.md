@@ -14,7 +14,7 @@ date: 2023-03-20 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":2010,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/img/posts/taylor-international-vs-aero-quantum-1024x576.jpg" alt="Taylor International vs Aero Quantum" class="wp-image-2010"/></figure>
+<figure class="wp-block-image size-large"><img src="{{ '/img/posts/taylor-international-vs-aero-quantum-1024x576.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Taylor International vs Aero Quantum" class="wp-image-2010"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

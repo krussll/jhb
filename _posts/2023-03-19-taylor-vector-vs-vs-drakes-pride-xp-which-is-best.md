@@ -14,7 +14,7 @@ date: 2023-03-19 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":2047,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/img/posts/taylor-vector-vs-vs-drakes-pride-xp-1024x576.jpg" alt="" class="wp-image-2047"/></figure>
+<figure class="wp-block-image size-large"><img src="{{ '/img/posts/taylor-vector-vs-vs-drakes-pride-xp-1024x576.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-2047"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

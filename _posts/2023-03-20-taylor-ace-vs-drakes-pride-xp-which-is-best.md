@@ -14,7 +14,7 @@ date: 2023-03-20 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":2018,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/img/posts/taylor-ace-vs-drakes-pride-xp-1024x576.jpg" alt="Taylor Ace vs Drakes Pride XP" class="wp-image-2018"/></figure>
+<figure class="wp-block-image size-large"><img src="{{ '/img/posts/taylor-ace-vs-drakes-pride-xp-1024x576.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Taylor Ace vs Drakes Pride XP" class="wp-image-2018"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

@@ -14,7 +14,7 @@ date: 2023-02-24 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":1642,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/img/posts/Taylor-Ace-vs-Henselite-Tiger-II-1024x576.jpg" alt="" class="wp-image-1642"/></figure>
+<figure class="wp-block-image size-large"><img src="{{ '/img/posts/Taylor-Ace-vs-Henselite-Tiger-II-1024x576.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-1642"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -90,7 +90,7 @@ date: 2023-02-24 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":1630,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="/img/posts/Copy-of-aiming-points-imaginary-line.jpg" alt="" class="wp-image-1630"/><figcaption class="wp-element-caption">An example of the Xtreme Grip on a Taylor Ace</figcaption></figure>
+<figure class="wp-block-image size-full"><img src="{{ '/img/posts/Copy-of-aiming-points-imaginary-line.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-1630"/><figcaption class="wp-element-caption">An example of the Xtreme Grip on a Taylor Ace</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

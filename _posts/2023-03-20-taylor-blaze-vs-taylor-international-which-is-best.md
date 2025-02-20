@@ -14,7 +14,7 @@ date: 2023-03-20 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":2045,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/img/posts/taylor-blaze-vs-taylor-international-1024x576.jpg" alt="Taylor Blaze vs Taylor International" class="wp-image-2045"/></figure>
+<figure class="wp-block-image size-large"><img src="{{ '/img/posts/taylor-blaze-vs-taylor-international-1024x576.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Taylor Blaze vs Taylor International" class="wp-image-2045"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

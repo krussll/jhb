@@ -14,7 +14,7 @@ date: 2023-03-07 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":3102,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/img/posts/Henselite-Mega-Grip-1024x576.jpg" alt="" class="wp-image-3102"/></figure>
+<figure class="wp-block-image size-large"><img src="{{ '/img/posts/Henselite-Mega-Grip-1024x576.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-3102"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -76,7 +76,7 @@ date: 2023-03-07 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"center","id":3092,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image aligncenter size-full"><img src="/img/posts/megagrip.jpg" alt="" class="wp-image-3092"/></figure>
+<figure class="wp-block-image aligncenter size-full"><img src="{{ '/img/posts/megagrip.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-3092"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
