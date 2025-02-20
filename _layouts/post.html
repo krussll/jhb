@@ -16,9 +16,8 @@ layout: default
         <div class="col-lg-6 col-md-12 page-titles">
             <div class="post-heading">
               {% assign sortedCategories = page.categories | sort %}
-              {% for category in sortedCategories %}
-                 <span class="category">{{ category }}</span>
-              {% endfor %}
+              <span class="category">{{ sortedCategories | slice: 0 }}</span>
+              
               
               
               <h1>{{ page.title }}</h1>
