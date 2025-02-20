@@ -15,8 +15,8 @@ layout: default
           
         <div class="col-lg-6 col-md-12 page-titles">
             <div class="post-heading">
-              {% assign sortedCategories = page.categories | sort %}
-              <span class="category">{{ sortedCategories | slice: 0 }}</span>
+              {% assign category = page.categories | sort | slice: 0 %}
+              <span class="category">{{ category | replace: "-", " " }}</span>
               
               
               
