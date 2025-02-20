@@ -14,7 +14,7 @@ date: 2022-09-27 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":1461,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="/img/posts/How-Much-Does-A-Set-Of-Lawn-Bowls-Cost.jpg" alt="" class="wp-image-1461"/></figure>
+<figure class="wp-block-image size-full"><img src="{{ '/img/posts/How-Much-Does-A-Set-Of-Lawn-Bowls-Cost.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-1461"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -50,7 +50,7 @@ date: 2022-09-27 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image -->
-<figure class="wp-block-image"><img alt="" src="/img/posts/"/></figure>
+<figure class="wp-block-image"><img alt="" src="{{ '/img/posts/' | prepend: site.baseurl | replace: '//', '/' }}"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

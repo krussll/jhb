@@ -14,7 +14,7 @@ date: 2022-09-18 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":1455,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="/img/posts/Is-Bowls-A-Sport.jpg" alt="" class="wp-image-1455"/></figure>
+<figure class="wp-block-image size-full"><img src="{{ '/img/posts/Is-Bowls-A-Sport.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-1455"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -144,7 +144,7 @@ date: 2022-09-18 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":1454,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="/img/posts/Bioflow-Alex-Marshall-2019.jpg" alt="" class="wp-image-1454"/><figcaption class="wp-element-caption">Alex Marshall may not have an athlete's physique, but is a great lawn bowler</figcaption></figure>
+<figure class="wp-block-image size-full"><img src="{{ '/img/posts/Bioflow-Alex-Marshall-2019.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-1454"/><figcaption class="wp-element-caption">Alex Marshall may not have an athlete's physique, but is a great lawn bowler</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

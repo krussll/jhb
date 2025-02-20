@@ -14,7 +14,7 @@ date: 2022-11-01 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":1542,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="/img/posts/Should-Lawn-Bowls-Be-Polished.jpg" alt="" class="wp-image-1542"/></figure>
+<figure class="wp-block-image size-full"><img src="{{ '/img/posts/Should-Lawn-Bowls-Be-Polished.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-1542"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
