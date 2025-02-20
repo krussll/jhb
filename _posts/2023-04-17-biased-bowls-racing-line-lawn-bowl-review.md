@@ -14,7 +14,7 @@ date: 2023-04-17 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":3085,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/img/posts/Racing-Line-Review-1-1024x576.jpg" alt="" class="wp-image-3085"/></figure>
+<figure class="wp-block-image size-large"><img src="{{ '/img/posts/Racing-Line-Review-1-1024x576.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-3085"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading -->
@@ -67,23 +67,23 @@ date: 2023-04-17 13:00:00 -0400
 
 <!-- wp:group {"layout":{"type":"flex","allowOrientation":false}} -->
 <div class="wp-block-group"><!-- wp:image {"id":447,"width":25,"height":25,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full is-resized"><img src="/img/posts/icon-star.jpg" alt="" class="wp-image-447" width="25" height="25"/></figure>
+<figure class="wp-block-image size-full is-resized"><img src="{{ '/img/posts/icon-star.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-447" width="25" height="25"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":447,"width":25,"height":25,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full is-resized"><img src="/img/posts/icon-star.jpg" alt="" class="wp-image-447" width="25" height="25"/></figure>
+<figure class="wp-block-image size-full is-resized"><img src="{{ '/img/posts/icon-star.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-447" width="25" height="25"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":447,"width":25,"height":25,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full is-resized"><img src="/img/posts/icon-star.jpg" alt="" class="wp-image-447" width="25" height="25"/></figure>
+<figure class="wp-block-image size-full is-resized"><img src="{{ '/img/posts/icon-star.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-447" width="25" height="25"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":447,"width":25,"height":25,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full is-resized"><img src="/img/posts/icon-star.jpg" alt="" class="wp-image-447" width="25" height="25"/></figure>
+<figure class="wp-block-image size-full is-resized"><img src="{{ '/img/posts/icon-star.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-447" width="25" height="25"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":447,"width":25,"height":25,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full is-resized"><img src="/img/posts/icon-star.jpg" alt="" class="wp-image-447" width="25" height="25"/></figure>
+<figure class="wp-block-image size-full is-resized"><img src="{{ '/img/posts/icon-star.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-447" width="25" height="25"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:group -->
 
@@ -108,7 +108,7 @@ date: 2023-04-17 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":3062,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/img/posts/PXL_20230413_161947951-1024x768.jpg" alt="" class="wp-image-3062"/></figure>
+<figure class="wp-block-image size-large"><img src="{{ '/img/posts/PXL_20230413_161947951-1024x768.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-3062"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -156,7 +156,7 @@ date: 2023-04-17 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":3063,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/img/posts/PXL_20230413_162029472-1024x768.jpg" alt="" class="wp-image-3063"/></figure>
+<figure class="wp-block-image size-large"><img src="{{ '/img/posts/PXL_20230413_162029472-1024x768.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-3063"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -204,7 +204,7 @@ date: 2023-04-17 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":3065,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/img/posts/PXL_20230413_162002026-edited.jpg" alt="" class="wp-image-3065"/></figure>
+<figure class="wp-block-image size-large"><img src="{{ '/img/posts/PXL_20230413_162002026-edited.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-3065"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
