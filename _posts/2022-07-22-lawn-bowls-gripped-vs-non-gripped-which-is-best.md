@@ -41,11 +41,11 @@ date: 2022-07-22 13:00:00 -0400
 <p id="E345">If you are a fan of the Delivery Doctor, then you know he believes that if you are searching for the dimples on your ball, that you are probably holding the ball the wrong way. He says the fingers should not be making contact with the grips regardless if the player is using the claw, palm, or his preferred relaxed hold. Other players find the grips annoying, as they feel it encourages their fingers to be in the wrong place.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:embed {"url":"https://www.youtube.com/embed/anEr9-wYtR0","type":"rich","providerNameSlug":"embed-handler","responsive":true,"className":"wp-embed-aspect-4-3 wp-has-aspect-ratio"} -->
-<figure class="wp-block-embed is-type-rich is-provider-embed-handler wp-block-embed-embed-handler wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-https://www.youtube.com/embed/anEr9-wYtR0
-</div></figure>
-<!-- /wp:embed -->
+<!-- wp:html -->
+<div class="video-embed">
+  <iframe src="https://www.youtube.com/embed/anEr9-wYtR0" title="Lawn bowls grip comparison video" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+<!-- /wp:html -->
 
 <!-- wp:paragraph -->
 <p id="E361">But when the bowl is wet, some find the grips crucial to keeping a firm hold. However, others argue that if you need the grips to hold the bowl when it is wet, then your bowl is too big.</p>

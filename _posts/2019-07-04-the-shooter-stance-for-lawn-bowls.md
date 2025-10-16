@@ -90,8 +90,14 @@ date: 2019-07-04 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>You can watch the full video here.&lt;iframe width="560" height="315" src="<a href="https://www.youtube.com/embed/3b9cKvPeWj4">https://www.youtube.com/embed/3b9cKvPeWj4</a>" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>&lt;/iframe></p>
+<p>You can watch the full video here.</p>
 <!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<div class="video-embed">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/3b9cKvPeWj4" title="Shooter stance lawn bowls video" loading="lazy" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+<!-- /wp:html -->
 
 <!-- wp:heading -->
 <h2><a href="#differences-between-forehand-and-backhand"></a>Differences between forehand and backhand</h2>

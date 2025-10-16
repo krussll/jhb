@@ -119,11 +119,11 @@ date: 2023-02-23 13:00:00 -0400
 <p>This isn't great for those who have a grip where their fingers come slightly across the surface of the bowl.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:embed {"url":"https://www.youtube.com/embed/VLqgF3LTbMU","type":"rich","providerNameSlug":"embed-handler","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
-<figure class="wp-block-embed is-type-rich is-provider-embed-handler wp-block-embed-embed-handler wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-https://www.youtube.com/embed/VLqgF3LTbMU
-</div></figure>
-<!-- /wp:embed -->
+<!-- wp:html -->
+<div class="video-embed">
+  <iframe src="https://www.youtube.com/embed/VLqgF3LTbMU" title="Taylor Xtreme Grip review video" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+<!-- /wp:html -->
 
 <!-- wp:heading -->
 <h2 class="wp-block-heading">What models is Xtreme Grip available on?</h2>
