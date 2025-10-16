@@ -1,0 +1,606 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Getting Started - Jack High Bowls</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Gabarito:wght@400;500;600;700&family=Lora:wght@400;600;700&family=Open+Sans:wght@300;400;600;700&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-MecG99nmIcTKty+ONiO5OVwOB1p5MNDoAuCEr0aKBslZx0drFJ4I8P1gChX2NDSS" crossorigin="anonymous" />
+    <style>
+      body {
+        font-family: "Open Sans", sans-serif;
+        color: #0f1f2f;
+        background-color: #fff;
+      }
+      h1, h2, h3, h4, h5, h6 {
+        font-family: "Gabarito", "Lora", serif;
+      }
+      .navbar-brand img {
+        margin-right: 0.5rem;
+      }
+      .getting-started {
+        color: #0f1f2f;
+        margin-top: 72px;
+      }
+      .gs-hero {
+        position: relative;
+        padding: 6rem 0 5rem;
+        color: #fff;
+        background: linear-gradient(135deg, #08142e 0%, #0f4c81 65%, #1b78b0 100%);
+        overflow: hidden;
+      }
+      .gs-hero__pattern {
+        position: absolute;
+        inset: -120px -140px auto auto;
+        width: 520px;
+        height: 520px;
+        background: radial-gradient(circle at center, rgba(255, 255, 255, 0.15) 0%, rgba(255, 255, 255, 0) 70%);
+        transform: rotate(18deg);
+        pointer-events: none;
+      }
+      @media (max-width: 767px) {
+        .gs-hero__pattern {
+          inset: -160px -220px auto auto;
+          width: 380px;
+          height: 380px;
+        }
+      }
+      .gs-hero__inner {
+        position: relative;
+        z-index: 1;
+        max-width: 1100px;
+        display: grid;
+        gap: 2.5rem;
+      }
+      @media (min-width: 992px) {
+        .gs-hero__inner {
+          grid-template-columns: minmax(0, 1fr) minmax(0, 0.95fr);
+          align-items: center;
+        }
+      }
+      .gs-hero__content {
+        max-width: 560px;
+        display: grid;
+        gap: 1.5rem;
+      }
+      .gs-hero__highlights {
+        background: rgba(255, 255, 255, 0.96);
+        color: #0f1f2f;
+        border-radius: 1.75rem;
+        padding: 2.5rem;
+        box-shadow: 0 28px 48px rgba(8, 20, 46, 0.22);
+        display: grid;
+        gap: 2rem;
+      }
+      .gs-hero__highlights-header {
+        display: grid;
+        gap: 0.75rem;
+      }
+      .gs-hero__highlights-header p {
+        margin-bottom: 0;
+        color: #4c5a6b;
+      }
+      .gs-hero__tag {
+        display: inline-flex;
+        align-items: center;
+        gap: 0.4rem;
+        text-transform: uppercase;
+        letter-spacing: 0.08em;
+        font-size: 0.7rem;
+        font-weight: 700;
+        padding: 0.4rem 0.75rem;
+        border-radius: 999px;
+        background: rgba(15, 76, 129, 0.12);
+        color: #0f4c81;
+      }
+      .gs-hero__highlight-grid {
+        display: grid;
+        gap: 1rem;
+      }
+      @media (min-width: 640px) {
+        .gs-hero__highlight-grid {
+          grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+        }
+      }
+      .gs-highlight {
+        display: grid;
+        gap: 0.45rem;
+        padding: 1.25rem 1.35rem;
+        border-radius: 1rem;
+        background: #f3f7fb;
+        text-decoration: none;
+        color: inherit;
+        transition: transform 0.2s ease, box-shadow 0.2s ease;
+        border: 1px solid rgba(8, 20, 46, 0.05);
+      }
+      .gs-highlight:hover,
+      .gs-highlight:focus {
+        transform: translateY(-3px);
+        box-shadow: 0 18px 32px rgba(15, 31, 47, 0.14);
+        text-decoration: none;
+      }
+      .gs-highlight__title {
+        font-weight: 700;
+        font-size: 1rem;
+      }
+      .gs-highlight__description {
+        color: #4c5a6b;
+        font-size: 0.95rem;
+      }
+      .gs-highlight__cta {
+        font-weight: 600;
+        color: #0f4c81;
+        font-size: 0.9rem;
+      }
+      .gs-eyebrow {
+        text-transform: uppercase;
+        letter-spacing: 0.08em;
+        font-size: 0.75rem;
+        font-weight: 600;
+        margin-bottom: 0.75rem;
+        display: inline-flex;
+        align-items: center;
+        gap: 0.5rem;
+        color: rgba(255, 255, 255, 0.75);
+      }
+      .gs-hero__title {
+        font-size: clamp(2.5rem, 4vw, 3.25rem);
+        font-weight: 700;
+        margin-bottom: 1.5rem;
+      }
+      .gs-lede {
+        font-size: 1.125rem;
+        max-width: 640px;
+        margin-bottom: 0;
+        color: rgba(255, 255, 255, 0.85);
+      }
+      .gs-hero__cta {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 1rem;
+      }
+      .gs-link-pill {
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        padding: 0.65rem 1.5rem;
+        border-radius: 999px;
+        background: #ffbc2c;
+        color: #08142e;
+        font-weight: 600;
+        text-decoration: none;
+        transition: transform 0.2s ease, box-shadow 0.2s ease;
+        box-shadow: 0 12px 24px rgba(0, 0, 0, 0.15);
+      }
+      .gs-link-pill:hover,
+      .gs-link-pill:focus {
+        color: #08142e;
+        text-decoration: none;
+        transform: translateY(-2px);
+        box-shadow: 0 16px 32px rgba(0, 0, 0, 0.2);
+      }
+      .gs-section {
+        padding: 4.5rem 0;
+      }
+      .gs-section--alt {
+        background: #f3f7fb;
+      }
+      .gs-section--cta {
+        background: linear-gradient(135deg, #f3f7fb 0%, #ffffff 100%);
+      }
+      .gs-section__header {
+        max-width: 720px;
+        margin-bottom: 3rem;
+      }
+      .gs-section__header h2 {
+        font-size: clamp(1.75rem, 3vw, 2.5rem);
+        font-weight: 700;
+        margin-bottom: 1rem;
+      }
+      .gs-section__header p {
+        font-size: 1.05rem;
+        color: #4c5a6b;
+        margin-bottom: 0;
+      }
+      .gs-card-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+        gap: 1.75rem;
+      }
+      .gs-card {
+        background: #fff;
+        border-radius: 1rem;
+        padding: 2rem;
+        box-shadow: 0 18px 40px rgba(15, 31, 47, 0.08);
+        display: flex;
+        flex-direction: column;
+        gap: 1.25rem;
+      }
+      .gs-card h3 {
+        font-size: 1.35rem;
+        font-weight: 700;
+        margin-bottom: 0.25rem;
+      }
+      .gs-card p {
+        color: #4c5a6b;
+        margin-bottom: 0;
+      }
+      .gs-card__links {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+        display: grid;
+        gap: 0.75rem;
+      }
+      .gs-card__links a {
+        font-weight: 600;
+        color: #0f4c81;
+        text-decoration: none;
+        display: inline-flex;
+        align-items: center;
+      }
+      .gs-card__links a::after {
+        content: '\2192';
+        font-size: 0.9em;
+        margin-left: 0.4rem;
+        transition: transform 0.2s ease;
+      }
+      .gs-card__links a:hover::after,
+      .gs-card__links a:focus::after {
+        transform: translateX(4px);
+      }
+      .gs-hub-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+        gap: 1.5rem;
+      }
+      .gs-hub {
+        background: #fff;
+        border-radius: 1.25rem;
+        padding: 2.5rem 2rem;
+        text-decoration: none;
+        color: inherit;
+        box-shadow: 0 20px 40px rgba(15, 31, 47, 0.12);
+        transition: transform 0.25s ease, box-shadow 0.25s ease;
+        display: flex;
+        flex-direction: column;
+        gap: 1rem;
+      }
+      .gs-hub:hover,
+      .gs-hub:focus {
+        transform: translateY(-4px);
+        box-shadow: 0 24px 48px rgba(15, 31, 47, 0.18);
+        text-decoration: none;
+      }
+      .gs-hub__eyebrow {
+        text-transform: uppercase;
+        letter-spacing: 0.08em;
+        font-size: 0.75rem;
+        font-weight: 600;
+        color: #0f4c81;
+      }
+      .gs-hub h3 {
+        font-size: 1.4rem;
+        font-weight: 700;
+        margin-bottom: 0;
+      }
+      .gs-hub p {
+        margin-bottom: 0;
+        color: #4c5a6b;
+      }
+      .gs-hub__cta {
+        font-weight: 600;
+        color: #0f4c81;
+      }
+      .gs-latest-grid {
+        display: grid;
+        gap: 1.5rem;
+      }
+      @media (min-width: 768px) {
+        .gs-latest-grid {
+          grid-template-columns: repeat(3, 1fr);
+        }
+      }
+      .gs-latest {
+        background: #fff;
+        border-radius: 1rem;
+        padding: 1.75rem;
+        box-shadow: 0 18px 36px rgba(15, 31, 47, 0.08);
+        display: flex;
+        flex-direction: column;
+        gap: 0.75rem;
+      }
+      .gs-latest__meta {
+        font-size: 0.85rem;
+        text-transform: uppercase;
+        letter-spacing: 0.08em;
+        color: #7b8899;
+        margin-bottom: 0;
+      }
+      .gs-latest__title {
+        font-size: 1.2rem;
+        margin-bottom: 0;
+      }
+      .gs-latest__title a {
+        color: #0f1f2f;
+        text-decoration: none;
+      }
+      .gs-latest__title a:hover,
+      .gs-latest__title a:focus {
+        color: #0f4c81;
+        text-decoration: underline;
+      }
+      .gs-latest__excerpt {
+        margin-bottom: 0;
+        color: #4c5a6b;
+      }
+      .gs-cta-panel {
+        background: #0f4c81;
+        color: #fff;
+        border-radius: 1.5rem;
+        padding: 3rem;
+        display: flex;
+        flex-direction: column;
+        gap: 2rem;
+        box-shadow: 0 24px 48px rgba(15, 31, 47, 0.2);
+      }
+      @media (min-width: 768px) {
+        .gs-cta-panel {
+          flex-direction: row;
+          justify-content: space-between;
+          align-items: center;
+        }
+      }
+      .gs-cta-panel__content {
+        max-width: 520px;
+      }
+      .gs-cta-panel__content h2 {
+        font-size: 2rem;
+        margin-bottom: 1rem;
+      }
+      .gs-cta-panel__content p {
+        margin-bottom: 0;
+        color: rgba(255, 255, 255, 0.85);
+        font-size: 1.05rem;
+      }
+      .gs-cta-panel__actions {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 1rem;
+      }
+      .gs-link-pill--dark {
+        background: #fff;
+        color: #0f4c81;
+        box-shadow: none;
+      }
+      .gs-link-pill--dark:hover,
+      .gs-link-pill--dark:focus {
+        color: #0f4c81;
+        box-shadow: 0 12px 24px rgba(0, 0, 0, 0.15);
+      }
+      .gs-link-pill--ghost {
+        background: transparent;
+        border: 2px solid rgba(255, 255, 255, 0.7);
+        color: #fff;
+        box-shadow: none;
+      }
+      .gs-link-pill--ghost:hover,
+      .gs-link-pill--ghost:focus {
+        color: #fff;
+        border-color: #fff;
+        box-shadow: 0 12px 24px rgba(0, 0, 0, 0.15);
+      }
+      @media (max-width: 767px) {
+        .gs-hero {
+          padding: 5rem 0 4rem;
+        }
+        .gs-card,
+        .gs-hub,
+        .gs-latest {
+          padding: 1.75rem;
+        }
+      }
+      footer {
+        padding: 2rem 0;
+        background: #08142e;
+        color: rgba(255, 255, 255, 0.7);
+        text-align: center;
+      }
+    </style>
+  </head>
+  <body>
+    <nav class="navbar navbar-expand-lg navbar-light fixed-top bg-white shadow-sm" id="mainNav">
+      <div class="container">
+        <a class="navbar-brand d-flex align-items-center" href="/">
+          <img src="../img/jh_logo.svg" alt="Jack High Bowls" width="45" height="45" />
+          Jack High Bowls
+        </a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarResponsive">
+          <ul class="navbar-nav ml-auto">
+            <li class="nav-item"><a class="nav-link" href="/about-us">About</a></li>
+            <li class="nav-item"><a class="nav-link" href="/guides">Guides</a></li>
+            <li class="nav-item"><a class="nav-link" href="/reviews">Reviews</a></li>
+            <li class="nav-item"><a class="nav-link" href="/help-and-support">Help And Support</a></li>
+            <li class="nav-item"><a class="nav-link" href="/posts">Downloadable Drill Pack</a></li>
+            <li class="nav-item"><a class="nav-link" href="/contact">Contact</a></li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+
+    <main class="getting-started">
+      <section class="gs-hero">
+        <div class="gs-hero__pattern" aria-hidden="true"></div>
+        <div class="container">
+          <div class="gs-hero__inner">
+            <div class="gs-hero__content">
+              <p class="gs-eyebrow">Start with confidence</p>
+              <h1 class="gs-hero__title">Getting Started</h1>
+              <p class="gs-lede">Use these curated routes to get exactly what you need—from understanding the rules to choosing your first set of bowls and sharpening your game-day tactics.</p>
+              <div class="gs-hero__cta">
+                <a class="gs-link-pill" href="/guides/">Learn the basics</a>
+                <a class="gs-link-pill" href="/reviews/">Compare bowls &amp; gear</a>
+                <a class="gs-link-pill" href="/lawn-bowls-downloadable-drill-pack/">Practice with drills</a>
+              </div>
+            </div>
+            <div class="gs-hero__highlights">
+              <div class="gs-hero__highlights-header">
+                <span class="gs-hero__tag">Quick routes</span>
+                <p>Jump straight to the guidance that matches what you're working on today.</p>
+              </div>
+              <div class="gs-hero__highlight-grid">
+                <a class="gs-highlight" href="/guides/">
+                  <span class="gs-highlight__title">New to bowls?</span>
+                  <span class="gs-highlight__description">Follow the crash-course on rules, scoring and the kit you'll need for your first roll-up.</span>
+                  <span class="gs-highlight__cta">Explore →</span>
+                </a>
+                <a class="gs-highlight" href="/reviews/">
+                  <span class="gs-highlight__title">Picking a set?</span>
+                  <span class="gs-highlight__description">Compare the most popular models so you can match the bias profile to your home green.</span>
+                  <span class="gs-highlight__cta">Explore →</span>
+                </a>
+                <a class="gs-highlight" href="/lawn-bowls-downloadable-drill-pack/">
+                  <span class="gs-highlight__title">Want routine drills?</span>
+                  <span class="gs-highlight__description">Download structured practice sessions you can run solo or with club mates.</span>
+                  <span class="gs-highlight__cta">Explore →</span>
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="gs-section">
+        <div class="container">
+          <div class="gs-section__header">
+            <h2>Explore by goal</h2>
+            <p>Pick the path that matches where you are right now. Each hub collects our most useful guides so you can move quickly.</p>
+          </div>
+          <div class="gs-card-grid">
+            <article class="gs-card">
+              <h3>Learn the essentials</h3>
+              <p>Get comfortable with the fundamentals so you can walk onto the green knowing what to expect.</p>
+              <ul class="gs-card__links">
+                <li><a href="/2019/08/22/lawn-bowls-rules/">Lawn bowls rules for beginners</a></li>
+                <li><a href="/2019/04/24/lawn-bowls-rules-and-etiquette/">Rules &amp; etiquette explained</a></li>
+                <li><a href="/2022/02/18/9-tips-for-how-to-play-bowls-well/">9 quick wins for new bowlers</a></li>
+              </ul>
+            </article>
+            <article class="gs-card">
+              <h3>Choose your bowls</h3>
+              <p>Compare models, biases and price points so you can invest in a set that suits your surface and style.</p>
+              <ul class="gs-card__links">
+                <li><a href="/2022/11/24/how-to-choose-a-set-of-lawn-bowls/">How to choose the right set</a></li>
+                <li><a href="/2021/05/07/what-size-lawn-bowl-should-i-use/">Find your perfect bowl size</a></li>
+                <li><a href="/reviews/">Browse in-depth bowl reviews</a></li>
+              </ul>
+            </article>
+            <article class="gs-card">
+              <h3>Practice smarter</h3>
+              <p>Build a training routine that develops consistency, touch and tactical awareness every time you play.</p>
+              <ul class="gs-card__links">
+                <li><a href="/2022/06/20/how-to-get-better-at-lawn-bowls/">Complete improvement guide</a></li>
+                <li><a href="/2023/04/17/line-and-length-in-lawn-bowls-how-to-win-at-bowls/">Master line &amp; length</a></li>
+                <li><a href="/lawn-bowls-downloadable-drill-pack/">Download focused drills</a></li>
+              </ul>
+            </article>
+            <article class="gs-card">
+              <h3>Compete with confidence</h3>
+              <p>Upgrade your match strategy, work with teammates and keep your body ready for long competitions.</p>
+              <ul class="gs-card__links">
+                <li><a href="/2021/07/20/ultimate-guide-to-lawn-bowls-singles-tactics/">Singles tactics playbook</a></li>
+                <li><a href="/2022/03/06/lawn-bowls-triples-tactics/">Triples teamwork essentials</a></li>
+                <li><a href="/2020/11/07/how-to-prepare-for-a-new-lawn-bowls-season/">Season preparation checklist</a></li>
+              </ul>
+            </article>
+          </div>
+        </div>
+      </section>
+
+      <section class="gs-section gs-section--alt">
+        <div class="container">
+          <div class="gs-section__header">
+            <h2>Featured hubs</h2>
+            <p>Dive into a full category to see every article, buyer's guide and comparison we have on the topic.</p>
+          </div>
+          <div class="gs-hub-grid">
+            <a class="gs-hub" href="/help-and-support/">
+              <span class="gs-hub__eyebrow">New player essentials</span>
+              <h3>Help &amp; support centre</h3>
+              <p>Step-by-step answers to the questions every new bowler asks, from footwear to scoring.</p>
+              <span class="gs-hub__cta">Browse help articles &rarr;</span>
+            </a>
+            <a class="gs-hub" href="/guides/">
+              <span class="gs-hub__eyebrow">Deep dives</span>
+              <h3>Technique &amp; strategy guides</h3>
+              <p>Long-form tutorials that unpack shot selection, green reading and how to think like a skip.</p>
+              <span class="gs-hub__cta">Read full guides &rarr;</span>
+            </a>
+            <a class="gs-hub" href="/reviews/">
+              <span class="gs-hub__eyebrow">Gear decisions</span>
+              <h3>Bowls &amp; equipment reviews</h3>
+              <p>Compare leading models side-by-side to understand bias, build quality and who each bowl suits best.</p>
+              <span class="gs-hub__cta">See all reviews &rarr;</span>
+            </a>
+            <a class="gs-hub" href="/all-posts/">
+              <span class="gs-hub__eyebrow">Everything in one place</span>
+              <h3>Explore every article</h3>
+              <p>Not sure where to start? Scan every story we've published and filter by the topic that matters.</p>
+              <span class="gs-hub__cta">View all posts &rarr;</span>
+            </a>
+          </div>
+        </div>
+      </section>
+
+      <section class="gs-section">
+        <div class="container">
+          <div class="gs-section__header">
+            <h2>Latest picks</h2>
+            <p>Stay on top of the newest advice from Jack High Bowls. These articles are the ones our editors are talking about right now.</p>
+          </div>
+          <div class="gs-latest-grid">
+            <article class="gs-latest">
+              <p class="gs-latest__meta">April 25, 2023</p>
+              <h3 class="gs-latest__title"><a href="/2023/04/25/how-to-play-rounders-a-quick-how-to-guide-to-get-you-playing-today/">How to Play Rounders: A Quick How-To Guide to Get You Playing Today</a></h3>
+              <p class="gs-latest__excerpt">Rounders is a fast-paced, fun team sport that anyone can play. Learn the equipment you need, the rules of play, and how to get started with confidence.</p>
+            </article>
+            <article class="gs-latest">
+              <p class="gs-latest__meta">April 25, 2023</p>
+              <h3 class="gs-latest__title"><a href="/2023/04/25/is-rounders-the-same-as-baseball/">Is Rounders the Same as Baseball?</a></h3>
+              <p class="gs-latest__excerpt">Discover the key differences and similarities between rounders and baseball, including equipment, rules, and gameplay strategy for each sport.</p>
+            </article>
+            <article class="gs-latest">
+              <p class="gs-latest__meta">April 25, 2023</p>
+              <h3 class="gs-latest__title"><a href="/2023/04/25/rounders-vs-cricket-what-are-the-differences/">Rounders vs Cricket: What Are the Differences?</a></h3>
+              <p class="gs-latest__excerpt">Compare rounders and cricket side-by-side to understand how scoring, fielding positions, and batting differ between the two sports.</p>
+            </article>
+          </div>
+        </div>
+      </section>
+
+      <section class="gs-section gs-section--cta">
+        <div class="container">
+          <div class="gs-cta-panel">
+            <div class="gs-cta-panel__content">
+              <h2>Need something specific?</h2>
+              <p>Tell us what you're working on and we'll point you towards the right advice, drills or gear. We're happy to make personalised recommendations.</p>
+            </div>
+            <div class="gs-cta-panel__actions">
+              <a class="gs-link-pill gs-link-pill--dark" href="/contact/">Contact the team</a>
+              <a class="gs-link-pill gs-link-pill--ghost" href="/advertisers/">Partner with Jack High Bowls</a>
+            </div>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <footer>
+      &copy; Jack High Bowls. Preview generated without Jekyll build pipeline.
+    </footer>
+  </body>
+</html>
