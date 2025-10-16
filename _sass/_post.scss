@@ -1,13 +1,10 @@
-$post-hero-gradient: radial-gradient(circle at top right, rgba(79, 124, 255, 0.25), transparent 60%),
-  linear-gradient(135deg, $home-primary 0%, #19204b 100%);
-
 .masthead.post-hero {
   margin-bottom: 0;
   padding-bottom: 0;
 }
 
 .post-hero {
-  background: $post-hero-gradient;
+  background: $site-hero-gradient;
   color: #fff;
   padding: 6rem 0 5rem;
   position: relative;
@@ -87,6 +84,32 @@ $post-hero-gradient: radial-gradient(circle at top right, rgba(79, 124, 255, 0.2
   font-size: 1.15rem;
   color: rgba(255, 255, 255, 0.85);
   margin-bottom: 2rem;
+}
+
+.review-methodology-callout {
+  margin-bottom: 2rem;
+  padding: 0.9rem 1.25rem;
+  border-radius: 0.85rem;
+  background: rgba(15, 23, 42, 0.32);
+  color: rgba(255, 255, 255, 0.9);
+  font-size: 0.95rem;
+}
+
+.review-methodology-callout strong {
+  color: #ffe081;
+  font-weight: 700;
+}
+
+.review-methodology-callout a {
+  color: #fff;
+  font-weight: 600;
+  text-decoration: underline;
+}
+
+.review-methodology-callout a:hover,
+.review-methodology-callout a:focus {
+  color: #8dd6ff;
+  text-decoration: underline;
 }
 
 .post-hero__meta {
