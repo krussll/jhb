@@ -4,73 +4,250 @@ layout: default
 
 <!-- Page Header -->
 {% if page.background %}
-<header class="masthead" style="background-image: url('{{ page.background | prepend: site.baseurl | replace: '//', '/' }}')">
-  {% else %}
-  <header class="masthead">
-    {% endif %}
-    <div class="overlay"></div>
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-8 col-md-10 mx-auto">
-          <div class="page-heading">
-            <h1>{{ site.title }}</h1>
-            {% if site.description %}
-            <span class="subheading">{{ site.description }}</span>
-            {% endif %}
-            <a class="btn btn-light mt-3" href="{{ site.baseurl }}/getting-started">START HERE</a>
+<header class="masthead home-hero" style="background-image: url('{{ page.background | prepend: site.baseurl | replace: '//', '/' }}')">
+{% else %}
+<header class="masthead home-hero">
+{% endif %}
+  <div class="overlay"></div>
+  <div class="container">
+    <div class="row">
+      <div class="col-xl-8 col-lg-9 col-md-10 mx-auto">
+        <div class="page-heading home-hero-heading">
+          <h1>{{ site.title }}</h1>
+          {% if site.description %}
+          <p class="home-hero-subheading">{{ site.description }}</p>
+          {% endif %}
+          <div class="home-hero-actions">
+            <a class="btn btn-primary btn-lg" href="{{ "/getting-started" | relative_url }}">Start Here</a>
+            <a class="btn btn-outline-light btn-lg" href="{{ "/guides" | relative_url }}">Guides</a>
+            <a class="btn btn-outline-light btn-lg" href="{{ "/reviews" | relative_url }}">Reviews</a>
           </div>
         </div>
       </div>
     </div>
-  </header>
+  </div>
+</header>
 
-  <div class="container">
-    <!-- thomasgriffin.com -->
-    
-    <!-- lead magnet -->
-    
-    <!-- quote -->
-    
-    <!-- intro to me -->
-
-    <!-- Home Post List -->
-    <div class="row">
-      <div class="col-lg-8 col-md-10 mx-auto">
-
-        
-        {% for post in site.posts limit : 5 %}
-
-        <article class="post-preview">
-          <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
-            <h2 class="post-title">{{ post.title }}</h2>
-            {% if post.subtitle %}
-            <h3 class="post-subtitle">{{ post.subtitle }}</h3>
-            {% else %}
-            <h3 class="post-subtitle">{{ post.excerpt | strip_html | truncatewords: 15 }}</h3>
-            {% endif %}
-          </a>
-          <p class="post-meta">Posted by
-            {% if post.author %}
-            {{ post.author }}
-            {% else %}
-            {{ site.author }}
-            {% endif %}
-            on
-            {{ post.date | date: '%B %d, %Y' }} &middot; {% include read_time.html content=post.content %}            
-          </p>
-        </article>
-
-        <hr>
-
-        {% endfor %}
-
-        <!-- Pager -->
-        <div class="clearfix">
-          <a class="btn btn-primary float-right" href="{{"/posts" | relative_url }}">View All Posts &rarr;</a>
+<main class="home-main">
+  <section class="home-section home-intro">
+    <div class="container">
+      <div class="row align-items-center">
+        <div class="col-lg-7">
+          <div class="home-intro-copy">
+            <p>Hi! My name is Reece and I created Jack High Bowls to provide a useful resource for bowls related product reviews and buying guides.</p>
+            <p>Choosing the right equipment you need to play is a daunting experience, especially for new bowlers. No one wants to feel conned, or like they are making a huge mistake and wasting their money. This is what I aim to help with. Helpful, fluff-free reviews that explains the key pain-points and features in a simple to understand and friendly manner.</p>
+            <p>With many years of experience under my belt I hope I can help you select the right equipment, and who knows, maybe improve your game along the way!</p>
+            <div class="home-intro-links">
+              <a class="btn btn-primary" href="{{ "/guides" | relative_url }}">All Guides</a>
+              <a class="btn btn-outline-primary" href="{{ "/help-and-support" | relative_url }}">Help and Support</a>
+            </div>
+          </div>
         </div>
-
+        <div class="col-lg-5 d-none d-lg-block">
+          <div class="home-placeholder" role="img" aria-label="Placeholder for Jack High Bowls imagery"></div>
+        </div>
       </div>
     </div>
+  </section>
 
-    <!-- final quote -->
-  </div>
+  <section class="home-section home-pillars bg-light">
+    <div class="container">
+      <div class="row mb-4">
+        <div class="col-lg-8 mx-auto text-center">
+          <h2 class="home-section-title">Essential Guides &amp; Reviews</h2>
+          <p class="home-section-subtitle">Our guides and reviews will help you choose what will work best for you.</p>
+        </div>
+      </div>
+      <div class="row">
+        {% assign beginner_post = site.posts | where: "title", "Best Lawn Bowls For Beginners" | first %}
+        {% if beginner_post %}
+        <div class="col-md-4 mb-4">
+          <div class="home-card h-100">
+            <div class="home-card-placeholder" aria-hidden="true"></div>
+            <div class="home-card-body">
+              <h3 class="home-card-title">{{ beginner_post.title }}</h3>
+              <p class="home-card-text">{{ beginner_post.excerpt | strip_html | truncatewords: 28 }}</p>
+            </div>
+            <div class="home-card-footer">
+              <a class="btn btn-outline-primary btn-block" href="{{ beginner_post.url | relative_url }}">Read More</a>
+            </div>
+          </div>
+        </div>
+        {% endif %}
+
+        {% assign weight_post = site.posts | where: "title", "Ultimate Guide To Weight Control In Lawn Bowls | Pendulum Swing Or Delivery Stance" | first %}
+        {% if weight_post %}
+        <div class="col-md-4 mb-4">
+          <div class="home-card h-100">
+            <div class="home-card-placeholder" aria-hidden="true"></div>
+            <div class="home-card-body">
+              <h3 class="home-card-title">{{ weight_post.title }}</h3>
+              <p class="home-card-text">{{ weight_post.excerpt | strip_html | truncatewords: 28 }}</p>
+            </div>
+            <div class="home-card-footer">
+              <a class="btn btn-outline-primary btn-block" href="{{ weight_post.url | relative_url }}">Read More</a>
+            </div>
+          </div>
+        </div>
+        {% endif %}
+
+        {% assign lignoid_post = site.posts | where: "title", "Taylor Lignoid Lawn Bowls Review" | first %}
+        {% if lignoid_post %}
+        <div class="col-md-4 mb-4">
+          <div class="home-card h-100">
+            <div class="home-card-placeholder" aria-hidden="true"></div>
+            <div class="home-card-body">
+              <h3 class="home-card-title">{{ lignoid_post.title }}</h3>
+              <p class="home-card-text">{{ lignoid_post.excerpt | strip_html | truncatewords: 28 }}</p>
+            </div>
+            <div class="home-card-footer">
+              <a class="btn btn-outline-primary btn-block" href="{{ lignoid_post.url | relative_url }}">Read More</a>
+            </div>
+          </div>
+        </div>
+        {% endif %}
+      </div>
+    </div>
+  </section>
+
+  <section class="home-section home-categories">
+    <div class="container">
+      <div class="row mb-4">
+        <div class="col-lg-8 mx-auto text-center">
+          <h2 class="home-section-title">Browse By Category</h2>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-6 col-xl-3 mb-4">
+          <div class="home-feature-card h-100">
+            <div class="home-card-placeholder" aria-hidden="true"></div>
+            <div class="home-card-body">
+              <h3 class="home-card-title">Guides</h3>
+              <p class="home-card-text">Bringing you the best online bowls reviews and guides for players of all abilities. Improve your game with the best equipment, tips and tricks covering Indoor, Lawn and Crown Green Bowls.</p>
+            </div>
+            <div class="home-card-footer">
+              <a class="btn btn-outline-primary btn-block" href="{{ "/guides" | relative_url }}">Explore Guides</a>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-6 col-xl-3 mb-4">
+          <div class="home-feature-card h-100">
+            <div class="home-card-placeholder" aria-hidden="true"></div>
+            <div class="home-card-body">
+              <h3 class="home-card-title">Reviews</h3>
+              <p class="home-card-text">Helpful, fluff-free reviews that explains the key pain-points and features in a simple to understand and friendly manner.</p>
+            </div>
+            <div class="home-card-footer">
+              <a class="btn btn-outline-primary btn-block" href="{{ "/reviews" | relative_url }}">See Reviews</a>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-6 col-xl-3 mb-4">
+          <div class="home-feature-card h-100">
+            <div class="home-card-placeholder" aria-hidden="true"></div>
+            <div class="home-card-body">
+              <h3 class="home-card-title">Help and Support</h3>
+              <p class="home-card-text">Selecting your first set of bowls can be a bit of a minefield. With over 30 models currently on sale, all with unique characteristics, in 8 different sizes, and a multitude of colours to choose from it’s no wonder we get intimidated!</p>
+            </div>
+            <div class="home-card-footer">
+              <a class="btn btn-outline-primary btn-block" href="{{ "/help-and-support" | relative_url }}">Help and Support</a>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-6 col-xl-3 mb-4">
+          <div class="home-feature-card h-100">
+            <div class="home-card-placeholder" aria-hidden="true"></div>
+            <div class="home-card-body">
+              <h3 class="home-card-title">Drill Pack</h3>
+              <p class="home-card-text">This pack contains 20 drills to help you improve your game. Having trouble controlling your line? No idea where to start with weight control?</p>
+            </div>
+            <div class="home-card-footer">
+              <a class="btn btn-outline-primary btn-block" href="{{ "/lawn-bowls-downloadable-drill-pack" | relative_url }}">Drill Pack</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="home-section home-latest bg-light">
+    <div class="container">
+      <div class="row mb-4">
+        <div class="col-lg-8 mx-auto text-center">
+          <h2 class="home-section-title">Latest Articles</h2>
+        </div>
+      </div>
+      <div class="row">
+        {% assign latest_posts = site.posts | slice: 0, 6 %}
+        {% for post in latest_posts %}
+        <div class="col-md-6 col-lg-4 mb-4">
+          <div class="home-article-card h-100">
+            <div class="home-card-placeholder" aria-hidden="true"></div>
+            <div class="home-card-body">
+              <h3 class="home-card-title"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+              <p class="home-card-text">{{ post.excerpt | strip_html | truncatewords: 24 }}</p>
+            </div>
+            <div class="home-card-meta">
+              <span>{{ post.date | date: '%B %d, %Y' }}</span>
+              <span>&middot;</span>
+              {% include read_time.html content=post.content %}
+            </div>
+          </div>
+        </div>
+        {% endfor %}
+      </div>
+      <div class="text-center mt-4">
+        <a class="btn btn-primary" href="{{ "/posts" | relative_url }}">View All Posts</a>
+      </div>
+    </div>
+  </section>
+
+  <section class="home-section home-comparisons">
+    <div class="container">
+      <div class="row mb-4">
+        <div class="col-lg-8 mx-auto text-center">
+          <h2 class="home-section-title">Popular Comparisons</h2>
+          <p class="home-section-subtitle">Compare the most loved models and find out which is best for how you play.</p>
+        </div>
+      </div>
+      <div class="row">
+        {% assign comparison_posts = site.posts | where_exp: "post", "post.title contains 'Which is Best'" | slice: 0, 6 %}
+        {% for post in comparison_posts %}
+        <div class="col-md-6 col-lg-4 mb-3">
+          <div class="home-list-card h-100">
+            <h3 class="home-card-title"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+            <p class="home-card-text">{{ post.excerpt | strip_html | truncatewords: 20 }}</p>
+          </div>
+        </div>
+        {% endfor %}
+      </div>
+    </div>
+  </section>
+
+  <section class="home-section home-help bg-light">
+    <div class="container">
+      <div class="row mb-4">
+        <div class="col-lg-8 mx-auto text-center">
+          <h2 class="home-section-title">Skill Boosters</h2>
+        </div>
+      </div>
+      <div class="row">
+        {% assign help_posts = site.posts | where_exp: "post", "post.categories contains 'help'" | slice: 0, 3 %}
+        {% for post in help_posts %}
+        <div class="col-md-4 mb-4">
+          <div class="home-article-card h-100">
+            <div class="home-card-placeholder" aria-hidden="true"></div>
+            <div class="home-card-body">
+              <h3 class="home-card-title"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+              <p class="home-card-text">{{ post.excerpt | strip_html | truncatewords: 22 }}</p>
+            </div>
+            <div class="home-card-meta">
+              <span>{{ post.date | date: '%B %d, %Y' }}</span>
+            </div>
+          </div>
+        </div>
+        {% endfor %}
+      </div>
+    </div>
+  </section>
+</main>
