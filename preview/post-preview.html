@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>Jack High Bowls — Post Template Preview</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <style>
+      *, *::before, *::after { box-sizing: border-box; }
+      body {
+        margin: 0;
+        font-family: "Open Sans", Arial, sans-serif;
+        background: #f7f8fd;
+        color: #0f172a;
+        line-height: 1.7;
+      }
+      img { max-width: 100%; display: block; border: 0; }
+      a { color: inherit; }
+      .container {
+        width: min(100%, 960px);
+        margin: 0 auto;
+        padding: 0 1.5rem;
+      }
+      .btn {
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        font-weight: 600;
+        border-radius: 999px;
+        padding: 0.75rem 1.5rem;
+        text-decoration: none;
+        border: 1px solid transparent;
+        cursor: pointer;
+        transition: all 0.2s ease;
+      }
+      .btn-outline-primary {
+        border-color: rgba(79, 124, 255, 0.45);
+        color: #4f7cff;
+        background: transparent;
+      }
+      .btn-outline-primary:hover {
+        background: #4f7cff;
+        color: #fff;
+      }
+      .fas { font-style: normal; }
+      .fa-clock::before { content: "⏰"; }
+      .fa-book-open::before { content: "📖"; }
+      .fa-arrow-left::before { content: "←"; }
+      .fa-arrow-right::before { content: "→"; }
+      time { font-weight: 600; }
+      @media (max-width: 600px) {
+        .container { padding: 0 1.25rem; }
+      }
+    </style>
+    <link rel="stylesheet" href="../tools/post.css" />
+  </head>
+  <body>
+    <header class="masthead post-hero">
+      <div class="container">
+        <div class="post-hero__inner">
+          <div class="post-hero__content page-titles">
+            <div class="post-heading post-hero__heading">
+              <span class="category post-hero__eyebrow">Gear reviews</span>
+              <h1 class="post-hero__title">Taylor Legacy SL vs Henselite Tiger TX: which is best?</h1>
+              <p class="post-hero__subtitle">We put two heavyweight draw shot bowls head-to-head so you can pick the line and feel that suits your game.</p>
+              <div class="post-hero__meta">
+                <span class="post-hero__meta-item"><i class="fas fa-clock" aria-hidden="true"></i> Last updated <time datetime="2023-03-20" itemprop="dateModified">20 March 2023</time></span>
+                <span class="post-hero__meta-separator" aria-hidden="true">&middot;</span>
+                <span class="post-hero__meta-item"><i class="fas fa-book-open" aria-hidden="true"></i> 7 min read</span>
+                <meta itemprop="dateModified" content="2023-03-20" />
+              </div>
+            </div>
+          </div>
+          <div class="post-hero__media page-img">
+            <img src="https://images.unsplash.com/photo-1528747045269-390fe33c19c6?auto=format&fit=crop&w=900&q=80" alt="Colourful lawn bowls resting on the green" />
+          </div>
+        </div>
+      </div>
+    </header>
+
+    <main class="post-main">
+      <div class="container">
+        <div class="row justify-content-center">
+          <div class="col-lg-8 col-md-10">
+            <article class="post-article">
+              <div class="post-article__body">
+                <p>If you are weighing up two modern heavyweights, you need a clear look at how each model behaves end after end. We matched the Taylor Legacy SL against the Henselite Tiger TX to see which bowl gives you the confidence to attack the head in changing conditions.</p>
+                <h2>Bias and line shape</h2>
+                <p>The Legacy SL keeps a steady, medium bias that feels predictable on club greens. The Tiger TX holds its line longer before sweeping late, which is brilliant for drawing around traffic but needs a confident release.</p>
+                <h3>Weight control</h3>
+                <p>Tiger TX’s profile makes it a touch more forgiving on heavy surfaces. The Legacy SL rewards a smooth finish with minimal wobble, making it a favourite for leads chasing consistency.</p>
+                <p>Need more help choosing bowls? Explore our <a href="#">complete comparison library</a> for honest takes on today’s most popular sets.</p>
+              </div>
+              <hr class="post-article__divider" />
+              <nav class="post-article__pagination clearfix" aria-label="Post navigation">
+                <a class="btn btn-outline-primary post-article__pager post-article__pager--prev" href="#">
+                  <i class="fas fa-arrow-left" aria-hidden="true"></i>
+                  <span>Previous<span class="d-none d-md-inline"> Post</span></span>
+                </a>
+                <a class="btn btn-outline-primary post-article__pager post-article__pager--next" href="#">
+                  <span>Next<span class="d-none d-md-inline"> Post</span></span>
+                  <i class="fas fa-arrow-right" aria-hidden="true"></i>
+                </a>
+              </nav>
+            </article>
+          </div>
+        </div>
+      </div>
+    </main>
+  </body>
+</html>

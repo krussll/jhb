@@ -2,16 +2,43 @@
 layout: default
 ---
 
-<!-- Page Header -->
-
-<header class="masthead">
-  
-      <div class="row justify-content-center">
+<header class="masthead post-hero">
+  <div class="container">
+      <div class="post-hero__inner">
+        <div class="post-hero__content page-titles">
+          <div class="post-heading post-hero__heading">
+          {% assign category = page.categories | sort | first %}
+          {% if category %}
+          <span class="category post-hero__eyebrow">{{ category | replace: '-', ' ' }}</span>
+          {% endif %}
+          <h1 class="post-hero__title">{{ page.title }}</h1>
+          {% if page.subtitle %}
+          <p class="post-hero__subtitle">{{ page.subtitle }}</p>
+          {% elsif page.excerpt %}
+          <p class="post-hero__subtitle">{{ page.excerpt | strip_html | truncatewords: 32 }}</p>
+          {% endif %}
+          <div class="post-hero__meta">
+          {% assign updated_date = page.last_modified_at | default: page.date %}
+            <span class="post-hero__meta-item">
+              <i class="fas fa-clock" aria-hidden="true"></i>
+              Last updated
+              <time datetime="{{ updated_date | date_to_xmlschema }}" itemprop="dateModified">{{ updated_date | date: '%d %B %Y' }}</time>
+            </span>
+            <span class="post-hero__meta-separator" aria-hidden="true">&middot;</span>
+            <span class="post-hero__meta-item">
+              <i class="fas fa-book-open" aria-hidden="true"></i>
+              {% include read_time.html content=page.content %}
+            </span>
+            <meta itemprop="dateModified" content="{{ updated_date | date_to_xmlschema }}">
+          </div>
+          </div>
+        </div>
         {% if page.background %}
-        <div class="col-lg-6 col-md-12 page-img"> 
-          <img src="{{ page.background | prepend: site.baseurl | replace: '//', '/' }}" />
+        <div class="post-hero__media page-img">
+          <img src="{{ page.background | prepend: site.baseurl | replace: '//', '/' }}" alt="{{ page.title }} featured image" loading="lazy">
         </div>
         {% endif %}
+
           
         <div class="col-lg-6 col-md-12 page-titles">
             <div class="post-heading">
@@ -38,31 +65,34 @@ layout: default
             </div>
         </div>
       </div>
-  </header>
+  </div>
+</header>
 
+<main class="post-main">
   <div class="container">
-    <div class="row">
-      <div class="col-lg-8 col-md-10 mx-auto">
-
-        {{ content }}
-
-        {% include author-bio.html author=page.author %}
-
-        <hr>
-
-        <div class="clearfix">
-
-          {% if page.previous.url %}
-          <a class="btn btn-primary float-left" href="{{ page.previous.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{ page.previous.title }}">&larr; Previous<span class="d-none d-md-inline">
-              Post</span></a>
-          {% endif %}
-          {% if page.next.url %}
-          <a class="btn btn-primary float-right" href="{{ page.next.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{ page.next.title }}">Next<span class="d-none d-md-inline">
-              Post</span> &rarr;</a>
-          {% endif %}
-
-        </div>
-
+    <div class="row justify-content-center">
+      <div class="col-lg-8 col-md-10">
+        <article class="post-article">
+          <div class="post-article__body">
+            {{ content }}
+          </div>
+          <hr class="post-article__divider">
+          <nav class="post-article__pagination clearfix" aria-label="Post navigation">
+            {% if page.previous.url %}
+            <a class="btn btn-outline-primary post-article__pager post-article__pager--prev" href="{{ page.previous.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{ page.previous.title }}">
+              <i class="fas fa-arrow-left" aria-hidden="true"></i>
+              <span>Previous<span class="d-none d-md-inline"> Post</span></span>
+            </a>
+            {% endif %}
+            {% if page.next.url %}
+            <a class="btn btn-outline-primary post-article__pager post-article__pager--next" href="{{ page.next.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{ page.next.title }}">
+              <span>Next<span class="d-none d-md-inline"> Post</span></span>
+              <i class="fas fa-arrow-right" aria-hidden="true"></i>
+            </a>
+            {% endif %}
+          </nav>
+        </article>
       </div>
     </div>
   </div>
+</main>
