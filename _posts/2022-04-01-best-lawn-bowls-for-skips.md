@@ -128,7 +128,7 @@ date: 2022-04-01 13:00:00 -0400
 <!-- wp:block {"ref":2706} /-->
 
 <!-- wp:paragraph -->
-<p>The <a href="https://www.jackhighbowls.com/review/bowls/taylor-international-lawn-bowls-review/">International is the second Taylor</a> model on my list. The International has more bias than the Ace, so is perfect for outdoor greens. </p>
+<p>The <a href="{{ '/bowls/review/taylor-international-lawn-bowls-review/' | relative_url }}">International is the second Taylor</a> model on my list. The International has more bias than the Ace, so is perfect for outdoor greens. </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
