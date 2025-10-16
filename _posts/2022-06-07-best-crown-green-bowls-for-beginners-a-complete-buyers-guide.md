@@ -85,11 +85,9 @@ date: 2022-06-07 13:00:00 -0400
 <figure class="wp-block-image"><img src="{{ '/img/posts/tbp77ONShXNEq_RlNN3px79IrUbNzF53T2WrI0VV0vQBzVUJFgbNlNbmGFGeiJnqX0THG0tCvzRekIh533_lqxkVTb7VRvwlPWFyWjeL3UEGsPmT4OMNGm_2yoGD9pkGWGb2QabRejqTb19q' | prepend: site.baseurl | replace: '//', '/' }}" alt=""/></figure>
 <!-- /wp:image -->
 
-<!-- wp:embed {"url":"https://www.mastersofgames.com/cat/bowls/drakes-pride-bowls-crown-green.htm"} -->
-<figure class="wp-block-embed"><div class="wp-block-embed__wrapper">
-https://www.mastersofgames.com/cat/bowls/drakes-pride-bowls-crown-green.htm
-</div></figure>
-<!-- /wp:embed -->
+<!-- wp:paragraph -->
+<p><a href="https://www.mastersofgames.com/cat/bowls/drakes-pride-bowls-crown-green.htm" rel="noreferrer noopener" target="_blank">View Drakes Pride Professional crown green bowls</a></p>
+<!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
 <p>Drakes Pride bowls have a wider and flatter sole than Taylor's bowls, and some people believe they don't run as far, though they do have more traction. They feel very comfortable in the hand because they are narrow (between the mounts).</p>

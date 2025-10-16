@@ -93,11 +93,11 @@ date: 2020-11-12 13:00:00 -0400
 <p>I would recommend spending some decent time with this exercise, and I would recommend doing it for 10 minutes before each practice.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:embed {"url":"https://www.youtube.com/watch?v=O9jJzAIwh0Q\u0026feature=emb_title","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-https://www.youtube.com/watch?v=O9jJzAIwh0Q&amp;feature=emb_title
-</div></figure>
-<!-- /wp:embed -->
+<!-- wp:html -->
+<div class="video-embed">
+  <iframe src="https://www.youtube.com/embed/O9jJzAIwh0Q" title="Lawn bowls exercises warm-up video" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+<!-- /wp:html -->
 
 <!-- wp:heading {"level":3} -->
 <h3><a href="#stretching-exercises"></a>Stretching exercises</h3>
