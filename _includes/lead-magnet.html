@@ -3,7 +3,7 @@
 {% assign container_class = include.container_class | default: 'container home-lead__container' %}
 {% assign eyebrow = include.eyebrow | default: 'Free playbook' %}
 {% assign heading = include.heading | default: 'Win the weight battle before the mat is set.' %}
-{% assign description %}{{ include.description | default: 'Drop your email in below and we’ll send you the <strong>Weight Control Playbook</strong>—ten quick wins to sharpen your draw weight today—plus insider strategies we only share with subscribers.' }}{% endassign %}
+{% assign description = include.description | default: "Drop your email in below and we’ll send you the <strong>Weight Control Playbook</strong>—ten quick wins to sharpen your draw weight today—plus insider strategies we only share with subscribers." %}
 {% assign benefits = include.benefits | default: site.lead_magnet_benefits %}
 {% assign form_action = include.form_action | default: site.newsletter_form_action %}
 {% assign form_action = form_action | default: '#' %}
