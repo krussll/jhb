@@ -1,0 +1,44 @@
+{% assign wrapper_tag = include.wrapper_tag | default: 'section' %}
+{% assign section_class = include.section_class | default: 'home-section home-lead' %}
+{% assign container_class = include.container_class | default: 'container home-lead__container' %}
+{% assign eyebrow = include.eyebrow | default: 'Free playbook' %}
+{% assign heading = include.heading | default: 'Win the weight battle before the mat is set.' %}
+{% assign description %}{{ include.description | default: 'Drop your email in below and we’ll send you the <strong>Weight Control Playbook</strong>—ten quick wins to sharpen your draw weight today—plus insider strategies we only share with subscribers.' }}{% endassign %}
+{% assign benefits = include.benefits | default: site.lead_magnet_benefits %}
+{% assign form_action = include.form_action | default: site.newsletter_form_action %}
+{% assign form_action = form_action | default: '#' %}
+{% assign button_text = include.button_text | default: 'Email me the playbook' %}
+<{{ wrapper_tag }} class="{{ section_class }}">
+  <div class="{{ container_class | strip }}">
+    <div class="home-lead__inner">
+      <div class="home-lead__copy">
+        <span class="home-section-eyebrow">{{ eyebrow }}</span>
+        <h2>{{ heading }}</h2>
+        <p>{{ description }}</p>
+        <ul class="home-lead__benefits">
+          {% if benefits %}
+            {% for benefit in benefits %}
+              <li><i class="fas fa-check"></i> {{ benefit }}</li>
+            {% endfor %}
+          {% else %}
+            <li><i class="fas fa-envelope-open-text"></i> Weekly tips that keep your weight dialled in end after end.</li>
+            <li><i class="fas fa-bolt"></i> Instant access to drills that build consistency under pressure.</li>
+            <li><i class="fas fa-lock"></i> Exclusive insights not published anywhere on Jack High Bowls.</li>
+          {% endif %}
+        </ul>
+      </div>
+      <form class="home-lead__form" action="{{ form_action }}" method="post" data-netlify="true">
+        <div class="form-group">
+          <label class="sr-only" for="lead-name">Name</label>
+          <input id="lead-name" class="form-control" type="text" name="name" placeholder="Your name">
+        </div>
+        <div class="form-group">
+          <label class="sr-only" for="lead-email">Email address</label>
+          <input id="lead-email" class="form-control" type="email" name="email" placeholder="Email address" required>
+        </div>
+        <button class="btn btn-primary btn-lg" type="submit">{{ button_text }}</button>
+        <p class="home-lead__disclaimer">No spam. Unsubscribe in a click.</p>
+      </form>
+    </div>
+  </div>
+</{{ wrapper_tag }}>
