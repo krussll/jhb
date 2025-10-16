@@ -152,3 +152,11 @@ Start Bootstrap is based on the [Bootstrap](https://getbootstrap.com/) framework
 ## Copyright and License
 
 Copyright 2013-2021 Start Bootstrap LLC. Code released under the [MIT](https://github.com/StartBootstrap/startbootstrap-clean-blog-jekyll/blob/master/LICENSE) license.
+
+## Maintaining post timestamps
+
+Editors must keep each article's "Last updated" metadata aligned with the actual changes that ship to production. The site uses the [`jekyll-last-modified-at`](https://github.com/gjtorikian/jekyll-last-modified-at) plugin to derive a `last_modified_at` value for every page based on the file's most recent Git commit.
+
+* When you edit a post, the plugin automatically recalculates `last_modified_at` the next time the site is built. No additional front matter is required if the file's latest commit already represents the most recent content change.
+* If you need to reflect an update without modifying the body copy (for example, correcting an image or downloadable asset), set a manual override by adding `last_modified_at: YYYY-MM-DD HH:MM:SS +/-TTTT` to the post's front matter. Use ISO 8601 format so Liquid can parse the timestamp.
+* After committing your changes, verify the rendered page shows the correct "Last updated" date and that the `<meta itemprop="dateModified">` element matches. This ensures downstream consumers (search engines, social cards, etc.) receive the accurate modification time.
