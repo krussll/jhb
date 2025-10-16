@@ -1,2 +1,19 @@
 // Import Core Clean Blog SCSS
 @import "../assets/vendor/startbootstrap-clean-blog/scss/styles.scss";
+
+.video-embed {
+  position: relative;
+  padding-bottom: 56.25%;
+  height: 0;
+  overflow: hidden;
+  max-width: 100%;
+  margin-bottom: 1.5rem;
+}
+
+.video-embed iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}

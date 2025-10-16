@@ -61,11 +61,11 @@ date: 2022-07-22 13:00:00 -0400
 <p id="E380">The green is divided into sections, typically six. There will be number markers so each team will easily find their rink. The rinks run the length of the green and are between 4.3m and 5.8m wide (4.7-6.3 yards).</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:embed {"url":"https://www.youtube.com/watch?v=osfImWucLe8","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-https://www.youtube.com/watch?v=osfImWucLe8
-</div></figure>
-<!-- /wp:embed -->
+<!-- wp:html -->
+<div class="video-embed">
+  <iframe src="https://www.youtube.com/embed/osfImWucLe8" title="Lawn bowls green markings video" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+<!-- /wp:html -->
 
 <!-- wp:paragraph -->
 <p id="E384">The exact dimensions of the rinks will be identified by pegs no bigger than 25mm wide (1 inch). The colour of the pegs can vary, but they will be consistent for each rink.</p>

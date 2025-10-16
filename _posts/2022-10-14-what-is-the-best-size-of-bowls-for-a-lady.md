@@ -195,11 +195,11 @@ date: 2022-10-14 13:00:00 -0400
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
-<!-- wp:embed {"url":"https://www.youtube.com/embed/82iFe0KdtG4","type":"rich","providerNameSlug":"embed-handler","responsive":true,"className":"wp-embed-aspect-4-3 wp-has-aspect-ratio"} -->
-<figure class="wp-block-embed is-type-rich is-provider-embed-handler wp-block-embed-embed-handler wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-https://www.youtube.com/embed/82iFe0KdtG4
-</div></figure>
-<!-- /wp:embed -->
+<!-- wp:html -->
+<div class="video-embed">
+  <iframe src="https://www.youtube.com/embed/82iFe0KdtG4" title="Best size lawn bowls video" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+<!-- /wp:html -->
 
 <!-- wp:heading {"level":3} -->
 <h3>Holding the bowl out stretched</h3>
