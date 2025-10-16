@@ -2,13 +2,14 @@
 layout: default
 ---
 
-<header class="post-hero">
+<header class="masthead post-hero">
   <div class="container">
     <div class="post-hero__inner">
       <div class="post-hero__content">
+        <div class="post-heading post-hero__heading">
         {% assign category = page.categories | sort | first %}
         {% if category %}
-        <span class="post-hero__eyebrow">{{ category | replace: '-', ' ' }}</span>
+        <span class="category post-hero__eyebrow">{{ category | replace: '-', ' ' }}</span>
         {% endif %}
         <h1 class="post-hero__title">{{ page.title }}</h1>
         {% if page.subtitle %}
@@ -18,15 +19,17 @@ layout: default
         {% endif %}
         <div class="post-hero__meta">
           <span class="post-hero__meta-item">
-            <i class="fas fa-clock"></i>
-            Last updated <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: '%d %B %Y' }}</time>
+            <i class="fas fa-clock" aria-hidden="true"></i>
+            Last updated
+            <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: '%d %B %Y' }}</time>
           </span>
           <span class="post-hero__meta-separator" aria-hidden="true">&middot;</span>
           <span class="post-hero__meta-item">
-            <i class="fas fa-book-open"></i>
+            <i class="fas fa-book-open" aria-hidden="true"></i>
             {% include read_time.html content=page.content %}
           </span>
           <meta itemprop="dateModified" content="{{ page.date | date: '%Y-%m-%dT%H:%M:%S.%Lz' }}">
+        </div>
         </div>
       </div>
       {% if page.background %}
@@ -40,25 +43,29 @@ layout: default
 
 <main class="post-main">
   <div class="container">
-    <article class="post-article">
-      <div class="post-article__body">
-        {{ content }}
+    <div class="row justify-content-center">
+      <div class="col-lg-8 col-md-10">
+        <article class="post-article">
+          <div class="post-article__body">
+            {{ content }}
+          </div>
+          <hr class="post-article__divider">
+          <nav class="post-article__pagination clearfix" aria-label="Post navigation">
+            {% if page.previous.url %}
+            <a class="btn btn-outline-primary post-article__pager post-article__pager--prev" href="{{ page.previous.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{ page.previous.title }}">
+              <i class="fas fa-arrow-left" aria-hidden="true"></i>
+              <span>Previous<span class="d-none d-md-inline"> Post</span></span>
+            </a>
+            {% endif %}
+            {% if page.next.url %}
+            <a class="btn btn-outline-primary post-article__pager post-article__pager--next" href="{{ page.next.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{ page.next.title }}">
+              <span>Next<span class="d-none d-md-inline"> Post</span></span>
+              <i class="fas fa-arrow-right" aria-hidden="true"></i>
+            </a>
+            {% endif %}
+          </nav>
+        </article>
       </div>
-      <hr class="post-article__divider">
-      <nav class="post-article__pagination" aria-label="Post navigation">
-        {% if page.previous.url %}
-        <a class="btn btn-outline-primary post-article__pager post-article__pager--prev" href="{{ page.previous.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{ page.previous.title }}">
-          <i class="fas fa-arrow-left" aria-hidden="true"></i>
-          <span>Previous<span class="d-none d-md-inline"> Post</span></span>
-        </a>
-        {% endif %}
-        {% if page.next.url %}
-        <a class="btn btn-outline-primary post-article__pager post-article__pager--next" href="{{ page.next.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{ page.next.title }}">
-          <span>Next<span class="d-none d-md-inline"> Post</span></span>
-          <i class="fas fa-arrow-right" aria-hidden="true"></i>
-        </a>
-        {% endif %}
-      </nav>
-    </article>
+    </div>
   </div>
 </main>

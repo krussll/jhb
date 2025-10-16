@@ -1,6 +1,11 @@
 $post-hero-gradient: radial-gradient(circle at top right, rgba(79, 124, 255, 0.25), transparent 60%),
   linear-gradient(135deg, $home-primary 0%, #19204b 100%);
 
+.masthead.post-hero {
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
 .post-hero {
   background: $post-hero-gradient;
   color: #fff;
@@ -32,6 +37,10 @@ $post-hero-gradient: radial-gradient(circle at top right, rgba(79, 124, 255, 0.2
 .post-hero__content {
   flex: 1 1 360px;
   max-width: 720px;
+}
+
+.post-hero__heading {
+  max-width: 640px;
 }
 
 .post-hero__eyebrow {
