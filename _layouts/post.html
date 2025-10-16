@@ -41,32 +41,6 @@ layout: default
           <img src="{{ page.background | prepend: site.baseurl | replace: '//', '/' }}" alt="{{ page.title }} featured image" loading="lazy">
         </div>
         {% endif %}
-
-          
-        <div class="col-lg-6 col-md-12 page-titles">
-            <div class="post-heading">
-              {% assign category = page.categories | sort | first %}
-              <span class="category">{{ category | replace: '-', ' ' }}</span>
-              
-              
-              
-              <h1>{{ page.title }}</h1>
-              {% if page.subtitle %}
-              <h2 class="subheading">{{ page.subtitle }}</h2>
-              {% endif %}
-              {% assign last_updated = page.last_modified_at | default: page.date %}
-              <span class="meta">
-                Last updated: {{ last_updated | date: '%d %B %Y' }} &middot;
-                <br />
-                {% include read_time.html
-                content=page.content %}
-                <meta itemprop="dateModified" content="{{ last_updated | date_to_xmlschema }}">
-              </span>
-              <div class="review-methodology-callout">
-                <strong>How we test:</strong> Every article follows our <a href="{{ '/review-methodology' | relative_url }}">review methodology</a> so you know how we score each product.
-              </div>
-            </div>
-        </div>
       </div>
   </div>
 </header>
@@ -74,7 +48,7 @@ layout: default
 <main class="post-main">
   <div class="container">
     <div class="row justify-content-center">
-      <div class="col-lg-8 col-md-10">
+      <div class="col-md-10">
         <article class="post-article">
           <div class="post-article__body">
             {{ content }}
