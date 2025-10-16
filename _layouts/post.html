@@ -26,11 +26,14 @@ layout: default
               {% endif %}
               <span class="meta">
                 Last updated: {{ page.date | date: '%d %B %Y' }} &middot;
-                <br /> 
+                <br />
                 {% include read_time.html
                 content=page.content %}
                 <meta itemprop="dateModified" content="{{ page.date | date: '%Y-%m-%dT%H:%M:%S.%Lz' }}">
               </span>
+              <div class="review-methodology-callout">
+                <strong>How we test:</strong> Every article follows our <a href="{{ '/review-methodology' | relative_url }}">review methodology</a> so you know how we score each product.
+              </div>
             </div>
         </div>
       </div>
