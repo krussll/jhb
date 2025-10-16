@@ -177,6 +177,24 @@ $post-hero-gradient: radial-gradient(circle at top right, rgba(79, 124, 255, 0.2
   border-color: rgba(15, 23, 42, 0.08);
 }
 
+.post-article .post-lead {
+  margin: 3rem 0;
+  padding: clamp(2.5rem, 5vw, 3.5rem);
+  border-radius: 1.5rem;
+}
+
+.post-article .post-lead .home-lead__container {
+  padding: 0;
+}
+
+.post-article .post-lead .home-lead__inner {
+  gap: 2.5rem;
+}
+
+.post-article .post-lead .home-lead__form {
+  box-shadow: none;
+}
+
 .post-article__pagination {
   display: flex;
   flex-wrap: wrap;

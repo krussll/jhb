@@ -54,6 +54,7 @@ layout: default
             {{ content }}
           </div>
           <hr class="post-article__divider">
+          {% include lead-magnet.html section_class="home-lead post-lead" container_class="home-lead__container" button_text="Email me the playbook" %}
           <nav class="post-article__pagination clearfix" aria-label="Post navigation">
             {% if page.previous.url %}
             <a class="btn btn-outline-primary post-article__pager post-article__pager--prev" href="{{ page.previous.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{ page.previous.title }}">
