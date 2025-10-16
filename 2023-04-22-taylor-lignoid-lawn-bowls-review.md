@@ -92,7 +92,7 @@ date: 2023-04-22 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Whilst a lot of attention is paid to their mid range bowls (the <a href="https://www.jackhighbowls.com/review/bowls/taylor-ace-review/" data-type="post" data-id="329">Taylor Ace</a>, <a href="https://www.jackhighbowls.com/review/bowls/taylor-blaze-lawn-bowls-review/" data-type="post" data-id="258">Blaze</a> and <a href="https://www.jackhighbowls.com/review/bowls/taylor-vector-vs-review/" data-type="post" data-id="376">Vector VS</a>), less is said about their wider biased bowls. </p>
+<p>Whilst a lot of attention is paid to their mid range bowls (the <a href="{{ '/bowls/review/taylor-ace-review/' | relative_url }}" data-type="post" data-id="329">Taylor Ace</a>, <a href="{{ '/bowls/review/taylor-blaze-lawn-bowls-review/' | relative_url }}" data-type="post" data-id="258">Blaze</a> and <a href="{{ '/bowls/review/taylor-vector-vs-review/' | relative_url }}" data-type="post" data-id="376">Vector VS</a>), less is said about their wider biased bowls. </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

@@ -24,12 +24,13 @@ layout: default
               {% if page.subtitle %}
               <h2 class="subheading">{{ page.subtitle }}</h2>
               {% endif %}
+              {% assign last_updated = page.last_modified_at | default: page.date %}
               <span class="meta">
-                Last updated: {{ page.date | date: '%d %B %Y' }} &middot;
+                Last updated: {{ last_updated | date: '%d %B %Y' }} &middot;
                 <br />
                 {% include read_time.html
                 content=page.content %}
-                <meta itemprop="dateModified" content="{{ page.date | date: '%Y-%m-%dT%H:%M:%S.%Lz' }}">
+                <meta itemprop="dateModified" content="{{ last_updated | date_to_xmlschema }}">
               </span>
               <div class="review-methodology-callout">
                 <strong>How we test:</strong> Every article follows our <a href="{{ '/review-methodology' | relative_url }}">review methodology</a> so you know how we score each product.
@@ -44,6 +45,8 @@ layout: default
       <div class="col-lg-8 col-md-10 mx-auto">
 
         {{ content }}
+
+        {% include author-bio.html author=page.author %}
 
         <hr>
 

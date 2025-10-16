@@ -1,0 +1,44 @@
+{% assign author_id = include.author | default: page.author %}
+{% assign author = site.data.authors[author_id] %}
+{% if author %}
+<section class="author-bio" aria-labelledby="author-bio-title-{{ author_id }}">
+  {% if author.headshot %}
+  <div class="author-bio__media">
+    <img
+      class="author-bio__image"
+      src="{{ '/img/' | append: author.headshot | prepend: site.baseurl | replace: '//', '/' }}"
+      alt="{{ author.name }} headshot"
+      loading="lazy"
+    />
+  </div>
+  {% endif %}
+  <div class="author-bio__content">
+    <h2 class="author-bio__heading" id="author-bio-title-{{ author_id }}">About the author</h2>
+    <p class="author-bio__name">{{ author.name }}</p>
+    {% if author.experience %}
+    <p class="author-bio__experience"><strong>Bowling experience:</strong> {{ author.experience }}</p>
+    {% endif %}
+    {% if author.highlights %}
+    <div class="author-bio__section">
+      <p class="author-bio__label"><strong>Competitive highlights</strong></p>
+      <ul class="author-bio__list">
+        {% for highlight in author.highlights %}
+        <li>{{ highlight }}</li>
+        {% endfor %}
+      </ul>
+    </div>
+    {% endif %}
+    {% if author.certifications %}
+    <div class="author-bio__section">
+      <p class="author-bio__label"><strong>Certifications</strong></p>
+      <ul class="author-bio__list">
+        {% for certification in author.certifications %}
+        <li>{{ certification }}</li>
+        {% endfor %}
+      </ul>
+    </div>
+    {% endif %}
+    <a class="author-bio__link" href="{{ '/about-us.html' | prepend: site.baseurl | replace: '//', '/' }}">Meet the full Jack High Bowls team</a>
+  </div>
+</section>
+{% endif %}
