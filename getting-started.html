@@ -1,13 +1,252 @@
 ---
-layout: page
+layout: default
 title: Getting Started
+description: Step-by-step routes into bowls coaching, gear advice, and community support.
+permalink: /getting-started/
+hero:
+  eyebrow: Start with confidence
+  lede: Use these curated routes to get exactly what you need—from understanding the rules to choosing your first set of bowls and sharpening your game-day tactics.
+  ctas:
+    - label: Learn the basics
+      url: /guides/
+    - label: Compare bowls & gear
+      url: /reviews/
+    - label: Practice with drills
+      url: /lawn-bowls-downloadable-drill-pack/
+  highlights:
+    - title: "New to bowls?"
+      description: Follow the crash-course on rules, scoring and the kit you'll need for your first roll-up.
+      url: /guides/
+    - title: "Picking a set?"
+      description: Compare the most popular models so you can match the bias profile to your home green.
+      url: /reviews/
+    - title: "Want routine drills?"
+      description: Download structured practice sessions you can run solo or with club mates.
+      url: /lawn-bowls-downloadable-drill-pack/
+goals:
+  - title: Learn the essentials
+    description: Get comfortable with the fundamentals so you can walk onto the green knowing what to expect.
+    links:
+      - label: Lawn bowls rules for beginners
+        url: /2019/08/22/lawn-bowls-rules/
+      - label: Rules & etiquette explained
+        url: /2019/04/24/lawn-bowls-rules-and-etiquette/
+      - label: 9 quick wins for new bowlers
+        url: /2022/02/18/9-tips-for-how-to-play-bowls-well/
+  - title: Choose your bowls
+    description: Compare models, biases and price points so you can invest in a set that suits your surface and style.
+    links:
+      - label: How to choose the right set
+        url: /2022/11/24/how-to-choose-a-set-of-lawn-bowls/
+      - label: Find your perfect bowl size
+        url: /2021/05/07/what-size-lawn-bowl-should-i-use/
+      - label: Browse in-depth bowl reviews
+        url: /reviews/
+  - title: Practice smarter
+    description: Build a training routine that develops consistency, touch and tactical awareness every time you play.
+    links:
+      - label: Complete improvement guide
+        url: /2022/06/20/how-to-get-better-at-lawn-bowls/
+      - label: Master line & length
+        url: /2023/04/17/line-and-length-in-lawn-bowls-how-to-win-at-bowls/
+      - label: Download focused drills
+        url: /lawn-bowls-downloadable-drill-pack/
+  - title: Compete with confidence
+    description: Upgrade your match strategy, work with teammates and keep your body ready for long competitions.
+    links:
+      - label: Singles tactics playbook
+        url: /2021/07/20/ultimate-guide-to-lawn-bowls-singles-tactics/
+      - label: Triples teamwork essentials
+        url: /2022/03/06/lawn-bowls-triples-tactics/
+      - label: Season preparation checklist
+        url: /2020/11/07/how-to-prepare-for-a-new-lawn-bowls-season/
+hubs:
+  - eyebrow: New player essentials
+    title: Help & support centre
+    description: Step-by-step answers to the questions every new bowler asks, from footwear to scoring.
+    cta: Browse help articles →
+    url: /help-and-support/
+  - eyebrow: Deep dives
+    title: Technique & strategy guides
+    description: Long-form tutorials that unpack shot selection, green reading and how to think like a skip.
+    cta: Read full guides →
+    url: /guides/
+  - eyebrow: Gear decisions
+    title: Bowls & equipment reviews
+    description: Compare leading models side-by-side to understand bias, build quality and who each bowl suits best.
+    cta: See all reviews →
+    url: /reviews/
+  - eyebrow: Everything in one place
+    title: Explore every article
+    description: Not sure where to start? Scan every story we've published and filter by the topic that matters.
+    cta: View all posts →
+    url: /all-posts/
+latest_heading: Latest picks
+latest_description: Stay on top of the newest advice from Jack High Bowls. These articles are the ones our editors are talking about right now.
+latest_posts_count: 3
+cta_panel:
+  title: Need something specific?
+  description: Tell us what you're working on and we'll point you towards the right advice, drills or gear. We're happy to make personalised recommendations.
+  primary:
+    label: Contact the team
+    url: /contact/
+  secondary:
+    label: Partner with Jack High Bowls
+    url: /advertisers/
 ---
 
+{% assign hero = page.hero %}
+{% assign goals = page.goals %}
+{% assign hubs = page.hubs %}
+{% assign latest_count = page.latest_posts_count | default: 3 | plus: 0 %}
+{% assign latest_posts = site.posts | slice: 0, latest_count %}
+{% assign cta_panel = page.cta_panel %}
 
-<div class="masonrygrid row all listrecent">
-    {% for post in site.posts %}
+<main class="getting-started">
+  <section class="gs-hero">
+    <div class="gs-hero__pattern" aria-hidden="true"></div>
+    <div class="container">
+      <div class="gs-hero__inner">
+        <div class="gs-hero__content">
+          {% if hero.eyebrow %}
+            <p class="gs-eyebrow">{{ hero.eyebrow }}</p>
+          {% endif %}
+          <h1 class="gs-hero__title">{{ page.title }}</h1>
+          {% if hero.lede %}
+            <p class="gs-lede">{{ hero.lede }}</p>
+          {% endif %}
+          {% if hero.ctas %}
+            <div class="gs-hero__cta">
+              {% for cta in hero.ctas %}
+                <a class="gs-link-pill" href="{{ cta.url | relative_url }}">{{ cta.label }}</a>
+              {% endfor %}
+            </div>
+          {% endif %}
+        </div>
+        {% if hero.highlights %}
+          <div class="gs-hero__highlights">
+            <div class="gs-hero__highlights-header">
+              <span class="gs-hero__tag">Quick routes</span>
+              <p>Jump straight to the guidance that matches what you're working on today.</p>
+            </div>
+            <div class="gs-hero__highlight-grid">
+              {% for highlight in hero.highlights %}
+                <a class="gs-highlight" href="{{ highlight.url | relative_url }}">
+                  <span class="gs-highlight__title">{{ highlight.title }}</span>
+                  {% if highlight.description %}
+                    <span class="gs-highlight__description">{{ highlight.description }}</span>
+                  {% endif %}
+                  <span class="gs-highlight__cta">Explore →</span>
+                </a>
+              {% endfor %}
+            </div>
+          </div>
+        {% endif %}
+      </div>
+    </div>
+  </section>
 
-        {% include postbox.html %}
+  {% if goals %}
+    <section class="gs-section">
+      <div class="container">
+        <div class="gs-section__header">
+          <h2>Explore by goal</h2>
+          <p>Pick the path that matches where you are right now. Each hub collects our most useful guides so you can move quickly.</p>
+        </div>
+        <div class="gs-card-grid">
+          {% for goal in goals %}
+            <article class="gs-card">
+              <h3>{{ goal.title }}</h3>
+              {% if goal.description %}
+                <p>{{ goal.description }}</p>
+              {% endif %}
+              {% if goal.links %}
+                <ul class="gs-card__links">
+                  {% for link in goal.links %}
+                    <li>
+                      <a href="{{ link.url | relative_url }}">{{ link.label }}</a>
+                    </li>
+                  {% endfor %}
+                </ul>
+              {% endif %}
+            </article>
+          {% endfor %}
+        </div>
+      </div>
+    </section>
+  {% endif %}
 
-    {% endfor %}
-</div>
+  {% if hubs %}
+    <section class="gs-section gs-section--alt">
+      <div class="container">
+        <div class="gs-section__header">
+          <h2>Featured hubs</h2>
+          <p>Dive into a full category to see every article, buyer's guide and comparison we have on the topic.</p>
+        </div>
+        <div class="gs-hub-grid">
+          {% for hub in hubs %}
+            <a class="gs-hub" href="{{ hub.url | relative_url }}">
+              {% if hub.eyebrow %}
+                <span class="gs-hub__eyebrow">{{ hub.eyebrow }}</span>
+              {% endif %}
+              <h3>{{ hub.title }}</h3>
+              {% if hub.description %}
+                <p>{{ hub.description }}</p>
+              {% endif %}
+              {% if hub.cta %}
+                <span class="gs-hub__cta">{{ hub.cta }}</span>
+              {% endif %}
+            </a>
+          {% endfor %}
+        </div>
+      </div>
+    </section>
+  {% endif %}
+
+  {% if latest_posts and latest_posts.size > 0 %}
+    <section class="gs-section">
+      <div class="container">
+        <div class="gs-section__header">
+          <h2>{{ page.latest_heading }}</h2>
+          {% if page.latest_description %}
+            <p>{{ page.latest_description }}</p>
+          {% endif %}
+        </div>
+        <div class="gs-latest-grid">
+          {% for post in latest_posts %}
+            <article class="gs-latest">
+              <p class="gs-latest__meta">{{ post.date | date: "%B %-d, %Y" }}</p>
+              <h3 class="gs-latest__title"><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h3>
+              {% if post.excerpt %}
+                <p class="gs-latest__excerpt">{{ post.excerpt | strip_html | truncate: 140 }}</p>
+              {% endif %}
+            </article>
+          {% endfor %}
+        </div>
+      </div>
+    </section>
+  {% endif %}
+
+  {% if cta_panel %}
+    <section class="gs-section gs-section--cta">
+      <div class="container">
+        <div class="gs-cta-panel">
+          <div class="gs-cta-panel__content">
+            <h2>{{ cta_panel.title }}</h2>
+            {% if cta_panel.description %}
+              <p>{{ cta_panel.description }}</p>
+            {% endif %}
+          </div>
+          <div class="gs-cta-panel__actions">
+            {% if cta_panel.primary %}
+              <a class="gs-link-pill gs-link-pill--dark" href="{{ cta_panel.primary.url | relative_url }}">{{ cta_panel.primary.label }}</a>
+            {% endif %}
+            {% if cta_panel.secondary %}
+              <a class="gs-link-pill gs-link-pill--ghost" href="{{ cta_panel.secondary.url | relative_url }}">{{ cta_panel.secondary.label }}</a>
+            {% endif %}
+          </div>
+        </div>
+      </div>
+    </section>
+  {% endif %}
+</main>
