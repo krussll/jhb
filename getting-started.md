@@ -1,1 +1,396 @@
+---
+layout: default
+title: Getting Started
+description: Find the right starting point for your bowls journey with curated guides, drills and equipment advice.
+permalink: /getting-started/
+hero:
+  eyebrow: Start bowls your way
+  lede: This hub mirrors a magazine homepage—helping you jump straight into the guides, drills and kit advice that match where you are today.
+  quick_links:
+    - label: Understand the basics
+      url: /guides/
+    - label: Compare bowls & gear
+      url: /reviews/
+    - label: Build a practice plan
+      url: /lawn-bowls-downloadable-drill-pack/
+    - label: Need personal help?
+      url: /contact/
+  primary:
+    tag: Step-by-step plan
+    title: Build confidence from your first roll-up to club matches
+    description: Follow our beginner action plan covering rules, mindset, equipment and the skills to focus on each week.
+    url: /2022/02/18/9-tips-for-how-to-play-bowls-well/
+    cta: Start the action plan →
+  secondary:
+    - tag: Gear decisions
+      title: How to choose a set of lawn bowls that fits
+      description: Understand bias shapes, surface speeds and sizing so your first (or next) set works with your game.
+      url: /2022/11/24/how-to-choose-a-set-of-lawn-bowls/
+      cta: Shop smart →
+    - tag: Practice library
+      title: Download drills that sharpen line, length and weight
+      description: Plug structured solo and team drills straight into your weekly routine.
+      url: /lawn-bowls-downloadable-drill-pack/
+      cta: Get the drills →
+trending:
+  title: Popular right now
+  items:
+    - title: Lawn bowls rules for beginners
+      url: /2019/08/22/lawn-bowls-rules/
+      meta: Beginner basics
+    - title: How to choose a set of lawn bowls
+      url: /2022/11/24/how-to-choose-a-set-of-lawn-bowls/
+      meta: Gear advice
+    - title: Downloadable practice drill pack
+      url: /lawn-bowls-downloadable-drill-pack/
+      meta: Practice plans
+    - title: Singles tactics playbook
+      url: /2021/07/20/ultimate-guide-to-lawn-bowls-singles-tactics/
+      meta: Strategy
+    - title: Find your perfect bowl size
+      url: /2021/05/07/what-size-lawn-bowl-should-i-use/
+      meta: Gear fit
+category_tiles:
+  heading: Choose your route through Jack High Bowls
+  description: Browse the main themes new players ask us about. Each tile opens up deep dives, explainers and our most useful next steps.
+  items:
+    - title: Getting started guides
+      description: Learn rules, etiquette and the fundamentals so you feel comfortable stepping onto any rink.
+      url: /guides/
+      cta: Browse beginner guides →
+      links:
+        - label: Lawn bowls rules for beginners
+          url: /2019/08/22/lawn-bowls-rules/
+        - label: Rules & etiquette explained
+          url: /2019/04/24/lawn-bowls-rules-and-etiquette/
+        - label: 9 quick wins for new bowlers
+          url: /2022/02/18/9-tips-for-how-to-play-bowls-well/
+    - title: Bowls & equipment reviews
+      description: Compare the leading models, biases and build quality before you invest in a set.
+      url: /reviews/
+      cta: Explore gear reviews →
+      links:
+        - label: How to choose the right set
+          url: /2022/11/24/how-to-choose-a-set-of-lawn-bowls/
+        - label: Find your perfect bowl size
+          url: /2021/05/07/what-size-lawn-bowl-should-i-use/
+        - label: Taylor Lignoid vs Henselite Tiger
+          url: /2023/03/20/taylor-lignoid-vs-henselite-tiger-which-is-best/
+    - title: Practice & coaching tools
+      description: Turn practice time into progress with structured sessions and improvement guides.
+      url: /lawn-bowls-downloadable-drill-pack/
+      cta: Build a training plan →
+      links:
+        - label: Complete improvement guide
+          url: /2022/06/20/how-to-get-better-at-lawn-bowls/
+        - label: Master line & length
+          url: /2023/04/17/line-and-length-in-lawn-bowls-how-to-win-at-bowls/
+        - label: Download the drill pack
+          url: /lawn-bowls-downloadable-drill-pack/
+    - title: Match tactics & mindset
+      description: Prepare for league play with strategy, teamwork and season-long planning advice.
+      url: /2021/07/20/ultimate-guide-to-lawn-bowls-singles-tactics/
+      cta: See tactical guides →
+      links:
+        - label: Singles tactics playbook
+          url: /2021/07/20/ultimate-guide-to-lawn-bowls-singles-tactics/
+        - label: Triples teamwork essentials
+          url: /2022/03/06/lawn-bowls-triples-tactics/
+        - label: Season preparation checklist
+          url: /2020/11/07/how-to-prepare-for-a-new-lawn-bowls-season/
+pathways:
+  heading: Goal-based pathways
+  description: Pick the outcome you want and jump into a curated collection of guides, drills and reviews.
+  items:
+    - title: Learn the essentials
+      description: Get comfortable with the fundamentals so you can walk onto the green knowing what to expect.
+      links:
+        - label: Lawn bowls rules for beginners
+          url: /2019/08/22/lawn-bowls-rules/
+        - label: Rules & etiquette explained
+          url: /2019/04/24/lawn-bowls-rules-and-etiquette/
+        - label: 9 quick wins for new bowlers
+          url: /2022/02/18/9-tips-for-how-to-play-bowls-well/
+    - title: Choose your bowls
+      description: Compare models, biases and price points so you can invest in a set that suits your surface and style.
+      links:
+        - label: How to choose the right set
+          url: /2022/11/24/how-to-choose-a-set-of-lawn-bowls/
+        - label: Find your perfect bowl size
+          url: /2021/05/07/what-size-lawn-bowl-should-i-use/
+        - label: Browse in-depth bowl reviews
+          url: /reviews/
+    - title: Practice smarter
+      description: Build a training routine that develops consistency, touch and tactical awareness every time you play.
+      links:
+        - label: Complete improvement guide
+          url: /2022/06/20/how-to-get-better-at-lawn-bowls/
+        - label: Master line & length
+          url: /2023/04/17/line-and-length-in-lawn-bowls-how-to-win-at-bowls/
+        - label: Download focused drills
+          url: /lawn-bowls-downloadable-drill-pack/
+    - title: Compete with confidence
+      description: Upgrade your match strategy, work with teammates and keep your body ready for long competitions.
+      links:
+        - label: Singles tactics playbook
+          url: /2021/07/20/ultimate-guide-to-lawn-bowls-singles-tactics/
+        - label: Triples teamwork essentials
+          url: /2022/03/06/lawn-bowls-triples-tactics/
+        - label: Season preparation checklist
+          url: /2020/11/07/how-to-prepare-for-a-new-lawn-bowls-season/
+deep_dives:
+  heading: Featured collections
+  description: Explore curated hubs packed with linked stories, buying guides and expert answers.
+  items:
+    - eyebrow: New player essentials
+      title: Help & support centre
+      description: Step-by-step answers to the questions every new bowler asks, from footwear to scoring.
+      cta: Browse help articles →
+      url: /help-and-support/
+    - eyebrow: Gear deep dives
+      title: Bowls & equipment reviews
+      description: Compare leading models side-by-side to understand bias, build quality and who each bowl suits best.
+      cta: See all reviews →
+      url: /reviews/
+    - eyebrow: Everything in one place
+      title: Explore every article
+      description: Not sure where to start? Scan every story we've published and filter by the topic that matters.
+      cta: View all posts →
+      url: /all-posts/
+latest_heading: Latest picks
+latest_description: Stay on top of the newest advice from Jack High Bowls. These articles are the ones our editors are talking about right now.
+latest_posts_count: 3
+cta_panel:
+  title: Can't see the answer you need?
+  description: Tell us what you're working on and we'll point you towards the right advice, drills or gear. We're happy to make personalised recommendations.
+  primary:
+    label: Contact the team
+    url: /contact/
+  secondary:
+    label: Partner with Jack High Bowls
+    url: /advertisers/
+---
 
+{% assign hero = page.hero %}
+{% assign trending = page.trending %}
+{% assign category_tiles = page.category_tiles %}
+{% assign pathways = page.pathways %}
+{% assign deep_dives = page.deep_dives %}
+{% assign latest_count = page.latest_posts_count | default: 3 | plus: 0 %}
+{% assign latest_posts = site.posts | slice: 0, latest_count %}
+{% assign cta_panel = page.cta_panel %}
+
+<main class="getting-started">
+  <section class="gs-hero">
+    <div class="container">
+      <div class="gs-hero__grid">
+        <div class="gs-hero__intro">
+          {% if hero.eyebrow %}
+            <p class="gs-eyebrow">{{ hero.eyebrow }}</p>
+          {% endif %}
+          <h1 class="gs-hero__title">{{ page.title }}</h1>
+          {% if hero.lede %}
+            <p class="gs-lede">{{ hero.lede }}</p>
+          {% endif %}
+          {% if hero.quick_links %}
+            <nav class="gs-hero__quick-links" aria-label="Quick links">
+              {% for link in hero.quick_links %}
+                <a class="gs-quick-link" href="{{ link.url | relative_url }}">{{ link.label }}</a>
+              {% endfor %}
+            </nav>
+          {% endif %}
+          {% if trending and trending.items %}
+            <div class="gs-trending gs-trending--hero">
+              <div class="gs-trending__header">
+                <span>{{ trending.title }}</span>
+              </div>
+              <ol class="gs-trending__list">
+                {% for item in trending.items %}
+                  <li>
+                    <a href="{{ item.url | relative_url }}">
+                      {% if item.meta %}
+                        <span class="gs-trending__meta">{{ item.meta }}</span>
+                      {% endif %}
+                      <span class="gs-trending__title">{{ item.title }}</span>
+                    </a>
+                  </li>
+                {% endfor %}
+              </ol>
+            </div>
+          {% endif %}
+        </div>
+        <div class="gs-hero__features">
+          {% if hero.primary %}
+            <a class="gs-feature gs-feature--primary" href="{{ hero.primary.url | relative_url }}">
+              {% if hero.primary.tag %}
+                <span class="gs-feature__tag">{{ hero.primary.tag }}</span>
+              {% endif %}
+              <h2 class="gs-feature__title">{{ hero.primary.title }}</h2>
+              {% if hero.primary.description %}
+                <p class="gs-feature__description">{{ hero.primary.description }}</p>
+              {% endif %}
+              <span class="gs-feature__cta">{{ hero.primary.cta | default: 'Explore →' }}</span>
+            </a>
+          {% endif %}
+          {% if hero.secondary %}
+            <div class="gs-feature__secondary-list">
+              {% for feature in hero.secondary %}
+                <a class="gs-feature gs-feature--secondary" href="{{ feature.url | relative_url }}">
+                  {% if feature.tag %}
+                    <span class="gs-feature__tag">{{ feature.tag }}</span>
+                  {% endif %}
+                  <h3 class="gs-feature__title">{{ feature.title }}</h3>
+                  {% if feature.description %}
+                    <p class="gs-feature__description">{{ feature.description }}</p>
+                  {% endif %}
+                  <span class="gs-feature__cta">{{ feature.cta | default: 'See more →' }}</span>
+                </a>
+              {% endfor %}
+            </div>
+          {% endif %}
+        </div>
+      </div>
+    </div>
+  </section>
+
+  {% if category_tiles and category_tiles.items %}
+    <section class="gs-section">
+      <div class="container">
+        <div class="gs-section__header">
+          <h2>{{ category_tiles.heading }}</h2>
+          {% if category_tiles.description %}
+            <p>{{ category_tiles.description }}</p>
+          {% endif %}
+        </div>
+        <div class="gs-category-grid">
+          {% for category in category_tiles.items %}
+            <article class="gs-category">
+              <div class="gs-category__body">
+                <h3>{{ category.title }}</h3>
+                {% if category.description %}
+                  <p>{{ category.description }}</p>
+                {% endif %}
+                <a class="gs-category__cta" href="{{ category.url | relative_url }}">{{ category.cta | default: 'Visit hub →' }}</a>
+              </div>
+              {% if category.links %}
+                <ul class="gs-category__links">
+                  {% for link in category.links %}
+                    <li><a href="{{ link.url | relative_url }}">{{ link.label }}</a></li>
+                  {% endfor %}
+                </ul>
+              {% endif %}
+            </article>
+          {% endfor %}
+        </div>
+      </div>
+    </section>
+  {% endif %}
+
+  {% if pathways and pathways.items %}
+    <section class="gs-section gs-section--alt">
+      <div class="container">
+        <div class="gs-section__header">
+          <h2>{{ pathways.heading }}</h2>
+          {% if pathways.description %}
+            <p>{{ pathways.description }}</p>
+          {% endif %}
+        </div>
+        <div class="gs-card-grid">
+          {% for goal in pathways.items %}
+            <article class="gs-card">
+              <h3>{{ goal.title }}</h3>
+              {% if goal.description %}
+                <p>{{ goal.description }}</p>
+              {% endif %}
+              {% if goal.links %}
+                <ul class="gs-card__links">
+                  {% for link in goal.links %}
+                    <li>
+                      <a href="{{ link.url | relative_url }}">{{ link.label }}</a>
+                    </li>
+                  {% endfor %}
+                </ul>
+              {% endif %}
+            </article>
+          {% endfor %}
+        </div>
+      </div>
+    </section>
+  {% endif %}
+
+  {% if deep_dives and deep_dives.items %}
+    <section class="gs-section">
+      <div class="container">
+        <div class="gs-section__header">
+          <h2>{{ deep_dives.heading }}</h2>
+          {% if deep_dives.description %}
+            <p>{{ deep_dives.description }}</p>
+          {% endif %}
+        </div>
+        <div class="gs-hub-grid">
+          {% for hub in deep_dives.items %}
+            <a class="gs-hub" href="{{ hub.url | relative_url }}">
+              {% if hub.eyebrow %}
+                <span class="gs-hub__eyebrow">{{ hub.eyebrow }}</span>
+              {% endif %}
+              <h3>{{ hub.title }}</h3>
+              {% if hub.description %}
+                <p>{{ hub.description }}</p>
+              {% endif %}
+              {% if hub.cta %}
+                <span class="gs-hub__cta">{{ hub.cta }}</span>
+              {% endif %}
+            </a>
+          {% endfor %}
+        </div>
+      </div>
+    </section>
+  {% endif %}
+
+  {% if latest_posts and latest_posts.size > 0 %}
+    <section class="gs-section gs-section--latest">
+      <div class="container">
+        <div class="gs-section__header">
+          <h2>{{ page.latest_heading }}</h2>
+          {% if page.latest_description %}
+            <p>{{ page.latest_description }}</p>
+          {% endif %}
+        </div>
+        <div class="gs-latest-grid">
+          {% for post in latest_posts %}
+            <article class="gs-latest">
+              <p class="gs-latest__meta">{{ post.date | date: "%B %-d, %Y" }}</p>
+              <h3 class="gs-latest__title"><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h3>
+              {% if post.excerpt %}
+                <p class="gs-latest__excerpt">{{ post.excerpt | strip_html | truncate: 140 }}</p>
+              {% endif %}
+            </article>
+          {% endfor %}
+        </div>
+      </div>
+    </section>
+  {% endif %}
+
+  {% if cta_panel %}
+    <section class="gs-section gs-section--cta">
+      <div class="container">
+        <div class="gs-cta-panel">
+          <div class="gs-cta-panel__content">
+            <h2>{{ cta_panel.title }}</h2>
+            {% if cta_panel.description %}
+              <p>{{ cta_panel.description }}</p>
+            {% endif %}
+          </div>
+          <div class="gs-cta-panel__actions">
+            {% if cta_panel.primary %}
+              <a class="gs-link-pill gs-link-pill--dark" href="{{ cta_panel.primary.url | relative_url }}">{{ cta_panel.primary.label }}</a>
+            {% endif %}
+            {% if cta_panel.secondary %}
+              <a class="gs-link-pill gs-link-pill--ghost" href="{{ cta_panel.secondary.url | relative_url }}">{{ cta_panel.secondary.label }}</a>
+            {% endif %}
+          </div>
+        </div>
+      </div>
+    </section>
+  {% endif %}
+</main>
