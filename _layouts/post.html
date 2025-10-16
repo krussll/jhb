@@ -14,9 +14,12 @@ layout: default
           <h1 class="post-hero__title">{{ page.title }}</h1>
           {% if page.subtitle %}
           <p class="post-hero__subtitle">{{ page.subtitle }}</p>
-          {% elsif page.excerpt %}
-          <p class="post-hero__subtitle">{{ page.excerpt | strip_html | truncatewords: 32 }}</p>
           {% endif %}
+
+          <div class="review-methodology-callout">
+            <strong>How we test:</strong> Every article follows our <a href="{{ '/review-methodology' | relative_url }}">review methodology</a> so you know how we score each product.
+          </div>
+            
           <div class="post-hero__meta">
           {% assign updated_date = page.last_modified_at | default: page.date %}
             <span class="post-hero__meta-item">
