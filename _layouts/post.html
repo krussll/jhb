@@ -4,40 +4,41 @@ layout: default
 
 <header class="masthead post-hero">
   <div class="container">
-    <div class="post-hero__inner">
-      <div class="post-hero__content">
-        <div class="post-heading post-hero__heading">
-        {% assign category = page.categories | sort | first %}
-        {% if category %}
-        <span class="category post-hero__eyebrow">{{ category | replace: '-', ' ' }}</span>
-        {% endif %}
-        <h1 class="post-hero__title">{{ page.title }}</h1>
-        {% if page.subtitle %}
-        <p class="post-hero__subtitle">{{ page.subtitle }}</p>
-        {% elsif page.excerpt %}
-        <p class="post-hero__subtitle">{{ page.excerpt | strip_html | truncatewords: 32 }}</p>
-        {% endif %}
-        <div class="post-hero__meta">
-          <span class="post-hero__meta-item">
-            <i class="fas fa-clock" aria-hidden="true"></i>
-            Last updated
-            <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: '%d %B %Y' }}</time>
-          </span>
-          <span class="post-hero__meta-separator" aria-hidden="true">&middot;</span>
-          <span class="post-hero__meta-item">
-            <i class="fas fa-book-open" aria-hidden="true"></i>
-            {% include read_time.html content=page.content %}
-          </span>
-          <meta itemprop="dateModified" content="{{ page.date | date: '%Y-%m-%dT%H:%M:%S.%Lz' }}">
+      <div class="post-hero__inner">
+        <div class="post-hero__content page-titles">
+          <div class="post-heading post-hero__heading">
+          {% assign category = page.categories | sort | first %}
+          {% if category %}
+          <span class="category post-hero__eyebrow">{{ category | replace: '-', ' ' }}</span>
+          {% endif %}
+          <h1 class="post-hero__title">{{ page.title }}</h1>
+          {% if page.subtitle %}
+          <p class="post-hero__subtitle">{{ page.subtitle }}</p>
+          {% elsif page.excerpt %}
+          <p class="post-hero__subtitle">{{ page.excerpt | strip_html | truncatewords: 32 }}</p>
+          {% endif %}
+          <div class="post-hero__meta">
+          {% assign updated_date = page.last_modified_at | default: page.date %}
+            <span class="post-hero__meta-item">
+              <i class="fas fa-clock" aria-hidden="true"></i>
+              Last updated
+              <time datetime="{{ updated_date | date_to_xmlschema }}" itemprop="dateModified">{{ updated_date | date: '%d %B %Y' }}</time>
+            </span>
+            <span class="post-hero__meta-separator" aria-hidden="true">&middot;</span>
+            <span class="post-hero__meta-item">
+              <i class="fas fa-book-open" aria-hidden="true"></i>
+              {% include read_time.html content=page.content %}
+            </span>
+            <meta itemprop="dateModified" content="{{ updated_date | date_to_xmlschema }}">
+          </div>
+          </div>
         </div>
+        {% if page.background %}
+        <div class="post-hero__media page-img">
+          <img src="{{ page.background | prepend: site.baseurl | replace: '//', '/' }}" alt="{{ page.title }} featured image" loading="lazy">
         </div>
+        {% endif %}
       </div>
-      {% if page.background %}
-      <div class="post-hero__media">
-        <img src="{{ page.background | prepend: site.baseurl | replace: '//', '/' }}" alt="{{ page.title }} featured image" loading="lazy">
-      </div>
-      {% endif %}
-    </div>
   </div>
 </header>
 

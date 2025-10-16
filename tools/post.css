@@ -20,6 +20,15 @@
   pointer-events: none;
 }
 
+.post-hero .post-heading {
+  padding: 0;
+  color: inherit;
+}
+
+.post-hero .post-heading .meta {
+  display: none;
+}
+
 .post-hero .container {
   position: relative;
   z-index: 2;
@@ -116,6 +125,8 @@
   box-shadow: 0 25px 60px rgba(15, 23, 42, 0.45);
   border: 3px solid rgba(255, 255, 255, 0.35);
   object-fit: cover;
+  max-height: none;
+  margin-left: 0;
 }
 
 .post-main {
