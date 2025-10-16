@@ -24,12 +24,13 @@ layout: default
               {% if page.subtitle %}
               <h2 class="subheading">{{ page.subtitle }}</h2>
               {% endif %}
+              {% assign last_updated = page.last_modified_at | default: page.date %}
               <span class="meta">
-                Last updated: {{ page.date | date: '%d %B %Y' }} &middot;
-                <br /> 
+                Last updated: {{ last_updated | date: '%d %B %Y' }} &middot;
+                <br />
                 {% include read_time.html
                 content=page.content %}
-                <meta itemprop="dateModified" content="{{ page.date | date: '%Y-%m-%dT%H:%M:%S.%Lz' }}">
+                <meta itemprop="dateModified" content="{{ last_updated | date_to_xmlschema }}">
               </span>
             </div>
         </div>
