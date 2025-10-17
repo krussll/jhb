@@ -2,7 +2,10 @@
 layout: default
 ---
 
-{% unless page.hide_page_hero %}
+{% if page.hide_page_hero %}
+<!-- Compact Page Header placeholder -->
+<header class="masthead page-hero page-hero--compact" aria-hidden="true"></header>
+{% else %}
 <!-- Page Header -->
 <header class="masthead page-hero">
   <div class="container">
@@ -23,7 +26,7 @@ layout: default
     </div>
   </div>
 </header>
-{% endunless %}
+{% endif %}
 
   <div class="container">
     <div class="row">
