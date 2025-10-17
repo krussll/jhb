@@ -25,7 +25,7 @@ layout: default
           {% assign author_name = author.name | default: page.author %}
           {% assign author_credential = author.experience | default: author.credential %}
           {% if author_name %}
-          {% assign author_link = author.url | default: '/about-us/' %}
+          {% assign author_link = author.url | default: '/about-us' %}
           {% assign author_headshot = author.headshot %}
           <div class="post-hero__author" itemprop="author" itemscope itemtype="https://schema.org/Person">
             {% if author_headshot %}
@@ -101,7 +101,7 @@ layout: default
                   </div>
                   <h3>Understand the rules</h3>
                   <p>Master formats, scoring, and etiquette so every end runs smoothly.</p>
-                  <a class="core-guide-card__link" href="{{ '/help/lawn-bowls-rules/' | relative_url }}">Read the rules guide <i class="fas fa-arrow-right" aria-hidden="true"></i></a>
+                  <a class="core-guide-card__link" href="{{ '/help/lawn-bowls-rules' | relative_url }}">Read the rules guide <i class="fas fa-arrow-right" aria-hidden="true"></i></a>
                 </article>
               </div>
               <div class="col-lg-3 col-md-6">
@@ -111,7 +111,7 @@ layout: default
                   </div>
                   <h3>Pick the right bowls</h3>
                   <p>Compare models, bias profiles, and sizing to choose a set that fits your draw.</p>
-                  <a class="core-guide-card__link" href="{{ '/guide/how-to-choose-a-set-of-lawn-bowls/' | relative_url }}">Choose your set <i class="fas fa-arrow-right" aria-hidden="true"></i></a>
+                  <a class="core-guide-card__link" href="{{ '/guide/how-to-choose-a-set-of-lawn-bowls' | relative_url }}">Choose your set <i class="fas fa-arrow-right" aria-hidden="true"></i></a>
                 </article>
               </div>
               <div class="col-lg-3 col-md-6">
@@ -121,7 +121,7 @@ layout: default
                   </div>
                   <h3>Practice with purpose</h3>
                   <p>Follow a structured plan that develops draw weight, line control, and mindset.</p>
-                  <a class="core-guide-card__link" href="{{ '/help/how-to-get-better-at-lawn-bowls/' | relative_url }}">Start improving <i class="fas fa-arrow-right" aria-hidden="true"></i></a>
+                  <a class="core-guide-card__link" href="{{ '/help/how-to-get-better-at-lawn-bowls' | relative_url }}">Start improving <i class="fas fa-arrow-right" aria-hidden="true"></i></a>
                 </article>
               </div>
               <div class="col-lg-3 col-md-6">
@@ -131,7 +131,7 @@ layout: default
                   </div>
                   <h3>Win your singles</h3>
                   <p>Adopt match tactics that help you control the mat, jack, and momentum.</p>
-                  <a class="core-guide-card__link" href="{{ '/help/ultimate-guide-to-lawn-bowls-singles-tactics/' | relative_url }}">Study singles tactics <i class="fas fa-arrow-right" aria-hidden="true"></i></a>
+                  <a class="core-guide-card__link" href="{{ '/help/ultimate-guide-to-lawn-bowls-singles-tactics' | relative_url }}">Study singles tactics <i class="fas fa-arrow-right" aria-hidden="true"></i></a>
                 </article>
               </div>
             </div>

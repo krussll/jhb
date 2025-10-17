@@ -2,17 +2,17 @@
 layout: default
 title: Getting Started
 description: Find the right starting point for your bowls journey with curated guides, drills and equipment advice.
-permalink: /getting-started/
+permalink: /getting-started
 hero:
   eyebrow: Start bowls your way
   lede: The fastest way to learn bowls basics, choose the right gear and turn practice time into real progress.
   quick_links:
     - label: Master the fundamentals
-      url: /guides/
+      url: /guides
     - label: Pick the right bowls
-      url: /reviews/
+      url: /reviews
     - label: Download practice drills
-      url: /lawn-bowls-downloadable-drill-pack/
+      url: /lawn-bowls-downloadable-drill-pack
   image: /img/img/find-right-bowls.png
   image_alt: Bowls arranged on a club locker as a new player selects the right set
   image_caption: Find advice that helps you choose the right bowls, practice plan and support.
@@ -20,36 +20,36 @@ hero:
     tag: Step-by-step plan
     title: Build confidence from your first roll-up to club matches
     description: Follow a focused four-week plan that covers rules, mindset, equipment and the skills to drill each week.
-    url: /2022/02/18/9-tips-for-how-to-play-bowls-well/
+    url: /2022/02/18/9-tips-for-how-to-play-bowls-well
     cta: Start the action plan →
   secondary:
     - tag: Gear decisions
       title: How to choose a set of lawn bowls that fits
       description: Understand bias shapes, surface speeds and sizing so every purchase matches your rink and role.
-      url: /2022/11/24/how-to-choose-a-set-of-lawn-bowls/
+      url: /2022/11/24/how-to-choose-a-set-of-lawn-bowls
       cta: Shop smart →
     - tag: Practice library
       title: Download drills that sharpen line, length and weight
       description: Drop structured solo and team drills straight into your weekly routine.
-      url: /lawn-bowls-downloadable-drill-pack/
+      url: /lawn-bowls-downloadable-drill-pack
       cta: Get the drills →
 trending:
   title: Popular right now
   items:
     - title: Lawn bowls rules for beginners
-      url: /2019/08/22/lawn-bowls-rules/
+      url: /2019/08/22/lawn-bowls-rules
       meta: Beginner basics
     - title: How to choose a set of lawn bowls
-      url: /2022/11/24/how-to-choose-a-set-of-lawn-bowls/
+      url: /2022/11/24/how-to-choose-a-set-of-lawn-bowls
       meta: Gear advice
     - title: Downloadable practice drill pack
-      url: /lawn-bowls-downloadable-drill-pack/
+      url: /lawn-bowls-downloadable-drill-pack
       meta: Practice plans
     - title: Singles tactics playbook
-      url: /2021/07/20/ultimate-guide-to-lawn-bowls-singles-tactics/
+      url: /2021/07/20/ultimate-guide-to-lawn-bowls-singles-tactics
       meta: Strategy
     - title: Find your perfect bowl size
-      url: /2021/05/07/what-size-lawn-bowl-should-i-use/
+      url: /2021/05/07/what-size-lawn-bowl-should-i-use
       meta: Gear fit
 category_tiles:
   heading: Choose your route through Jack High Bowls
@@ -57,48 +57,48 @@ category_tiles:
   items:
     - title: Getting started guides
       description: Learn rules, etiquette and the fundamentals so you feel comfortable stepping onto any rink.
-      url: /guides/
+      url: /guides
       cta: Browse beginner guides →
       links:
         - label: Lawn bowls rules for beginners
-          url: /2019/08/22/lawn-bowls-rules/
+          url: /2019/08/22/lawn-bowls-rules
         - label: Rules & etiquette explained
-          url: /2019/04/24/lawn-bowls-rules-and-etiquette/
+          url: /2019/04/24/lawn-bowls-rules-and-etiquette
         - label: 9 quick wins for new bowlers
-          url: /2022/02/18/9-tips-for-how-to-play-bowls-well/
+          url: /2022/02/18/9-tips-for-how-to-play-bowls-well
     - title: Bowls & equipment reviews
       description: Compare the leading models, biases and build quality before you invest in a set.
-      url: /reviews/
+      url: /reviews
       cta: Explore gear reviews →
       links:
         - label: How to choose the right set
-          url: /2022/11/24/how-to-choose-a-set-of-lawn-bowls/
+          url: /2022/11/24/how-to-choose-a-set-of-lawn-bowls
         - label: Find your perfect bowl size
-          url: /2021/05/07/what-size-lawn-bowl-should-i-use/
+          url: /2021/05/07/what-size-lawn-bowl-should-i-use
         - label: Taylor Lignoid vs Henselite Tiger
-          url: /2023/03/20/taylor-lignoid-vs-henselite-tiger-which-is-best/
+          url: /2023/03/20/taylor-lignoid-vs-henselite-tiger-which-is-best
     - title: Practice & coaching tools
       description: Turn practice time into progress with structured sessions and improvement guides.
-      url: /lawn-bowls-downloadable-drill-pack/
+      url: /lawn-bowls-downloadable-drill-pack
       cta: Build a training plan →
       links:
         - label: Complete improvement guide
-          url: /2022/06/20/how-to-get-better-at-lawn-bowls/
+          url: /2022/06/20/how-to-get-better-at-lawn-bowls
         - label: Master line & length
-          url: /2023/04/17/line-and-length-in-lawn-bowls-how-to-win-at-bowls/
+          url: /2023/04/17/line-and-length-in-lawn-bowls-how-to-win-at-bowls
         - label: Download the drill pack
-          url: /lawn-bowls-downloadable-drill-pack/
+          url: /lawn-bowls-downloadable-drill-pack
     - title: Match tactics & mindset
       description: Prepare for league play with strategy, teamwork and season-long planning advice.
-      url: /2021/07/20/ultimate-guide-to-lawn-bowls-singles-tactics/
+      url: /2021/07/20/ultimate-guide-to-lawn-bowls-singles-tactics
       cta: See tactical guides →
       links:
         - label: Singles tactics playbook
-          url: /2021/07/20/ultimate-guide-to-lawn-bowls-singles-tactics/
+          url: /2021/07/20/ultimate-guide-to-lawn-bowls-singles-tactics
         - label: Triples teamwork essentials
-          url: /2022/03/06/lawn-bowls-triples-tactics/
+          url: /2022/03/06/lawn-bowls-triples-tactics
         - label: Season preparation checklist
-          url: /2020/11/07/how-to-prepare-for-a-new-lawn-bowls-season/
+          url: /2020/11/07/how-to-prepare-for-a-new-lawn-bowls-season
 pathways:
   heading: Goal-based pathways
   description: Pick the outcome you want and jump into a curated collection of guides, drills and reviews.
@@ -107,38 +107,38 @@ pathways:
       description: Get comfortable with the fundamentals so you can walk onto the green knowing what to expect.
       links:
         - label: Lawn bowls rules for beginners
-          url: /2019/08/22/lawn-bowls-rules/
+          url: /2019/08/22/lawn-bowls-rules
         - label: Rules & etiquette explained
-          url: /2019/04/24/lawn-bowls-rules-and-etiquette/
+          url: /2019/04/24/lawn-bowls-rules-and-etiquette
         - label: 9 quick wins for new bowlers
-          url: /2022/02/18/9-tips-for-how-to-play-bowls-well/
+          url: /2022/02/18/9-tips-for-how-to-play-bowls-well
     - title: Choose your bowls
       description: Compare models, biases and price points so you can invest in a set that suits your surface and style.
       links:
         - label: How to choose the right set
-          url: /2022/11/24/how-to-choose-a-set-of-lawn-bowls/
+          url: /2022/11/24/how-to-choose-a-set-of-lawn-bowls
         - label: Find your perfect bowl size
-          url: /2021/05/07/what-size-lawn-bowl-should-i-use/
+          url: /2021/05/07/what-size-lawn-bowl-should-i-use
         - label: Browse in-depth bowl reviews
-          url: /reviews/
+          url: /reviews
     - title: Practice smarter
       description: Build a training routine that develops consistency, touch and tactical awareness every time you play.
       links:
         - label: Complete improvement guide
-          url: /2022/06/20/how-to-get-better-at-lawn-bowls/
+          url: /2022/06/20/how-to-get-better-at-lawn-bowls
         - label: Master line & length
-          url: /2023/04/17/line-and-length-in-lawn-bowls-how-to-win-at-bowls/
+          url: /2023/04/17/line-and-length-in-lawn-bowls-how-to-win-at-bowls
         - label: Download focused drills
-          url: /lawn-bowls-downloadable-drill-pack/
+          url: /lawn-bowls-downloadable-drill-pack
     - title: Compete with confidence
       description: Upgrade your match strategy, work with teammates and keep your body ready for long competitions.
       links:
         - label: Singles tactics playbook
-          url: /2021/07/20/ultimate-guide-to-lawn-bowls-singles-tactics/
+          url: /2021/07/20/ultimate-guide-to-lawn-bowls-singles-tactics
         - label: Triples teamwork essentials
-          url: /2022/03/06/lawn-bowls-triples-tactics/
+          url: /2022/03/06/lawn-bowls-triples-tactics
         - label: Season preparation checklist
-          url: /2020/11/07/how-to-prepare-for-a-new-lawn-bowls-season/
+          url: /2020/11/07/how-to-prepare-for-a-new-lawn-bowls-season
 deep_dives:
   heading: Featured collections
   description: Explore curated hubs packed with linked stories, buying guides and expert answers.
@@ -147,12 +147,12 @@ deep_dives:
       title: Bowls & equipment reviews
       description: Compare leading models side-by-side to understand bias, build quality and who each bowl suits best.
       cta: See all reviews →
-      url: /reviews/
+      url: /reviews
     - eyebrow: Everything in one place
       title: Explore every article
       description: Not sure where to start? Scan every story we've published and filter by the topic that matters.
       cta: View all posts →
-      url: /all-posts/
+      url: /all-posts
 support_block:
   eyebrow: Need specialist guidance?
   title: Talk to a Jack High Bowls coach
@@ -165,12 +165,12 @@ support_block:
     alt: Bowls coach demonstrating delivery form
   primary:
     label: Contact the team
-    url: /contact/
+    url: /contact
   secondary:
     - label: Visit the Help & Support hub
-      url: /help-and-support/
+      url: /help-and-support
     - label: Partner with Jack High Bowls
-      url: /advertisers/
+      url: /advertisers
 latest_heading: Latest picks
 latest_description: Stay on top of the newest advice from Jack High Bowls. These articles are the ones our editors are talking about right now.
 latest_posts_count: 3
@@ -283,7 +283,7 @@ latest_posts_count: 3
 
   {% assign gear_category = nil %}
   {% if category_tiles and category_tiles.items %}
-    {% assign gear_category = category_tiles.items | where: "url", "/reviews/" | first %}
+    {% assign gear_category = category_tiles.items | where: "url", "/reviews" | first %}
   {% endif %}
   <section class="gs-block gs-block--gear" aria-labelledby="gear-spotlight">
     <div class="container">
@@ -302,8 +302,8 @@ latest_posts_count: 3
             Compare our in-depth equipment reviews and use the proven sizing checks before you invest in your next set of bowls.
           </p>
           <div class="gs-block__ctas" role="group" aria-label="Equipment calls to action">
-            <a class="gs-cta-button gs-cta-button--primary" href="{{ '/reviews/' | relative_url }}">Read reviews hub</a>
-            <a class="gs-cta-button gs-cta-button--secondary" href="{{ '/2021/05/07/what-size-lawn-bowl-should-i-use/' | relative_url }}">Check your size</a>
+            <a class="gs-cta-button gs-cta-button--primary" href="{{ '/reviews' | relative_url }}">Read reviews hub</a>
+            <a class="gs-cta-button gs-cta-button--secondary" href="{{ '/2021/05/07/what-size-lawn-bowl-should-i-use' | relative_url }}">Check your size</a>
           </div>
           {% if gear_category and gear_category.links %}
             <div class="gs-block__decisions">
@@ -374,21 +374,21 @@ latest_posts_count: 3
             Use our downloadable drills and coaching guidance to build repeatable touch, sharpen your weight control and bring
             structure to every roll-up.
           </p>
-          <a class="gs-link-pill" href="{{ '/lawn-bowls-downloadable-drill-pack/' | relative_url }}">Download the drill pack</a>
+          <a class="gs-link-pill" href="{{ '/lawn-bowls-downloadable-drill-pack' | relative_url }}">Download the drill pack</a>
           <div class="gs-mini-card-grid" role="list" aria-label="Practice and coaching highlights">
             <article class="gs-mini-card" role="listitem">
               <h3>Follow the improvement guide</h3>
               <p>
                 Map out a season-long plan that shows you what to prioritise and how to measure progress as you build confidence.
               </p>
-              <a class="gs-mini-card__link" href="{{ '/2022/06/20/how-to-get-better-at-lawn-bowls/' | relative_url }}">Read the improvement guide</a>
+              <a class="gs-mini-card__link" href="{{ '/2022/06/20/how-to-get-better-at-lawn-bowls' | relative_url }}">Read the improvement guide</a>
             </article>
             <article class="gs-mini-card" role="listitem">
               <h3>Master line and length</h3>
               <p>
                 Dial in draw weight with focused sessions that mirror competitive heads and help you deliver with purpose.
               </p>
-              <a class="gs-mini-card__link" href="{{ '/2023/04/17/line-and-length-in-lawn-bowls-how-to-win-at-bowls/' | relative_url }}">Work on line and length</a>
+              <a class="gs-mini-card__link" href="{{ '/2023/04/17/line-and-length-in-lawn-bowls-how-to-win-at-bowls' | relative_url }}">Work on line and length</a>
             </article>
           </div>
         </div>
@@ -419,19 +419,19 @@ latest_posts_count: 3
           <div class="gs-block__ctas" role="group" aria-label="Competition calls to action">
             <a
               class="gs-cta-button gs-cta-button--primary"
-              href="{{ '/2021/07/20/ultimate-guide-to-lawn-bowls-singles-tactics/' | relative_url }}"
+              href="{{ '/2021/07/20/ultimate-guide-to-lawn-bowls-singles-tactics' | relative_url }}"
             >Dive into singles tactics</a>
           </div>
           <nav class="gs-block__guide" aria-label="Competition strategy quick links">
             <ol class="gs-block__link-list">
               <li>
-                <a href="{{ '/2021/07/20/ultimate-guide-to-lawn-bowls-singles-tactics/' | relative_url }}">Singles tactics playbook</a>
+                <a href="{{ '/2021/07/20/ultimate-guide-to-lawn-bowls-singles-tactics' | relative_url }}">Singles tactics playbook</a>
               </li>
               <li>
-                <a href="{{ '/2022/03/06/lawn-bowls-triples-tactics/' | relative_url }}">Triples teamwork essentials</a>
+                <a href="{{ '/2022/03/06/lawn-bowls-triples-tactics' | relative_url }}">Triples teamwork essentials</a>
               </li>
               <li>
-                <a href="{{ '/2020/11/07/how-to-prepare-for-a-new-lawn-bowls-season/' | relative_url }}">Season preparation checklist</a>
+                <a href="{{ '/2020/11/07/how-to-prepare-for-a-new-lawn-bowls-season' | relative_url }}">Season preparation checklist</a>
               </li>
             </ol>
           </nav>
