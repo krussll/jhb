@@ -253,6 +253,45 @@ cta_panel:
     </div>
   </section>
 
+  {% assign gear_category = nil %}
+  {% if category_tiles and category_tiles.items %}
+    {% assign gear_category = category_tiles.items | where: "url", "/reviews/" | first %}
+  {% endif %}
+  <section class="gs-block gs-block--gear" aria-labelledby="gear-spotlight">
+    <div class="container">
+      <div class="gs-block__inner">
+        <div class="gs-block__media">
+          <img
+            src="{{ 'img/icons/buy-the-right-bowls.png' | relative_url }}"
+            alt="Illustration of bowls equipment alongside the words \"Buy the right bowls\""
+            loading="lazy"
+          />
+        </div>
+        <div class="gs-block__content">
+          <p class="gs-block__eyebrow">Gear spotlight</p>
+          <h2 id="gear-spotlight">Choose bowls with confidence</h2>
+          <p>
+            Compare our in-depth equipment reviews and use the proven sizing checks before you invest in your next set of bowls.
+          </p>
+          <div class="gs-block__ctas" role="group" aria-label="Equipment calls to action">
+            <a class="gs-cta-button gs-cta-button--primary" href="{{ '/reviews/' | relative_url }}">Read reviews hub</a>
+            <a class="gs-cta-button gs-cta-button--secondary" href="{{ '/2021/05/07/what-size-lawn-bowl-should-i-use/' | relative_url }}">Check your size</a>
+          </div>
+          {% if gear_category and gear_category.links %}
+            <div class="gs-block__decisions">
+              <h3>Key decisions</h3>
+              <ul>
+                {% for link in gear_category.links %}
+                  <li><a href="{{ link.url | relative_url }}">{{ link.label }}</a></li>
+                {% endfor %}
+              </ul>
+            </div>
+          {% endif %}
+        </div>
+      </div>
+    </div>
+  </section>
+
   {% if category_tiles and category_tiles.items %}
     <section class="gs-section">
       <div class="container">
