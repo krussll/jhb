@@ -232,7 +232,7 @@ last_modified_at: 2025-10-16T15:50:40+01:00
 
 <!-- wp:list -->
 <ul><!-- wp:list-item -->
-<li><a href="{{ '/bowls/review/taylor-vector-vs-review/' | relative_url }}" data-type="post" data-id="376">Full Vector VS Bowls Review</a></li>
+<li><a href="{{ '/bowls/review/taylor-vector-vs-review' | relative_url }}" data-type="post" data-id="376">Full Vector VS Bowls Review</a></li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
@@ -242,19 +242,19 @@ last_modified_at: 2025-10-16T15:50:40+01:00
 
 <!-- wp:list -->
 <ul><!-- wp:list-item -->
-<li><a href="{{ '/bowls/review/taylor-legacy-sl-review/' | relative_url }}" data-type="post" data-id="332">Taylor Legacy SL Bowls Review</a></li>
+<li><a href="{{ '/bowls/review/taylor-legacy-sl-review' | relative_url }}" data-type="post" data-id="332">Taylor Legacy SL Bowls Review</a></li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li><a href="{{ '/bowls/review/taylor-ace-review/' | relative_url }}" data-type="post" data-id="329">Taylor Ace Bowls Review</a></li>
+<li><a href="{{ '/bowls/review/taylor-ace-review' | relative_url }}" data-type="post" data-id="329">Taylor Ace Bowls Review</a></li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li><a href="{{ '/bowls/review/taylor-lazer-review/' | relative_url }}" data-type="post" data-id="270">Taylor Lazer Bowls Review</a></li>
+<li><a href="{{ '/bowls/review/taylor-lazer-review' | relative_url }}" data-type="post" data-id="270">Taylor Lazer Bowls Review</a></li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li><a href="{{ '/bowls/review/taylor-blaze-lawn-bowls-review/' | relative_url }}" data-type="post" data-id="258">Taylor Blaze Bowls Review</a></li>
+<li><a href="{{ '/bowls/review/taylor-blaze-lawn-bowls-review' | relative_url }}" data-type="post" data-id="258">Taylor Blaze Bowls Review</a></li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
@@ -278,7 +278,7 @@ last_modified_at: 2025-10-16T15:50:40+01:00
 
 <!-- wp:list -->
 <ul><!-- wp:list-item -->
-<li><a href="{{ '/bowls/review/drakes-pride-professional-review/' | relative_url }}" data-type="post" data-id="335">Full Drakes Pride Professional Bowls Review</a></li>
+<li><a href="{{ '/bowls/review/drakes-pride-professional-review' | relative_url }}" data-type="post" data-id="335">Full Drakes Pride Professional Bowls Review</a></li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
@@ -288,15 +288,15 @@ last_modified_at: 2025-10-16T15:50:40+01:00
 
 <!-- wp:list -->
 <ul><!-- wp:list-item -->
-<li><a href="{{ '/bowls/review/drakes-pride-professional-review/' | relative_url }}" data-type="post" data-id="335">Drakes Pride Professional Bowls Review</a></li>
+<li><a href="{{ '/bowls/review/drakes-pride-professional-review' | relative_url }}" data-type="post" data-id="335">Drakes Pride Professional Bowls Review</a></li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li><a href="{{ '/bowls/review/drakes-pride-xp-lawn-bowls-review/' | relative_url }}" data-type="post" data-id="264">Drakes Pride XP Bowls Review</a></li>
+<li><a href="{{ '/bowls/review/drakes-pride-xp-lawn-bowls-review' | relative_url }}" data-type="post" data-id="264">Drakes Pride XP Bowls Review</a></li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li><a href="{{ '/bowls/review/drakes-pride-pro-50-review/' | relative_url }}" data-type="post" data-id="341">Drakes Pride PRO-50 Bowls Review</a></li>
+<li><a href="{{ '/bowls/review/drakes-pride-pro-50-review' | relative_url }}" data-type="post" data-id="341">Drakes Pride PRO-50 Bowls Review</a></li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
@@ -324,7 +324,7 @@ last_modified_at: 2025-10-16T15:50:40+01:00
 
 <!-- wp:list -->
 <ul><!-- wp:list-item -->
-<li><a href="{{ '/bowls/review/aero-groove-lawn-bowls-review/' | relative_url }}" data-type="post" data-id="254">Aero Groove Bowls Review</a></li>
+<li><a href="{{ '/bowls/review/aero-groove-lawn-bowls-review' | relative_url }}" data-type="post" data-id="254">Aero Groove Bowls Review</a></li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
     

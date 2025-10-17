@@ -23,7 +23,7 @@
     {% assign author_name = site.author %}
   {% endif %}
   {% if author_url == nil and author_name %}
-    {% assign author_url = '/about-us/' | absolute_url %}
+    {% assign author_url = '/about-us' | absolute_url %}
   {% endif %}
   {% assign publisher_logo_url = '/img/jh_logo.svg' | absolute_url %}
   {% assign is_article = false %}

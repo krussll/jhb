@@ -132,7 +132,7 @@ date: 2020-10-29 13:00:00 -0400
 <!-- wp:block {"ref":2679} /-->
 
 <!-- wp:paragraph -->
-<p>The <a href="{{ '/bowls/review/drakes-pride-d-tec-review/' | relative_url }}" data-type="post" data-id="382">D-Tec</a> is one of the best narrow line bowls available. Ideal for indoor conditions, the d-tec offers a consistent flat finishing draw shot.</p>
+<p>The <a href="{{ '/bowls/review/drakes-pride-d-tec-review' | relative_url }}" data-type="post" data-id="382">D-Tec</a> is one of the best narrow line bowls available. Ideal for indoor conditions, the d-tec offers a consistent flat finishing draw shot.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":3} -->
@@ -162,7 +162,7 @@ date: 2020-10-29 13:00:00 -0400
 <!-- wp:block {"ref":2673} /-->
 
 <!-- wp:paragraph -->
-<p>Taylor has a fantastic range of bowls. The <a href="{{ '/bowls/review/taylor-vector-vs-review/' | relative_url }}" data-type="post" data-id="376">Vector VS</a> is known as a wide biased indoor model, however, I have seen them play very well outdoors. The bias lends itself for leads and will play straighter on slower greens</p>
+<p>Taylor has a fantastic range of bowls. The <a href="{{ '/bowls/review/taylor-vector-vs-review' | relative_url }}" data-type="post" data-id="376">Vector VS</a> is known as a wide biased indoor model, however, I have seen them play very well outdoors. The bias lends itself for leads and will play straighter on slower greens</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":3} -->
@@ -172,7 +172,7 @@ date: 2020-10-29 13:00:00 -0400
 <!-- wp:block {"ref":2709} /-->
 
 <!-- wp:paragraph -->
-<p>Another one from the Aero range. The <a href="{{ '/bowls/review/aero-quantum-review/' | relative_url }}" data-type="post" data-id="128">Quantum</a> is one of Aero’s dual-purpose models, so it has been designed for outdoor greens. This sits on the narrower side of the dual-purpose range, so will be ideal for a narrower style of play</p>
+<p>Another one from the Aero range. The <a href="{{ '/bowls/review/aero-quantum-review' | relative_url }}" data-type="post" data-id="128">Quantum</a> is one of Aero’s dual-purpose models, so it has been designed for outdoor greens. This sits on the narrower side of the dual-purpose range, so will be ideal for a narrower style of play</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":3} -->
@@ -202,7 +202,7 @@ date: 2020-10-29 13:00:00 -0400
 <!-- wp:block {"ref":2695} /-->
 
 <!-- wp:paragraph -->
-<p>The <a href="{{ '/bowls/review/taylor-lazer-review/' | relative_url }}" data-type="post" data-id="270">Lazer</a> was designed for indoor, and fast outdoor greens. Its the narrowest model in the Taylor range, so it will fit the bill for anyone who plays on fast outdoor rinks regularly.</p>
+<p>The <a href="{{ '/bowls/review/taylor-lazer-review' | relative_url }}" data-type="post" data-id="270">Lazer</a> was designed for indoor, and fast outdoor greens. Its the narrowest model in the Taylor range, so it will fit the bill for anyone who plays on fast outdoor rinks regularly.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":3} -->
