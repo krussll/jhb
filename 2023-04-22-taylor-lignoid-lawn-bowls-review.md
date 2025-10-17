@@ -104,7 +104,7 @@ date: 2023-04-22 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>The Taylor Lignoid is a wide biased bowl and is the widest model in the Taylor range.</p>
+<p>The Taylor Lignoid is a wide biased bowl and is the widest model in the Taylor range.<sup><a href="#taylor-lignoid">[1]</a></sup></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:block {"ref":2840} /-->
@@ -134,7 +134,7 @@ date: 2023-04-22 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Taylor offers all their models in the full range of sizes (00 to 5), and it is also available in Heavy and Medium weights.</p>
+<p>Taylor offers all their models in the full range of sizes (00 to 5), and it is also available in Heavy and Medium weights.<sup><a href="#taylor-lignoid">[1]</a></sup></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -154,7 +154,7 @@ date: 2023-04-22 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>The Taylor Lignoid is only available in black with Taylor's Progrip as standard, which is a real shame.</p>
+<p>The Taylor Lignoid is only available in black with Taylor's Progrip as standard, which is a real shame.<sup><a href="#taylor-lignoid">[1]</a></sup></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -200,4 +200,13 @@ date: 2023-04-22 13:00:00 -0400
 <!-- wp:paragraph -->
 <p>Whilst the Lignoid is still a great option for those more experienced wanting a bit of extra bias on slow running greens, it is also ideal for the newer bowler looking for that very first set without breaking the bank.</p>
 <!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Sources</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul><li id="taylor-lignoid"><a href="https://www.taylorbowls.com/products/lignoid" rel="noopener" target="_blank">Taylor Bowls – Lignoid Product Specifications</a></li></ul>
+<!-- /wp:list -->
+
     
