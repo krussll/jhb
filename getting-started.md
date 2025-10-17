@@ -327,7 +327,7 @@ latest_posts_count: 3
       <div class="container">
         <div class="gs-block__inner">
           <div class="gs-block__icon">
-            <img src="{{ 'img/icons/learn-the-rules.png' | relative_url }}" alt="Illustration representing lawn bowls rules and etiquette" loading="lazy" />
+            <img src="{{ 'img/img/learn-the-rules.png' | relative_url }}" alt="Illustration representing lawn bowls rules and etiquette" loading="lazy" />
           </div>
           <div class="gs-block__content">
             {% if basics_category and basics_category.title %}
