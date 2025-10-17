@@ -292,7 +292,7 @@ latest_posts_count: 3
       <div class="gs-block__inner">
         <div class="gs-block__media">
           <img
-            src="{{ 'img/icons/buy-the-right-bowls.png' | relative_url }}"
+            src="{{ '/img/icons/buy-the-right-bowls.png' | relative_url }}"
             alt="Illustration of bowls equipment alongside the words \"Buy the right bowls\""
             loading="lazy"
           />
