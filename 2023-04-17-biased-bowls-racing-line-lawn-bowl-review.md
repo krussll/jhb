@@ -10,7 +10,7 @@ date: 2023-04-17 13:00:00 -0400
     
 
 <!-- wp:paragraph -->
-<p xmlns="http://www.w3.org/1999/xhtml"><strong>Biased Bowls may have only been around since 2020, but their range of racing inspired bowls certainly make an impact. But just how good is the Racing Line model? And is it the right choice for you?</strong></p>
+<p xmlns="http://www.w3.org/1999/xhtml"><strong>Biased Bowls may have only been around since 2020, but their range of racing inspired bowls certainly make an impact. But just how good is the Racing Line model? And is it the right choice for you?</strong><sup><a href="#biased-bowls-about">[1]</a></sup></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":3085,"sizeSlug":"large","linkDestination":"none"} -->
@@ -96,11 +96,11 @@ date: 2023-04-17 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Enter Biased Bowls. Founded in 2019 with the intention of bringing a new look to bowls inspired by racing and driving.</p>
+<p>Enter Biased Bowls. Founded in 2019 with the intention of bringing a new look to bowls inspired by racing and driving.<sup><a href="#biased-bowls-about">[1]</a></sup></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Biased Bowls have partnered with Taylor as their manufacturer, but with new models with trajectories unique to Biased. To be precise they have 2 new models - the Racing Line and Torque.</p>
+<p>Biased Bowls have partnered with Taylor as their manufacturer, but with new models with trajectories unique to Biased. To be precise they have 2 new models - the Racing Line and Torque.<sup><a href="#biased-bowls-about">[1]</a></sup><sup><a href="#biased-bowls-racing-line">[2]</a></sup></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -148,7 +148,7 @@ date: 2023-04-17 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>All Biased models are available in sizes 0-4 and are available in Heavy only.</p>
+<p>All Biased models are available in sizes 0-4 and are available in Heavy only.<sup><a href="#biased-bowls-racing-line">[2]</a></sup></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -172,11 +172,11 @@ date: 2023-04-17 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>The colour options and customisation are like nothing I have seen from another brand.</p>
+<p>The colour options and customisation are like nothing I have seen from another brand.<sup><a href="#biased-bowls-racing-line">[2]</a></sup></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>The icons, logos and badges are nowhere to be seen on these bowls. These have been replaced by customised numbers. The idea is you can choose a number that is meaningful for you - in my case I chose the number "14" (the year I got married).</p>
+<p>The icons, logos and badges are nowhere to be seen on these bowls. These have been replaced by customised numbers. The idea is you can choose a number that is meaningful for you - in my case I chose the number "14" (the year I got married).<sup><a href="#biased-bowls-racing-line">[2]</a></sup></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -192,7 +192,7 @@ date: 2023-04-17 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>If that isn't your thing then Biased also have a range of block colours, including red, blue, orange and green.</p>
+<p>If that isn't your thing then Biased also have a range of block colours, including red, blue, orange and green.<sup><a href="#biased-bowls-racing-line">[2]</a></sup></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -200,7 +200,7 @@ date: 2023-04-17 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>There is only one grip option available on Biased bowl models, which is the Taylor progrip.</p>
+<p>There is only one grip option available on Biased bowl models, which is the Taylor progrip.<sup><a href="#biased-bowls-racing-line">[2]</a></sup></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":3065,"sizeSlug":"large","linkDestination":"none"} -->
@@ -222,4 +222,13 @@ date: 2023-04-17 13:00:00 -0400
 <!-- wp:paragraph -->
 <p>With a great trajectory that offers a bit for everyone, and with a unique look that isn't too "out there" I think I'll be using them for quite some time to come.</p>
 <!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Sources</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul><li id="biased-bowls-about"><a href="https://biasedbowls.co.uk/pages/about" rel="noopener" target="_blank">Biased Bowls – About</a></li><li id="biased-bowls-racing-line"><a href="https://biasedbowls.co.uk/products/racing-line" rel="noopener" target="_blank">Biased Bowls – Racing Line Specifications</a></li></ul>
+<!-- /wp:list -->
+
     
