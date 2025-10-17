@@ -253,6 +253,44 @@ cta_panel:
     </div>
   </section>
 
+  {% assign basics_category = category_tiles.items | first %}
+  {% assign basics_goal = pathways.items | first %}
+  {% assign basics_links = basics_goal.links | default: basics_category.links %}
+  {% if basics_category or basics_goal %}
+    <section class="gs-block gs-block--basics">
+      <div class="container">
+        <div class="gs-block__inner">
+          <div class="gs-block__icon">
+            <img src="{{ 'img/icons/learn-the-rules.png' | relative_url }}" alt="Illustration representing lawn bowls rules and etiquette" loading="lazy" />
+          </div>
+          <div class="gs-block__content">
+            {% if basics_category and basics_category.title %}
+              <h2>{{ basics_category.title }}</h2>
+            {% elsif basics_goal and basics_goal.title %}
+              <h2>{{ basics_goal.title }}</h2>
+            {% endif %}
+            {% if basics_category and basics_category.description %}
+              <p>{{ basics_category.description }}</p>
+            {% endif %}
+            {% if basics_goal and basics_goal.description %}
+              <p>{{ basics_goal.description }}</p>
+            {% endif %}
+            {% if basics_links %}
+              <ul class="gs-block__links">
+                {% for link in basics_links %}
+                  <li><a href="{{ link.url | relative_url }}">{{ link.label }}</a></li>
+                {% endfor %}
+              </ul>
+            {% endif %}
+            {% if basics_category and basics_category.cta %}
+              <a class="gs-block__cta" href="{{ basics_category.url | relative_url }}">{{ basics_category.cta }}</a>
+            {% endif %}
+          </div>
+        </div>
+      </div>
+    </section>
+  {% endif %}
+
   {% if category_tiles and category_tiles.items %}
     <section class="gs-section">
       <div class="container">
@@ -264,22 +302,24 @@ cta_panel:
         </div>
         <div class="gs-category-grid">
           {% for category in category_tiles.items %}
-            <article class="gs-category">
-              <div class="gs-category__body">
-                <h3>{{ category.title }}</h3>
-                {% if category.description %}
-                  <p>{{ category.description }}</p>
+            {% unless forloop.first %}
+              <article class="gs-category">
+                <div class="gs-category__body">
+                  <h3>{{ category.title }}</h3>
+                  {% if category.description %}
+                    <p>{{ category.description }}</p>
+                  {% endif %}
+                  <a class="gs-category__cta" href="{{ category.url | relative_url }}">{{ category.cta | default: 'Visit hub →' }}</a>
+                </div>
+                {% if category.links %}
+                  <ul class="gs-category__links">
+                    {% for link in category.links %}
+                      <li><a href="{{ link.url | relative_url }}">{{ link.label }}</a></li>
+                    {% endfor %}
+                  </ul>
                 {% endif %}
-                <a class="gs-category__cta" href="{{ category.url | relative_url }}">{{ category.cta | default: 'Visit hub →' }}</a>
-              </div>
-              {% if category.links %}
-                <ul class="gs-category__links">
-                  {% for link in category.links %}
-                    <li><a href="{{ link.url | relative_url }}">{{ link.label }}</a></li>
-                  {% endfor %}
-                </ul>
-              {% endif %}
-            </article>
+              </article>
+            {% endunless %}
           {% endfor %}
         </div>
       </div>
@@ -297,21 +337,23 @@ cta_panel:
         </div>
         <div class="gs-card-grid">
           {% for goal in pathways.items %}
-            <article class="gs-card">
-              <h3>{{ goal.title }}</h3>
-              {% if goal.description %}
-                <p>{{ goal.description }}</p>
-              {% endif %}
-              {% if goal.links %}
-                <ul class="gs-card__links">
-                  {% for link in goal.links %}
-                    <li>
-                      <a href="{{ link.url | relative_url }}">{{ link.label }}</a>
-                    </li>
-                  {% endfor %}
-                </ul>
-              {% endif %}
-            </article>
+            {% unless forloop.first %}
+              <article class="gs-card">
+                <h3>{{ goal.title }}</h3>
+                {% if goal.description %}
+                  <p>{{ goal.description }}</p>
+                {% endif %}
+                {% if goal.links %}
+                  <ul class="gs-card__links">
+                    {% for link in goal.links %}
+                      <li>
+                        <a href="{{ link.url | relative_url }}">{{ link.label }}</a>
+                      </li>
+                    {% endfor %}
+                  </ul>
+                {% endif %}
+              </article>
+            {% endunless %}
           {% endfor %}
         </div>
       </div>
