@@ -145,11 +145,6 @@ deep_dives:
   heading: Featured collections
   description: Explore curated hubs packed with linked stories, buying guides and expert answers.
   items:
-    - eyebrow: New player essentials
-      title: Help & support centre
-      description: Step-by-step answers to the questions every new bowler asks, from footwear to scoring.
-      cta: Browse help articles →
-      url: /help-and-support/
     - eyebrow: Gear deep dives
       title: Bowls & equipment reviews
       description: Compare leading models side-by-side to understand bias, build quality and who each bowl suits best.
@@ -160,18 +155,27 @@ deep_dives:
       description: Not sure where to start? Scan every story we've published and filter by the topic that matters.
       cta: View all posts →
       url: /all-posts/
-latest_heading: Latest picks
-latest_description: Stay on top of the newest advice from Jack High Bowls. These articles are the ones our editors are talking about right now.
-latest_posts_count: 3
-cta_panel:
-  title: Can't see the answer you need?
-  description: Tell us what you're working on and we'll point you towards the right advice, drills or gear. We're happy to make personalised recommendations.
+support_block:
+  eyebrow: Need specialist guidance?
+  title: Talk to a Jack High Bowls coach
+  description: Can't find the answer you need? We'll point you to the right drills, kit and next steps for your situation.
+  quote:
+    text: "Jack High Bowls helped me go from confused about equipment to confident on the rink in a single season."
+    cite: "— Sarah M., new club lead"
+  image:
+    src: img/img/master-core-skills.png
+    alt: Bowls coach demonstrating delivery form
   primary:
     label: Contact the team
     url: /contact/
   secondary:
-    label: Partner with Jack High Bowls
-    url: /advertisers/
+    - label: Visit the Help & Support hub
+      url: /help-and-support/
+    - label: Partner with Jack High Bowls
+      url: /advertisers/
+latest_heading: Latest picks
+latest_description: Stay on top of the newest advice from Jack High Bowls. These articles are the ones our editors are talking about right now.
+latest_posts_count: 3
 ---
 
 {% assign hero = page.hero %}
@@ -181,7 +185,7 @@ cta_panel:
 {% assign deep_dives = page.deep_dives %}
 {% assign latest_count = page.latest_posts_count | default: 3 | plus: 0 %}
 {% assign latest_posts = site.posts | slice: 0, latest_count %}
-{% assign cta_panel = page.cta_panel %}
+{% assign support_block = page.support_block %}
 
 <main class="getting-started">
   <section class="gs-hero">
@@ -492,6 +496,56 @@ cta_panel:
     </section>
   {% endif %}
 
+  {% if support_block %}
+    <section class="gs-section gs-block--support">
+      <div class="container">
+        <div class="gs-support">
+          <div class="gs-support__media">
+            {% assign support_image = support_block.image %}
+            <img
+              src="{{ support_image.src | default: 'img/img/master-core-skills.png' | relative_url }}"
+              alt="{{ support_image.alt | default: 'Bowls coach guiding a player' }}"
+              loading="lazy"
+            />
+          </div>
+          <div class="gs-support__content">
+            {% if support_block.eyebrow %}
+              <p class="gs-eyebrow">{{ support_block.eyebrow }}</p>
+            {% endif %}
+            <h2>{{ support_block.title }}</h2>
+            {% if support_block.description %}
+              <p>{{ support_block.description }}</p>
+            {% endif %}
+            {% if support_block.quote %}
+              <figure class="gs-support__quote">
+                {% if support_block.quote.text %}
+                  <blockquote>
+                    “{{ support_block.quote.text }}”
+                  </blockquote>
+                {% endif %}
+                {% if support_block.quote.cite %}
+                  <figcaption>{{ support_block.quote.cite }}</figcaption>
+                {% endif %}
+              </figure>
+            {% endif %}
+            <div class="gs-support__actions">
+              {% if support_block.primary %}
+                <a class="gs-link-pill" href="{{ support_block.primary.url | relative_url }}">{{ support_block.primary.label }}</a>
+              {% endif %}
+              {% if support_block.secondary %}
+                <div class="gs-support__secondary">
+                  {% for link in support_block.secondary %}
+                    <a class="gs-link-pill gs-link-pill--ghost" href="{{ link.url | relative_url }}">{{ link.label }}</a>
+                  {% endfor %}
+                </div>
+              {% endif %}
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+  {% endif %}
+
   {% if latest_posts and latest_posts.size > 0 %}
     <section class="gs-section gs-section--latest">
       <div class="container">
@@ -511,29 +565,6 @@ cta_panel:
               {% endif %}
             </article>
           {% endfor %}
-        </div>
-      </div>
-    </section>
-  {% endif %}
-
-  {% if cta_panel %}
-    <section class="gs-section gs-section--cta">
-      <div class="container">
-        <div class="gs-cta-panel">
-          <div class="gs-cta-panel__content">
-            <h2>{{ cta_panel.title }}</h2>
-            {% if cta_panel.description %}
-              <p>{{ cta_panel.description }}</p>
-            {% endif %}
-          </div>
-          <div class="gs-cta-panel__actions">
-            {% if cta_panel.primary %}
-              <a class="gs-link-pill gs-link-pill--dark" href="{{ cta_panel.primary.url | relative_url }}">{{ cta_panel.primary.label }}</a>
-            {% endif %}
-            {% if cta_panel.secondary %}
-              <a class="gs-link-pill gs-link-pill--ghost" href="{{ cta_panel.secondary.url | relative_url }}">{{ cta_panel.secondary.label }}</a>
-            {% endif %}
-          </div>
         </div>
       </div>
     </section>
