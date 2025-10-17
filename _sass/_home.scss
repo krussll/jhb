@@ -371,6 +371,13 @@ $site-hero-gradient: radial-gradient(circle at top right, rgba(79, 124, 255, 0.2
   transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
 
+.service-card img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 0 auto;
+}
+
 .service-card:hover {
   transform: translateY(-6px);
   box-shadow: 0 28px 65px rgba(31, 43, 95, 0.16);
