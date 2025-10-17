@@ -94,13 +94,22 @@ table {
     padding: 16px 32px;
     margin-bottom: 30px;
 
-    a {
-        background-color: #228C3A;
-        color: white;
-    }
-
     img {
         width: 100%;
+    }
+}
+
+.pack-feature__cta {
+    background-color: #0F3D1F;
+    border-color: #0F3D1F;
+    color: #fff;
+
+    &:hover,
+    &:focus {
+        background-color: darken(#0F3D1F, 7.5%);
+        border-color: darken(#0F3D1F, 7.5%);
+        color: #fff;
+        text-decoration: none;
     }
 }
 
