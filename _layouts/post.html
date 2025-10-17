@@ -87,20 +87,55 @@ layout: default
           </div>
           <hr class="post-article__divider">
           {% include lead-magnet.html section_class="home-lead post-lead" container_class="home-lead__container" button_text="Email me the playbook" %}
-          <nav class="post-article__pagination clearfix" aria-label="Post navigation">
-            {% if page.previous.url %}
-            <a class="btn btn-outline-primary post-article__pager post-article__pager--prev" href="{{ page.previous.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{ page.previous.title }}">
-              <i class="fas fa-arrow-left" aria-hidden="true"></i>
-              <span>Previous<span class="d-none d-md-inline"> Post</span></span>
-            </a>
-            {% endif %}
-            {% if page.next.url %}
-            <a class="btn btn-outline-primary post-article__pager post-article__pager--next" href="{{ page.next.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{ page.next.title }}">
-              <span>Next<span class="d-none d-md-inline"> Post</span></span>
-              <i class="fas fa-arrow-right" aria-hidden="true"></i>
-            </a>
-            {% endif %}
-          </nav>
+          <section class="post-cornerstone" aria-labelledby="cornerstone-guides-heading">
+            <div class="post-cornerstone__header text-center">
+              <span class="post-cornerstone__eyebrow">Keep building your game</span>
+              <h2 id="cornerstone-guides-heading">Cornerstone guides to explore next</h2>
+              <p class="post-cornerstone__description">These four deep-dive resources cover the fundamentals we recommend to every bowler looking to grow their skills, confidence, and match awareness.</p>
+            </div>
+            <div class="row">
+              <div class="col-lg-3 col-md-6">
+                <article class="core-guide-card post-cornerstone__card">
+                  <div class="post-cornerstone__media">
+                    <img src="{{ '/img/icons/learn-the-rules.png' | relative_url }}" alt="Illustration representing learning the rules">
+                  </div>
+                  <h3>Understand the rules</h3>
+                  <p>Master formats, scoring, and etiquette so every end runs smoothly.</p>
+                  <a class="core-guide-card__link" href="{{ '/help/lawn-bowls-rules/' | relative_url }}">Read the rules guide <i class="fas fa-arrow-right" aria-hidden="true"></i></a>
+                </article>
+              </div>
+              <div class="col-lg-3 col-md-6">
+                <article class="core-guide-card post-cornerstone__card">
+                  <div class="post-cornerstone__media">
+                    <img src="{{ '/img/icons/buy-the-right-bowls.png' | relative_url }}" alt="Illustration of a lawn bowl for equipment selection">
+                  </div>
+                  <h3>Pick the right bowls</h3>
+                  <p>Compare models, bias profiles, and sizing to choose a set that fits your draw.</p>
+                  <a class="core-guide-card__link" href="{{ '/guide/how-to-choose-a-set-of-lawn-bowls/' | relative_url }}">Choose your set <i class="fas fa-arrow-right" aria-hidden="true"></i></a>
+                </article>
+              </div>
+              <div class="col-lg-3 col-md-6">
+                <article class="core-guide-card post-cornerstone__card">
+                  <div class="post-cornerstone__media">
+                    <img src="{{ '/img/icons/practice-with-confidence.png' | relative_url }}" alt="Illustration of a target representing purposeful practice">
+                  </div>
+                  <h3>Practice with purpose</h3>
+                  <p>Follow a structured plan that develops draw weight, line control, and mindset.</p>
+                  <a class="core-guide-card__link" href="{{ '/help/how-to-get-better-at-lawn-bowls/' | relative_url }}">Start improving <i class="fas fa-arrow-right" aria-hidden="true"></i></a>
+                </article>
+              </div>
+              <div class="col-lg-3 col-md-6">
+                <article class="core-guide-card post-cornerstone__card">
+                  <div class="post-cornerstone__media">
+                    <img src="{{ '/img/icons/win-at-singles.png' | relative_url }}" alt="Illustration of a strategy board for singles tactics">
+                  </div>
+                  <h3>Win your singles</h3>
+                  <p>Adopt match tactics that help you control the mat, jack, and momentum.</p>
+                  <a class="core-guide-card__link" href="{{ '/help/ultimate-guide-to-lawn-bowls-singles-tactics/' | relative_url }}">Study singles tactics <i class="fas fa-arrow-right" aria-hidden="true"></i></a>
+                </article>
+              </div>
+            </div>
+          </section>
         </article>
       </div>
     </div>
