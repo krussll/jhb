@@ -15,6 +15,9 @@ hero:
       url: /lawn-bowls-downloadable-drill-pack/
     - label: Need personal help?
       url: /contact/
+  image: /img/img/find-right-bowls.png
+  image_alt: Bowls arranged on a club locker as a new player selects the right set
+  image_caption: Find advice that helps you choose the right bowls, practice plan and support.
   primary:
     tag: Step-by-step plan
     title: Build confidence from your first roll-up to club matches
@@ -184,41 +187,64 @@ cta_panel:
   <section class="gs-hero">
     <div class="container">
       <div class="gs-hero__grid">
-        <div class="gs-hero__intro">
-          {% if hero.eyebrow %}
-            <p class="gs-eyebrow">{{ hero.eyebrow }}</p>
-          {% endif %}
-          <h1 class="gs-hero__title">{{ page.title }}</h1>
-          {% if hero.lede %}
-            <p class="gs-lede">{{ hero.lede }}</p>
-          {% endif %}
-          {% if hero.quick_links %}
-            <nav class="gs-hero__quick-links" aria-label="Quick links">
-              {% for link in hero.quick_links %}
-                <a class="gs-quick-link" href="{{ link.url | relative_url }}">{{ link.label }}</a>
-              {% endfor %}
-            </nav>
-          {% endif %}
-          {% if trending and trending.items %}
-            <div class="gs-trending gs-trending--hero">
-              <div class="gs-trending__header">
-                <span>{{ trending.title }}</span>
-              </div>
-              <ol class="gs-trending__list">
-                {% for item in trending.items %}
-                  <li>
-                    <a href="{{ item.url | relative_url }}">
-                      {% if item.meta %}
-                        <span class="gs-trending__meta">{{ item.meta }}</span>
-                      {% endif %}
-                      <span class="gs-trending__title">{{ item.title }}</span>
-                    </a>
-                  </li>
-                {% endfor %}
-              </ol>
-            </div>
+        <div class="gs-hero__content">
+          <div class="gs-hero__intro">
+            {% if hero.eyebrow %}
+              <p class="gs-eyebrow">{{ hero.eyebrow }}</p>
+            {% endif %}
+            <h1 class="gs-hero__title">{{ page.title }}</h1>
+            {% if hero.lede %}
+              <p class="gs-lede">{{ hero.lede }}</p>
+            {% endif %}
+          </div>
+          {% if hero.quick_links or (trending and trending.items) %}
+            <aside class="gs-hero__rail" aria-label="Key entry points">
+              {% if hero.quick_links %}
+                <nav class="gs-rail__group" aria-label="Quick links">
+                  <h2 class="gs-rail__title">Quick links</h2>
+                  <ul class="gs-rail__list">
+                    {% for link in hero.quick_links %}
+                      <li>
+                        <a class="gs-rail__pill gs-rail__pill--action" href="{{ link.url | relative_url }}">
+                          <span class="gs-rail__pill-label">{{ link.label }}</span>
+                        </a>
+                      </li>
+                    {% endfor %}
+                  </ul>
+                </nav>
+              {% endif %}
+              {% if trending and trending.items %}
+                <div class="gs-rail__group">
+                  <h2 class="gs-rail__title">{{ trending.title }}</h2>
+                  <ol class="gs-rail__list gs-rail__list--numbered">
+                    {% for item in trending.items %}
+                      <li>
+                        <a class="gs-rail__pill gs-rail__pill--story" href="{{ item.url | relative_url }}">
+                          {% if item.meta %}
+                            <span class="gs-rail__meta">{{ item.meta }}</span>
+                          {% endif %}
+                          <span class="gs-rail__pill-label">{{ item.title }}</span>
+                        </a>
+                      </li>
+                    {% endfor %}
+                  </ol>
+                </div>
+              {% endif %}
+            </aside>
           {% endif %}
         </div>
+        {% if hero.image %}
+          <figure class="gs-hero__image">
+            <div class="gs-hero__image-media">
+              <img src="{{ hero.image | relative_url }}" alt="{{ hero.image_alt | default: '' }}" />
+            </div>
+            {% if hero.image_caption %}
+              <figcaption>{{ hero.image_caption }}</figcaption>
+            {% endif %}
+          </figure>
+        {% endif %}
+      </div>
+      {% if hero.primary or hero.secondary %}
         <div class="gs-hero__features">
           {% if hero.primary %}
             <a class="gs-feature gs-feature--primary" href="{{ hero.primary.url | relative_url }}">
@@ -249,7 +275,7 @@ cta_panel:
             </div>
           {% endif %}
         </div>
-      </div>
+      {% endif %}
     </div>
   </section>
 
