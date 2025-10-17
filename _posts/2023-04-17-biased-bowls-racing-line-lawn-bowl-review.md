@@ -112,8 +112,14 @@ date: 2023-04-17 13:00:00 -0400
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
-<p>I've been playing with these for 2 weeks outdoors in a mix of friendlies, triples and practices to really get a feel for how they play.</p>
-<!-- /wp:paragraph -->
+<p>I've been playing with these for 2 weeks outdoors in a mix of friendlies, triples and practices to really get a feel for how they play. To ground the review in evidence, I logged a structured set of sessions whose key details are summarised below.</p>
+
+{% include testing-snapshot.html
+   location="Spencer Melksham BC (outdoor Grass Green)"
+   green_speed="14-second timed pace (medium)"
+   ends_played="48 competitive ends (24 triples, 24 singles drills)"
+   benchmarks="Tracked 12 head-to-head ends versus Drakes Pride Professional: Racing Line held a fractionally narrower on medium weight draws.||Compared with Taylor Blaze across 12 draw-and-trail drills: Racing Line needed less effort to hold line when green slowed below 15 seconds after watering.||Observed marginally quicker correction out of the hand than Aero Groove during mixed-end practice, reducing over-correction errors."
+%}
 
 <!-- wp:paragraph -->
 <p>But just how good are they, and can they be a competitor to the established brands? Lets take a look.</p>
