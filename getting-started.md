@@ -5,34 +5,32 @@ description: Find the right starting point for your bowls journey with curated g
 permalink: /getting-started/
 hero:
   eyebrow: Start bowls your way
-  lede: This hub mirrors a magazine homepage—helping you jump straight into the guides, drills and kit advice that match where you are today.
+  lede: The fastest way to learn bowls basics, choose the right gear and turn practice time into real progress.
   quick_links:
-    - label: Understand the basics
+    - label: Master the fundamentals
       url: /guides/
-    - label: Compare bowls & gear
+    - label: Pick the right bowls
       url: /reviews/
-    - label: Build a practice plan
+    - label: Download practice drills
       url: /lawn-bowls-downloadable-drill-pack/
-    - label: Need personal help?
-      url: /contact/
   image: /img/img/find-right-bowls.png
   image_alt: Bowls arranged on a club locker as a new player selects the right set
   image_caption: Find advice that helps you choose the right bowls, practice plan and support.
   primary:
     tag: Step-by-step plan
     title: Build confidence from your first roll-up to club matches
-    description: Follow our beginner action plan covering rules, mindset, equipment and the skills to focus on each week.
+    description: Follow a focused four-week plan that covers rules, mindset, equipment and the skills to drill each week.
     url: /2022/02/18/9-tips-for-how-to-play-bowls-well/
     cta: Start the action plan →
   secondary:
     - tag: Gear decisions
       title: How to choose a set of lawn bowls that fits
-      description: Understand bias shapes, surface speeds and sizing so your first (or next) set works with your game.
+      description: Understand bias shapes, surface speeds and sizing so every purchase matches your rink and role.
       url: /2022/11/24/how-to-choose-a-set-of-lawn-bowls/
       cta: Shop smart →
     - tag: Practice library
       title: Download drills that sharpen line, length and weight
-      description: Plug structured solo and team drills straight into your weekly routine.
+      description: Drop structured solo and team drills straight into your weekly routine.
       url: /lawn-bowls-downloadable-drill-pack/
       cta: Get the drills →
 trending:
