@@ -105,6 +105,77 @@ $site-hero-gradient: radial-gradient(circle at top right, rgba(79, 124, 255, 0.2
   padding: 5rem 0;
 }
 
+.home-core-guides {
+  background: #fff;
+}
+
+.core-guide-card {
+  background: #ffffff;
+  border-radius: 1.5rem;
+  padding: 2rem 1.75rem;
+  box-shadow: 0 25px 55px rgba(15, 23, 42, 0.08);
+  height: 100%;
+  display: grid;
+  gap: 1.25rem;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.core-guide-card__icon {
+  width: 3.25rem;
+  height: 3.25rem;
+  border-radius: 0.85rem;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  background: rgba(79, 124, 255, 0.12);
+  color: $home-primary;
+  font-size: 1.4rem;
+}
+
+.core-guide-card h3 {
+  font-size: 1.25rem;
+  font-weight: 700;
+  margin: 0;
+  color: $home-accent;
+}
+
+.core-guide-card p {
+  margin: 0;
+  color: #4b5563;
+}
+
+.core-guide-card__link {
+  margin-top: auto;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  font-weight: 600;
+  color: $home-primary;
+  text-decoration: none;
+}
+
+.core-guide-card__link:hover,
+.core-guide-card__link:focus {
+  color: darken($home-primary, 8%);
+  text-decoration: none;
+}
+
+.core-guide-card:hover,
+.core-guide-card:focus-within {
+  transform: translateY(-4px);
+  box-shadow: 0 30px 65px rgba(15, 23, 42, 0.12);
+}
+
+.core-guide-card__link i {
+  transition: transform 0.2s ease;
+}
+
+.core-guide-card__link:hover i,
+.core-guide-card__link:focus i,
+.core-guide-card:focus-within .core-guide-card__link i {
+  transform: translateX(4px);
+}
+
 .home-lead {
   position: relative;
   color: #fff;
