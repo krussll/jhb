@@ -120,6 +120,14 @@ $site-hero-gradient: radial-gradient(circle at top right, rgba(79, 124, 255, 0.2
   transition: transform 0.2s ease, box-shadow 0.2s ease;
 }
 
+.core-guide-card img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+  object-fit: contain;
+}
+
 .core-guide-card__icon {
   width: 3.25rem;
   height: 3.25rem;
