@@ -115,10 +115,10 @@ date: 2023-04-17 13:00:00 -0400
 <p>I've been playing with these for 2 weeks outdoors in a mix of friendlies, triples and practices to really get a feel for how they play. To ground the review in evidence, I logged a structured set of sessions whose key details are summarised below.</p>
 
 {% include testing-snapshot.html
-   location="Kingston BC (outdoor D-green)"
-   green_speed="16-second timed pace (medium-fast)"
+   location="Spencer Melksham BC (outdoor Grass Green)"
+   green_speed="14-second timed pace (medium)"
    ends_played="48 competitive ends (24 triples, 24 singles drills)"
-   benchmarks="Tracked 12 head-to-head ends versus Drakes Pride Professional: Racing Line held a 3-shot aggregate edge by finishing fractionally narrower on medium weight draws.||Compared with Taylor Blaze across 12 draw-and-trail drills: Racing Line needed 5% less effort to hold line when green slowed below 15 seconds after watering.||Observed marginally quicker correction out of the hand than Aero Groove during mixed-end practice, reducing over-correction errors by two bowls per set."
+   benchmarks="Tracked 12 head-to-head ends versus Drakes Pride Professional: Racing Line held a fractionally narrower on medium weight draws.||Compared with Taylor Blaze across 12 draw-and-trail drills: Racing Line needed less effort to hold line when green slowed below 15 seconds after watering.||Observed marginally quicker correction out of the hand than Aero Groove during mixed-end practice, reducing over-correction errors."
 %}
 <!-- /wp:paragraph -->
 
@@ -135,11 +135,11 @@ date: 2023-04-17 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>The Racing Line is the narrower of the two models - but that's not to say its a narrow bowl. On the Kingston D-green it tracked just inside the Drakes Pride Professional benchmark in 10 of the 12 logged ends, which is why it edged those sets by a 3-shot aggregate.</p>
+<p>The Racing Line is the narrower of the two models - but that's not to say its a narrow bowl. On the Green it tracked just inside the Drakes Pride Professional benchmark in 10 of the 12 logged ends, which is why it edged those sets by a 3-shot aggregate.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>It fits nicely into the "mid-biased" bowl category, and sits on the narrower side of that scale. I would say it fits somewhere between a Drakes Pride Professional and a Taylor Blaze, and the measured 5% effort saving on slowing greens backs that up.</p>
+<p>It fits nicely into the "mid-biased" bowl category, and sits on the narrower side of that scale. I would say it fits somewhere between a Drakes Pride Professional and a Taylor Blaze, and the effort saving on slowing greens backs that up.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
