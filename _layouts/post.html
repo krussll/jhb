@@ -81,6 +81,9 @@ layout: default
         <article class="post-article">
           <div class="post-article__body">
             {{ content }}
+            <div id="drill-pack-feature" class="post-article__drill-pack">
+              {% include drill-pack-feature.html %}
+            </div>
           </div>
           <hr class="post-article__divider">
           {% include lead-magnet.html section_class="home-lead post-lead" container_class="home-lead__container" button_text="Email me the playbook" %}
