@@ -19,7 +19,36 @@ layout: default
           <div class="review-methodology-callout">
             <strong>How we test:</strong> Every article follows our <a href="{{ '/review-methodology' | relative_url }}">review methodology</a> so you know how we score each product.
           </div>
-            
+
+          {% assign author_id = page.author | to_s | strip | downcase %}
+          {% assign author = site.data.authors[author_id] %}
+          {% assign author_name = author.name | default: page.author %}
+          {% assign author_credential = author.experience | default: author.credential %}
+          {% if author_name %}
+          {% assign author_link = author.url | default: '/about-us/' %}
+          {% assign author_headshot = author.headshot %}
+          <div class="post-hero__author" itemprop="author" itemscope itemtype="https://schema.org/Person">
+            {% if author_headshot %}
+            {% if author_headshot contains '://' %}
+            {% assign author_headshot_url = author_headshot %}
+            {% else %}
+            {% assign author_headshot_url = author_headshot | prepend: '/img/' | relative_url %}
+            {% endif %}
+            <div class="post-hero__author-avatar">
+              <img src="{{ author_headshot_url }}" alt="{{ author_name }} headshot" loading="lazy" itemprop="image">
+            </div>
+            {% endif %}
+            <div class="post-hero__author-body">
+              <a class="post-hero__author-name" href="{{ author_link | relative_url }}" itemprop="url">
+                <span itemprop="name">{{ author_name }}</span>
+              </a>
+              {% if author_credential %}
+              <p class="post-hero__author-credential" itemprop="description">{{ author_credential }}</p>
+              {% endif %}
+            </div>
+          </div>
+          {% endif %}
+
           <div class="post-hero__meta">
           {% assign updated_date = page.last_modified_at | default: page.date %}
             <span class="post-hero__meta-item">
