@@ -264,6 +264,12 @@
   color: #f5f2eb;
 }
 
+.gs-block--gear .gs-block__inner {
+  background: transparent;
+  border: none;
+  box-shadow: none;
+}
+
 .gs-block--gear .gs-block__content p {
   color: rgba(245, 242, 235, 0.88);
 }
