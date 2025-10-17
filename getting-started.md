@@ -3,6 +3,8 @@ layout: default
 title: Getting Started
 description: Find the right starting point for your bowls journey with curated guides, drills and equipment advice.
 permalink: /getting-started
+hide_page_hero: true
+
 hero:
   eyebrow: Start bowls your way
   lede: The fastest way to learn bowls basics, choose the right gear and turn practice time into real progress.
