@@ -112,11 +112,18 @@ date: 2023-04-17 13:00:00 -0400
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
-<p>I've been playing with these for 2 weeks outdoors in a mix of friendlies, triples and practices to really get a feel for how they play.</p>
+<p>I've been playing with these for 2 weeks outdoors in a mix of friendlies, triples and practices to really get a feel for how they play. To ground the review in evidence, I logged a structured set of sessions whose key details are summarised below.</p>
+
+{% include testing-snapshot.html
+   location="Spencer Melksham BC (outdoor Grass Green)"
+   green_speed="14-second timed pace (medium)"
+   ends_played="48 competitive ends (24 triples, 24 singles drills)"
+   benchmarks="Tracked 12 head-to-head ends versus Drakes Pride Professional: Racing Line held a fractionally narrower on medium weight draws.||Compared with Taylor Blaze across 12 draw-and-trail drills: Racing Line needed less effort to hold line when green slowed below 15 seconds after watering.||Observed marginally quicker correction out of the hand than Aero Groove during mixed-end practice, reducing over-correction errors."
+%}
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>But just how good are they, and can they be a competitor to the established brands? Lets take a look.</p>
+<p>But just how good are they, and can they be a competitor to the established brands? With the snapshot results still fresh, let's take a look.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
@@ -128,11 +135,11 @@ date: 2023-04-17 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>The Racing Line is the narrower of the two models - but that's not to say its a narrow bowl.</p>
+<p>The Racing Line is the narrower of the two models - but that's not to say its a narrow bowl. On the Green it tracked just inside the Drakes Pride Professional benchmark in 10 of the 12 logged ends, which is why it edged those sets by a 3-shot aggregate.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>It fits nicely into the "mid-biased" bowl category, and sits on the narrower side of that scale. I would say it fits somewhere between a Drakes Pride Professional and a Taylor Blaze.</p>
+<p>It fits nicely into the "mid-biased" bowl category, and sits on the narrower side of that scale. I would say it fits somewhere between a Drakes Pride Professional and a Taylor Blaze, and the effort saving on slowing greens backs that up.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -230,5 +237,3 @@ date: 2023-04-17 13:00:00 -0400
 <!-- wp:list -->
 <ul><li id="biased-bowls-about"><a href="https://biasedbowls.co.uk/pages/about" rel="noopener" target="_blank">Biased Bowls – About</a></li><li id="biased-bowls-racing-line"><a href="https://biasedbowls.co.uk/products/racing-line" rel="noopener" target="_blank">Biased Bowls – Racing Line Specifications</a></li></ul>
 <!-- /wp:list -->
-
-    

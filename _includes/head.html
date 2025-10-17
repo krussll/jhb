@@ -1,25 +1,100 @@
 <head>
 
+  {% assign page_title = page.title | default: site.title %}
+  {% assign page_description = page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 %}
+  {% assign canonical_url = page.url | replace:'index.html','' | absolute_url %}
+  {% if page.date %}{% assign article_published = page.date | date_to_xmlschema %}{% endif %}
+  {% assign modified_source = page.last_modified_at | default: page.date %}
+  {% if modified_source %}{% assign article_modified = modified_source | date_to_xmlschema %}{% endif %}
+  {% assign author_name = nil %}
+  {% assign author_url = nil %}
+  {% if page.author %}
+    {% assign author_data = site.data.authors[page.author] %}
+    {% if author_data %}
+      {% assign author_name = author_data.name | default: page.author %}
+      {% if author_data.bio_url %}
+        {% assign author_url = author_data.bio_url | absolute_url %}
+      {% endif %}
+    {% else %}
+      {% assign author_name = page.author %}
+    {% endif %}
+  {% endif %}
+  {% if author_name == nil and site.author %}
+    {% assign author_name = site.author %}
+  {% endif %}
+  {% if author_url == nil and author_name %}
+    {% assign author_url = '/about-us/' | absolute_url %}
+  {% endif %}
+  {% assign publisher_logo_url = '/img/jh_logo.svg' | absolute_url %}
+  {% assign is_article = false %}
+  {% if page.collection == 'posts' or page.layout == 'post' or article_published %}
+    {% assign is_article = true %}
+  {% endif %}
+
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
   <title>
-    {% if page.title %}{{ page.title | escape }} - {{ site.title | escape }}
+    {% if page.title %}{{ page_title | escape }} - {{ site.title | escape }}
     {% else %}{{ site.title | escape }}{% endif %}
   </title>
 
-  <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
+  <meta name="description" content="{{ page_description | escape }}">
 
   <link href='https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
   <link href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
   <link href="https://fonts.googleapis.com/css2?family=Gabarito:wght@400..900&display=swap" rel="stylesheet">
-  
+
   <script src="https://use.fontawesome.com/releases/v5.15.3/js/all.js" crossorigin="anonymous"></script>
 
   <link rel="stylesheet" href="{{"/assets/main.css" | relative_url }}">
-  <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
+  <link rel="canonical" href="{{ canonical_url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | relative_url }}">
 
-  <link rel="icon" href="{{ '/jh_logo.ico' | relative_url }}" />
+  {% if is_article %}
+    {% if author_url or author_name %}
+  <meta property="article:author" content="{{ author_url | default: author_name | escape }}">
+  <meta name="twitter:article:author" content="{{ author_url | default: author_name | escape }}">
+    {% endif %}
+    {% if article_published %}
+  <meta property="article:published_time" content="{{ article_published }}">
+  <meta name="twitter:article:published_time" content="{{ article_published }}">
+    {% endif %}
+    {% if article_modified %}
+  <meta property="article:modified_time" content="{{ article_modified }}">
+  <meta name="twitter:article:modified_time" content="{{ article_modified }}">
+    {% endif %}
+  {% endif %}
+
+  <link rel="icon" href="{{ '/img/jh_logo_light.ico' | relative_url }}" type="image/x-icon" />
+
+
+  {% if is_article and page_title %}
+    {% capture article_json_ld -%}
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "mainEntityOfPage": {{ canonical_url | jsonify }},
+  "headline": {{ page_title | jsonify }}{% if page_description %}
+  , "description": {{ page_description | jsonify }}{% endif %}{% if article_published %}
+  , "datePublished": {{ article_published | jsonify }}{% endif %}{% if article_modified %}
+  , "dateModified": {{ article_modified | jsonify }}{% endif %}{% if author_name %}
+  , "author": {
+    "@type": "Person",
+    "name": {{ author_name | jsonify }}{% if author_url %}
+    , "url": {{ author_url | jsonify }}{% endif %}
+  }{% endif %}
+  , "publisher": {
+    "@type": "Organization",
+    "name": {{ site.title | jsonify }}{% if publisher_logo_url %}
+    , "logo": {
+      "@type": "ImageObject",
+      "url": {{ publisher_logo_url | jsonify }}
+    }{% endif %}
+  }
+}
+    {%- endcapture %}
+    <script type="application/ld+json">{{ article_json_ld | strip }}</script>
+  {% endif %}
 
 </head>
