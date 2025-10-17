@@ -113,3 +113,13 @@ table {
 .wp-block-group {
     display: flex;
 }
+
+.drill-pack-intro {
+    flex-direction: column;
+    justify-content: space-between;
+    gap: 1.5rem;
+
+    p {
+        margin: 0;
+    }
+}
