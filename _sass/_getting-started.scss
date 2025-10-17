@@ -627,6 +627,127 @@
   color: #4c5a6b;
 }
 
+.gs-block {
+  position: relative;
+}
+
+.gs-block--practice {
+  background: linear-gradient(180deg, #f4f7fb 0%, #ffffff 80%);
+}
+
+.gs-block__inner {
+  display: grid;
+  gap: clamp(2rem, 4vw, 3rem);
+  align-items: center;
+  background: #ffffff;
+  border-radius: 1.75rem;
+  padding: clamp(2rem, 5vw, 3rem);
+  box-shadow: 0 24px 48px rgba(15, 31, 47, 0.12);
+}
+
+@media (min-width: 768px) {
+  .gs-block__inner {
+    grid-template-columns: minmax(0, 0.75fr) minmax(0, 1fr);
+  }
+}
+
+@media (min-width: 1200px) {
+  .gs-block__inner {
+    padding: clamp(3rem, 4vw, 3.5rem);
+    grid-template-columns: minmax(0, 0.8fr) minmax(0, 1.2fr);
+  }
+}
+
+.gs-block__media {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.gs-block__media img {
+  display: block;
+  max-width: 220px;
+  width: 100%;
+  height: auto;
+}
+
+.gs-block__content {
+  display: grid;
+  gap: 1.5rem;
+  align-content: start;
+  max-width: 600px;
+}
+
+.gs-block__content h2 {
+  margin: 0;
+  font-size: clamp(1.9rem, 3vw, 2.5rem);
+}
+
+.gs-block__content p {
+  margin: 0;
+  color: #4c5a6b;
+  font-size: 1.05rem;
+}
+
+.gs-mini-card-grid {
+  display: grid;
+  gap: 1.75rem;
+}
+
+@media (min-width: 600px) {
+  .gs-mini-card-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+.gs-mini-card {
+  background: #f4f7fb;
+  border-radius: 1.25rem;
+  padding: 1.75rem;
+  display: grid;
+  gap: 0.85rem;
+  border: 1px solid rgba(15, 31, 47, 0.08);
+  box-shadow: 0 18px 36px rgba(15, 31, 47, 0.08);
+}
+
+.gs-mini-card h3 {
+  margin: 0;
+  font-size: 1.15rem;
+  font-weight: 700;
+}
+
+.gs-mini-card p {
+  margin: 0;
+  color: #4c5a6b;
+  font-size: 0.98rem;
+}
+
+.gs-mini-card__link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  font-weight: 600;
+  color: #0f4c81;
+  text-decoration: none;
+}
+
+.gs-mini-card__link::after {
+  content: '\2192';
+  font-size: 0.9em;
+  transition: transform 0.2s ease;
+}
+
+.gs-mini-card__link:hover,
+.gs-mini-card__link:focus {
+  color: #0f4c81;
+  text-decoration: none;
+}
+
+.gs-mini-card__link:hover::after,
+.gs-mini-card__link:focus::after {
+  transform: translateX(4px);
+}
+
 .gs-category-grid {
   display: grid;
   gap: 1.75rem;
