@@ -15,6 +15,9 @@ hero:
       url: /lawn-bowls-downloadable-drill-pack/
     - label: Need personal help?
       url: /contact/
+  image: /img/img/find-right-bowls.png
+  image_alt: Bowls arranged on a club locker as a new player selects the right set
+  image_caption: Find advice that helps you choose the right bowls, practice plan and support.
   primary:
     tag: Step-by-step plan
     title: Build confidence from your first roll-up to club matches
@@ -142,11 +145,6 @@ deep_dives:
   heading: Featured collections
   description: Explore curated hubs packed with linked stories, buying guides and expert answers.
   items:
-    - eyebrow: New player essentials
-      title: Help & support centre
-      description: Step-by-step answers to the questions every new bowler asks, from footwear to scoring.
-      cta: Browse help articles →
-      url: /help-and-support/
     - eyebrow: Gear deep dives
       title: Bowls & equipment reviews
       description: Compare leading models side-by-side to understand bias, build quality and who each bowl suits best.
@@ -157,18 +155,27 @@ deep_dives:
       description: Not sure where to start? Scan every story we've published and filter by the topic that matters.
       cta: View all posts →
       url: /all-posts/
-latest_heading: Latest picks
-latest_description: Stay on top of the newest advice from Jack High Bowls. These articles are the ones our editors are talking about right now.
-latest_posts_count: 3
-cta_panel:
-  title: Can't see the answer you need?
-  description: Tell us what you're working on and we'll point you towards the right advice, drills or gear. We're happy to make personalised recommendations.
+support_block:
+  eyebrow: Need specialist guidance?
+  title: Talk to a Jack High Bowls coach
+  description: Can't find the answer you need? We'll point you to the right drills, kit and next steps for your situation.
+  quote:
+    text: "Jack High Bowls helped me go from confused about equipment to confident on the rink in a single season."
+    cite: "— Sarah M., new club lead"
+  image:
+    src: img/img/master-core-skills.png
+    alt: Bowls coach demonstrating delivery form
   primary:
     label: Contact the team
     url: /contact/
   secondary:
-    label: Partner with Jack High Bowls
-    url: /advertisers/
+    - label: Visit the Help & Support hub
+      url: /help-and-support/
+    - label: Partner with Jack High Bowls
+      url: /advertisers/
+latest_heading: Latest picks
+latest_description: Stay on top of the newest advice from Jack High Bowls. These articles are the ones our editors are talking about right now.
+latest_posts_count: 3
 ---
 
 {% assign hero = page.hero %}
@@ -178,47 +185,70 @@ cta_panel:
 {% assign deep_dives = page.deep_dives %}
 {% assign latest_count = page.latest_posts_count | default: 3 | plus: 0 %}
 {% assign latest_posts = site.posts | slice: 0, latest_count %}
-{% assign cta_panel = page.cta_panel %}
+{% assign support_block = page.support_block %}
 
 <main class="getting-started">
   <section class="gs-hero">
     <div class="container">
       <div class="gs-hero__grid">
-        <div class="gs-hero__intro">
-          {% if hero.eyebrow %}
-            <p class="gs-eyebrow">{{ hero.eyebrow }}</p>
-          {% endif %}
-          <h1 class="gs-hero__title">{{ page.title }}</h1>
-          {% if hero.lede %}
-            <p class="gs-lede">{{ hero.lede }}</p>
-          {% endif %}
-          {% if hero.quick_links %}
-            <nav class="gs-hero__quick-links" aria-label="Quick links">
-              {% for link in hero.quick_links %}
-                <a class="gs-quick-link" href="{{ link.url | relative_url }}">{{ link.label }}</a>
-              {% endfor %}
-            </nav>
-          {% endif %}
-          {% if trending and trending.items %}
-            <div class="gs-trending gs-trending--hero">
-              <div class="gs-trending__header">
-                <span>{{ trending.title }}</span>
-              </div>
-              <ol class="gs-trending__list">
-                {% for item in trending.items %}
-                  <li>
-                    <a href="{{ item.url | relative_url }}">
-                      {% if item.meta %}
-                        <span class="gs-trending__meta">{{ item.meta }}</span>
-                      {% endif %}
-                      <span class="gs-trending__title">{{ item.title }}</span>
-                    </a>
-                  </li>
-                {% endfor %}
-              </ol>
-            </div>
+        <div class="gs-hero__content">
+          <div class="gs-hero__intro">
+            {% if hero.eyebrow %}
+              <p class="gs-eyebrow">{{ hero.eyebrow }}</p>
+            {% endif %}
+            <h1 class="gs-hero__title">{{ page.title }}</h1>
+            {% if hero.lede %}
+              <p class="gs-lede">{{ hero.lede }}</p>
+            {% endif %}
+          </div>
+          {% if hero.quick_links or (trending and trending.items) %}
+            <aside class="gs-hero__rail" aria-label="Key entry points">
+              {% if hero.quick_links %}
+                <nav class="gs-rail__group" aria-label="Quick links">
+                  <h2 class="gs-rail__title">Quick links</h2>
+                  <ul class="gs-rail__list">
+                    {% for link in hero.quick_links %}
+                      <li>
+                        <a class="gs-rail__pill gs-rail__pill--action" href="{{ link.url | relative_url }}">
+                          <span class="gs-rail__pill-label">{{ link.label }}</span>
+                        </a>
+                      </li>
+                    {% endfor %}
+                  </ul>
+                </nav>
+              {% endif %}
+              {% if trending and trending.items %}
+                <div class="gs-rail__group">
+                  <h2 class="gs-rail__title">{{ trending.title }}</h2>
+                  <ol class="gs-rail__list gs-rail__list--numbered">
+                    {% for item in trending.items %}
+                      <li>
+                        <a class="gs-rail__pill gs-rail__pill--story" href="{{ item.url | relative_url }}">
+                          {% if item.meta %}
+                            <span class="gs-rail__meta">{{ item.meta }}</span>
+                          {% endif %}
+                          <span class="gs-rail__pill-label">{{ item.title }}</span>
+                        </a>
+                      </li>
+                    {% endfor %}
+                  </ol>
+                </div>
+              {% endif %}
+            </aside>
           {% endif %}
         </div>
+        {% if hero.image %}
+          <figure class="gs-hero__image">
+            <div class="gs-hero__image-media">
+              <img src="{{ hero.image | relative_url }}" alt="{{ hero.image_alt | default: '' }}" />
+            </div>
+            {% if hero.image_caption %}
+              <figcaption>{{ hero.image_caption }}</figcaption>
+            {% endif %}
+          </figure>
+        {% endif %}
+      </div>
+      {% if hero.primary or hero.secondary %}
         <div class="gs-hero__features">
           {% if hero.primary %}
             <a class="gs-feature gs-feature--primary" href="{{ hero.primary.url | relative_url }}">
@@ -249,6 +279,165 @@ cta_panel:
             </div>
           {% endif %}
         </div>
+      {% endif %}
+    </div>
+  </section>
+
+  {% assign gear_category = nil %}
+  {% if category_tiles and category_tiles.items %}
+    {% assign gear_category = category_tiles.items | where: "url", "/reviews/" | first %}
+  {% endif %}
+  <section class="gs-block gs-block--gear" aria-labelledby="gear-spotlight">
+    <div class="container">
+      <div class="gs-block__inner">
+        <div class="gs-block__media">
+          <img
+            src="{{ 'img/icons/buy-the-right-bowls.png' | relative_url }}"
+            alt="Illustration of bowls equipment alongside the words \"Buy the right bowls\""
+            loading="lazy"
+          />
+        </div>
+        <div class="gs-block__content">
+          <p class="gs-block__eyebrow">Gear spotlight</p>
+          <h2 id="gear-spotlight">Choose bowls with confidence</h2>
+          <p>
+            Compare our in-depth equipment reviews and use the proven sizing checks before you invest in your next set of bowls.
+          </p>
+          <div class="gs-block__ctas" role="group" aria-label="Equipment calls to action">
+            <a class="gs-cta-button gs-cta-button--primary" href="{{ '/reviews/' | relative_url }}">Read reviews hub</a>
+            <a class="gs-cta-button gs-cta-button--secondary" href="{{ '/2021/05/07/what-size-lawn-bowl-should-i-use/' | relative_url }}">Check your size</a>
+          </div>
+          {% if gear_category and gear_category.links %}
+            <div class="gs-block__decisions">
+              <h3>Key decisions</h3>
+              <ul>
+                {% for link in gear_category.links %}
+                  <li><a href="{{ link.url | relative_url }}">{{ link.label }}</a></li>
+                {% endfor %}
+              </ul>
+            </div>
+          {% endif %}
+        </div>
+      </div>
+    </div>
+  </section>
+  {% assign basics_category = category_tiles.items | first %}
+  {% assign basics_goal = pathways.items | first %}
+  {% assign basics_links = basics_goal.links | default: basics_category.links %}
+  {% if basics_category or basics_goal %}
+    <section class="gs-block gs-block--basics">
+      <div class="container">
+        <div class="gs-block__inner">
+          <div class="gs-block__icon">
+            <img src="{{ 'img/icons/learn-the-rules.png' | relative_url }}" alt="Illustration representing lawn bowls rules and etiquette" loading="lazy" />
+          </div>
+          <div class="gs-block__content">
+            {% if basics_category and basics_category.title %}
+              <h2>{{ basics_category.title }}</h2>
+            {% elsif basics_goal and basics_goal.title %}
+              <h2>{{ basics_goal.title }}</h2>
+            {% endif %}
+            {% if basics_category and basics_category.description %}
+              <p>{{ basics_category.description }}</p>
+            {% endif %}
+            {% if basics_goal and basics_goal.description %}
+              <p>{{ basics_goal.description }}</p>
+            {% endif %}
+            {% if basics_links %}
+              <ul class="gs-block__links">
+                {% for link in basics_links %}
+                  <li><a href="{{ link.url | relative_url }}">{{ link.label }}</a></li>
+                {% endfor %}
+              </ul>
+            {% endif %}
+            {% if basics_category and basics_category.cta %}
+              <a class="gs-block__cta" href="{{ basics_category.url | relative_url }}">{{ basics_category.cta }}</a>
+            {% endif %}
+          </div>
+        </div>
+      </div>
+    </section>
+  {% endif %}
+
+  <section class="gs-section gs-block gs-block--practice">
+    <div class="container">
+      <div class="gs-block__inner">
+        <div class="gs-block__media">
+          <img
+            src="{{ '/img/icons/practice-with-confidence.png' | relative_url }}"
+            alt="Illustration of a lawn bowler practising with focus"
+            loading="lazy"
+          >
+        </div>
+        <div class="gs-block__content">
+          <p class="gs-eyebrow">Practice spotlight</p>
+          <h2>Practice with confidence every week</h2>
+          <p>
+            Use our downloadable drills and coaching guidance to build repeatable touch, sharpen your weight control and bring
+            structure to every roll-up.
+          </p>
+          <a class="gs-link-pill" href="{{ '/lawn-bowls-downloadable-drill-pack/' | relative_url }}">Download the drill pack</a>
+          <div class="gs-mini-card-grid" role="list" aria-label="Practice and coaching highlights">
+            <article class="gs-mini-card" role="listitem">
+              <h3>Follow the improvement guide</h3>
+              <p>
+                Map out a season-long plan that shows you what to prioritise and how to measure progress as you build confidence.
+              </p>
+              <a class="gs-mini-card__link" href="{{ '/2022/06/20/how-to-get-better-at-lawn-bowls/' | relative_url }}">Read the improvement guide</a>
+            </article>
+            <article class="gs-mini-card" role="listitem">
+              <h3>Master line and length</h3>
+              <p>
+                Dial in draw weight with focused sessions that mirror competitive heads and help you deliver with purpose.
+              </p>
+              <a class="gs-mini-card__link" href="{{ '/2023/04/17/line-and-length-in-lawn-bowls-how-to-win-at-bowls/' | relative_url }}">Work on line and length</a>
+            </article>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="gs-section gs-block gs-block--compete" aria-labelledby="compete-ready">
+    <div class="container">
+      <div class="gs-block__inner">
+        <figure class="gs-block__media gs-block__media--compete">
+          <img
+            src="{{ 'img/icons/win-at-singles.png' | relative_url }}"
+            alt="Illustration celebrating a lawn bowls singles win"
+            loading="lazy"
+          />
+          <figcaption class="gs-block__caption">
+            <span class="gs-block__stat">Competition focus</span>
+            Players who control the mat in singles bank an average of three extra scoring ends.
+          </figcaption>
+        </figure>
+        <div class="gs-block__content">
+          <p class="gs-block__eyebrow">Matchday spotlight</p>
+          <h2 id="compete-ready">Compete with confidence on match day</h2>
+          <p>
+            Bring together proven singles tactics, triples communication routines and pre-season prep so you can close out tight rinks when the pressure rises.
+          </p>
+          <div class="gs-block__ctas" role="group" aria-label="Competition calls to action">
+            <a
+              class="gs-cta-button gs-cta-button--primary"
+              href="{{ '/2021/07/20/ultimate-guide-to-lawn-bowls-singles-tactics/' | relative_url }}"
+            >Dive into singles tactics</a>
+          </div>
+          <nav class="gs-block__guide" aria-label="Competition strategy quick links">
+            <ol class="gs-block__link-list">
+              <li>
+                <a href="{{ '/2021/07/20/ultimate-guide-to-lawn-bowls-singles-tactics/' | relative_url }}">Singles tactics playbook</a>
+              </li>
+              <li>
+                <a href="{{ '/2022/03/06/lawn-bowls-triples-tactics/' | relative_url }}">Triples teamwork essentials</a>
+              </li>
+              <li>
+                <a href="{{ '/2020/11/07/how-to-prepare-for-a-new-lawn-bowls-season/' | relative_url }}">Season preparation checklist</a>
+              </li>
+            </ol>
+          </nav>
+        </div>
       </div>
     </div>
   </section>
@@ -264,22 +453,24 @@ cta_panel:
         </div>
         <div class="gs-category-grid">
           {% for category in category_tiles.items %}
-            <article class="gs-category">
-              <div class="gs-category__body">
-                <h3>{{ category.title }}</h3>
-                {% if category.description %}
-                  <p>{{ category.description }}</p>
+            {% unless forloop.first %}
+              <article class="gs-category">
+                <div class="gs-category__body">
+                  <h3>{{ category.title }}</h3>
+                  {% if category.description %}
+                    <p>{{ category.description }}</p>
+                  {% endif %}
+                  <a class="gs-category__cta" href="{{ category.url | relative_url }}">{{ category.cta | default: 'Visit hub →' }}</a>
+                </div>
+                {% if category.links %}
+                  <ul class="gs-category__links">
+                    {% for link in category.links %}
+                      <li><a href="{{ link.url | relative_url }}">{{ link.label }}</a></li>
+                    {% endfor %}
+                  </ul>
                 {% endif %}
-                <a class="gs-category__cta" href="{{ category.url | relative_url }}">{{ category.cta | default: 'Visit hub →' }}</a>
-              </div>
-              {% if category.links %}
-                <ul class="gs-category__links">
-                  {% for link in category.links %}
-                    <li><a href="{{ link.url | relative_url }}">{{ link.label }}</a></li>
-                  {% endfor %}
-                </ul>
-              {% endif %}
-            </article>
+              </article>
+            {% endunless %}
           {% endfor %}
         </div>
       </div>
@@ -297,21 +488,23 @@ cta_panel:
         </div>
         <div class="gs-card-grid">
           {% for goal in pathways.items %}
-            <article class="gs-card">
-              <h3>{{ goal.title }}</h3>
-              {% if goal.description %}
-                <p>{{ goal.description }}</p>
-              {% endif %}
-              {% if goal.links %}
-                <ul class="gs-card__links">
-                  {% for link in goal.links %}
-                    <li>
-                      <a href="{{ link.url | relative_url }}">{{ link.label }}</a>
-                    </li>
-                  {% endfor %}
-                </ul>
-              {% endif %}
-            </article>
+            {% unless forloop.first %}
+              <article class="gs-card">
+                <h3>{{ goal.title }}</h3>
+                {% if goal.description %}
+                  <p>{{ goal.description }}</p>
+                {% endif %}
+                {% if goal.links %}
+                  <ul class="gs-card__links">
+                    {% for link in goal.links %}
+                      <li>
+                        <a href="{{ link.url | relative_url }}">{{ link.label }}</a>
+                      </li>
+                    {% endfor %}
+                  </ul>
+                {% endif %}
+              </article>
+            {% endunless %}
           {% endfor %}
         </div>
       </div>
@@ -347,6 +540,56 @@ cta_panel:
     </section>
   {% endif %}
 
+  {% if support_block %}
+    <section class="gs-section gs-block--support">
+      <div class="container">
+        <div class="gs-support">
+          <div class="gs-support__media">
+            {% assign support_image = support_block.image %}
+            <img
+              src="{{ support_image.src | default: 'img/img/master-core-skills.png' | relative_url }}"
+              alt="{{ support_image.alt | default: 'Bowls coach guiding a player' }}"
+              loading="lazy"
+            />
+          </div>
+          <div class="gs-support__content">
+            {% if support_block.eyebrow %}
+              <p class="gs-eyebrow">{{ support_block.eyebrow }}</p>
+            {% endif %}
+            <h2>{{ support_block.title }}</h2>
+            {% if support_block.description %}
+              <p>{{ support_block.description }}</p>
+            {% endif %}
+            {% if support_block.quote %}
+              <figure class="gs-support__quote">
+                {% if support_block.quote.text %}
+                  <blockquote>
+                    “{{ support_block.quote.text }}”
+                  </blockquote>
+                {% endif %}
+                {% if support_block.quote.cite %}
+                  <figcaption>{{ support_block.quote.cite }}</figcaption>
+                {% endif %}
+              </figure>
+            {% endif %}
+            <div class="gs-support__actions">
+              {% if support_block.primary %}
+                <a class="gs-link-pill" href="{{ support_block.primary.url | relative_url }}">{{ support_block.primary.label }}</a>
+              {% endif %}
+              {% if support_block.secondary %}
+                <div class="gs-support__secondary">
+                  {% for link in support_block.secondary %}
+                    <a class="gs-link-pill gs-link-pill--ghost" href="{{ link.url | relative_url }}">{{ link.label }}</a>
+                  {% endfor %}
+                </div>
+              {% endif %}
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+  {% endif %}
+
   {% if latest_posts and latest_posts.size > 0 %}
     <section class="gs-section gs-section--latest">
       <div class="container">
@@ -366,29 +609,6 @@ cta_panel:
               {% endif %}
             </article>
           {% endfor %}
-        </div>
-      </div>
-    </section>
-  {% endif %}
-
-  {% if cta_panel %}
-    <section class="gs-section gs-section--cta">
-      <div class="container">
-        <div class="gs-cta-panel">
-          <div class="gs-cta-panel__content">
-            <h2>{{ cta_panel.title }}</h2>
-            {% if cta_panel.description %}
-              <p>{{ cta_panel.description }}</p>
-            {% endif %}
-          </div>
-          <div class="gs-cta-panel__actions">
-            {% if cta_panel.primary %}
-              <a class="gs-link-pill gs-link-pill--dark" href="{{ cta_panel.primary.url | relative_url }}">{{ cta_panel.primary.label }}</a>
-            {% endif %}
-            {% if cta_panel.secondary %}
-              <a class="gs-link-pill gs-link-pill--ghost" href="{{ cta_panel.secondary.url | relative_url }}">{{ cta_panel.secondary.label }}</a>
-            {% endif %}
-          </div>
         </div>
       </div>
     </section>
