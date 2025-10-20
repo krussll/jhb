@@ -205,7 +205,7 @@ date: 2019-08-22 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:table -->
-<figure class="wp-block-table"><table><tbody><tr><td>Number of players</td><td>Number of bowls (per player)</td><td>Number of ends played</td></tr><tr><td>1 (<a href="https://www.jackhighbowls.com/help/ultimate-guide-to-lawn-bowls-singles-tactics/" data-type="post" data-id="113">singles</a>)</td><td>4</td><td>21</td></tr><tr><td>2 (<a href="https://www.jackhighbowls.com/help/lawn-bowls-pairs-tactics/" data-type="post" data-id="19">doubles</a>)</td><td>4</td><td>21</td></tr><tr><td>3 (<a href="https://www.jackhighbowls.com/help/lawn-bowls-triples-tactics/" data-type="post" data-id="487">triples</a>)</td><td>3</td><td>18</td></tr><tr><td>4 (fours)</td><td>2</td><td>21</td></tr></tbody></table></figure>
+<figure class="wp-block-table"><table><tbody><tr><td>Number of players</td><td>Number of bowls (per player)</td><td>Number of ends played</td></tr><tr><td>1 (<a href="https://www.jackhighbowls.com/help/ultimate-guide-to-lawn-bowls-singles-tactics/" data-type="post" data-id="113">singles</a>)</td><td>4</td><td>21</td></tr><tr><td>2 (<a href="https://www.jackhighbowls.com/help/lawn-bowls-pairs-tactics/" data-type="post" data-id="19">doubles</a>)</td><td>4</td><td>21</td></tr><tr><td>3 (<a href="https://www.jackhighbowls.com/help/lawn-bowls-triples-tactics/" data-type="post" data-id="487">triples</a>)</td><td>3</td><td>18</td></tr><tr><td>4 (fours)</td><td>2</td><td>21</td></tr></tbody></table><figcaption class="table-caption">Format guidance drawn from the <a href="http://www.worldbowls.com/wp-content/uploads/2020/06/Laws_of_the_sport_v3.2.pdf">World Bowls Laws of the Sport (Crystal Mark Third Edition)</a>.</figcaption></figure>
 <!-- /wp:table -->
 
 <!-- wp:block {"ref":1320} /-->
@@ -259,7 +259,7 @@ date: 2019-08-22 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:table -->
-<figure class="wp-block-table"><table><tbody><tr><td>Number of players</td><td>Number of ends played</td></tr><tr><td>1 (<a href="https://www.jackhighbowls.com/help/ultimate-guide-to-lawn-bowls-singles-tactics/" data-type="post" data-id="113">singles</a>)</td><td>21</td></tr><tr><td>2 (<a href="https://www.jackhighbowls.com/help/lawn-bowls-pairs-tactics/" data-type="post" data-id="19">doubles</a>)</td><td>21</td></tr><tr><td>3 (<a href="https://www.jackhighbowls.com/help/lawn-bowls-triples-tactics/" data-type="post" data-id="487">triples</a>)</td><td>18</td></tr><tr><td>4 (fours)</td><td>21</td></tr></tbody></table></figure>
+<figure class="wp-block-table"><table><tbody><tr><td>Number of players</td><td>Number of ends played</td></tr><tr><td>1 (<a href="https://www.jackhighbowls.com/help/ultimate-guide-to-lawn-bowls-singles-tactics/" data-type="post" data-id="113">singles</a>)</td><td>21</td></tr><tr><td>2 (<a href="https://www.jackhighbowls.com/help/lawn-bowls-pairs-tactics/" data-type="post" data-id="19">doubles</a>)</td><td>21</td></tr><tr><td>3 (<a href="https://www.jackhighbowls.com/help/lawn-bowls-triples-tactics/" data-type="post" data-id="487">triples</a>)</td><td>18</td></tr><tr><td>4 (fours)</td><td>21</td></tr></tbody></table><figcaption class="table-caption">Typical end counts follow the <a href="https://www.bowlsengland.com/wp-content/uploads/2023/02/Competition-Regulations-2023-v1.0.pdf">Bowls England Domestic Competition Regulations</a>.</figcaption></figure>
 <!-- /wp:table -->
 
 <!-- wp:paragraph -->
