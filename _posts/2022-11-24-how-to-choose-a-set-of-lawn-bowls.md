@@ -5,7 +5,9 @@ author: reece
 categories: [ guide ]
 featured: false
 description: ""
+background: "/img/posts/pick-the-right-bowls.png"
 date: 2022-11-24 13:00:00 -0400
+last_modified_at: 2025-10-20T16:19:14+00:00
 ---
     
 
