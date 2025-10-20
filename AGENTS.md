@@ -42,3 +42,4 @@ This repository contains the source for the JHB lawn bowls information site, a J
 - Review content for E-E-A-T compliance: include expertise indicators, cite authoritative sources, and maintain a helpful, trustworthy tone.
 - Confirm responsive formatting using browser dev tools across mobile, tablet, and desktop widths.
 - Before committing, build the site locally with `bundle exec jekyll build` to catch Liquid or Markdown issues.
+- If a post file is updated, set the "last_modified_at" value to the current datetime
