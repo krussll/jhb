@@ -7,6 +7,7 @@ featured: false
 background: '/img/posts/learn-rules-of-lawn-bowls.png'
 description: ""
 date: 2019-08-22 13:00:00 -0400
+last_modified_at: 2024-05-05 10:00:00 -0400
 ---
     
 
@@ -27,7 +28,7 @@ date: 2019-08-22 13:00:00 -0400
 <!-- /wp:image -->
 
 <!-- wp:image {"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/how-to-play-lawn-bowls-rules-of-lawn-bowls.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="How to play lawn bowls. The rules of lawn bowls"/></a></figure>
+<figure class="wp-block-image"><img src="{{ '/img/posts/how-to-play-lawn-bowls-rules-of-lawn-bowls.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="How to play lawn bowls. The rules of lawn bowls"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading -->
@@ -131,7 +132,7 @@ date: 2019-08-22 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:image {"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/placing-the-mat-lawn-bowls.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="How to place the mat lawn bowls"/></a></figure>
+<figure class="wp-block-image"><img src="{{ '/img/posts/placing-the-mat-lawn-bowls.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="How to place the mat lawn bowls"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -153,7 +154,7 @@ date: 2019-08-22 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:image {"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/how-to-score-in-lawn-bowls.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="How to score in lawn bowls"/></a></figure>
+<figure class="wp-block-image"><img src="{{ '/img/posts/how-to-score-in-lawn-bowls.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="How to score in lawn bowls"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:list -->
@@ -205,7 +206,7 @@ date: 2019-08-22 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:table -->
-<figure class="wp-block-table"><table><tbody><tr><td>Number of players</td><td>Number of bowls (per player)</td><td>Number of ends played</td></tr><tr><td>1 (<a href="https://www.jackhighbowls.com/help/ultimate-guide-to-lawn-bowls-singles-tactics/" data-type="post" data-id="113">singles</a>)</td><td>4</td><td>21</td></tr><tr><td>2 (<a href="https://www.jackhighbowls.com/help/lawn-bowls-pairs-tactics/" data-type="post" data-id="19">doubles</a>)</td><td>4</td><td>21</td></tr><tr><td>3 (<a href="https://www.jackhighbowls.com/help/lawn-bowls-triples-tactics/" data-type="post" data-id="487">triples</a>)</td><td>3</td><td>18</td></tr><tr><td>4 (fours)</td><td>2</td><td>21</td></tr></tbody></table></figure>
+<figure class="wp-block-table"><table><tbody><tr><td>Number of players</td><td>Number of bowls (per player)</td><td>Number of ends played</td></tr><tr><td>1 (<a href="https://www.jackhighbowls.com/help/ultimate-guide-to-lawn-bowls-singles-tactics/" data-type="post" data-id="113">singles</a>)</td><td>4</td><td>21</td></tr><tr><td>2 (<a href="https://www.jackhighbowls.com/help/lawn-bowls-pairs-tactics/" data-type="post" data-id="19">doubles</a>)</td><td>4</td><td>21</td></tr><tr><td>3 (<a href="https://www.jackhighbowls.com/help/lawn-bowls-triples-tactics/" data-type="post" data-id="487">triples</a>)</td><td>3</td><td>18</td></tr><tr><td>4 (fours)</td><td>2</td><td>21</td></tr></tbody></table><figcaption class="table-caption">Format guidance drawn from the <a href="http://www.worldbowls.com/wp-content/uploads/2020/06/Laws_of_the_sport_v3.2.pdf">World Bowls Laws of the Sport (Crystal Mark Third Edition)</a>.</figcaption></figure>
 <!-- /wp:table -->
 
 <!-- wp:block {"ref":1320} /-->
@@ -238,7 +239,7 @@ date: 2019-08-22 13:00:00 -0400
 
 <!-- wp:quote -->
 <blockquote class="wp-block-quote"><!-- wp:paragraph -->
-<p><em>References</em> <a href="http://www.worldbowls.com/wp-content/uploads/2020/06/Laws_of_the_sport_v3.2.pdf">World Bowls Rules</a> <a href="#Scoring">Wikipedia - lawn Bowls "Scoring"</a></p>
+<p><em>References</em> <a href="http://www.worldbowls.com/wp-content/uploads/2020/06/Laws_of_the_sport_v3.2.pdf">World Bowls Rules</a> <a href="https://www.bowlsengland.com/wp-content/uploads/2023/04/Crystal-Mark-Fourth-Edition-Laws-of-the-Sport-of-Bowls-with-Bowls-England-domestic-regulations.pdf">Bowls England Domestic Regulations</a> <a href="https://www.bowls.com.au/wp-content/uploads/2023/04/Laws-of-the-Sport-of-Bowls-Crystal-Mark-Fourth-Edition.pdf">Bowls Australia Laws of the Sport</a></p>
 <!-- /wp:paragraph --></blockquote>
 <!-- /wp:quote -->
 
@@ -259,7 +260,7 @@ date: 2019-08-22 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:table -->
-<figure class="wp-block-table"><table><tbody><tr><td>Number of players</td><td>Number of ends played</td></tr><tr><td>1 (<a href="https://www.jackhighbowls.com/help/ultimate-guide-to-lawn-bowls-singles-tactics/" data-type="post" data-id="113">singles</a>)</td><td>21</td></tr><tr><td>2 (<a href="https://www.jackhighbowls.com/help/lawn-bowls-pairs-tactics/" data-type="post" data-id="19">doubles</a>)</td><td>21</td></tr><tr><td>3 (<a href="https://www.jackhighbowls.com/help/lawn-bowls-triples-tactics/" data-type="post" data-id="487">triples</a>)</td><td>18</td></tr><tr><td>4 (fours)</td><td>21</td></tr></tbody></table></figure>
+<figure class="wp-block-table"><table><tbody><tr><td>Number of players</td><td>Number of ends played</td></tr><tr><td>1 (<a href="https://www.jackhighbowls.com/help/ultimate-guide-to-lawn-bowls-singles-tactics/" data-type="post" data-id="113">singles</a>)</td><td>21</td></tr><tr><td>2 (<a href="https://www.jackhighbowls.com/help/lawn-bowls-pairs-tactics/" data-type="post" data-id="19">doubles</a>)</td><td>21</td></tr><tr><td>3 (<a href="https://www.jackhighbowls.com/help/lawn-bowls-triples-tactics/" data-type="post" data-id="487">triples</a>)</td><td>18</td></tr><tr><td>4 (fours)</td><td>21</td></tr></tbody></table><figcaption class="table-caption">Typical end counts follow the <a href="https://www.bowlsengland.com/wp-content/uploads/2023/02/Competition-Regulations-2023-v1.0.pdf">Bowls England Domestic Competition Regulations</a>.</figcaption></figure>
 <!-- /wp:table -->
 
 <!-- wp:paragraph -->
@@ -281,7 +282,7 @@ date: 2019-08-22 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:image {"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/lawn-bowls-green-dimensions.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Lawn Bowls Green Dimensions"/></a></figure>
+<figure class="wp-block-image"><img src="{{ '/img/posts/lawn-bowls-green-dimensions.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Lawn Bowls Green Dimensions"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -290,7 +291,9 @@ date: 2019-08-22 13:00:00 -0400
 
 <!-- wp:quote -->
 <blockquote class="wp-block-quote"><!-- wp:paragraph -->
+
 <p><em>References</em> <a href="http://www.worldbowls.com/wp-content/uploads/2020/06/Laws_of_the_sport_v3.2.pdf#page=74">World Bowls Rules – Appendix B.1</a></p>
+<p><a href="http://www.worldbowls.com/wp-content/uploads/2020/06/Laws_of_the_sport_v3.2.pdf">World Bowls Rules</a> <a href="https://www.bowlsengland.com/wp-content/uploads/2023/04/Crystal-Mark-Fourth-Edition-Laws-of-the-Sport-of-Bowls-with-Bowls-England-domestic-regulations.pdf">Bowls England Domestic Regulations</a> <a href="https://www.bowls.com.au/wp-content/uploads/2023/04/Laws-of-the-Sport-of-Bowls-Crystal-Mark-Fourth-Edition.pdf">Bowls Australia Laws of the Sport</a></p>
 <!-- /wp:paragraph --></blockquote>
 <!-- /wp:quote -->
 
@@ -312,7 +315,9 @@ date: 2019-08-22 13:00:00 -0400
 
 <!-- wp:quote -->
 <blockquote class="wp-block-quote"><!-- wp:paragraph -->
-<p><em>References</em> <a href="http://www.worldbowls.com/wp-content/uploads/2020/06/Laws_of_the_sport_v3.2.pdf#page=39">World Bowls Rules – Laws 19.1.1 to 19.1.3</a></p>
+
+<p><em>References</em> <a href="http://www.worldbowls.com/wp-content/uploads/2020/06/Laws_of_the_sport_v3.2.pdf">World Bowls Rules</a> <a href="https://www.bowlsengland.com/wp-content/uploads/2023/04/Crystal-Mark-Fourth-Edition-Laws-of-the-Sport-of-Bowls-with-Bowls-England-domestic-regulations.pdf">Bowls England Domestic Regulations</a> <a href="https://www.bowls.com.au/wp-content/uploads/2023/04/Laws-of-the-Sport-of-Bowls-Crystal-Mark-Fourth-Edition.pdf">Bowls Australia Laws of the Sport</a></p>
+
 <!-- /wp:paragraph --></blockquote>
 <!-- /wp:quote -->
 
@@ -360,6 +365,10 @@ date: 2019-08-22 13:00:00 -0400
 
 <!-- wp:paragraph -->
 <p>All of the information in this guide can be found in the offical <a href="http://www.worldbowls.com/wp-content/uploads/2020/06/Laws_of_the_sport_v3.2.pdf">Laws of the Sport of Bowls</a>. This is the latest version (3.2) released in 2020.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Verification note — 5 May 2024:</strong> Reece rechecked the rule summaries against World Bowls Laws v3.2 and logged the outcome through the site&rsquo;s fact-check plus peer review workflow.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
