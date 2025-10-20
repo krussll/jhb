@@ -7,6 +7,7 @@ featured: false
 background: '/img/posts/learn-rules-of-lawn-bowls.png'
 description: ""
 date: 2019-08-22 13:00:00 -0400
+last_modified_at: 2024-05-05 10:00:00 -0400
 ---
     
 
@@ -360,6 +361,10 @@ date: 2019-08-22 13:00:00 -0400
 
 <!-- wp:paragraph -->
 <p>All of the information in this guide can be found in the offical <a href="http://www.worldbowls.com/wp-content/uploads/2020/06/Laws_of_the_sport_v3.2.pdf">Laws of the Sport of Bowls</a>. This is the latest version (3.2) released in 2020.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Verification note — 5 May 2024:</strong> Reece rechecked the rule summaries against World Bowls Laws v3.2 and logged the outcome through the site&rsquo;s fact-check plus peer review workflow.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
