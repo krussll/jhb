@@ -28,7 +28,7 @@ last_modified_at: 2024-05-05 10:00:00 -0400
 <!-- /wp:image -->
 
 <!-- wp:image {"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/how-to-play-lawn-bowls-rules-of-lawn-bowls.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="How to play lawn bowls. The rules of lawn bowls"/></a></figure>
+<figure class="wp-block-image"><img src="{{ '/img/posts/how-to-play-lawn-bowls-rules-of-lawn-bowls.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="How to play lawn bowls. The rules of lawn bowls"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading -->
@@ -132,7 +132,7 @@ last_modified_at: 2024-05-05 10:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:image {"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/placing-the-mat-lawn-bowls.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="How to place the mat lawn bowls"/></a></figure>
+<figure class="wp-block-image"><img src="{{ '/img/posts/placing-the-mat-lawn-bowls.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="How to place the mat lawn bowls"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -154,7 +154,7 @@ last_modified_at: 2024-05-05 10:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:image {"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/how-to-score-in-lawn-bowls.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="How to score in lawn bowls"/></a></figure>
+<figure class="wp-block-image"><img src="{{ '/img/posts/how-to-score-in-lawn-bowls.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="How to score in lawn bowls"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:list -->
@@ -282,7 +282,7 @@ last_modified_at: 2024-05-05 10:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:image {"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/lawn-bowls-green-dimensions.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Lawn Bowls Green Dimensions"/></a></figure>
+<figure class="wp-block-image"><img src="{{ '/img/posts/lawn-bowls-green-dimensions.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Lawn Bowls Green Dimensions"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
