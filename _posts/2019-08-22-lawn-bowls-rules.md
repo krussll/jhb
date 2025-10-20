@@ -238,7 +238,7 @@ date: 2019-08-22 13:00:00 -0400
 
 <!-- wp:quote -->
 <blockquote class="wp-block-quote"><!-- wp:paragraph -->
-<p><em>References</em> <a href="http://www.worldbowls.com/wp-content/uploads/2020/06/Laws_of_the_sport_v3.2.pdf">World Bowls Rules</a> <a href="#Scoring">Wikipedia - lawn Bowls "Scoring"</a></p>
+<p><em>References</em> <a href="http://www.worldbowls.com/wp-content/uploads/2020/06/Laws_of_the_sport_v3.2.pdf">World Bowls Rules</a> <a href="https://www.bowlsengland.com/wp-content/uploads/2023/04/Crystal-Mark-Fourth-Edition-Laws-of-the-Sport-of-Bowls-with-Bowls-England-domestic-regulations.pdf">Bowls England Domestic Regulations</a> <a href="https://www.bowls.com.au/wp-content/uploads/2023/04/Laws-of-the-Sport-of-Bowls-Crystal-Mark-Fourth-Edition.pdf">Bowls Australia Laws of the Sport</a></p>
 <!-- /wp:paragraph --></blockquote>
 <!-- /wp:quote -->
 
@@ -290,7 +290,7 @@ date: 2019-08-22 13:00:00 -0400
 
 <!-- wp:quote -->
 <blockquote class="wp-block-quote"><!-- wp:paragraph -->
-<p><em>References</em> <a href="http://www.worldbowls.com/wp-content/uploads/2020/06/Laws_of_the_sport_v3.2.pdf">World Bowls Rules</a></p>
+<p><em>References</em> <a href="http://www.worldbowls.com/wp-content/uploads/2020/06/Laws_of_the_sport_v3.2.pdf">World Bowls Rules</a> <a href="https://www.bowlsengland.com/wp-content/uploads/2023/04/Crystal-Mark-Fourth-Edition-Laws-of-the-Sport-of-Bowls-with-Bowls-England-domestic-regulations.pdf">Bowls England Domestic Regulations</a> <a href="https://www.bowls.com.au/wp-content/uploads/2023/04/Laws-of-the-Sport-of-Bowls-Crystal-Mark-Fourth-Edition.pdf">Bowls Australia Laws of the Sport</a></p>
 <!-- /wp:paragraph --></blockquote>
 <!-- /wp:quote -->
 
@@ -312,7 +312,7 @@ date: 2019-08-22 13:00:00 -0400
 
 <!-- wp:quote -->
 <blockquote class="wp-block-quote"><!-- wp:paragraph -->
-<p><em>References</em> <a href="http://www.worldbowls.com/wp-content/uploads/2020/06/Laws_of_the_sport_v3.2.pdf">World Bowls Rules</a></p>
+<p><em>References</em> <a href="http://www.worldbowls.com/wp-content/uploads/2020/06/Laws_of_the_sport_v3.2.pdf">World Bowls Rules</a> <a href="https://www.bowlsengland.com/wp-content/uploads/2023/04/Crystal-Mark-Fourth-Edition-Laws-of-the-Sport-of-Bowls-with-Bowls-England-domestic-regulations.pdf">Bowls England Domestic Regulations</a> <a href="https://www.bowls.com.au/wp-content/uploads/2023/04/Laws-of-the-Sport-of-Bowls-Crystal-Mark-Fourth-Edition.pdf">Bowls Australia Laws of the Sport</a></p>
 <!-- /wp:paragraph --></blockquote>
 <!-- /wp:quote -->
 
