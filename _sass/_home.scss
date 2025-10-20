@@ -26,6 +26,13 @@ $site-hero-gradient: radial-gradient(circle at top right, rgba(79, 124, 255, 0.2
   pointer-events: none;
 }
 
+.home-hero__layout {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 3rem;
+}
+
 .home-hero__content {
   max-width: 680px;
 }
@@ -95,6 +102,21 @@ $site-hero-gradient: radial-gradient(circle at top right, rgba(79, 124, 255, 0.2
 .home-hero__highlights i {
   color: #8dd6ff;
   margin-right: 0.5rem;
+}
+
+.home-hero__media {
+  flex: 0 0 auto;
+  width: 100%;
+  max-width: 420px;
+  margin: 0 auto;
+}
+
+.home-hero__media img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 1.75rem;
+  box-shadow: 0 30px 65px rgba(15, 23, 42, 0.25);
 }
 
 .home-main {
@@ -620,6 +642,21 @@ $site-hero-gradient: radial-gradient(circle at top right, rgba(79, 124, 255, 0.2
 .home-cta__actions .btn-outline-light:hover {
   background: rgba(255, 255, 255, 0.15);
   color: #fff;
+}
+
+@media (min-width: 992px) {
+  .home-hero__layout {
+    flex-direction: row;
+    align-items: center;
+  }
+
+  .home-hero__content {
+    flex: 1 1 auto;
+  }
+
+  .home-hero__media {
+    margin: 0 0 0 3rem;
+  }
 }
 
 @media (max-width: 991.98px) {
