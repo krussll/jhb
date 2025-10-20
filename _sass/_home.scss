@@ -200,6 +200,15 @@ $site-hero-gradient: radial-gradient(circle at top right, rgba(79, 124, 255, 0.2
   transition: transform 0.2s ease;
 }
 
+.pack-feature__cta {
+  color: #fff;
+
+  &:hover,
+  &:focus {
+    color: #fff;
+  }
+}
+
 .core-guide-card__link:hover i,
 .core-guide-card__link:focus i,
 .core-guide-card:focus-within .core-guide-card__link i {
