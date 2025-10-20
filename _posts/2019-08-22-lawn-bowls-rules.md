@@ -91,11 +91,11 @@ date: 2019-08-22 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>The first bowler <a href="https://www.jackhighbowls.com/help/how-to-deliver-the-jack-in-lawn-bowls/" data-type="post" data-id="1359">rolls the jack</a> to whatever distance they like. </p>
+<p>The first bowler <a href="https://www.jackhighbowls.com/help/how-to-deliver-the-jack-in-lawn-bowls/" data-type="post" data-id="1359">rolls the jack</a> to whatever distance they like within the limits set out in the Laws. </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>The only restrictions is it must be at least 25 meters from the mat, and must stay out of the ditch. There is usually a marker on the rink to show where the minimum distance is.</p>
+<p>The only restrictions are that it must come to rest at least 23 metres from the mat line and stay within the rink rather than the ditch. There is usually a marker on the rink to show where the minimum distance is. (<a href="http://www.worldbowls.com/wp-content/uploads/2020/06/Laws_of_the_sport_v3.2.pdf#page=39">Law 19.1.1</a>)</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -103,11 +103,11 @@ date: 2019-08-22 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Teams alternate taking shots. Each member of the team will take all of their shots before the next one takes over. When playing any shot the player bowling must always have one foot on the mat.</p>
+<p>Teams alternate taking shots. Each member of the team will take all of their shots before the next one takes over. When playing any shot the player bowling must always have one foot on or above the mat at the moment of delivery. (<a href="http://www.worldbowls.com/wp-content/uploads/2020/06/Laws_of_the_sport_v3.2.pdf#page=20">Law 7.1</a>)</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Any bowls that are in play can be moved by another shot, and they stay active to where they finish. <a href="https://www.jackhighbowls.com/help/can-you-hit-the-jack-in-lawn-bowls/" data-type="post" data-id="1150">This includes the jack.</a> Any <a href="https://www.jackhighbowls.com/help/lawn-bowls-rules-when-the-jack-is-in-the-ditch/" data-type="post" data-id="499">bowl that finishes in the ditch</a> is considered out of play.</p>
+<p>Any bowls that are in play can be moved by another shot, and they stay active to where they finish. <a href="https://www.jackhighbowls.com/help/can-you-hit-the-jack-in-lawn-bowls/" data-type="post" data-id="1150">This includes the jack.</a> Any <a href="https://www.jackhighbowls.com/help/lawn-bowls-rules-when-the-jack-is-in-the-ditch/" data-type="post" data-id="499">bowl that finishes in the ditch</a> without having been marked as a toucher is considered out of play. (<a href="http://www.worldbowls.com/wp-content/uploads/2020/06/Laws_of_the_sport_v3.2.pdf#page=36">Law 17.1.1</a>)</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -115,11 +115,11 @@ date: 2019-08-22 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>The winning side gets one point for each bowl that is closer to the jack than their opponent's nearest bowl.</p>
+<p>The winning side gets one point for each bowl that is closer to the jack than their opponent's nearest bowl. (<a href="http://www.worldbowls.com/wp-content/uploads/2020/06/Laws_of_the_sport_v3.2.pdf#page=44">Law 23.1</a>)</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>The winning team will get to go first on the next "end". </p>
+<p>The winning team will get to go first on the next "end". (<a href="http://www.worldbowls.com/wp-content/uploads/2020/06/Laws_of_the_sport_v3.2.pdf#page=18">Law 5.3</a>)</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -135,16 +135,16 @@ date: 2019-08-22 13:00:00 -0400
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
-<p>What are the lawn bowls mat placement rules? <strong>The mat must be placed by the bowler about to roll the jack. The mat must be placed centrally and squarely in line with the rink markers, with the front edge of the mat being at least 2 meters (6ft 6in) away from the ditch and the front edge no more than 25 meters (82ft) from the ditch.</strong></p>
+<p>What are the lawn bowls mat placement rules? <strong>The mat must be placed by the bowler about to roll the jack. The mat must be placed centrally and squarely in line with the rink markers, with the front edge of the mat being at least 2 metres (6ft 6in) from the front ditch and the back edge at least 2 metres (6ft 6in) from the rear ditch.</strong> (<a href="http://www.worldbowls.com/wp-content/uploads/2020/06/Laws_of_the_sport_v3.2.pdf#page=19">Law 6.1.1</a>)</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:quote -->
 <blockquote class="wp-block-quote"><!-- wp:paragraph -->
-<p>6.1.1 Before the start of play in each end, the player to play first must place the centre line of the mat lengthwise along the centre line of the rink, with the mat line at least 2 metres from the rear ditch and at least 25 metres from the front ditch.</p>
+<p>6.1.1 Before the start of play in each end, the player to play first must place the centre line of the mat lengthwise along the centre line of the rink, with the mat line at least 2 metres from the front ditch and at least 2 metres from the rear ditch.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><a href="http://www.worldbowls.com/wp-content/uploads/2020/06/Laws_of_the_sport_v3.2.pdf">World Bowls Rules</a></p>
+<p><a href="http://www.worldbowls.com/wp-content/uploads/2020/06/Laws_of_the_sport_v3.2.pdf#page=19">World Bowls Rules – Law 6.1.1</a></p>
 <!-- /wp:paragraph --></blockquote>
 <!-- /wp:quote -->
 
@@ -158,25 +158,25 @@ date: 2019-08-22 13:00:00 -0400
 
 <!-- wp:list -->
 <ul><!-- wp:list-item -->
-<li>The winning person/team is determined by who got a bowl closest to the jack</li>
+<li>The winning person/team is determined by who got a bowl closest to the jack (<a href="http://www.worldbowls.com/wp-content/uploads/2020/06/Laws_of_the_sport_v3.2.pdf#page=44">Law 23.1</a>)</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>One point (also known as "shots") is awarded for each bowl that is closer to the jack than the nearest bowl from the losing team</li>
+<li>One point (also known as "shots") is awarded for each bowl that is closer to the jack than the nearest bowl from the losing team (<a href="http://www.worldbowls.com/wp-content/uploads/2020/06/Laws_of_the_sport_v3.2.pdf#page=44">Law 23.1</a>)</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>The winning player/team gets to roll the jack for the next end</li>
+<li>The winning player/team gets to roll the jack for the next end (<a href="http://www.worldbowls.com/wp-content/uploads/2020/06/Laws_of_the_sport_v3.2.pdf#page=18">Law 5.3</a>)</li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
 <!-- wp:quote -->
 <blockquote class="wp-block-quote"><!-- wp:paragraph -->
-<p>22.1 A shot or shots refers to the bowl or bowls (called shot bowls) which is or are nearer to the jack than the nearest bowl played by the opposing team or opponent in Singles</p>
+<p>23.1 A shot or shots refers to the bowl or bowls (called shot bowls) which is or are nearer to the jack than the nearest bowl played by the opposing team or opponent in Singles.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><a href="http://www.worldbowls.com/wp-content/uploads/2020/06/Laws_of_the_sport_v3.2.pdf">World Bowls Rules</a></p>
+<p><a href="http://www.worldbowls.com/wp-content/uploads/2020/06/Laws_of_the_sport_v3.2.pdf#page=44">World Bowls Rules – Law 23.1</a></p>
 <!-- /wp:paragraph --></blockquote>
 <!-- /wp:quote -->
 
@@ -285,12 +285,12 @@ date: 2019-08-22 13:00:00 -0400
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
-<p><strong>A <a href="https://www.jackhighbowls.com/help/a-guide-to-lawn-bowls-green-markings/" data-type="post" data-id="1354">lawn bowls green</a> must be between 31 meters and 40 meters long. Each rink on the green must be between 4.3 meters and 5.8 meters wide. This makes the average 6 rink bowls green between 25.8 meters and 34.8 meters wide.</strong></p>
+<p><strong>A <a href="https://www.jackhighbowls.com/help/a-guide-to-lawn-bowls-green-markings/" data-type="post" data-id="1354">lawn bowls green</a> must be between 31 meters and 40 meters long. Each rink on the green must be between 4.3 meters and 5.8 meters wide. This makes the average 6 rink bowls green between 25.8 meters and 34.8 meters wide.</strong> (<a href="http://www.worldbowls.com/wp-content/uploads/2020/06/Laws_of_the_sport_v3.2.pdf#page=74">Appendix B.1</a>)</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:quote -->
 <blockquote class="wp-block-quote"><!-- wp:paragraph -->
-<p><em>References</em> <a href="http://www.worldbowls.com/wp-content/uploads/2020/06/Laws_of_the_sport_v3.2.pdf">World Bowls Rules</a></p>
+<p><em>References</em> <a href="http://www.worldbowls.com/wp-content/uploads/2020/06/Laws_of_the_sport_v3.2.pdf#page=74">World Bowls Rules – Appendix B.1</a></p>
 <!-- /wp:paragraph --></blockquote>
 <!-- /wp:quote -->
 
@@ -299,20 +299,20 @@ date: 2019-08-22 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p><strong>The minimum jack length is 23 meters.</strong> This is measured once the jack has come to rest, and is placed in the centre of the rink. </p>
+<p><strong>The minimum jack length is 23 meters.</strong> This is measured once the jack has come to rest, and is placed in the centre of the rink. (<a href="http://www.worldbowls.com/wp-content/uploads/2020/06/Laws_of_the_sport_v3.2.pdf#page=39">Law 19.1.1</a>)</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>The measurement is taken in a straight line from the centre of the mat, to the nearest point of the jack.</p>
+<p>The measurement is taken in a straight line from the centre of the mat, to the nearest point of the jack. (<a href="http://www.worldbowls.com/wp-content/uploads/2020/06/Laws_of_the_sport_v3.2.pdf#page=39">Law 19.1.1</a>)</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>If the jack is under 23 meters from the mat the jack is given to the opposition. They will then have to opportunity to re-place the mat and to deliver the jack.</p>
+<p>If the jack is under 23 meters from the mat the jack is given to the opposition. They will then have the opportunity to re-place the mat and to deliver the jack. (<a href="http://www.worldbowls.com/wp-content/uploads/2020/06/Laws_of_the_sport_v3.2.pdf#page=39">Law 19.1.3</a>)</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:quote -->
 <blockquote class="wp-block-quote"><!-- wp:paragraph -->
-<p><em>References</em> <a href="http://www.worldbowls.com/wp-content/uploads/2020/06/Laws_of_the_sport_v3.2.pdf">World Bowls Rules</a></p>
+<p><em>References</em> <a href="http://www.worldbowls.com/wp-content/uploads/2020/06/Laws_of_the_sport_v3.2.pdf#page=39">World Bowls Rules – Laws 19.1.1 to 19.1.3</a></p>
 <!-- /wp:paragraph --></blockquote>
 <!-- /wp:quote -->
 
@@ -321,7 +321,7 @@ date: 2019-08-22 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p><strong>The maximum jack length in bowls is 36 meters.</strong></p>
+<p><strong>The maximum jack length in bowls is 36 meters.</strong> (<a href="http://www.worldbowls.com/wp-content/uploads/2020/06/Laws_of_the_sport_v3.2.pdf#page=39">Law 19.1.2</a>)</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
