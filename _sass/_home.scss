@@ -201,11 +201,15 @@ $site-hero-gradient: radial-gradient(circle at top right, rgba(79, 124, 255, 0.2
 }
 
 .pack-feature__cta {
-  color: #fff;
+  color: #fff !important;
 
   &:hover,
   &:focus {
     color: #fff;
+  }
+
+  &:not(:hover):not(:focus) {
+    color: #fff !important;
   }
 }
 
