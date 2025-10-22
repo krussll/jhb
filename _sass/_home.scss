@@ -312,10 +312,44 @@ $site-hero-gradient: radial-gradient(circle at top right, rgba(79, 124, 255, 0.2
   padding: 2.5rem 2.25rem;
   box-shadow: 0 25px 60px rgba(15, 23, 42, 0.35);
   backdrop-filter: blur(6px);
+  position: relative;
+}
+
+.home-lead__form-header {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 1rem;
+  margin-bottom: 1.5rem;
+}
+
+.home-lead__form-title {
+  margin: 0;
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: #fff;
+}
+
+.home-lead__form-required {
+  margin: 0;
+  font-size: 0.85rem;
+  color: rgba(255, 255, 255, 0.65);
+}
+
+.home-lead__form .asterisk {
+  color: #ffe081;
+  font-weight: 700;
 }
 
 .home-lead__form .form-group + .form-group {
   margin-top: 1.25rem;
+}
+
+.home-lead__form-label {
+  display: block;
+  font-weight: 600;
+  color: rgba(255, 255, 255, 0.85);
+  margin-bottom: 0.5rem;
 }
 
 .home-lead__form .form-control {
@@ -334,13 +368,56 @@ $site-hero-gradient: radial-gradient(circle at top right, rgba(79, 124, 255, 0.2
   box-shadow: 0 0 0 3px rgba(79, 124, 255, 0.4);
 }
 
+.home-lead__form-responses {
+  min-height: 1.25rem;
+  margin-top: 1.25rem;
+}
+
+.home-lead__form-responses .response {
+  display: none;
+  font-size: 0.9rem;
+}
+
+.home-lead__form-responses .response:not(:empty) {
+  display: block;
+  padding: 0.75rem 1rem;
+  border-radius: 0.75rem;
+  background: rgba(15, 23, 42, 0.75);
+  color: #fff;
+}
+
+.home-lead__form-actions {
+  margin-top: 1.75rem;
+  display: grid;
+  gap: 1rem;
+}
+
+.home-lead__form-hidden-field {
+  position: absolute;
+  left: -9999px;
+}
+
 .home-lead__form .btn {
   width: 100%;
-  margin-top: 1.75rem;
   border-radius: 0.85rem;
   font-weight: 600;
   padding: 0.95rem 1.1rem;
   box-shadow: 0 20px 40px rgba(15, 23, 42, 0.4);
+}
+
+.home-lead__form-actions .btn {
+  margin-top: 0;
+}
+
+.home-lead__form .btn-dark {
+  background-color: #222222;
+  border-color: #222222;
+}
+
+.home-lead__form .btn-dark:hover,
+.home-lead__form .btn-dark:focus {
+  background-color: lighten(#222222, 6%);
+  border-color: lighten(#222222, 6%);
 }
 
 .home-lead__disclaimer {
