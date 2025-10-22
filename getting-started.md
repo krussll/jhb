@@ -1,616 +1,212 @@
 ---
 layout: default
 title: Getting Started
-description: Find the right starting point for your bowls journey with curated guides, drills and equipment advice.
+description: Follow this roadmap to learn the rules, choose your first bowls and practise with confidence.
 permalink: /getting-started
 hide_page_hero: true
-
-hero:
-  eyebrow: Start bowls your way
-  lede: The fastest way to learn bowls basics, choose the right gear and turn practice time into real progress.
-  quick_links:
-    - label: Master the fundamentals
-      url: /guides
-    - label: Pick the right bowls
-      url: /reviews
-    - label: Download practice drills
-      url: /lawn-bowls-downloadable-drill-pack
-  image: /img/img/find-right-bowls.png
-  image_alt: Bowls arranged on a club locker as a new player selects the right set
-  image_caption: Find advice that helps you choose the right bowls, practice plan and support.
-  primary:
-    tag: Step-by-step plan
-    title: Build confidence from your first roll-up to club matches
-    description: Follow a focused four-week plan that covers rules, mindset, equipment and the skills to drill each week.
-    url: /2022/02/18/9-tips-for-how-to-play-bowls-well
-    cta: Start the action plan →
-  secondary:
-    - tag: Gear decisions
-      title: How to choose a set of lawn bowls that fits
-      description: Understand bias shapes, surface speeds and sizing so every purchase matches your rink and role.
-      url: /2022/11/24/how-to-choose-a-set-of-lawn-bowls
-      cta: Shop smart →
-    - tag: Practice library
-      title: Download drills that sharpen line, length and weight
-      description: Drop structured solo and team drills straight into your weekly routine.
-      url: /lawn-bowls-downloadable-drill-pack
-      cta: Get the drills →
-trending:
-  title: Popular right now
-  items:
-    - title: Lawn bowls rules for beginners
-      url: /2019/08/22/lawn-bowls-rules
-      meta: Beginner basics
-    - title: How to choose a set of lawn bowls
-      url: /2022/11/24/how-to-choose-a-set-of-lawn-bowls
-      meta: Gear advice
-    - title: Downloadable practice drill pack
-      url: /lawn-bowls-downloadable-drill-pack
-      meta: Practice plans
-    - title: Singles tactics playbook
-      url: /2021/07/20/ultimate-guide-to-lawn-bowls-singles-tactics
-      meta: Strategy
-    - title: Find your perfect bowl size
-      url: /2021/05/07/what-size-lawn-bowl-should-i-use
-      meta: Gear fit
-category_tiles:
-  heading: Choose your route through Jack High Bowls
-  description: Browse the main themes new players ask us about. Each tile opens up deep dives, explainers and our most useful next steps.
-  items:
-    - title: Getting started guides
-      description: Learn rules, etiquette and the fundamentals so you feel comfortable stepping onto any rink.
-      url: /guides
-      cta: Browse beginner guides →
-      links:
-        - label: Lawn bowls rules for beginners
-          url: /2019/08/22/lawn-bowls-rules
-        - label: Rules & etiquette explained
-          url: /2019/04/24/lawn-bowls-rules-and-etiquette
-        - label: 9 quick wins for new bowlers
-          url: /2022/02/18/9-tips-for-how-to-play-bowls-well
-    - title: Bowls & equipment reviews
-      description: Compare the leading models, biases and build quality before you invest in a set.
-      url: /reviews
-      cta: Explore gear reviews →
-      links:
-        - label: How to choose the right set
-          url: /2022/11/24/how-to-choose-a-set-of-lawn-bowls
-        - label: Find your perfect bowl size
-          url: /2021/05/07/what-size-lawn-bowl-should-i-use
-        - label: Taylor Lignoid vs Henselite Tiger
-          url: /2023/03/20/taylor-lignoid-vs-henselite-tiger-which-is-best
-    - title: Practice & coaching tools
-      description: Turn practice time into progress with structured sessions and improvement guides.
-      url: /lawn-bowls-downloadable-drill-pack
-      cta: Build a training plan →
-      links:
-        - label: Complete improvement guide
-          url: /2022/06/20/how-to-get-better-at-lawn-bowls
-        - label: Master line & length
-          url: /2023/04/17/line-and-length-in-lawn-bowls-how-to-win-at-bowls
-        - label: Download the drill pack
-          url: /lawn-bowls-downloadable-drill-pack
-    - title: Match tactics & mindset
-      description: Prepare for league play with strategy, teamwork and season-long planning advice.
-      url: /2021/07/20/ultimate-guide-to-lawn-bowls-singles-tactics
-      cta: See tactical guides →
-      links:
-        - label: Singles tactics playbook
-          url: /2021/07/20/ultimate-guide-to-lawn-bowls-singles-tactics
-        - label: Triples teamwork essentials
-          url: /2022/03/06/lawn-bowls-triples-tactics
-        - label: Season preparation checklist
-          url: /2020/11/07/how-to-prepare-for-a-new-lawn-bowls-season
-pathways:
-  heading: Goal-based pathways
-  description: Pick the outcome you want and jump into a curated collection of guides, drills and reviews.
-  items:
-    - title: Learn the essentials
-      description: Get comfortable with the fundamentals so you can walk onto the green knowing what to expect.
-      links:
-        - label: Lawn bowls rules for beginners
-          url: /2019/08/22/lawn-bowls-rules
-        - label: Rules & etiquette explained
-          url: /2019/04/24/lawn-bowls-rules-and-etiquette
-        - label: 9 quick wins for new bowlers
-          url: /2022/02/18/9-tips-for-how-to-play-bowls-well
-    - title: Choose your bowls
-      description: Compare models, biases and price points so you can invest in a set that suits your surface and style.
-      links:
-        - label: How to choose the right set
-          url: /2022/11/24/how-to-choose-a-set-of-lawn-bowls
-        - label: Find your perfect bowl size
-          url: /2021/05/07/what-size-lawn-bowl-should-i-use
-        - label: Browse in-depth bowl reviews
-          url: /reviews
-    - title: Practice smarter
-      description: Build a training routine that develops consistency, touch and tactical awareness every time you play.
-      links:
-        - label: Complete improvement guide
-          url: /2022/06/20/how-to-get-better-at-lawn-bowls
-        - label: Master line & length
-          url: /2023/04/17/line-and-length-in-lawn-bowls-how-to-win-at-bowls
-        - label: Download focused drills
-          url: /lawn-bowls-downloadable-drill-pack
-    - title: Compete with confidence
-      description: Upgrade your match strategy, work with teammates and keep your body ready for long competitions.
-      links:
-        - label: Singles tactics playbook
-          url: /2021/07/20/ultimate-guide-to-lawn-bowls-singles-tactics
-        - label: Triples teamwork essentials
-          url: /2022/03/06/lawn-bowls-triples-tactics
-        - label: Season preparation checklist
-          url: /2020/11/07/how-to-prepare-for-a-new-lawn-bowls-season
-deep_dives:
-  heading: Featured collections
-  description: Explore curated hubs packed with linked stories, buying guides and expert answers.
-  items:
-    - eyebrow: Gear deep dives
-      title: Bowls & equipment reviews
-      description: Compare leading models side-by-side to understand bias, build quality and who each bowl suits best.
-      cta: See all reviews →
-      url: /reviews
-    - eyebrow: Everything in one place
-      title: Explore every article
-      description: Not sure where to start? Scan every story we've published and filter by the topic that matters.
-      cta: View all posts →
-      url: /all-posts
-support_block:
-  eyebrow: Need specialist guidance?
-  title: Talk to a Jack High Bowls coach
-  description: Can't find the answer you need? We'll point you to the right drills, kit and next steps for your situation.
-  quote:
-    text: "Jack High Bowls helped me go from confused about equipment to confident on the rink in a single season."
-    cite: "— Sarah M., new club lead"
-  image:
-    src: img/img/master-core-skills.png
-    alt: Bowls coach demonstrating delivery form
-  primary:
-    label: Contact the team
-    url: /contact
-  secondary:
-    - label: Visit the Help & Support hub
-      url: /help-and-support
-    - label: Partner with Jack High Bowls
-      url: /advertisers
-latest_heading: Latest picks
-latest_description: Stay on top of the newest advice from Jack High Bowls. These articles are the ones our editors are talking about right now.
-latest_posts_count: 3
 ---
 
-{% assign hero = page.hero %}
-{% assign trending = page.trending %}
-{% assign category_tiles = page.category_tiles %}
-{% assign pathways = page.pathways %}
-{% assign deep_dives = page.deep_dives %}
-{% assign latest_count = page.latest_posts_count | default: 3 | plus: 0 %}
-{% assign latest_posts = site.posts | slice: 0, latest_count %}
-{% assign support_block = page.support_block %}
-
 <main class="getting-started">
-  <section class="gs-hero">
+  <section
+    class="gs-hero"
+    style="--hero-image: url('{{ '/img/img/find-right-bowls.png' | relative_url }}');"
+  >
     <div class="container">
-      <div class="gs-hero__grid">
-        <div class="gs-hero__content">
-          <div class="gs-hero__intro">
-            {% if hero.eyebrow %}
-              <p class="gs-eyebrow">{{ hero.eyebrow }}</p>
-            {% endif %}
-            <h1 class="gs-hero__title">{{ page.title }}</h1>
-            {% if hero.lede %}
-              <p class="gs-lede">{{ hero.lede }}</p>
-            {% endif %}
-          </div>
-          {% if hero.quick_links or (trending and trending.items) %}
-            <aside class="gs-hero__rail" aria-label="Key entry points">
-              {% if hero.quick_links %}
-                <nav class="gs-rail__group" aria-label="Quick links">
-                  <h2 class="gs-rail__title">Quick links</h2>
-                  <ul class="gs-rail__list">
-                    {% for link in hero.quick_links %}
-                      <li>
-                        <a class="gs-rail__pill gs-rail__pill--action" href="{{ link.url | relative_url }}">
-                          <span class="gs-rail__pill-label">{{ link.label }}</span>
-                        </a>
-                      </li>
-                    {% endfor %}
-                  </ul>
-                </nav>
-              {% endif %}
-              {% if trending and trending.items %}
-                <div class="gs-rail__group">
-                  <h2 class="gs-rail__title">{{ trending.title }}</h2>
-                  <ol class="gs-rail__list gs-rail__list--numbered">
-                    {% for item in trending.items %}
-                      <li>
-                        <a class="gs-rail__pill gs-rail__pill--story" href="{{ item.url | relative_url }}">
-                          {% if item.meta %}
-                            <span class="gs-rail__meta">{{ item.meta }}</span>
-                          {% endif %}
-                          <span class="gs-rail__pill-label">{{ item.title }}</span>
-                        </a>
-                      </li>
-                    {% endfor %}
-                  </ol>
-                </div>
-              {% endif %}
-            </aside>
-          {% endif %}
+      <div class="gs-hero__inner">
+        <p class="gs-hero__eyebrow">Start bowls with confidence</p>
+        <h1 class="gs-hero__title">Your first steps into lawn bowls</h1>
+        <p class="gs-hero__lede">
+          Use this guided pathway to move from complete beginner to confident club player.
+          Each step links to the core Jack High Bowls resources our coaches share with
+          every new bowler.
+        </p>
+        <div class="gs-hero__actions">
+          <a class="gs-button gs-button--primary" href="#step-1">Begin with Step 1</a>
+          <a class="gs-button gs-button--ghost" href="{{ '/contact' | relative_url }}">Talk to a coach</a>
         </div>
-        {% if hero.image %}
-          <figure class="gs-hero__image">
-            <div class="gs-hero__image-media">
-              <img src="{{ hero.image | relative_url }}" alt="{{ hero.image_alt | default: '' }}" />
-            </div>
-            {% if hero.image_caption %}
-              <figcaption>{{ hero.image_caption }}</figcaption>
-            {% endif %}
-          </figure>
-        {% endif %}
+        <ul class="gs-hero__quick-links" aria-label="Roadmap overview">
+          <li><a href="#step-1">Learn the rules</a></li>
+          <li><a href="#step-2">Pick your bowls</a></li>
+          <li><a href="#step-3">Build core skills</a></li>
+          <li><a href="#step-4">Play your first games</a></li>
+        </ul>
       </div>
-      {% if hero.primary or hero.secondary %}
-        <div class="gs-hero__features">
-          {% if hero.primary %}
-            <a class="gs-feature gs-feature--primary" href="{{ hero.primary.url | relative_url }}">
-              {% if hero.primary.tag %}
-                <span class="gs-feature__tag">{{ hero.primary.tag }}</span>
-              {% endif %}
-              <h2 class="gs-feature__title">{{ hero.primary.title }}</h2>
-              {% if hero.primary.description %}
-                <p class="gs-feature__description">{{ hero.primary.description }}</p>
-              {% endif %}
-              <span class="gs-feature__cta">{{ hero.primary.cta | default: 'Explore →' }}</span>
-            </a>
-          {% endif %}
-          {% if hero.secondary %}
-            <div class="gs-feature__secondary-list">
-              {% for feature in hero.secondary %}
-                <a class="gs-feature gs-feature--secondary" href="{{ feature.url | relative_url }}">
-                  {% if feature.tag %}
-                    <span class="gs-feature__tag">{{ feature.tag }}</span>
-                  {% endif %}
-                  <h3 class="gs-feature__title">{{ feature.title }}</h3>
-                  {% if feature.description %}
-                    <p class="gs-feature__description">{{ feature.description }}</p>
-                  {% endif %}
-                  <span class="gs-feature__cta">{{ feature.cta | default: 'See more →' }}</span>
-                </a>
-              {% endfor %}
-            </div>
-          {% endif %}
-        </div>
-      {% endif %}
     </div>
   </section>
 
-  {% assign gear_category = nil %}
-  {% if category_tiles and category_tiles.items %}
-    {% assign gear_category = category_tiles.items | where: "url", "/reviews" | first %}
-  {% endif %}
-  <section class="gs-block gs-block--gear" aria-labelledby="gear-spotlight">
+  <section id="step-1" class="gs-step">
     <div class="container">
-      <div class="gs-block__inner">
-        <div class="gs-block__media">
-          <img
-            src="{{ '/img/icons/buy-the-right-bowls.png' | relative_url }}"
-            alt="Illustration of bowls equipment alongside the words Buy the right bowls"
-            loading="lazy"
-          />
-        </div>
-        <div class="gs-block__content">
-          <p class="gs-block__eyebrow">Gear spotlight</p>
-          <h2 id="gear-spotlight">Choose bowls with confidence</h2>
+      <div class="gs-step__inner">
+        <div class="gs-step__header">
+          <span class="gs-step__number">Step 1</span>
+          <h2>Learn the rules and rhythm of play</h2>
           <p>
-            Compare our in-depth equipment reviews and use the proven sizing checks before you invest in your next set of bowls.
+            Understand how an end unfolds, how to score and the shared language used on the
+            green so you can follow every head with confidence.
           </p>
-          <div class="gs-block__ctas" role="group" aria-label="Equipment calls to action">
-            <a class="gs-cta-button gs-cta-button--primary" href="{{ '/reviews' | relative_url }}">Read reviews hub</a>
-            <a class="gs-cta-button gs-cta-button--secondary" href="{{ '/2021/05/07/what-size-lawn-bowl-should-i-use' | relative_url }}">Check your size</a>
-          </div>
-          {% if gear_category and gear_category.links %}
-            <div class="gs-block__decisions">
-              <h3>Key decisions</h3>
-              <ul>
-                {% for link in gear_category.links %}
-                  <li><a href="{{ link.url | relative_url }}">{{ link.label }}</a></li>
-                {% endfor %}
-              </ul>
-            </div>
-          {% endif %}
+        </div>
+        <div class="gs-step__resources" role="list">
+          <article class="gs-resource" role="listitem">
+            <h3><a href="{{ '/2019/08/22/lawn-bowls-rules' | relative_url }}">Lawn bowls rules for beginners</a></h3>
+            <p>Everything you need to know about ends, shots and scoring.</p>
+          </article>
+          <article class="gs-resource" role="listitem">
+            <h3><a href="{{ '/2019/04/24/lawn-bowls-rules-and-etiquette' | relative_url }}">Etiquette explained</a></h3>
+            <p>Learn the do's and don'ts that keep club play friendly and fair.</p>
+          </article>
+          <article class="gs-resource" role="listitem">
+            <h3><a href="{{ '/guides' | relative_url }}">Browse the beginner guides hub</a></h3>
+            <p>See every fundamentals article in one place when you need a refresher.</p>
+          </article>
         </div>
       </div>
     </div>
   </section>
-  {% assign basics_category = category_tiles.items | first %}
-  {% assign basics_goal = pathways.items | first %}
-  {% assign basics_links = basics_goal.links | default: basics_category.links %}
-  {% if basics_category or basics_goal %}
-    <section class="gs-block gs-block--basics">
-      <div class="container">
-        <div class="gs-block__inner">
-          <div class="gs-block__icon">
-            <img src="{{ 'img/img/learn-the-rules.png' | relative_url }}" alt="Illustration representing lawn bowls rules and etiquette" loading="lazy" />
-          </div>
-          <div class="gs-block__content">
-            {% if basics_category and basics_category.title %}
-              <h2>{{ basics_category.title }}</h2>
-            {% elsif basics_goal and basics_goal.title %}
-              <h2>{{ basics_goal.title }}</h2>
-            {% endif %}
-            {% if basics_category and basics_category.description %}
-              <p>{{ basics_category.description }}</p>
-            {% endif %}
-            {% if basics_goal and basics_goal.description %}
-              <p>{{ basics_goal.description }}</p>
-            {% endif %}
-            {% if basics_links %}
-              <ul class="gs-block__links">
-                {% for link in basics_links %}
-                  <li><a href="{{ link.url | relative_url }}">{{ link.label }}</a></li>
-                {% endfor %}
-              </ul>
-            {% endif %}
-            {% if basics_category and basics_category.cta %}
-              <a class="gs-block__cta" href="{{ basics_category.url | relative_url }}">{{ basics_category.cta }}</a>
-            {% endif %}
-          </div>
-        </div>
-      </div>
-    </section>
-  {% endif %}
 
-  <section class="gs-section gs-block gs-block--practice">
+  <section class="gs-pain-point">
     <div class="container">
-      <div class="gs-block__inner">
-        <div class="gs-block__media">
-          <img
-            src="{{ '/img/icons/practice-with-confidence.png' | relative_url }}"
-            alt="Illustration of a lawn bowler practising with focus"
-            loading="lazy"
-          >
-        </div>
-        <div class="gs-block__content">
-          <p class="gs-eyebrow">Practice spotlight</p>
-          <h2>Practice with confidence every week</h2>
-          <p>
-            Use our downloadable drills and coaching guidance to build repeatable touch, sharpen your weight control and bring
-            structure to every roll-up.
-          </p>
-          <a class="gs-link-pill" href="{{ '/lawn-bowls-downloadable-drill-pack' | relative_url }}">Download the drill pack</a>
-          <div class="gs-mini-card-grid" role="list" aria-label="Practice and coaching highlights">
-            <article class="gs-mini-card" role="listitem">
-              <h3>Follow the improvement guide</h3>
-              <p>
-                Map out a season-long plan that shows you what to prioritise and how to measure progress as you build confidence.
-              </p>
-              <a class="gs-mini-card__link" href="{{ '/2022/06/20/how-to-get-better-at-lawn-bowls' | relative_url }}">Read the improvement guide</a>
-            </article>
-            <article class="gs-mini-card" role="listitem">
-              <h3>Master line and length</h3>
-              <p>
-                Dial in draw weight with focused sessions that mirror competitive heads and help you deliver with purpose.
-              </p>
-              <a class="gs-mini-card__link" href="{{ '/2023/04/17/line-and-length-in-lawn-bowls-how-to-win-at-bowls' | relative_url }}">Work on line and length</a>
-            </article>
-          </div>
-        </div>
+      <div class="gs-pain-point__card">
+        <p class="gs-pain-point__eyebrow">Common challenge</p>
+        <h3>Not sure what to wear or how formal roll-ups really are?</h3>
+        <p>
+          Our etiquette guide shows what clothing works, how to behave on the mat and the
+          simple routines clubs expect from first-time visitors.
+        </p>
+        <a class="gs-link" href="{{ '/2019/04/24/lawn-bowls-rules-and-etiquette' | relative_url }}">Review bowls etiquette →</a>
       </div>
     </div>
   </section>
 
-  <section class="gs-section gs-block gs-block--compete" aria-labelledby="compete-ready">
+  <section id="step-2" class="gs-step">
     <div class="container">
-      <div class="gs-block__inner">
-        <figure class="gs-block__media gs-block__media--compete">
-          <img
-            src="{{ 'img/icons/win-at-singles.png' | relative_url }}"
-            alt="Illustration celebrating a lawn bowls singles win"
-            loading="lazy"
-          />
-          <figcaption class="gs-block__caption">
-            <span class="gs-block__stat">Competition focus</span>
-            Players who control the mat in singles bank an average of three extra scoring ends.
-          </figcaption>
-        </figure>
-        <div class="gs-block__content">
-          <p class="gs-block__eyebrow">Matchday spotlight</p>
-          <h2 id="compete-ready">Compete with confidence on match day</h2>
+      <div class="gs-step__inner">
+        <div class="gs-step__header">
+          <span class="gs-step__number">Step 2</span>
+          <h2>Pick your first set of bowls</h2>
           <p>
-            Bring together proven singles tactics, triples communication routines and pre-season prep so you can close out tight rinks when the pressure rises.
+            Match bowl size, bias shape and price point to the surfaces you play on so your
+            first purchase accelerates your touch instead of fighting it.
           </p>
-          <div class="gs-block__ctas" role="group" aria-label="Competition calls to action">
-            <a
-              class="gs-cta-button gs-cta-button--primary"
-              href="{{ '/2021/07/20/ultimate-guide-to-lawn-bowls-singles-tactics' | relative_url }}"
-            >Dive into singles tactics</a>
-          </div>
-          <nav class="gs-block__guide" aria-label="Competition strategy quick links">
-            <ol class="gs-block__link-list">
-              <li>
-                <a href="{{ '/2021/07/20/ultimate-guide-to-lawn-bowls-singles-tactics' | relative_url }}">Singles tactics playbook</a>
-              </li>
-              <li>
-                <a href="{{ '/2022/03/06/lawn-bowls-triples-tactics' | relative_url }}">Triples teamwork essentials</a>
-              </li>
-              <li>
-                <a href="{{ '/2020/11/07/how-to-prepare-for-a-new-lawn-bowls-season' | relative_url }}">Season preparation checklist</a>
-              </li>
-            </ol>
-          </nav>
+        </div>
+        <div class="gs-step__resources" role="list">
+          <article class="gs-resource" role="listitem">
+            <h3><a href="{{ '/2022/11/24/how-to-choose-a-set-of-lawn-bowls' | relative_url }}">How to choose a set of lawn bowls</a></h3>
+            <p>Work through bias charts, speeds and budgets before you buy.</p>
+          </article>
+          <article class="gs-resource" role="listitem">
+            <h3><a href="{{ '/2021/05/07/what-size-lawn-bowl-should-i-use' | relative_url }}">Find your perfect bowl size</a></h3>
+            <p>Use proven grip checks to lock in the right size for your hand.</p>
+          </article>
+          <article class="gs-resource" role="listitem">
+            <h3><a href="{{ '/reviews' | relative_url }}">Compare bowls &amp; equipment reviews</a></h3>
+            <p>See how leading models stack up before stepping into the shop.</p>
+          </article>
         </div>
       </div>
     </div>
   </section>
 
-  {% if category_tiles and category_tiles.items %}
-    <section class="gs-section">
-      <div class="container">
-        <div class="gs-section__header">
-          <h2>{{ category_tiles.heading }}</h2>
-          {% if category_tiles.description %}
-            <p>{{ category_tiles.description }}</p>
-          {% endif %}
-        </div>
-        <div class="gs-category-grid">
-          {% for category in category_tiles.items %}
-            {% unless forloop.first %}
-              <article class="gs-category">
-                <div class="gs-category__body">
-                  <h3>{{ category.title }}</h3>
-                  {% if category.description %}
-                    <p>{{ category.description }}</p>
-                  {% endif %}
-                  <a class="gs-category__cta" href="{{ category.url | relative_url }}">{{ category.cta | default: 'Visit hub →' }}</a>
-                </div>
-                {% if category.links %}
-                  <ul class="gs-category__links">
-                    {% for link in category.links %}
-                      <li><a href="{{ link.url | relative_url }}">{{ link.label }}</a></li>
-                    {% endfor %}
-                  </ul>
-                {% endif %}
-              </article>
-            {% endunless %}
-          {% endfor %}
-        </div>
+  <section class="gs-pain-point gs-pain-point--alt">
+    <div class="container">
+      <div class="gs-pain-point__card">
+        <p class="gs-pain-point__eyebrow">Gear hurdle</p>
+        <h3>Unsure which model suits your club's surface speed?</h3>
+        <p>
+          Dive into our head-to-head reviews to see how popular bowls behave on fast and
+          slow greens and which roles they suit best.
+        </p>
+        <a class="gs-link" href="{{ '/2023/03/20/taylor-lignoid-vs-henselite-tiger-which-is-best' | relative_url }}">Start with a real-world comparison →</a>
       </div>
-    </section>
-  {% endif %}
+    </div>
+  </section>
 
-  {% if pathways and pathways.items %}
-    <section class="gs-section gs-section--alt">
-      <div class="container">
-        <div class="gs-section__header">
-          <h2>{{ pathways.heading }}</h2>
-          {% if pathways.description %}
-            <p>{{ pathways.description }}</p>
-          {% endif %}
+  <section id="step-3" class="gs-step">
+    <div class="container">
+      <div class="gs-step__inner">
+        <div class="gs-step__header">
+          <span class="gs-step__number">Step 3</span>
+          <h2>Build core skills and repeatable delivery</h2>
+          <p>
+            Develop a smooth setup, control weight and learn how to read the head so you can
+            contribute to any team from week one.
+          </p>
         </div>
-        <div class="gs-card-grid">
-          {% for goal in pathways.items %}
-            {% unless forloop.first %}
-              <article class="gs-card">
-                <h3>{{ goal.title }}</h3>
-                {% if goal.description %}
-                  <p>{{ goal.description }}</p>
-                {% endif %}
-                {% if goal.links %}
-                  <ul class="gs-card__links">
-                    {% for link in goal.links %}
-                      <li>
-                        <a href="{{ link.url | relative_url }}">{{ link.label }}</a>
-                      </li>
-                    {% endfor %}
-                  </ul>
-                {% endif %}
-              </article>
-            {% endunless %}
-          {% endfor %}
+        <div class="gs-step__resources" role="list">
+          <article class="gs-resource" role="listitem">
+            <h3><a href="{{ '/2022/02/18/9-tips-for-how-to-play-bowls-well' | relative_url }}">9 quick wins for new bowlers</a></h3>
+            <p>Focus on the habits that build confidence every time you roll up.</p>
+          </article>
+          <article class="gs-resource" role="listitem">
+            <h3><a href="{{ '/2023/04/17/line-and-length-in-lawn-bowls-how-to-win-at-bowls' | relative_url }}">Master line and length</a></h3>
+            <p>Use targeted drills to lock in draw weight and green reading.</p>
+          </article>
+          <article class="gs-resource" role="listitem">
+            <h3><a href="{{ '/lawn-bowls-downloadable-drill-pack' | relative_url }}">Download the practice drill pack</a></h3>
+            <p>Print-ready sessions that turn casual roll-ups into structured training.</p>
+          </article>
         </div>
       </div>
-    </section>
-  {% endif %}
+    </div>
+  </section>
 
-  {% if deep_dives and deep_dives.items %}
-    <section class="gs-section">
-      <div class="container">
-        <div class="gs-section__header">
-          <h2>{{ deep_dives.heading }}</h2>
-          {% if deep_dives.description %}
-            <p>{{ deep_dives.description }}</p>
-          {% endif %}
-        </div>
-        <div class="gs-hub-grid">
-          {% for hub in deep_dives.items %}
-            <a class="gs-hub" href="{{ hub.url | relative_url }}">
-              {% if hub.eyebrow %}
-                <span class="gs-hub__eyebrow">{{ hub.eyebrow }}</span>
-              {% endif %}
-              <h3>{{ hub.title }}</h3>
-              {% if hub.description %}
-                <p>{{ hub.description }}</p>
-              {% endif %}
-              {% if hub.cta %}
-                <span class="gs-hub__cta">{{ hub.cta }}</span>
-              {% endif %}
-            </a>
-          {% endfor %}
-        </div>
+  <section class="gs-pain-point">
+    <div class="container">
+      <div class="gs-pain-point__card">
+        <p class="gs-pain-point__eyebrow">Skill sticking point</p>
+        <h3>Struggling to stay consistent from week to week?</h3>
+        <p>
+          Follow our improvement blueprint to track progress, rotate focussed drills and
+          stay motivated through your first season.
+        </p>
+        <a class="gs-link" href="{{ '/2022/06/20/how-to-get-better-at-lawn-bowls' | relative_url }}">Follow the improvement guide →</a>
       </div>
-    </section>
-  {% endif %}
+    </div>
+  </section>
 
-  {% if support_block %}
-    <section class="gs-section gs-block--support">
-      <div class="container">
-        <div class="gs-support">
-          <div class="gs-support__media">
-            {% assign support_image = support_block.image %}
-            <img
-              src="{{ support_image.src | default: 'img/img/master-core-skills.png' | relative_url }}"
-              alt="{{ support_image.alt | default: 'Bowls coach guiding a player' }}"
-              loading="lazy"
-            />
-          </div>
-          <div class="gs-support__content">
-            {% if support_block.eyebrow %}
-              <p class="gs-eyebrow">{{ support_block.eyebrow }}</p>
-            {% endif %}
-            <h2>{{ support_block.title }}</h2>
-            {% if support_block.description %}
-              <p>{{ support_block.description }}</p>
-            {% endif %}
-            {% if support_block.quote %}
-              <figure class="gs-support__quote">
-                {% if support_block.quote.text %}
-                  <blockquote>
-                    “{{ support_block.quote.text }}”
-                  </blockquote>
-                {% endif %}
-                {% if support_block.quote.cite %}
-                  <figcaption>{{ support_block.quote.cite }}</figcaption>
-                {% endif %}
-              </figure>
-            {% endif %}
-            <div class="gs-support__actions">
-              {% if support_block.primary %}
-                <a class="gs-link-pill" href="{{ support_block.primary.url | relative_url }}">{{ support_block.primary.label }}</a>
-              {% endif %}
-              {% if support_block.secondary %}
-                <div class="gs-support__secondary">
-                  {% for link in support_block.secondary %}
-                    <a class="gs-link-pill gs-link-pill--ghost" href="{{ link.url | relative_url }}">{{ link.label }}</a>
-                  {% endfor %}
-                </div>
-              {% endif %}
-            </div>
-          </div>
+  <section id="step-4" class="gs-step">
+    <div class="container">
+      <div class="gs-step__inner">
+        <div class="gs-step__header">
+          <span class="gs-step__number">Step 4</span>
+          <h2>Play your first competitive games</h2>
+          <p>
+            Learn how to communicate with teammates, manage the mat and make smart shot
+            choices when the scoreline is tight.
+          </p>
+        </div>
+        <div class="gs-step__resources" role="list">
+          <article class="gs-resource" role="listitem">
+            <h3><a href="{{ '/2021/07/20/ultimate-guide-to-lawn-bowls-singles-tactics' | relative_url }}">Singles tactics playbook</a></h3>
+            <p>Plan heads ahead and build pressure on every end.</p>
+          </article>
+          <article class="gs-resource" role="listitem">
+            <h3><a href="{{ '/2022/03/06/lawn-bowls-triples-tactics' | relative_url }}">Triples teamwork essentials</a></h3>
+            <p>Find your voice within a rink and support skips with useful calls.</p>
+          </article>
+          <article class="gs-resource" role="listitem">
+            <h3><a href="{{ '/help-and-support' | relative_url }}">Visit the Help &amp; Support hub</a></h3>
+            <p>Browse answers to the questions new bowlers ask most often.</p>
+          </article>
         </div>
       </div>
-    </section>
-  {% endif %}
+    </div>
+  </section>
 
-  {% if latest_posts and latest_posts.size > 0 %}
-    <section class="gs-section gs-section--latest">
-      <div class="container">
-        <div class="gs-section__header">
-          <h2>{{ page.latest_heading }}</h2>
-          {% if page.latest_description %}
-            <p>{{ page.latest_description }}</p>
-          {% endif %}
+  <section class="gs-next-steps">
+    <div class="container">
+      <div class="gs-next-steps__inner">
+        <div class="gs-next-steps__intro">
+          <h2>Ready for tailored advice?</h2>
+          <p>
+            If you need help choosing drills, settling nerves before league play or picking
+            a new set, the Jack High Bowls team is on hand.
+          </p>
         </div>
-        <div class="gs-latest-grid">
-          {% for post in latest_posts %}
-            <article class="gs-latest">
-              <p class="gs-latest__meta">{{ post.date | date: "%B %-d, %Y" }}</p>
-              <h3 class="gs-latest__title"><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h3>
-              {% if post.excerpt %}
-                <p class="gs-latest__excerpt">{{ post.excerpt | strip_html | truncate: 140 }}</p>
-              {% endif %}
-            </article>
-          {% endfor %}
+        <div class="gs-next-steps__actions">
+          <a class="gs-button gs-button--primary" href="{{ '/contact' | relative_url }}">Ask the coaching desk</a>
+          <a class="gs-button gs-button--ghost" href="{{ '/all-posts' | relative_url }}">Explore every article</a>
         </div>
       </div>
-    </section>
-  {% endif %}
+    </div>
+  </section>
 </main>
