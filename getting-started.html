@@ -7,29 +7,35 @@ hide_page_hero: true
 ---
 
 <main class="getting-started">
-  <section
-    class="gs-hero"
-    style="--hero-image: url('{{ '/img/img/find-right-bowls.png' | relative_url }}');"
-  >
+  <section class="gs-hero">
     <div class="container">
       <div class="gs-hero__inner">
-        <p class="gs-hero__eyebrow">Start bowls with confidence</p>
-        <h1 class="gs-hero__title">Your first steps into lawn bowls</h1>
-        <p class="gs-hero__lede">
-          Use this guided pathway to move from complete beginner to confident club player.
-          Each step links to the core Jack High Bowls resources our coaches share with
-          every new bowler.
-        </p>
-        <div class="gs-hero__actions">
-          <a class="gs-button gs-button--primary" href="#step-1">Begin with Step 1</a>
-          <a class="gs-button gs-button--ghost" href="{{ '/contact' | relative_url }}">Talk to a coach</a>
+        <div class="gs-hero__content">
+          <p class="gs-hero__eyebrow">Start bowls with confidence</p>
+          <h1 class="gs-hero__title">Your first steps into lawn bowls</h1>
+          <p class="gs-hero__lede">
+            Use this guided pathway to move from complete beginner to confident club player.
+            Each step links to the core Jack High Bowls resources our coaches share with
+            every new bowler.
+          </p>
+          <div class="gs-hero__actions">
+            <a class="gs-button gs-button--primary" href="#step-1">Learn the essentials</a>
+            <a class="gs-button gs-button--ghost" href="{{ '/guides' | relative_url }}">Browse beginner guides</a>
+          </div>
+          <ul class="gs-hero__quick-links" aria-label="Roadmap overview">
+            <li><a href="#step-1">Learn the rules</a></li>
+            <li><a href="#step-2">Pick your bowls</a></li>
+            <li><a href="#step-3">Build core skills</a></li>
+            <li><a href="#step-4">Play your first games</a></li>
+          </ul>
         </div>
-        <ul class="gs-hero__quick-links" aria-label="Roadmap overview">
-          <li><a href="#step-1">Learn the rules</a></li>
-          <li><a href="#step-2">Pick your bowls</a></li>
-          <li><a href="#step-3">Build core skills</a></li>
-          <li><a href="#step-4">Play your first games</a></li>
-        </ul>
+        <figure class="gs-hero__media">
+          <img
+            src="{{ '/img/img/find-right-bowls.png' | relative_url }}"
+            alt="New bowler reviewing equipment and practice plans"
+            loading="lazy"
+          />
+        </figure>
       </div>
     </div>
   </section>
@@ -38,7 +44,7 @@ hide_page_hero: true
     <div class="container">
       <div class="gs-step__inner">
         <div class="gs-step__header">
-          <span class="gs-step__number">Step 1</span>
+          <span class="gs-step__tag">Know the basics</span>
           <h2>Learn the rules and rhythm of play</h2>
           <p>
             Understand how an end unfolds, how to score and the shared language used on the
@@ -47,11 +53,11 @@ hide_page_hero: true
         </div>
         <div class="gs-step__resources" role="list">
           <article class="gs-resource" role="listitem">
-            <h3><a href="{{ '/2019/08/22/lawn-bowls-rules' | relative_url }}">Lawn bowls rules for beginners</a></h3>
+            <h3><a href="{{ '/help/lawn-bowls-rules' | relative_url }}">Lawn bowls rules for beginners</a></h3>
             <p>Everything you need to know about ends, shots and scoring.</p>
           </article>
           <article class="gs-resource" role="listitem">
-            <h3><a href="{{ '/2019/04/24/lawn-bowls-rules-and-etiquette' | relative_url }}">Etiquette explained</a></h3>
+            <h3><a href="{{ '/help/lawn-bowls-rules-and-etiquette' | relative_url }}">Etiquette explained</a></h3>
             <p>Learn the do's and don'ts that keep club play friendly and fair.</p>
           </article>
           <article class="gs-resource" role="listitem">
@@ -72,7 +78,7 @@ hide_page_hero: true
           Our etiquette guide shows what clothing works, how to behave on the mat and the
           simple routines clubs expect from first-time visitors.
         </p>
-        <a class="gs-link" href="{{ '/2019/04/24/lawn-bowls-rules-and-etiquette' | relative_url }}">Review bowls etiquette →</a>
+        <a class="gs-link" href="{{ '/help/lawn-bowls-rules-and-etiquette' | relative_url }}">Review bowls etiquette</a>
       </div>
     </div>
   </section>
@@ -81,7 +87,7 @@ hide_page_hero: true
     <div class="container">
       <div class="gs-step__inner">
         <div class="gs-step__header">
-          <span class="gs-step__number">Step 2</span>
+          <span class="gs-step__tag">Choose your bowls</span>
           <h2>Pick your first set of bowls</h2>
           <p>
             Match bowl size, bias shape and price point to the surfaces you play on so your
@@ -90,11 +96,11 @@ hide_page_hero: true
         </div>
         <div class="gs-step__resources" role="list">
           <article class="gs-resource" role="listitem">
-            <h3><a href="{{ '/2022/11/24/how-to-choose-a-set-of-lawn-bowls' | relative_url }}">How to choose a set of lawn bowls</a></h3>
+            <h3><a href="{{ '/guide/how-to-choose-a-set-of-lawn-bowls' | relative_url }}">How to choose a set of lawn bowls</a></h3>
             <p>Work through bias charts, speeds and budgets before you buy.</p>
           </article>
           <article class="gs-resource" role="listitem">
-            <h3><a href="{{ '/2021/05/07/what-size-lawn-bowl-should-i-use' | relative_url }}">Find your perfect bowl size</a></h3>
+            <h3><a href="{{ '/help/what-size-lawn-bowl-should-i-use' | relative_url }}">Find your perfect bowl size</a></h3>
             <p>Use proven grip checks to lock in the right size for your hand.</p>
           </article>
           <article class="gs-resource" role="listitem">
@@ -115,7 +121,7 @@ hide_page_hero: true
           Dive into our head-to-head reviews to see how popular bowls behave on fast and
           slow greens and which roles they suit best.
         </p>
-        <a class="gs-link" href="{{ '/2023/03/20/taylor-lignoid-vs-henselite-tiger-which-is-best' | relative_url }}">Start with a real-world comparison →</a>
+        <a class="gs-link" href="{{ '/bowls/review/taylor-lignoid-vs-henselite-tiger-which-is-best' | relative_url }}">Start with a real-world comparison</a>
       </div>
     </div>
   </section>
@@ -124,7 +130,7 @@ hide_page_hero: true
     <div class="container">
       <div class="gs-step__inner">
         <div class="gs-step__header">
-          <span class="gs-step__number">Step 3</span>
+          <span class="gs-step__tag">Build your skills</span>
           <h2>Build core skills and repeatable delivery</h2>
           <p>
             Develop a smooth setup, control weight and learn how to read the head so you can
@@ -133,11 +139,11 @@ hide_page_hero: true
         </div>
         <div class="gs-step__resources" role="list">
           <article class="gs-resource" role="listitem">
-            <h3><a href="{{ '/2022/02/18/9-tips-for-how-to-play-bowls-well' | relative_url }}">9 quick wins for new bowlers</a></h3>
+            <h3><a href="{{ '/help/9-tips-for-how-to-play-bowls-well' | relative_url }}">9 quick wins for new bowlers</a></h3>
             <p>Focus on the habits that build confidence every time you roll up.</p>
           </article>
           <article class="gs-resource" role="listitem">
-            <h3><a href="{{ '/2023/04/17/line-and-length-in-lawn-bowls-how-to-win-at-bowls' | relative_url }}">Master line and length</a></h3>
+            <h3><a href="{{ '/help/line-and-length-in-lawn-bowls-how-to-win-at-bowls' | relative_url }}">Master line and length</a></h3>
             <p>Use targeted drills to lock in draw weight and green reading.</p>
           </article>
           <article class="gs-resource" role="listitem">
@@ -158,7 +164,7 @@ hide_page_hero: true
           Follow our improvement blueprint to track progress, rotate focussed drills and
           stay motivated through your first season.
         </p>
-        <a class="gs-link" href="{{ '/2022/06/20/how-to-get-better-at-lawn-bowls' | relative_url }}">Follow the improvement guide →</a>
+        <a class="gs-link" href="{{ '/help/how-to-get-better-at-lawn-bowls' | relative_url }}">Follow the improvement guide</a>
       </div>
     </div>
   </section>
@@ -167,7 +173,7 @@ hide_page_hero: true
     <div class="container">
       <div class="gs-step__inner">
         <div class="gs-step__header">
-          <span class="gs-step__number">Step 4</span>
+          <span class="gs-step__tag">Test your tactics</span>
           <h2>Play your first competitive games</h2>
           <p>
             Learn how to communicate with teammates, manage the mat and make smart shot
@@ -176,11 +182,11 @@ hide_page_hero: true
         </div>
         <div class="gs-step__resources" role="list">
           <article class="gs-resource" role="listitem">
-            <h3><a href="{{ '/2021/07/20/ultimate-guide-to-lawn-bowls-singles-tactics' | relative_url }}">Singles tactics playbook</a></h3>
+            <h3><a href="{{ '/help/ultimate-guide-to-lawn-bowls-singles-tactics' | relative_url }}">Singles tactics playbook</a></h3>
             <p>Plan heads ahead and build pressure on every end.</p>
           </article>
           <article class="gs-resource" role="listitem">
-            <h3><a href="{{ '/2022/03/06/lawn-bowls-triples-tactics' | relative_url }}">Triples teamwork essentials</a></h3>
+            <h3><a href="{{ '/help/lawn-bowls-triples-tactics' | relative_url }}">Triples teamwork essentials</a></h3>
             <p>Find your voice within a rink and support skips with useful calls.</p>
           </article>
           <article class="gs-resource" role="listitem">
