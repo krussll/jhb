@@ -1,0 +1,32 @@
+<div class="newsletter-modal" data-newsletter-modal hidden>
+  <div class="newsletter-modal__overlay" data-newsletter-modal-overlay></div>
+  <div
+    class="newsletter-modal__dialog"
+    role="dialog"
+    aria-modal="true"
+    aria-labelledby="newsletter-modal-title"
+    data-newsletter-modal-dialog
+  >
+    <button type="button" class="newsletter-modal__close" data-newsletter-modal-close aria-label="Close newsletter signup">
+      <span aria-hidden="true">&times;</span>
+    </button>
+    <div class="newsletter-modal__content">
+      <span class="newsletter-modal__eyebrow">Free playbook</span>
+      <h2 id="newsletter-modal-title" class="newsletter-modal__title" tabindex="-1" data-newsletter-modal-heading>
+        Win the weight battle before the mat is set.
+      </h2>
+      <p class="newsletter-modal__description">
+        Drop your email below and we’ll send you the <strong>Weight Control Playbook</strong>&mdash;ten quick wins to sharpen your draw
+        weight today&mdash;plus insider strategies we only share with subscribers.
+      </p>
+      <ul class="newsletter-modal__benefits">
+        <li><i class="fas fa-check"></i> Weekly tips that keep your weight dialled in end after end.</li>
+        <li><i class="fas fa-bolt"></i> Instant access to drills that build consistency under pressure.</li>
+        <li><i class="fas fa-lock"></i> Exclusive insights not published anywhere on Jack High Bowls.</li>
+      </ul>
+      <div class="newsletter-modal__form">
+        {% include mailchimp-form.html button_text="Email me the playbook" %}
+      </div>
+    </div>
+  </div>
+</div>
