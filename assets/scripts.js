@@ -6,10 +6,10 @@ $(function () {
   var $gettingStarted = $('.getting-started')
 
   if ($postBody.length && $drillFeature.length) {
-    var $paragraphs = $postBody.find('p')
+    var $paragraphs = $postBody.find('h2')
 
-    if ($paragraphs.length >= 4) {
-      $drillFeature.insertAfter($paragraphs.eq(3))
+    if ($paragraphs.length >= 5) {
+      $drillFeature.insertBefore($paragraphs.eq(4))
     } else {
       $postBody.append($drillFeature)
     }
