@@ -481,7 +481,7 @@ body.newsletter-modal-open {
   display: flex;
   align-items: center;
   justify-content: center;
-  padding: 2.5rem 1.5rem;
+  padding: clamp(1.5rem, 4vw, 2.5rem) clamp(1rem, 3vw, 1.5rem);
   background: rgba(34, 34, 34, 0.5);
 }
 
@@ -501,7 +501,7 @@ body.newsletter-modal-open {
   color: #222222;
   border-radius: 1.5rem;
   box-shadow: 0 35px 80px rgba(15, 23, 42, 0.35);
-  padding: 2.75rem 2.5rem 2.25rem;
+  padding: clamp(1.75rem, 5vw, 2.75rem) clamp(1.5rem, 4vw, 2.5rem) clamp(1.5rem, 4vw, 2.25rem);
   z-index: 1;
 }
 
@@ -536,7 +536,7 @@ body.newsletter-modal-open {
   z-index: 1;
   display: flex;
   flex-direction: column;
-  gap: 1.25rem;
+  gap: clamp(0.75rem, 2vw, 1.25rem);
 }
 
 .newsletter-modal__eyebrow {
@@ -552,14 +552,14 @@ body.newsletter-modal-open {
 }
 
 .newsletter-modal__title {
-  font-size: clamp(1.85rem, 4vw, 2.65rem);
+  font-size: clamp(1.75rem, 3.75vw, 2.65rem);
   margin: 0;
   font-weight: 700;
   color: #0f3d1f;
 }
 
 .newsletter-modal__description {
-  font-size: 1.05rem;
+  font-size: clamp(0.98rem, 2.2vw, 1.05rem);
   margin-bottom: 0.25rem;
 }
 
@@ -568,7 +568,7 @@ body.newsletter-modal-open {
   margin: 0;
   padding: 0;
   display: grid;
-  gap: 0.75rem;
+  gap: clamp(0.6rem, 1.8vw, 0.75rem);
 }
 
 .newsletter-modal__benefits li {
@@ -576,7 +576,7 @@ body.newsletter-modal-open {
   grid-template-columns: auto 1fr;
   align-items: start;
   gap: 0.6rem;
-  font-size: 0.98rem;
+  font-size: clamp(0.92rem, 2.4vw, 0.98rem);
   color: #333333;
 }
 
@@ -587,18 +587,18 @@ body.newsletter-modal-open {
 }
 
 .newsletter-modal__form {
-  margin-top: 0.75rem;
+  margin-top: clamp(0.5rem, 1.5vw, 0.75rem);
 }
 
 .newsletter-modal__form .home-lead__form {
   background: #ffffff;
-  padding: 1.5rem;
+  padding: clamp(1.1rem, 3vw, 1.5rem);
   border-radius: 1.25rem;
   box-shadow: inset 0 0 0 1px rgba(15, 61, 31, 0.08);
 }
 
 .newsletter-modal__form .home-lead__form-title {
-  font-size: 1.25rem;
+  font-size: clamp(1.1rem, 3vw, 1.25rem);
   color: #0f3d1f;
 }
 
@@ -613,13 +613,19 @@ body.newsletter-modal-open {
   border-color: darken(#0f3d1f, 5%);
 }
 
+@media (min-width: 768px) {
+  .newsletter-modal__benefits {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
 @media (max-width: 767.98px) {
   .newsletter-modal {
-    padding: 2rem 1rem;
+    padding: clamp(1.5rem, 6vw, 2rem) clamp(0.85rem, 4vw, 1rem);
   }
 
   .newsletter-modal__dialog {
-    padding: 2.25rem 1.65rem 1.85rem;
+    padding: clamp(1.65rem, 6vw, 2.25rem) clamp(1.2rem, 4.5vw, 1.65rem) clamp(1.35rem, 5vw, 1.85rem);
     border-radius: 1.25rem;
   }
 
@@ -629,11 +635,77 @@ body.newsletter-modal-open {
   }
 
   .newsletter-modal__content {
-    gap: 1rem;
+    gap: clamp(0.7rem, 5vw, 1rem);
   }
 
   .newsletter-modal__form .home-lead__form {
-    padding: 1.25rem;
+    padding: clamp(1rem, 5vw, 1.25rem);
+  }
+}
+
+@media (max-height: 780px) {
+  .newsletter-modal__dialog {
+    border-radius: 1.35rem;
+    padding: clamp(1.4rem, 4vw, 1.95rem) clamp(1.2rem, 3.5vw, 1.85rem) clamp(1.2rem, 3.5vw, 1.75rem);
+  }
+
+  .newsletter-modal__title {
+    font-size: clamp(1.6rem, 3vw, 2.25rem);
+  }
+
+  .newsletter-modal__description {
+    font-size: clamp(0.95rem, 2vw, 1rem);
+  }
+
+  .newsletter-modal__benefits li {
+    font-size: clamp(0.9rem, 2vw, 0.95rem);
+  }
+
+  .newsletter-modal__content {
+    gap: clamp(0.55rem, 2vw, 0.85rem);
+  }
+
+  .newsletter-modal__benefits {
+    gap: clamp(0.5rem, 1.5vw, 0.65rem);
+  }
+
+  .newsletter-modal__form {
+    margin-top: 0.5rem;
+  }
+}
+
+@media (max-height: 640px) {
+  .newsletter-modal {
+    padding: 1.25rem 0.75rem;
+  }
+
+  .newsletter-modal__dialog {
+    padding: 1.4rem 1.25rem 1.35rem;
+  }
+
+  .newsletter-modal__title {
+    font-size: 1.45rem;
+  }
+
+  .newsletter-modal__form .home-lead__form {
+    padding: 0.9rem 1rem;
+  }
+
+  .newsletter-modal__close {
+    top: 0.6rem;
+    right: 0.6rem;
+    width: 2.15rem;
+    height: 2.15rem;
+    font-size: 1.5rem;
+  }
+
+  .newsletter-modal__benefits {
+    gap: 0.45rem;
+  }
+
+  .newsletter-modal__benefits li {
+    gap: 0.45rem;
+    font-size: 0.88rem;
   }
 }
 
