@@ -777,6 +777,10 @@ $site-hero-gradient: radial-gradient(circle at top right, rgba(79, 124, 255, 0.2
     padding: 4rem 0;
   }
 
+  .home-lead__container {
+    padding-left: 0;
+  }
+
   .home-lead__inner {
     grid-template-columns: 1fr;
   }
