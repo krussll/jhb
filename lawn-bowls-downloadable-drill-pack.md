@@ -34,6 +34,7 @@ hide_page_hero: true
     </div>
     <div class="col-lg-6">
       <h2 class="h1">Downloadable Lawn Bowls Drill Pack</h2>
+      <p class="price has-large-font-size wp-block-paragraph"><strong>£2.99</strong> <s>£</s><s>24.99</s></p>
       <p>Drop ready-made practice sessions straight into your next roll-up. The Jack High Bowls drill pack gives you proven routines to master draw shots, weight control and pressure conversions without spending hours planning what to work on.</p>
       <a
         class="btn btn-primary btn-lg mb-4"
