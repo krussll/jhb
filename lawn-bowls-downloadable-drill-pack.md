@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: product
 title: Lawn Bowls Downloadable Drill Pack
 description: 20 structured practice drills to sharpen your line, length and weighted shots.
 permalink: /lawn-bowls-downloadable-drill-pack
