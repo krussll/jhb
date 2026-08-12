@@ -55,10 +55,12 @@ hide_page_hero: true
 <p>Worried about what equipment you'll need? This pack is designed to only use items you either are likely to already have, or things that are found in any bowls shed in the country!</p>
 <p>Get more confident in your game, and win more matches with the Jack High Bowls Drill Pack!</p>
 
+<div>
 <a
   class="btn btn-success btn-lg"
   href="https://jack-high-bowls.lemonsqueezy.com/checkout/buy/6515ca0b-b861-4530-8142-0bb075d71bb8"
   data-ls-modal="true"
 >Get it now</a>
+</div>
 
 <script src="https://assets.lemonsqueezy.com/lemon.js" defer></script>
