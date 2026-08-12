@@ -21,7 +21,8 @@ header.masthead.page-hero {
   overflow: hidden;
 }
 
-.page-hero--compact {
+.page-hero--compact,
+header.masthead.page-hero--compact {
   padding: 0;
   min-height: var(--navbar-height);
 }
