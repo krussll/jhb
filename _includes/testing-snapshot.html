@@ -1,0 +1,34 @@
+<div class="testing-snapshot">
+  <div class="testing-snapshot__header">
+    <strong>Testing snapshot</strong>
+  </div>
+  <table>
+    <tbody>
+      <tr>
+        <th scope="row">Test location</th>
+        <td>{{ include.location }}</td>
+      </tr>
+      <tr>
+        <th scope="row">Green speed</th>
+        <td>{{ include.green_speed }}</td>
+      </tr>
+      <tr>
+        <th scope="row">Number of ends</th>
+        <td>{{ include.ends_played }}</td>
+      </tr>
+      <tr>
+        <th scope="row">Performance vs benchmarks</th>
+        <td>
+          {% assign benchmark_items = include.benchmarks | split: '||' %}
+          <ul>
+            {% for item in benchmark_items %}
+              {% if item %}
+                <li>{{ item | strip }}</li>
+              {% endif %}
+            {% endfor %}
+          </ul>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>

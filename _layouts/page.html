@@ -2,26 +2,31 @@
 layout: default
 ---
 
+{% if page.hide_page_hero %}
+<!-- Compact Page Header placeholder -->
+<header class="masthead page-hero page-hero--compact" aria-hidden="true"></header>
+{% else %}
 <!-- Page Header -->
-{% if page.background %}
-<header class="masthead" style="background-image: url('{{ page.background | prepend: site.baseurl | replace: '//', '/' }}')">
-  {% else %}
-  <header class="masthead">
-    {% endif %}
-    <div class="overlay"></div>
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-8 col-md-10 mx-auto">
-          <div class="page-heading">
-            <h1>{{ page.title }}</h1>
-            {% if page.description %}
-            <span class="subheading">{{ page.description }}</span>
-            {% endif %}
-          </div>
+<header class="masthead page-hero">
+  <div class="container">
+    <div class="page-hero__inner">
+      <div class="page-hero__content">
+        <div class="page-heading">
+          <h1 class="page-hero__title">{{ page.title }}</h1>
+          {% if page.description %}
+          <p class="page-hero__subtitle">{{ page.description }}</p>
+          {% endif %}
         </div>
       </div>
+      {% if page.background %}
+      <div class="page-hero__media">
+        <img src="{{ page.background | prepend: site.baseurl | replace: '//', '/' }}" alt="{{ page.title }} featured image" loading="lazy">
+      </div>
+      {% endif %}
     </div>
-  </header>
+  </div>
+</header>
+{% endif %}
 
   <div class="container">
     <div class="row">

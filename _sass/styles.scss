@@ -1,2 +1,10 @@
 // Import Core Clean Blog SCSS
 @import "../assets/vendor/startbootstrap-clean-blog/scss/styles.scss";
+
+// Custom site styles
+@import "getting-started";
+@import "home";
+@import "page";
+@import "post";
+@import "video";
+@import "footer";

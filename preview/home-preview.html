@@ -1,0 +1,399 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>Jack High Bowls — Home Preview</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <style>
+      *, *::before, *::after { box-sizing: border-box; }
+      body {
+        margin: 0;
+        font-family: "Open Sans", Arial, sans-serif;
+        background: #f7f8fd;
+        color: #0f172a;
+        line-height: 1.6;
+      }
+      img { max-width: 100%; display: block; }
+      a { color: inherit; }
+      .container {
+        width: min(100%, 1120px);
+        margin: 0 auto;
+        padding: 0 1.5rem;
+      }
+      .row {
+        display: flex;
+        flex-wrap: wrap;
+        margin: -1rem;
+      }
+      .col-md-4, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-5.offset-lg-1 {
+        padding: 1rem;
+      }
+      .col-md-4 { flex: 0 0 33.333%; max-width: 33.333%; }
+      .col-lg-4 { flex: 0 0 33.333%; max-width: 33.333%; }
+      .col-lg-6 { flex: 0 0 50%; max-width: 50%; }
+      .col-lg-5 { flex: 0 0 41.667%; max-width: 41.667%; }
+      .col-lg-5.offset-lg-1 { margin-left: 8.333%; }
+      .text-center { text-align: center; }
+      .mt-4 { margin-top: 1.5rem; }
+      .btn {
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        font-weight: 600;
+        border-radius: 0.75rem;
+        padding: 0.85rem 1.75rem;
+        text-decoration: none;
+        border: none;
+        cursor: pointer;
+      }
+      .btn-lg { padding: 0.95rem 2.2rem; font-size: 1rem; }
+      .btn-primary { background: #4f7cff; color: #fff; }
+      .btn-primary:hover { background: #3c62d1; }
+      .btn-outline-light { border: 1px solid rgba(255,255,255,0.55); color: #fff; background: transparent; }
+      .btn-outline-light:hover { background: rgba(255,255,255,0.12); }
+      .btn-outline-primary { border: 1px solid rgba(79,124,255,0.5); color: #4f7cff; background: transparent; }
+      .btn-outline-primary:hover { background: #4f7cff; color: #fff; }
+      .btn-light { background: #fff; color: #0f172a; border: none; }
+      nav.navbar {
+        position: fixed;
+        top: 0;
+        left: 0;
+        right: 0;
+        z-index: 10;
+        background: rgba(15, 23, 42, 0.6);
+        backdrop-filter: blur(8px);
+        padding: 1rem 0;
+      }
+      nav.navbar .navbar-brand {
+        font-weight: 700;
+        color: #fff;
+        text-decoration: none;
+        display: flex;
+        align-items: center;
+        gap: 0.75rem;
+      }
+      nav.navbar .navbar-nav {
+        display: flex;
+        gap: 1.25rem;
+        list-style: none;
+        margin: 0;
+        padding: 0;
+      }
+      nav.navbar .navbar-nav a {
+        color: rgba(255,255,255,0.85);
+        text-decoration: none;
+        font-weight: 600;
+      }
+      nav.navbar .navbar-nav a:hover { color: #fff; }
+      nav.navbar .container {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+      }
+      main { padding-top: 5.5rem; }
+      .home-section { padding: 5rem 0; }
+      .badge {
+        display: inline-flex;
+        align-items: center;
+        padding: 0.35rem 0.85rem;
+        border-radius: 999px;
+        text-transform: uppercase;
+        letter-spacing: 0.12em;
+        font-size: 0.8rem;
+        font-weight: 600;
+      }
+      .fas { font-style: normal; }
+      .fa-check::before { content: "✓"; }
+      .fa-envelope-open-text::before { content: "✉"; }
+      .fa-bolt::before { content: "⚡"; }
+      .fa-lock::before { content: "🔒"; }
+      .fa-star::before { content: "★"; }
+      .fa-graduation-cap::before { content: "🎓"; }
+      .fa-clipboard-check::before { content: "📋"; }
+      .fa-quote-left::before { content: "“"; }
+      .fa-bullseye::before { content: "🎯"; }
+      .fa-lightbulb::before { content: "💡"; }
+      .fa-users::before { content: "👥"; }
+      .fa-arrow-right::before { content: "➜"; }
+      .home-hero__cta .btn-outline-light:hover,
+      .home-hero__cta .btn-outline-light:focus { background: rgba(255,255,255,0.12); }
+      .home-lead__form button { border: none; }
+      .home-lead__form input { font-family: inherit; }
+      .home-lead__form .form-group { margin: 0; }
+      .home-lead__form .form-group + .form-group { margin-top: 1.25rem; }
+      .home-lead__form .form-control {
+        width: 100%;
+        border-radius: 0.85rem;
+        border: none;
+        padding: 0.9rem 1.1rem;
+        font-size: 1rem;
+        background: rgba(255,255,255,0.92);
+        color: #0f172a;
+        box-shadow: inset 0 0 0 1px rgba(15,23,42,0.05);
+      }
+      .home-lead__form .form-control:focus {
+        outline: none;
+        box-shadow: 0 0 0 3px rgba(79,124,255,0.4);
+      }
+      .home-lead__form .btn { width: 100%; }
+      footer { background: #0f172a; color: rgba(255,255,255,0.7); padding: 2rem 0; text-align: center; }
+      @media (max-width: 1024px) {
+        .col-lg-6, .col-lg-5 { flex: 0 0 100%; max-width: 100%; }
+        .col-lg-5.offset-lg-1 { margin-left: 0; }
+        .col-md-4, .col-lg-4 { flex: 0 0 50%; max-width: 50%; }
+        nav.navbar .navbar-nav { display: none; }
+      }
+      @media (max-width: 767px) {
+        .container { padding: 0 1.25rem; }
+        .row { margin: -0.75rem; }
+        .col-md-4, .col-lg-4, .col-lg-6, .col-lg-5 { padding: 0.75rem; flex: 0 0 100%; max-width: 100%; }
+        .home-section { padding: 4rem 0; }
+        .home-hero__cta { flex-direction: column; }
+        .home-hero__cta .btn { width: 100%; }
+      }
+    </style>
+    <link rel="stylesheet" href="../tools/home.css" />
+  </head>
+  <body>
+    <nav class="navbar">
+      <div class="container">
+        <a class="navbar-brand" href="#">
+          <img src="../jh_logo.ico" alt="Jack High Bowls logo" width="45" height="45" />
+          Jack High Bowls
+        </a>
+        <ul class="navbar-nav">
+          <li><a href="#">About</a></li>
+          <li><a href="#">Guides</a></li>
+          <li><a href="#">Reviews</a></li>
+          <li><a href="#">Help &amp; Support</a></li>
+          <li><a href="#">Drill Pack</a></li>
+          <li><a href="#">Contact</a></li>
+        </ul>
+      </div>
+    </nav>
+    <main>
+      <header class="home-hero">
+        <div class="container">
+          <div class="home-hero__content">
+            <span class="home-hero__eyebrow">Expert bowls insight for every end</span>
+            <h1 class="home-hero__title">Lead with confidence on the green.</h1>
+            <p class="home-hero__subtitle">Bringing you the best online bowls reviews and guides for players of all abilities. Improve your game with the best equipment, tips and tricks covering Indoor, Lawn and Crown Green Bowls.</p>
+            <div class="home-hero__cta">
+              <a class="btn btn-primary btn-lg" href="#">Start your journey</a>
+              <a class="btn btn-outline-light btn-lg" href="#">Explore reviews</a>
+            </div>
+            <ul class="home-hero__highlights">
+              <li><i class="fas fa-check"></i> Actionable drills, guides and expert gear tests.</li>
+              <li><i class="fas fa-check"></i> Trusted advice from Reece Williams and the Jack High Bowls team.</li>
+            </ul>
+          </div>
+        </div>
+      </header>
+
+      <section class="home-section home-lead">
+        <div class="container">
+          <div class="home-lead__inner">
+            <div class="home-lead__copy">
+              <span class="home-section-eyebrow">Free playbook</span>
+              <h2>Win the weight battle before the mat is set.</h2>
+              <p>Drop your email in below and we’ll send you the <strong>Weight Control Playbook</strong>—ten quick wins to sharpen your draw weight today—plus insider strategies we only share with subscribers.</p>
+              <ul class="home-lead__benefits">
+                <li><i class="fas fa-envelope-open-text"></i> Weekly tips that keep your weight dialled in end after end.</li>
+                <li><i class="fas fa-bolt"></i> Instant access to drills that build consistency under pressure.</li>
+                <li><i class="fas fa-lock"></i> Exclusive insights not published anywhere on Jack High Bowls.</li>
+              </ul>
+            </div>
+            <form class="home-lead__form">
+              <div class="form-group">
+                <label class="sr-only" for="lead-name">Name</label>
+                <input id="lead-name" class="form-control" type="text" placeholder="Your name" />
+              </div>
+              <div class="form-group">
+                <label class="sr-only" for="lead-email">Email address</label>
+                <input id="lead-email" class="form-control" type="email" placeholder="Email address" />
+              </div>
+              <button class="btn btn-primary btn-lg" type="submit">Email me the playbook</button>
+              <p class="home-lead__disclaimer">No spam. Unsubscribe in a click.</p>
+            </form>
+          </div>
+        </div>
+      </section>
+
+      <section class="home-section home-metrics">
+        <div class="container">
+          <div class="row text-center">
+            <div class="col-md-4">
+              <div class="metric-card">
+                <span class="metric-card__label">Bowls lovers served</span>
+                <span class="metric-card__value">10k+</span>
+                <p class="metric-card__copy">Players who rely on our insights every month to play smarter, more confident bowls.</p>
+              </div>
+            </div>
+            <div class="col-md-4">
+              <div class="metric-card">
+                <span class="metric-card__label">Reviews &amp; comparisons</span>
+                <span class="metric-card__value">150+</span>
+                <p class="metric-card__copy">Deep dives into the latest models so you can choose bowls and equipment that fit your game.</p>
+              </div>
+            </div>
+            <div class="col-md-4">
+              <div class="metric-card">
+                <span class="metric-card__label">Years on the rink</span>
+                <span class="metric-card__value">20</span>
+                <p class="metric-card__copy">Experience that translates into practical coaching and community-driven support.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="home-section home-intro">
+        <div class="container">
+          <div class="row align-items-center">
+            <div class="col-lg-6">
+              <h2>Your shortcut to bowls mastery</h2>
+              <p>Whether you are rolling your first jack or preparing for the next championship, Jack High Bowls gives you the clarity to improve quickly. We simplify complex strategy, demystify gear decisions and keep your training on track.</p>
+              <ul class="home-intro__list">
+                <li><i class="fas fa-bullseye"></i> Gear recommendations tailored to how you play.</li>
+                <li><i class="fas fa-lightbulb"></i> Step-by-step guides covering technique, tactics and mindset.</li>
+                <li><i class="fas fa-users"></i> Community-first advice grounded in real-world rinks.</li>
+              </ul>
+              <a class="btn btn-primary" href="#">See how it works</a>
+            </div>
+            <div class="col-lg-5 offset-lg-1">
+              <div class="home-intro__card">
+                <img class="home-intro__image" src="../img/reece-williams-jack-high-bowls.jpg" alt="Reece Williams from Jack High Bowls" />
+                <div class="home-intro__quote">
+                  <p>“Great bowls is a blend of feel, focus and the right kit. I’m here to help you bring all three together.”</p>
+                  <span class="home-intro__quote-author">Reece Williams, Founder</span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="home-section home-services">
+        <div class="container">
+          <div class="home-section-heading text-center">
+            <span class="home-section-eyebrow">What you can do here</span>
+            <h2>Build a stronger bowls game one step at a time</h2>
+            <p>Explore curated pathways that make it simple to progress, no matter your experience level.</p>
+          </div>
+          <div class="row">
+            <div class="col-lg-4">
+              <div class="service-card">
+                <div class="service-card__icon"><i class="fas fa-star"></i></div>
+                <h3>Find the right bowls</h3>
+                <p>Dive into our side-by-side comparisons to uncover the model that complements your draw, line and playing surface.</p>
+                <a class="service-card__link" href="#">Browse reviews</a>
+              </div>
+            </div>
+            <div class="col-lg-4">
+              <div class="service-card">
+                <div class="service-card__icon"><i class="fas fa-graduation-cap"></i></div>
+                <h3>Master core skills</h3>
+                <p>From delivery drills to tactical shot selection, our guides show you how to practice with intention and play with confidence.</p>
+                <a class="service-card__link" href="#">Read guides</a>
+              </div>
+            </div>
+            <div class="col-lg-4">
+              <div class="service-card">
+                <div class="service-card__icon"><i class="fas fa-clipboard-check"></i></div>
+                <h3>Train with purpose</h3>
+                <p>Download structured practice plans that keep you motivated and improving between matches.</p>
+                <a class="service-card__link" href="#">Get the drill pack</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="home-section home-quote">
+        <div class="container">
+          <div class="home-quote__inner">
+            <i class="fas fa-quote-left"></i>
+            <p>“Jack High Bowls is my go-to resource for keeping our club players sharp. The reviews are thorough, the advice is practical and the drills are fun to run.”</p>
+            <span class="home-quote__attribution">Club coach, UK</span>
+          </div>
+        </div>
+      </section>
+
+      <section class="home-section home-posts">
+        <div class="container">
+          <div class="home-section-heading text-center">
+            <span class="home-section-eyebrow">Latest from the blog</span>
+            <h2>Fresh insights to elevate your next match</h2>
+            <p>Stay ahead of the competition with the newest reviews, comparisons and strategy breakdowns.</p>
+          </div>
+          <div class="row">
+            <div class="col-lg-4">
+              <article class="post-card">
+                <a class="post-card__link" href="#">
+                  <h3 class="post-card__title">Taylor Lignoid Lawn Bowls Review</h3>
+                  <p class="post-card__excerpt">Our in-depth take on one of the game’s most trusted draw biased bowls so you can decide if it’s right for your game.</p>
+                </a>
+                <div class="post-card__meta">
+                  <span>April 22, 2023</span>
+                  <span>&middot;</span>
+                  <span>8 min read</span>
+                </div>
+                <a class="post-card__cta" href="#">Read the article <i class="fas fa-arrow-right"></i></a>
+              </article>
+            </div>
+            <div class="col-lg-4">
+              <article class="post-card">
+                <a class="post-card__link" href="#">
+                  <h3 class="post-card__title">Biased Bowls Racing Line Review</h3>
+                  <p class="post-card__excerpt">See how the Racing Line performs on slick greens and whether its profile belongs in your competitive kit bag.</p>
+                </a>
+                <div class="post-card__meta">
+                  <span>April 17, 2023</span>
+                  <span>&middot;</span>
+                  <span>6 min read</span>
+                </div>
+                <a class="post-card__cta" href="#">Read the article <i class="fas fa-arrow-right"></i></a>
+              </article>
+            </div>
+            <div class="col-lg-4">
+              <article class="post-card">
+                <a class="post-card__link" href="#">
+                  <h3 class="post-card__title">Line and Length in Lawn Bowls</h3>
+                  <p class="post-card__excerpt">Practical drills to sharpen your line decisions and keep your draw weight under pressure.</p>
+                </a>
+                <div class="post-card__meta">
+                  <span>April 17, 2023</span>
+                  <span>&middot;</span>
+                  <span>7 min read</span>
+                </div>
+                <a class="post-card__cta" href="#">Read the article <i class="fas fa-arrow-right"></i></a>
+              </article>
+            </div>
+          </div>
+          <div class="text-center mt-4">
+            <a class="btn btn-outline-primary" href="#">Browse all articles</a>
+          </div>
+        </div>
+      </section>
+
+      <section class="home-section home-cta">
+        <div class="container">
+          <div class="home-cta__inner">
+            <div class="home-cta__text">
+              <span class="home-section-eyebrow">Ready to roll?</span>
+              <h2>Get the drills, gear tips and confidence to win your next match.</h2>
+              <p>Join thousands of bowlers who start their improvement journey with Jack High Bowls each month.</p>
+            </div>
+            <div class="home-cta__actions">
+              <a class="btn btn-light btn-lg" href="#">Start here</a>
+              <a class="btn btn-outline-light btn-lg" href="mailto:reece@jackhighbowls.com">Talk to us</a>
+            </div>
+          </div>
+        </div>
+      </section>
+    </main>
+    <footer>
+      <div class="container">© Jack High Bowls</div>
+    </footer>
+  </body>
+</html>
