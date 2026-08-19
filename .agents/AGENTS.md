@@ -99,5 +99,5 @@ background: "/img/post-bg.jpg" # Optional hero background image
 ## 4. Development & Build Commands
 
 - **Install Dependencies**: `bundle install`
-- **Serve Locally**: `bundle exec jekyll serve`
+- **Serve Locally**: `jekyll serve` (or `bundle exec jekyll serve`) — test locally at [http://127.0.0.1:4000/jhb/](http://127.0.0.1:4000/jhb/)
 - **Build Production**: `bundle exec jekyll build`

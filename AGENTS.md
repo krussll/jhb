@@ -41,5 +41,6 @@ This repository contains the source for the JHB lawn bowls information site, a J
 - Validate generated pages with Lighthouse, focusing on accessibility and performance scores of 90+.
 - Review content for E-E-A-T compliance: include expertise indicators, cite authoritative sources, and maintain a helpful, trustworthy tone.
 - Confirm responsive formatting using browser dev tools across mobile, tablet, and desktop widths.
+- To test locally, run `jekyll serve` and navigate to [http://127.0.0.1:4000/jhb/](http://127.0.0.1:4000/jhb/).
 - Before committing, build the site locally with `bundle exec jekyll build` to catch Liquid or Markdown issues.
 - If a post file is updated, set the "last_modified_at" value to the current datetime
