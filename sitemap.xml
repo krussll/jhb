@@ -3,26 +3,34 @@ layout: null
 ---
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  {% for post in site.posts %}
+  <url>
+    <loc>{{ '/' | absolute_url }}</loc>
+    <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  {% for page in site.pages %}
+    {% if page.url contains '.xml' or page.url contains '.txt' or page.url contains '.css' or page.url contains '.js' or page.url contains '404' or page.sitemap == false or page.url == '/' or page.url == '/index.html' or page.url contains '/posts/page' %}
+      {% continue %}
+    {% endif %}
+    {% if page.url contains 'preview' %}
+      {% continue %}
+    {% endif %}
     <url>
-      <loc>{{ site.url }}{{ post.url }}</loc>
-      {% if post.lastmod == null %}
-        <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
-      {% else %}
-        <lastmod>{{ post.lastmod | date_to_xmlschema }}</lastmod>
-      {% endif %}
-      <changefreq>weekly</changefreq>
-      <priority>1.0</priority>
+      <loc>{{ page.url | replace:'index.html','' | absolute_url }}</loc>
+      {% assign page_modified = page.last_modified_at | default: page.date | default: site.time %}
+      <lastmod>{{ page_modified | date_to_xmlschema }}</lastmod>
+      <changefreq>{% if page.url contains 'guides' or page.url contains 'reviews' or page.url contains 'getting-started' %}weekly{% else %}monthly{% endif %}</changefreq>
+      <priority>{% if page.url contains 'getting-started' or page.url contains 'drill-pack' %}0.9{% else %}0.8{% endif %}</priority>
     </url>
   {% endfor %}
-  {% for page in site.pages %}
-    {% if page.sitemap != null and page.sitemap != empty %}
-      <url>
-        <loc>{{ site.url }}{{ page.url }}</loc>
-        <lastmod>{{ page.sitemap.lastmod | date_to_xmlschema }}</lastmod>
-        <changefreq>{{ page.sitemap.changefreq }}</changefreq>
-        <priority>{{ page.sitemap.priority }}</priority>
-       </url>
-    {% endif %}
+  {% for post in site.posts %}
+    <url>
+      <loc>{{ post.url | absolute_url }}</loc>
+      {% assign post_modified = post.last_modified_at | default: post.date %}
+      <lastmod>{{ post_modified | date_to_xmlschema }}</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
   {% endfor %}
 </urlset>

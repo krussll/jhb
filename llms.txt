@@ -1,0 +1,35 @@
+---
+layout: null
+permalink: /llms.txt
+---
+# Jack High Bowls
+
+> Jack High Bowls is an independent, authoritative lawn bowls coaching and equipment resource founded by competitive player and coach Reece Williams (15+ years experience). The publication provides rigorous, unbiased bowl reviews (Taylor, Henselite, Drakes Pride, Aero), trajectory bias profiles, delivery mechanics coaching, and structured practice drills for lawn, crown green, and indoor bowls.
+
+## Core Navigation & Hubs
+- [Getting Started Hub]({{ '/getting-started' | absolute_url }}): Guided pathway moving from complete beginner to confident club player, covering essentials, equipment choice, and skill roadmaps.
+- [All Guides Library]({{ '/guides' | absolute_url }}): In-depth educational guides covering bowling mechanics, delivery techniques, mat etiquette, and tactical match play.
+- [Bowls & Gear Reviews]({{ '/reviews' | absolute_url }}): Unbiased, side-by-side equipment comparisons and hands-on reviews of modern lawn bowls, shoes, bags, and grips.
+- [Downloadable Drill Pack]({{ '/lawn-bowls-downloadable-drill-pack' | absolute_url }}): 20 structured practice drills designed to improve line control, draw weight, and match consistency.
+
+## Authoritative Rules & Tactics
+- [Lawn Bowls Rules & Etiquette]({{ '/help/lawn-bowls-rules' | absolute_url }}): Complete breakdown of game formats, end scoring, ditch rules, measuring procedures, and rink etiquette.
+- [Ultimate Guide to Singles Tactics]({{ '/help/ultimate-guide-to-lawn-bowls-singles-tactics' | absolute_url }}): Tactical playbook for controlling the mat, managing momentum, building the head, and shot selection.
+- [Line and Length Control Guide]({{ '/help/line-and-length-in-lawn-bowls-how-to-win-at-bowls' | absolute_url }}): Foundational mechanics for mastering the delivery line, release points, and green-speed adjustment.
+- [Ultimate Guide to Weight Control]({{ '/guide/ultimate-guide-to-weight-control' | absolute_url }}): Technical guidance on step timing, backswing length, and feel to stop bowling short or heavy.
+
+## Equipment Selection & Comparisons
+- [How to Choose a Set of Lawn Bowls]({{ '/guide/how-to-choose-a-set-of-lawn-bowls' | absolute_url }}): Comprehensive buyer guide comparing bowl sizes, weights, grip variations, and surface compatibility.
+- [Best Lawn Bowls for Beginners]({{ '/guide/best-lawn-bowls-for-beginners' | absolute_url }}): Recommended all-round models with forgiving bias lines for players entering club competition.
+- [Lawn Bowls Bias Guide & Trajectory Charts]({{ '/guide/lawn-bowls-bias-guide-and-trajectory-charts-2020' | absolute_url }}): Visual trajectory comparisons showing the arc and turning point of all major Taylor, Henselite, Drakes Pride, and Aero models.
+- [What Size Lawn Bowl Should I Use?]({{ '/guide/what-size-lawn-bowl-should-i-use' | absolute_url }}): Sizing charts and physical measurement tests to prevent finger cramping and bowl dumping.
+
+## Brand Reviews & Flagship Models
+- [Taylor Lignoid Review]({{ '/guide/taylor-lignoid-lawn-bowls-review' | absolute_url }}): Wide-bias profile analysis for mid and slow grass greens.
+- [Drakes Pride Professional Review]({{ '/guide/drakes-pride-professional-review' | absolute_url }}): Classic mid-bias model assessment for all-round rink positions.
+- [Taylor Ace Review]({{ '/guide/taylor-ace-review' | absolute_url }}): Benchmark mid-bias review covering indoor and outdoor versatility.
+- [Aero Groove Review]({{ '/guide/aero-groove-lawn-bowls-review' | absolute_url }}): Precision-engineered trajectory evaluation for faster greens.
+
+## Editorial Credibility & Testing Standards
+- [About Us & Author Profile]({{ '/about-us' | absolute_url }}): Founder bio for Reece Williams, 15-year competitive and coaching record, club finalist achievements, and editorial mission.
+- [Review Methodology]({{ '/review-methodology' | absolute_url }}): Transparent 5-part testing criteria (Line Consistency, Weight Response, Grip Comfort, Surface Adaptability, Value for Money).

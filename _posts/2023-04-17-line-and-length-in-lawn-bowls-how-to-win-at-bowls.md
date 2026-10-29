@@ -4,7 +4,8 @@ title:  "Line And Length In Lawn Bowls | How To Win At Bowls"
 author: reece
 categories: [ help ]
 featured: false
-description: ""
+description: "The foundation of bowls is line and length. If you have control over these two factors then you will be able to play any shot in the book - but just how do you control your line and length? In this guide I'll run through everything you need to know."
+last_modified_at: 2026-10-29 14:45:00 +0000
 date: 2023-04-17 13:00:00 -0400
 ---
     
@@ -14,7 +15,7 @@ date: 2023-04-17 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":3089,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="{{ '/img/posts/line-and-length-1024x576.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-3089"/></figure>
+<figure class="wp-block-image size-large"><img src="{{ '/img/posts/line-and-length-1024x576.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Lawn bowls line and length delivery technique" class="wp-image-3089"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

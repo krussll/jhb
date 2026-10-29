@@ -1,2 +1,23 @@
-User-Agent: *
-Disallow: 
+User-agent: *
+Disallow:
+
+# AI Search Engines & Retrieval Crawlers
+User-agent: GPTBot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Applebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+Sitemap: https://krussll.github.io/jhb/sitemap.xml
