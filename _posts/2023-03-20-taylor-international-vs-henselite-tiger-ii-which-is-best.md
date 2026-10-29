@@ -5,6 +5,7 @@ author: reece
 categories: [ bowls, review ]
 featured: false
 description: ""
+last_modified_at: 2026-10-29 15:45:00 +0000
 date: 2023-03-20 13:00:00 -0400
 ---
     
@@ -14,7 +15,7 @@ date: 2023-03-20 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":2014,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="{{ '/img/posts/taylor-international-vs-henselite-tiger-ii-1024x576.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-2014"/></figure>
+<figure class="wp-block-image size-large"><img src="{{ '/img/posts/taylor-international-vs-henselite-tiger-ii-1024x576.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Taylor International VS Henselite Tiger II lawn bowls comparison" class="wp-image-2014"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

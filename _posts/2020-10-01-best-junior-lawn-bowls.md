@@ -5,6 +5,7 @@ author: reece
 categories: [ guide ]
 featured: false
 description: ""
+last_modified_at: 2026-10-29 15:45:00 +0000
 date: 2020-10-01 13:00:00 -0400
 ---
     
@@ -58,7 +59,7 @@ date: 2020-10-01 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/junior-bowlers.png' | prepend: site.baseurl | replace: '//', '/' }}" alt=""/></a></figure>
+<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/junior-bowlers.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="Junior bowlers - Best Junior Lawn Bowls"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -82,7 +83,7 @@ date: 2020-10-01 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:image {"align":"right","width":300,"height":300,"linkDestination":"custom"} -->
-<div class="wp-block-image"><figure class="alignright is-resized"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/junior-taylor-ace.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="" width="300" height="300"/></a></figure></div>
+<div class="wp-block-image"><figure class="alignright is-resized"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/junior-taylor-ace.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="Junior taylor ace - Best Junior Lawn Bowls" width="300" height="300"/></a></figure></div>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -90,7 +91,7 @@ date: 2020-10-01 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/junior-taylor-ace-colours.png' | prepend: site.baseurl | replace: '//', '/' }}" alt=""/></a></figure>
+<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/junior-taylor-ace-colours.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="Junior taylor ace colours - Best Junior Lawn Bowls"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -102,7 +103,7 @@ date: 2020-10-01 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:image {"align":"right","width":375,"height":242,"linkDestination":"custom"} -->
-<div class="wp-block-image"><figure class="alignright is-resized"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/junior-drakes-pride-professional.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="" width="375" height="242"/></a></figure></div>
+<div class="wp-block-image"><figure class="alignright is-resized"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/junior-drakes-pride-professional.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="Junior drakes pride professional - Best Junior Lawn Bowls" width="375" height="242"/></a></figure></div>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

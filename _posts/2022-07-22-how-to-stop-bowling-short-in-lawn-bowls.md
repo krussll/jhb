@@ -5,6 +5,7 @@ author: reece
 categories: [ help ]
 featured: false
 description: ""
+last_modified_at: 2026-10-29 15:45:00 +0000
 date: 2022-07-22 13:00:00 -0400
 ---
     
@@ -14,7 +15,7 @@ date: 2022-07-22 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":1395,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="{{ '/img/posts/How-To-Stop-Bowling-Short-In-Lawn-Bowls.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-1395"/></figure>
+<figure class="wp-block-image size-full"><img src="{{ '/img/posts/How-To-Stop-Bowling-Short-In-Lawn-Bowls.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="How to stop bowling short in lawn bowls - How To Stop Bowling Short In Lawn Bowls | A Beginner" class="wp-image-1395"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

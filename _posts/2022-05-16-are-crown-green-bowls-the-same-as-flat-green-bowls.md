@@ -5,6 +5,7 @@ author: reece
 categories: [ crown-green-bowls ]
 featured: false
 description: ""
+last_modified_at: 2026-10-29 15:45:00 +0000
 date: 2022-05-16 13:00:00 -0400
 ---
     
@@ -14,7 +15,7 @@ date: 2022-05-16 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":1052,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="{{ '/img/posts/Are-crown-green-bowls-the-same-as-flat-green-bowls.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-1052"/></figure>
+<figure class="wp-block-image size-full"><img src="{{ '/img/posts/Are-crown-green-bowls-the-same-as-flat-green-bowls.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Are crown green bowls the same as flat green bowls - Are Crown Green Bowls The Same As Flat Green Bowls? | Answered!" class="wp-image-1052"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

@@ -5,6 +5,7 @@ author: reece
 categories: [ help ]
 featured: false
 description: ""
+last_modified_at: 2026-10-29 15:45:00 +0000
 date: 2019-09-30 13:00:00 -0400
 ---
     
@@ -270,7 +271,7 @@ date: 2019-09-30 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:image {"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/reading-the-head-example-holding.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt=""/></a></figure>
+<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/reading-the-head-example-holding.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Reading the head in lawn bowls tactical diagram"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -326,7 +327,7 @@ date: 2019-09-30 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:image {"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/reading-the-head-example-down.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt=""/></a></figure>
+<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/reading-the-head-example-down.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Reading the head in lawn bowls tactical diagram"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -378,7 +379,7 @@ date: 2019-09-30 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:image {"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/reading-the-head-example-balanced.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt=""/></a></figure>
+<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/reading-the-head-example-balanced.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Reading the head in lawn bowls tactical diagram"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

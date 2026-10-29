@@ -5,6 +5,7 @@ author: reece
 categories: [ help ]
 featured: false
 description: ""
+last_modified_at: 2026-10-29 15:45:00 +0000
 date: 2022-03-06 13:00:00 -0400
 ---
     
@@ -86,7 +87,7 @@ date: 2022-03-06 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":544,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="{{ '/img/posts/jack-high.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-544"/></figure>
+<figure class="wp-block-image size-full"><img src="{{ '/img/posts/jack-high.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Jack high - What Is Jack High In Lawn Bowls? | Answered!" class="wp-image-544"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

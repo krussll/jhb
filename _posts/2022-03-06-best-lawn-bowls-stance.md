@@ -5,6 +5,7 @@ author: reece
 categories: [ help ]
 featured: false
 description: ""
+last_modified_at: 2026-10-29 15:45:00 +0000
 date: 2022-03-06 13:00:00 -0400
 ---
     
@@ -70,7 +71,7 @@ date: 2022-03-06 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"center","id":552,"sizeSlug":"medium","linkDestination":"none"} -->
-<div class="wp-block-image"><figure class="aligncenter size-medium"><img src="{{ '/img/posts/shooter-stance-diagram-200x300.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-552"/><figcaption>Example foot positioning on a lawn bowls mat</figcaption></figure></div>
+<div class="wp-block-image"><figure class="aligncenter size-medium"><img src="{{ '/img/posts/shooter-stance-diagram-200x300.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="Lawn bowls delivery stance technique diagram" class="wp-image-552"/><figcaption>Example foot positioning on a lawn bowls mat</figcaption></figure></div>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -102,7 +103,7 @@ date: 2022-03-06 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"center","id":553,"sizeSlug":"medium","linkDestination":"none"} -->
-<div class="wp-block-image"><figure class="aligncenter size-medium"><img src="{{ '/img/posts/side-by-side-stance-diagram-200x300.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-553"/><figcaption>Example foot positioning on a lawn bowls mat - Square on stance</figcaption></figure></div>
+<div class="wp-block-image"><figure class="aligncenter size-medium"><img src="{{ '/img/posts/side-by-side-stance-diagram-200x300.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="Lawn bowls delivery stance technique diagram" class="wp-image-553"/><figcaption>Example foot positioning on a lawn bowls mat - Square on stance</figcaption></figure></div>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

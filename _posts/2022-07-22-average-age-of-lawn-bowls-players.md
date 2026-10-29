@@ -5,6 +5,7 @@ author: reece
 categories: [ help ]
 featured: false
 description: ""
+last_modified_at: 2026-10-29 15:45:00 +0000
 date: 2022-07-22 13:00:00 -0400
 ---
     
@@ -14,7 +15,7 @@ date: 2022-07-22 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":1401,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="{{ '/img/posts/Average-Age-Of-Lawn-Bowls-Players.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-1401"/></figure>
+<figure class="wp-block-image size-full"><img src="{{ '/img/posts/Average-Age-Of-Lawn-Bowls-Players.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Average age of lawn bowls players - Average Age Of Lawn Bowls Players | A Simple Guide" class="wp-image-1401"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

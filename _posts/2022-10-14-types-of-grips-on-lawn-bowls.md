@@ -5,6 +5,7 @@ author: reece
 categories: [ guide ]
 featured: false
 description: ""
+last_modified_at: 2026-10-29 15:45:00 +0000
 date: 2022-10-14 13:00:00 -0400
 ---
     
@@ -14,7 +15,7 @@ date: 2022-10-14 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":1705,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="{{ '/img/posts/best-type-of-grip-1024x576.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-1705"/></figure>
+<figure class="wp-block-image size-large"><img src="{{ '/img/posts/best-type-of-grip-1024x576.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Best Type Of Grip for lawn bowls" class="wp-image-1705"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -68,7 +69,7 @@ date: 2022-10-14 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":1701,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="{{ '/img/posts/dimple-gripped-lawn-bowl.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-1701"/><figcaption class="wp-element-caption">Example of dimple grips</figcaption></figure>
+<figure class="wp-block-image size-full"><img src="{{ '/img/posts/dimple-gripped-lawn-bowl.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Dimple Gripped Lawn Bowl for lawn bowls" class="wp-image-1701"/><figcaption class="wp-element-caption">Example of dimple grips</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -96,7 +97,7 @@ date: 2022-10-14 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":1700,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="{{ '/img/posts/crescent-gripped-lawn-bowl.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-1700"/><figcaption class="wp-element-caption">Example of the crescent grip</figcaption></figure>
+<figure class="wp-block-image size-full"><img src="{{ '/img/posts/crescent-gripped-lawn-bowl.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Crescent Gripped Lawn Bowl for lawn bowls" class="wp-image-1700"/><figcaption class="wp-element-caption">Example of the crescent grip</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -124,7 +125,7 @@ date: 2022-10-14 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":1699,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="{{ '/img/posts/embedded-gripped-lawn-bowl.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-1699"/><figcaption class="wp-element-caption">An Example of an embedded grip</figcaption></figure>
+<figure class="wp-block-image size-full"><img src="{{ '/img/posts/embedded-gripped-lawn-bowl.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Embedded Gripped Lawn Bowl for lawn bowls" class="wp-image-1699"/><figcaption class="wp-element-caption">An Example of an embedded grip</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -152,7 +153,7 @@ date: 2022-10-14 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":1702,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="{{ '/img/posts/ungripped-lawn-bowl.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-1702"/></figure>
+<figure class="wp-block-image size-full"><img src="{{ '/img/posts/ungripped-lawn-bowl.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Ungripped Lawn Bowl for lawn bowls" class="wp-image-1702"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

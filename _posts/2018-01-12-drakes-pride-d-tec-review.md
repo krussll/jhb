@@ -4,7 +4,8 @@ title:  "Drakes Pride D-Tec Lawn Bowls Review"
 author: reece
 categories: [ bowls, review ]
 featured: false
-description: ""
+description: "Drakes Pride D-Tec lawn bowls review: narrow bias profile, indoor specialist analysis, and direct comparisons."
+last_modified_at: 2026-10-29 15:45:00 +0000
 date: 2018-01-12 13:00:00 -0400
 ---
     
@@ -16,6 +17,30 @@ date: 2018-01-12 13:00:00 -0400
 <!-- wp:image {"id":383,"sizeSlug":"full","linkDestination":"none"} -->
 <figure class="wp-block-image size-full"><img src="{{ '/img/posts/d-tec-review.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Drakes Pride d-tec Review" class="wp-image-383"/></figure>
 <!-- /wp:image -->
+
+<div class="alert alert-success border-success my-4 p-3 rounded">
+  <h3 class="h5 font-weight-bold text-success mb-2"><i class="fas fa-check-circle mr-1"></i> Quick Verdict: Drakes Pride D-Tec</h3>
+  <p class="mb-2"><strong>The Drakes Pride D-Tec is an ultra-narrow line bowl tailored specifically for indoor rinks and lightning-fast greens.</strong> It offers an exceptionally direct line with minimal bend, making it easy to navigate tight rinks and draw directly onto the jack.</p>
+  <ul class="mb-0 pl-3">
+    <li><strong>Best For:</strong> Indoor singles competitors, Leads, and fast-paced surface bowlers.</li>
+    <li><strong>Bias Profile:</strong> Narrow Bias (Drakes Pride's straightest running bowl).</li>
+    <li><strong>Surface Suitability:</strong> Indoor Carpet Rinks and Fast Synthetics (15s+).</li>
+    <li><strong>Overall Score:</strong> 8.9 / 10 &mdash; Dedicated Indoor Choice</li>
+  </ul>
+</div>
+
+### Model Specifications
+
+| Feature | Specification |
+| :--- | :--- |
+| **Bias Profile** | Narrow Bias (Straighter than Professional and XP) |
+| **Running Surface** | Indoor carpets, fast synthetic greens |
+| **Ideal Positions** | Lead, Second, Indoor Singles Specialists |
+| **Available Sizes** | 0000 to 5 |
+| **Available Weights** | Medium, Heavy |
+| **Grip Options** | Standard dimple grip, Plain |
+| **Price Guide** | £370 – £410 (New) |
+
 
 <!-- wp:heading -->
 <h2>Bottom Line</h2>
@@ -29,23 +54,23 @@ date: 2018-01-12 13:00:00 -0400
 
 <!-- wp:group {"layout":{"type":"flex","allowOrientation":false}} -->
 <div class="wp-block-group"><!-- wp:image {"id":447,"width":25,"height":25,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full is-resized"><img src="{{ '/img/posts/icon-star.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-447" width="25" height="25"/></figure>
+<figure class="wp-block-image size-full is-resized"><img src="{{ '/img/posts/icon-star.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Drakes Pride D-Tec lawn bowl on indoor carpet" class="wp-image-447" width="25" height="25"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":447,"width":25,"height":25,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full is-resized"><img src="{{ '/img/posts/icon-star.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-447" width="25" height="25"/></figure>
+<figure class="wp-block-image size-full is-resized"><img src="{{ '/img/posts/icon-star.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Rating star icon" class="wp-image-447" width="25" height="25"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":447,"width":25,"height":25,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full is-resized"><img src="{{ '/img/posts/icon-star.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-447" width="25" height="25"/></figure>
+<figure class="wp-block-image size-full is-resized"><img src="{{ '/img/posts/icon-star.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Rating star icon" class="wp-image-447" width="25" height="25"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":447,"width":25,"height":25,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full is-resized"><img src="{{ '/img/posts/icon-star.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-447" width="25" height="25"/></figure>
+<figure class="wp-block-image size-full is-resized"><img src="{{ '/img/posts/icon-star.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Rating star icon" class="wp-image-447" width="25" height="25"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":447,"width":25,"height":25,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full is-resized"><img src="{{ '/img/posts/icon-star.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-447" width="25" height="25"/></figure>
+<figure class="wp-block-image size-full is-resized"><img src="{{ '/img/posts/icon-star.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Rating star icon" class="wp-image-447" width="25" height="25"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:group -->
 

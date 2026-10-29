@@ -5,6 +5,7 @@ author: reece
 categories: [ bowls, review ]
 featured: false
 description: ""
+last_modified_at: 2026-10-29 15:45:00 +0000
 date: 2023-03-19 13:00:00 -0400
 ---
     
@@ -14,7 +15,7 @@ date: 2023-03-19 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":2060,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="{{ '/img/posts/taylor-vector-vs-vs-taylor-legacy-sl-1024x576.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-2060"/></figure>
+<figure class="wp-block-image size-large"><img src="{{ '/img/posts/taylor-vector-vs-vs-taylor-legacy-sl-1024x576.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Taylor Vector VS VS Taylor Legacy SL lawn bowls comparison" class="wp-image-2060"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

@@ -5,6 +5,7 @@ author: reece
 categories: [ help ]
 featured: false
 description: ""
+last_modified_at: 2026-10-29 15:45:00 +0000
 date: 2022-03-06 13:00:00 -0400
 ---
     
@@ -62,7 +63,7 @@ date: 2022-03-06 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":571,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="{{ '/img/posts/Jack-Marker-on-bank-edited.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-571"/></figure>
+<figure class="wp-block-image size-full"><img src="{{ '/img/posts/Jack-Marker-on-bank-edited.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Jack marker on bank edited - Lawn Bowls Rules When The Jack Is In The Ditch | A Complete Guide" class="wp-image-571"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

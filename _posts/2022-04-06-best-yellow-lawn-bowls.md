@@ -5,6 +5,7 @@ author: reece
 categories: [ guide ]
 featured: false
 description: ""
+last_modified_at: 2026-10-29 15:45:00 +0000
 date: 2022-04-06 13:00:00 -0400
 ---
     
@@ -14,7 +15,7 @@ date: 2022-04-06 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":870,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="{{ '/img/posts/best-yellow-lawn-bowls.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-870"/></figure>
+<figure class="wp-block-image size-full"><img src="{{ '/img/posts/best-yellow-lawn-bowls.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Best yellow lawn bowls - Best Yellow Lawn Bowls | Yellow Bowls Options From All Major Brands | A Complete Guide" class="wp-image-870"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -50,7 +51,7 @@ date: 2022-04-06 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":848,"width":217,"height":206,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full is-resized"><img src="{{ '/img/posts/taylor-ace-lemon-sherbert.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-848" width="217" height="206"/></figure>
+<figure class="wp-block-image size-full is-resized"><img src="{{ '/img/posts/taylor-ace-lemon-sherbert.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="Taylor ace lemon sherbert - Best Yellow Lawn Bowls | Yellow Bowls Options From All Major Brands | A Complete Guide" class="wp-image-848" width="217" height="206"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -66,7 +67,7 @@ date: 2022-04-06 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":849,"width":217,"height":206,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full is-resized"><img src="{{ '/img/posts/taylor-international-yellow-white.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-849" width="217" height="206"/></figure>
+<figure class="wp-block-image size-full is-resized"><img src="{{ '/img/posts/taylor-international-yellow-white.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="Taylor international yellow white - Best Yellow Lawn Bowls | Yellow Bowls Options From All Major Brands | A Complete Guide" class="wp-image-849" width="217" height="206"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

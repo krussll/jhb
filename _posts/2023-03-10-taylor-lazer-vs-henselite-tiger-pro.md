@@ -5,6 +5,7 @@ author: reece
 categories: [ bowls, review ]
 featured: false
 description: ""
+last_modified_at: 2026-10-29 15:45:00 +0000
 date: 2023-03-10 13:00:00 -0400
 ---
     
@@ -14,7 +15,7 @@ date: 2023-03-10 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":1909,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="{{ '/img/posts/taylor-lazer-vs-henselite-pro.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-1909"/></figure>
+<figure class="wp-block-image size-full"><img src="{{ '/img/posts/taylor-lazer-vs-henselite-pro.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Taylor Lazer VS Henselite Pro lawn bowls comparison" class="wp-image-1909"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -40,7 +41,7 @@ date: 2023-03-10 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"center","id":446,"width":50,"height":50,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image aligncenter size-full is-resized"><img src="{{ '/img/posts/icon-surface.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-446" width="50" height="50"/></figure>
+<figure class="wp-block-image aligncenter size-full is-resized"><img src="{{ '/img/posts/icon-surface.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Bowls playing surface icon" class="wp-image-446" width="50" height="50"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"align":"center"} -->
@@ -54,7 +55,7 @@ date: 2023-03-10 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"center","id":443,"width":50,"height":50,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image aligncenter size-full is-resized"><img src="{{ '/img/posts/icons.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-443" width="50" height="50"/></figure>
+<figure class="wp-block-image aligncenter size-full is-resized"><img src="{{ '/img/posts/icons.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Bowls equipment icons" class="wp-image-443" width="50" height="50"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"align":"center"} -->
@@ -68,7 +69,7 @@ date: 2023-03-10 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"center","id":444,"width":50,"height":50,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image aligncenter size-full is-resized"><img src="{{ '/img/posts/icon-size.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-444" width="50" height="50"/></figure>
+<figure class="wp-block-image aligncenter size-full is-resized"><img src="{{ '/img/posts/icon-size.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Bowls size chart icon" class="wp-image-444" width="50" height="50"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"align":"center"} -->
@@ -82,7 +83,7 @@ date: 2023-03-10 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"center","id":445,"width":50,"height":50,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image aligncenter size-full is-resized"><img src="{{ '/img/posts/icon-region.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-445" width="50" height="50"/></figure>
+<figure class="wp-block-image aligncenter size-full is-resized"><img src="{{ '/img/posts/icon-region.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Bowls region icon" class="wp-image-445" width="50" height="50"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"align":"center"} -->
@@ -110,7 +111,7 @@ date: 2023-03-10 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"center","id":446,"width":50,"height":50,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image aligncenter size-full is-resized"><img src="{{ '/img/posts/icon-surface.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-446" width="50" height="50"/></figure>
+<figure class="wp-block-image aligncenter size-full is-resized"><img src="{{ '/img/posts/icon-surface.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Bowls playing surface icon" class="wp-image-446" width="50" height="50"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"align":"center"} -->
@@ -124,7 +125,7 @@ date: 2023-03-10 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"center","id":443,"width":50,"height":50,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image aligncenter size-full is-resized"><img src="{{ '/img/posts/icons.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-443" width="50" height="50"/></figure>
+<figure class="wp-block-image aligncenter size-full is-resized"><img src="{{ '/img/posts/icons.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Bowls equipment icons" class="wp-image-443" width="50" height="50"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"align":"center"} -->
@@ -138,7 +139,7 @@ date: 2023-03-10 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"center","id":444,"width":50,"height":50,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image aligncenter size-full is-resized"><img src="{{ '/img/posts/icon-size.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-444" width="50" height="50"/></figure>
+<figure class="wp-block-image aligncenter size-full is-resized"><img src="{{ '/img/posts/icon-size.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Bowls size chart icon" class="wp-image-444" width="50" height="50"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"align":"center"} -->
@@ -152,7 +153,7 @@ date: 2023-03-10 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"center","id":445,"width":50,"height":50,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image aligncenter size-full is-resized"><img src="{{ '/img/posts/icon-region.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-445" width="50" height="50"/></figure>
+<figure class="wp-block-image aligncenter size-full is-resized"><img src="{{ '/img/posts/icon-region.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Bowls region icon" class="wp-image-445" width="50" height="50"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"align":"center"} -->

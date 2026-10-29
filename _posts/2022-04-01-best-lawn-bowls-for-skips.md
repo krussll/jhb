@@ -5,6 +5,7 @@ author: reece
 categories: [ guide ]
 featured: false
 description: ""
+last_modified_at: 2026-10-29 15:45:00 +0000
 date: 2022-04-01 13:00:00 -0400
 ---
     
@@ -14,7 +15,7 @@ date: 2022-04-01 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":680,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="{{ '/img/posts/Best-lawn-bowls-for-skips.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-680"/></figure>
+<figure class="wp-block-image size-full"><img src="{{ '/img/posts/Best-lawn-bowls-for-skips.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Best lawn bowls for skips - Best Lawn Bowls For Skips | A Complete Guide" class="wp-image-680"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

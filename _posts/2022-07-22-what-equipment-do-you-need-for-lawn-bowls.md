@@ -5,6 +5,7 @@ author: reece
 categories: [ guide ]
 featured: false
 description: ""
+last_modified_at: 2026-10-29 15:45:00 +0000
 date: 2022-07-22 13:00:00 -0400
 ---
     
@@ -14,7 +15,7 @@ date: 2022-07-22 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":1384,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="{{ '/img/posts/What-Equipment-Do-You-Need-For-Lawn-Bowls.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-1384"/></figure>
+<figure class="wp-block-image size-full"><img src="{{ '/img/posts/What-Equipment-Do-You-Need-For-Lawn-Bowls.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="What equipment do you need for lawn bowls - What Equipment Do You Need For Lawn Bowls? | A Complete Guide" class="wp-image-1384"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

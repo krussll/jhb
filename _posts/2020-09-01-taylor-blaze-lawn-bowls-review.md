@@ -4,7 +4,8 @@ title:  "Taylor Blaze Lawn Bowls Review"
 author: reece
 categories: [ bowls, review ]
 featured: false
-description: ""
+description: "Taylor Blaze lawn bowls review: mid-narrow bias line, fast surface performance, and comparison to Ace and Vector VS."
+last_modified_at: 2026-10-29 15:45:00 +0000
 date: 2020-09-01 13:00:00 -0400
 ---
     
@@ -16,6 +17,30 @@ date: 2020-09-01 13:00:00 -0400
 <!-- wp:image {"id":259,"sizeSlug":"full","linkDestination":"none"} -->
 <figure class="wp-block-image size-full"><img src="{{ '/img/posts/taylor-blaze-lawn-bowls-review.jpeg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Taylor Blaze Lawn Bowls Review" class="wp-image-259"/></figure>
 <!-- /wp:image -->
+
+<div class="alert alert-success border-success my-4 p-3 rounded">
+  <h3 class="h5 font-weight-bold text-success mb-2"><i class="fas fa-check-circle mr-1"></i> Quick Verdict: Taylor Blaze Lawn Bowls</h3>
+  <p class="mb-2"><strong>The Taylor Blaze fills the sweet spot between the narrow Vector VS and the all-round Ace.</strong> It provides a slender, mid-to-narrow line with a controlled finish, offering exceptional accuracy on fast summer greens and indoor surfaces.</p>
+  <ul class="mb-0 pl-3">
+    <li><strong>Best For:</strong> Bowlers looking for slightly less swing than an Ace without going to a pure narrow bowl.</li>
+    <li><strong>Bias Profile:</strong> Mid-to-Narrow Bias with a clean holding arc.</li>
+    <li><strong>Surface Suitability:</strong> Fast Grass, Synthetics, and Indoor Rinks.</li>
+    <li><strong>Overall Score:</strong> 9.2 / 10 &mdash; Versatile Fast-Surface Pick</li>
+  </ul>
+</div>
+
+### Model Specifications
+
+| Feature | Specification |
+| :--- | :--- |
+| **Bias Profile** | Mid-to-Narrow (Between Vector VS and Ace) |
+| **Running Surface** | Fast grass (13–16s), artificial greens, indoor rinks |
+| **Ideal Positions** | Lead, Second, Third |
+| **Available Sizes** | 00 to 5 |
+| **Available Weights** | Medium, Heavy |
+| **Grip Options** | Premier grip, Half-Pipe, Plain |
+| **Price Guide** | £380 – £420 (New) |
+
 
 <!-- wp:heading -->
 <h2><a href="#bottom-line"></a>Bottom line</h2>
@@ -71,23 +96,23 @@ date: 2020-09-01 13:00:00 -0400
 
 <!-- wp:group {"layout":{"type":"flex","allowOrientation":false}} -->
 <div class="wp-block-group"><!-- wp:image {"id":447,"width":25,"height":25,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full is-resized"><img src="{{ '/img/posts/icon-star.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-447" width="25" height="25"/></figure>
+<figure class="wp-block-image size-full is-resized"><img src="{{ '/img/posts/icon-star.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Taylor Blaze lawn bowls in two-tone colour on green" class="wp-image-447" width="25" height="25"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":447,"width":25,"height":25,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full is-resized"><img src="{{ '/img/posts/icon-star.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-447" width="25" height="25"/></figure>
+<figure class="wp-block-image size-full is-resized"><img src="{{ '/img/posts/icon-star.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Rating star icon" class="wp-image-447" width="25" height="25"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":447,"width":25,"height":25,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full is-resized"><img src="{{ '/img/posts/icon-star.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-447" width="25" height="25"/></figure>
+<figure class="wp-block-image size-full is-resized"><img src="{{ '/img/posts/icon-star.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Rating star icon" class="wp-image-447" width="25" height="25"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":447,"width":25,"height":25,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full is-resized"><img src="{{ '/img/posts/icon-star.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-447" width="25" height="25"/></figure>
+<figure class="wp-block-image size-full is-resized"><img src="{{ '/img/posts/icon-star.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Rating star icon" class="wp-image-447" width="25" height="25"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":447,"width":25,"height":25,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full is-resized"><img src="{{ '/img/posts/icon-star.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-447" width="25" height="25"/></figure>
+<figure class="wp-block-image size-full is-resized"><img src="{{ '/img/posts/icon-star.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Rating star icon" class="wp-image-447" width="25" height="25"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:group -->
 

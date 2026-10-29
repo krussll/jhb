@@ -4,7 +4,8 @@ title:  "Drakes Pride PRO-50 Lawn Bowls Review"
 author: reece
 categories: [ bowls, review ]
 featured: false
-description: ""
+description: "Drakes Pride Pro-50 lawn bowls review: channel grip evaluation, wet weather handling, and comparison to the classic Professional."
+last_modified_at: 2026-10-29 15:45:00 +0000
 date: 2019-05-16 13:00:00 -0400
 ---
     
@@ -16,6 +17,31 @@ date: 2019-05-16 13:00:00 -0400
 <!-- wp:image {"id":342,"sizeSlug":"full","linkDestination":"none"} -->
 <figure class="wp-block-image size-full"><img src="{{ '/img/posts/drakes-pride-pro-50-review.jpeg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Drakes Pride PRO-50 Lawn Bowls Review" class="wp-image-342"/></figure>
 <!-- /wp:image -->
+
+<div class="alert alert-success border-success my-4 p-3 rounded">
+  <h3 class="h5 font-weight-bold text-success mb-2"><i class="fas fa-check-circle mr-1"></i> Quick Verdict: Drakes Pride Pro-50</h3>
+  <p class="mb-2"><strong>The Pro-50 takes Drakes Pride's proven Professional bias and adds an ergonomic channel grip.</strong> The deeper channel grooves deliver exceptional hand feel and slip resistance, particularly in wet, damp, or cold playing conditions.</p>
+  <ul class="mb-0 pl-3">
+    <li><strong>Best For:</strong> Bowlers who love the Professional trajectory but want extra finger traction and grip security.</li>
+    <li><strong>Bias Profile:</strong> True Mid Bias identical to Drakes Pride Professional.</li>
+    <li><strong>Surface Suitability:</strong> Outdoor grass greens and indoor surfaces.</li>
+    <li><strong>Overall Score:</strong> 9.4 / 10 &mdash; Best Grip Option</li>
+  </ul>
+</div>
+
+### Model Specifications
+
+| Feature | Specification |
+| :--- | :--- |
+| **Bias Profile** | Mid Bias (Same as Professional) |
+| **Special Feature** | Deep Channel Grip for maximum finger purchase |
+| **Running Surface** | Outdoor grass greens (11–15s), indoor rinks |
+| **Ideal Positions** | All positions (Lead to Skip) |
+| **Available Sizes** | 0000 to 5 |
+| **Available Weights** | Medium, Heavy |
+| **Grip Options** | Pro-50 Channel Grip |
+| **Price Guide** | £380 – £420 (New) |
+
 
 <!-- wp:heading -->
 <h2><a href="#bottom-line"></a>Bottom line</h2>
@@ -83,23 +109,23 @@ date: 2019-05-16 13:00:00 -0400
 
 <!-- wp:group {"layout":{"type":"flex","allowOrientation":false}} -->
 <div class="wp-block-group"><!-- wp:image {"id":447,"width":25,"height":25,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full is-resized"><img src="{{ '/img/posts/icon-star.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-447" width="25" height="25"/></figure>
+<figure class="wp-block-image size-full is-resized"><img src="{{ '/img/posts/icon-star.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Drakes Pride Pro-50 lawn bowl showing channel grip pattern" class="wp-image-447" width="25" height="25"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":447,"width":25,"height":25,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full is-resized"><img src="{{ '/img/posts/icon-star.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-447" width="25" height="25"/></figure>
+<figure class="wp-block-image size-full is-resized"><img src="{{ '/img/posts/icon-star.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Rating star icon" class="wp-image-447" width="25" height="25"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":447,"width":25,"height":25,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full is-resized"><img src="{{ '/img/posts/icon-star.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-447" width="25" height="25"/></figure>
+<figure class="wp-block-image size-full is-resized"><img src="{{ '/img/posts/icon-star.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Rating star icon" class="wp-image-447" width="25" height="25"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":447,"width":25,"height":25,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full is-resized"><img src="{{ '/img/posts/icon-star.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-447" width="25" height="25"/></figure>
+<figure class="wp-block-image size-full is-resized"><img src="{{ '/img/posts/icon-star.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Rating star icon" class="wp-image-447" width="25" height="25"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":447,"width":25,"height":25,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full is-resized"><img src="{{ '/img/posts/icon-star.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-447" width="25" height="25"/></figure>
+<figure class="wp-block-image size-full is-resized"><img src="{{ '/img/posts/icon-star.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Rating star icon" class="wp-image-447" width="25" height="25"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:group -->
 

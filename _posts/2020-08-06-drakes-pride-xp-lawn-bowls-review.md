@@ -4,7 +4,8 @@ title:  "Drakes Pride XP Lawn Bowls Review"
 author: reece
 categories: [ bowls, review ]
 featured: false
-description: ""
+description: "Drakes Pride XP lawn bowls review: wide bias profile, heavy grass performance, Skip suitability, and verdict."
+last_modified_at: 2026-10-29 15:45:00 +0000
 date: 2020-08-06 13:00:00 -0400
 ---
     
@@ -16,6 +17,30 @@ date: 2020-08-06 13:00:00 -0400
 <!-- wp:image {"id":265,"sizeSlug":"full","linkDestination":"none"} -->
 <figure class="wp-block-image size-full"><img src="{{ '/img/posts/drakes-pride-xp-lawn-bowls-review.jpeg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Drakes Pride XP Lawn Bowls Review" class="wp-image-265"/></figure>
 <!-- /wp:image -->
+
+<div class="alert alert-success border-success my-4 p-3 rounded">
+  <h3 class="h5 font-weight-bold text-success mb-2"><i class="fas fa-check-circle mr-1"></i> Quick Verdict: Drakes Pride XP Lawn Bowls</h3>
+  <p class="mb-2"><strong>The Drakes Pride XP is the widest-bias model in the Drakes Pride collection.</strong> Engineered with a bold, swinging trajectory, it is the weapon of choice for outdoor Skips needing to clear blocking bowls and draw cleanly to ditch jacks on slow greens.</p>
+  <ul class="mb-0 pl-3">
+    <li><strong>Best For:</strong> Outdoor Skips, back-end players, and slow-running grass greens (10–13s).</li>
+    <li><strong>Bias Profile:</strong> Wide Bias with a pronounced, smooth curve.</li>
+    <li><strong>Surface Suitability:</strong> Slow to medium outdoor grass greens.</li>
+    <li><strong>Overall Score:</strong> 9.0 / 10 &mdash; Recommended for Outdoor Skips</li>
+  </ul>
+</div>
+
+### Model Specifications
+
+| Feature | Specification |
+| :--- | :--- |
+| **Bias Profile** | Wide Bias (Wider than Drakes Pride Professional) |
+| **Running Surface** | Slow outdoor grass (10–13 seconds) |
+| **Ideal Positions** | Third, Skip |
+| **Available Sizes** | 0000 to 5 |
+| **Available Weights** | Medium, Heavy |
+| **Grip Options** | Standard dimple grip, Plain |
+| **Price Guide** | £380 – £420 (New) |
+
 
 <!-- wp:heading -->
 <h2><a href="#bottom-line"></a>Bottom line</h2>
@@ -71,23 +96,23 @@ date: 2020-08-06 13:00:00 -0400
 
 <!-- wp:group {"layout":{"type":"flex","allowOrientation":false}} -->
 <div class="wp-block-group"><!-- wp:image {"id":447,"width":25,"height":25,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full is-resized"><img src="{{ '/img/posts/icon-star.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-447" width="25" height="25"/></figure>
+<figure class="wp-block-image size-full is-resized"><img src="{{ '/img/posts/icon-star.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Drakes Pride XP lawn bowls on green" class="wp-image-447" width="25" height="25"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":447,"width":25,"height":25,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full is-resized"><img src="{{ '/img/posts/icon-star.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-447" width="25" height="25"/></figure>
+<figure class="wp-block-image size-full is-resized"><img src="{{ '/img/posts/icon-star.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Rating star icon" class="wp-image-447" width="25" height="25"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":447,"width":25,"height":25,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full is-resized"><img src="{{ '/img/posts/icon-star.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-447" width="25" height="25"/></figure>
+<figure class="wp-block-image size-full is-resized"><img src="{{ '/img/posts/icon-star.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Rating star icon" class="wp-image-447" width="25" height="25"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":447,"width":25,"height":25,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full is-resized"><img src="{{ '/img/posts/icon-star.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-447" width="25" height="25"/></figure>
+<figure class="wp-block-image size-full is-resized"><img src="{{ '/img/posts/icon-star.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Rating star icon" class="wp-image-447" width="25" height="25"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":447,"width":25,"height":25,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full is-resized"><img src="{{ '/img/posts/icon-star.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-447" width="25" height="25"/></figure>
+<figure class="wp-block-image size-full is-resized"><img src="{{ '/img/posts/icon-star.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Rating star icon" class="wp-image-447" width="25" height="25"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:group -->
 

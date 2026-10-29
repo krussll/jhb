@@ -5,6 +5,7 @@ author: reece
 categories: [ help ]
 featured: false
 description: ""
+last_modified_at: 2026-10-29 15:45:00 +0000
 date: 2022-09-27 13:00:00 -0400
 ---
     
@@ -14,7 +15,7 @@ date: 2022-09-27 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":1461,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="{{ '/img/posts/How-Much-Does-A-Set-Of-Lawn-Bowls-Cost.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-1461"/></figure>
+<figure class="wp-block-image size-full"><img src="{{ '/img/posts/How-Much-Does-A-Set-Of-Lawn-Bowls-Cost.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="How much does a set of lawn bowls cost price guide" class="wp-image-1461"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -49,9 +50,6 @@ date: 2022-09-27 13:00:00 -0400
 <p>For those moving into the "intermediate" levels I would recommend paying that little bit more for a set. These will be the set you will use for the next 5-10 years, so it's worth paying a bit more to get something you really want.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:image -->
-<figure class="wp-block-image"><img alt="" src="{{ '/img/posts/' | prepend: site.baseurl | replace: '//', '/' }}"/></figure>
-<!-- /wp:image -->
 
 <!-- wp:paragraph -->
 <p>If you want to know more about buying second hand, see my <a href="https://www.jackhighbowls.com/guide/second-hand-and-pre-loved-lawn-bowls/" data-type="post" data-id="379">guide on second hand bowls</a>.</p>

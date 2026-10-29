@@ -5,6 +5,7 @@ author: reece
 categories: [ crown-green-bowls ]
 featured: false
 description: ""
+last_modified_at: 2026-10-29 15:45:00 +0000
 date: 2022-05-16 13:00:00 -0400
 ---
     
@@ -14,7 +15,7 @@ date: 2022-05-16 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":1048,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="{{ '/img/posts/How-do-you-pick-a-Crown-Green-Bowl.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-1048"/></figure>
+<figure class="wp-block-image size-full"><img src="{{ '/img/posts/How-do-you-pick-a-Crown-Green-Bowl.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="How do you pick a crown green bowl - How do you pick a Crown Green Bowl? | A Complete Guide" class="wp-image-1048"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

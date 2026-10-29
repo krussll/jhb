@@ -5,6 +5,7 @@ author: reece
 categories: [ crown-green-bowls ]
 featured: false
 description: ""
+last_modified_at: 2026-10-29 15:45:00 +0000
 date: 2022-05-16 13:00:00 -0400
 ---
     
@@ -14,7 +15,7 @@ date: 2022-05-16 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":1044,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="{{ '/img/posts/Best-Make-Of-Crown-Green-Bowls.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-1044"/></figure>
+<figure class="wp-block-image size-full"><img src="{{ '/img/posts/Best-Make-Of-Crown-Green-Bowls.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Best make of crown green bowls - Best Make Of Crown Green Bowls | Best Brand 2023" class="wp-image-1044"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading -->

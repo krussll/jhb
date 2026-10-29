@@ -5,6 +5,7 @@ author: reece
 categories: [ help ]
 featured: false
 description: ""
+last_modified_at: 2026-10-29 15:45:00 +0000
 date: 2022-06-18 13:00:00 -0400
 ---
     
@@ -14,7 +15,7 @@ date: 2022-06-18 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":1225,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="{{ '/img/posts/The-4-Different-Types-Of-Shots-In-Lawn-Bowls.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-1225"/></figure>
+<figure class="wp-block-image size-full"><img src="{{ '/img/posts/The-4-Different-Types-Of-Shots-In-Lawn-Bowls.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="The 4 different types of shots in lawn bowls - The 4 Different Types Of Shots In Lawn Bowls | A Complete Guide" class="wp-image-1225"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

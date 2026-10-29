@@ -5,6 +5,7 @@ author: reece
 categories: [ guide ]
 featured: false
 description: ""
+last_modified_at: 2026-10-29 15:45:00 +0000
 date: 2022-04-18 13:00:00 -0400
 ---
     
@@ -14,7 +15,7 @@ date: 2022-04-18 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":803,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="{{ '/img/posts/cheap-lawn-bowls-1.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-803"/></figure>
+<figure class="wp-block-image size-full"><img src="{{ '/img/posts/cheap-lawn-bowls-1.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Cheap lawn bowls - The Best Cheap Lawn Bowls | A Complete Buyers Guide" class="wp-image-803"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

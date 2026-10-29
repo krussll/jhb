@@ -5,6 +5,7 @@ author: reece
 categories: [ help ]
 featured: false
 description: ""
+last_modified_at: 2026-10-29 15:45:00 +0000
 date: 2022-06-18 13:00:00 -0400
 ---
     
@@ -14,7 +15,7 @@ date: 2022-06-18 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":1218,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="{{ '/img/posts/Can-You-Hit-The-Jack-In-Lawn-Bowls.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-1218"/></figure>
+<figure class="wp-block-image size-full"><img src="{{ '/img/posts/Can-You-Hit-The-Jack-In-Lawn-Bowls.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Can you hit the jack in lawn bowls - Can You Hit The Jack In Lawn Bowls? | A Complete Guide To What Happens When The Jack Is Hit" class="wp-image-1218"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

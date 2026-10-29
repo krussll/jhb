@@ -4,7 +4,8 @@ title:  "Drakes Pride D-TEC vs Drakes Pride XP | Which is Best?"
 author: reece
 categories: [ guide ]
 featured: false
-description: ""
+description: "Drakes Pride D-Tec vs Drakes Pride XP: narrow bias indoor specialist vs wide bias outdoor heavyweight comparison and verdict."
+last_modified_at: 2026-10-29 15:45:00 +0000
 date: 2023-03-06 13:00:00 -0400
 ---
     
@@ -14,8 +15,29 @@ date: 2023-03-06 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":1916,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="{{ '/img/posts/drakes-pride-d-tec-vs-drakes-pride-xp-1024x576.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-1916"/></figure>
+<figure class="wp-block-image size-large"><img src="{{ '/img/posts/drakes-pride-d-tec-vs-drakes-pride-xp-1024x576.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Drakes Pride D-Tec vs Drakes Pride XP comparison" class="wp-image-1916"/></figure>
 <!-- /wp:image -->
+
+<div class="alert alert-success border-success my-4 p-3 rounded">
+  <h3 class="h5 font-weight-bold text-success mb-2"><i class="fas fa-check-circle mr-1"></i> Quick Verdict: Drakes Pride D-Tec vs Drakes Pride XP</h3>
+  <ul class="mb-0 pl-3">
+    <li><strong>Drakes Pride D-Tec:</strong> Ultra-narrow trajectory designed exclusively for rapid indoor carpets and fast artificial greens.</li>
+    <li><strong>Drakes Pride XP:</strong> Wide-drawing outdoor heavyweight with a bold swinging arc to navigate around head obstacles on slow grass.</li>
+    <li><strong>The Recommendation:</strong> Two opposite ends of the spectrum: choose the <strong>D-Tec</strong> for dedicated indoor competition; choose the <strong>XP</strong> for slow outdoor grass greens.</li>
+  </ul>
+</div>
+
+### Side-by-Side Comparison
+
+| Feature / Specification | Drakes Pride D-Tec | Drakes Pride XP |
+| :--- | :--- | :--- |
+| **Bias Rating** | Ultra-Narrow Bias | Wide Bias |
+| **Primary Surface** | Fast Indoor Carpets (15s+) | Slow Outdoor Grass (10–13s) |
+| **Best Position** | Lead, Second, Indoor Singles | Third, Skip |
+| **Grip Options** | Standard dimple, Plain | Standard dimple, Plain |
+| **Size Range** | Size 0000 to 5 | Size 0000 to 5 |
+| **Price Bracket** | £370 – £410 | £380 – £420 |
+
 
 <!-- wp:paragraph -->
 <p>In this blog post, I'll be comparing two popular models of lawn bowls: the Drakes Pride D-TEC and the Drakes Pride XP. We'll look at specs, bias, grip options, price, and who these bowls are best suited for. By the end of this guide, you'll have a better idea of which bowl will work best for you.</p>

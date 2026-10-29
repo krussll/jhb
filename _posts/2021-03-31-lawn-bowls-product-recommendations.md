@@ -5,6 +5,7 @@ author: reece
 categories: [ guide ]
 featured: false
 description: ""
+last_modified_at: 2026-10-29 15:45:00 +0000
 date: 2021-03-31 13:00:00 -0400
 ---
     
@@ -94,7 +95,7 @@ date: 2021-03-31 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":1264,"width":200,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full is-resized"><img src="{{ '/img/posts/61szh6rH2fL._AC_SY679_.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-1264" width="200"/></figure>
+<figure class="wp-block-image size-full is-resized"><img src="{{ '/img/posts/61szh6rH2fL._AC_SY679_.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="61szh6rh2fl - Lawn Bowls Product Recommendations 2023" class="wp-image-1264" width="200"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -114,7 +115,7 @@ date: 2021-03-31 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":1263,"width":300,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full is-resized"><img src="{{ '/img/posts/71Gt25oGwgL._AC_UX695_.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-1263" width="300"/></figure>
+<figure class="wp-block-image size-full is-resized"><img src="{{ '/img/posts/71Gt25oGwgL._AC_UX695_.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="71gt25ogwgl - Lawn Bowls Product Recommendations 2023" class="wp-image-1263" width="300"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -134,7 +135,7 @@ date: 2021-03-31 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":1262,"width":300,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full is-resized"><img src="{{ '/img/posts/41zMjyauLEL._AC_.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-1262" width="300"/></figure>
+<figure class="wp-block-image size-full is-resized"><img src="{{ '/img/posts/41zMjyauLEL._AC_.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="41zmjyaulel - Lawn Bowls Product Recommendations 2023" class="wp-image-1262" width="300"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -154,7 +155,7 @@ date: 2021-03-31 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":1260,"width":300,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full is-resized"><img src="{{ '/img/posts/415H5VAsY6L._AC_.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-1260" width="300"/></figure>
+<figure class="wp-block-image size-full is-resized"><img src="{{ '/img/posts/415H5VAsY6L._AC_.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="415h5vasy6l - Lawn Bowls Product Recommendations 2023" class="wp-image-1260" width="300"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

@@ -4,7 +4,8 @@ title:  "Taylor Lignoid Lawn Bowls Review"
 author: reece
 categories: [ guide ]
 featured: false
-description: ""
+description: "Taylor Lignoid lawn bowls review: wide bias profile, holding line on slow grass greens, second-hand affordability, and verdict."
+last_modified_at: 2026-10-29 15:45:00 +0000
 date: 2023-04-22 13:00:00 -0400
 ---
     
@@ -14,8 +15,32 @@ date: 2023-04-22 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":3132,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="{{ '/img/posts/Taylor-Lignoid-Review-1024x576.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-3132"/></figure>
+<figure class="wp-block-image size-large"><img src="{{ '/img/posts/Taylor-Lignoid-Review-1024x576.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Taylor Lignoid lawn bowl in maroon showing wide bias profile" class="wp-image-3132"/></figure>
 <!-- /wp:image -->
+
+<div class="alert alert-success border-success my-4 p-3 rounded">
+  <h3 class="h5 font-weight-bold text-success mb-2"><i class="fas fa-check-circle mr-1"></i> Quick Verdict: Taylor Lignoid Lawn Bowls</h3>
+  <p class="mb-2"><strong>The Taylor Lignoid is an unsung hero of outdoor bowling: a classic wide-bias workhorse.</strong> Offering the widest draw in the Taylor lineup, the Lignoid provides generous swing to clear short bowls and hold line on slow, uneven grass greens.</p>
+  <ul class="mb-0 pl-3">
+    <li><strong>Best For:</strong> Bowlers on slow grass greens (10–12s), Skips, and budget-conscious players buying second-hand.</li>
+    <li><strong>Bias Profile:</strong> Full Wide Bias with a deep sweeping trajectory.</li>
+    <li><strong>Surface Suitability:</strong> Heavy, slow, and holding outdoor grass greens.</li>
+    <li><strong>Overall Score:</strong> 8.8 / 10 &mdash; Best Budget Wide Bowl</li>
+  </ul>
+</div>
+
+### Model Specifications
+
+| Feature | Specification |
+| :--- | :--- |
+| **Bias Profile** | Wide Bias (Taylor's widest model) |
+| **Running Surface** | Heavy and slow outdoor grass (10–12 seconds) |
+| **Ideal Positions** | Skip, Third, Club Roll-ups |
+| **Available Sizes** | 00 to 5 |
+| **Available Weights** | Medium, Heavy |
+| **Grip Options** | Progrip, Plain non-gripped |
+| **Price Guide** | £380 (New) / £80 – £150 (Second-hand) |
+
 
 <!-- wp:heading -->
 <h2 class="wp-block-heading"><a href="#bottom-line"></a>Bottom line</h2>
@@ -67,19 +92,19 @@ date: 2023-04-22 13:00:00 -0400
 
 <!-- wp:group {"layout":{"type":"flex","allowOrientation":false}} -->
 <div class="wp-block-group"><!-- wp:image {"id":447,"width":25,"height":25,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full is-resized"><img src="{{ '/img/posts/icon-star.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-447" width="25" height="25"/></figure>
+<figure class="wp-block-image size-full is-resized"><img src="{{ '/img/posts/icon-star.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Rating star icon" class="wp-image-447" width="25" height="25"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":447,"width":25,"height":25,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full is-resized"><img src="{{ '/img/posts/icon-star.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-447" width="25" height="25"/></figure>
+<figure class="wp-block-image size-full is-resized"><img src="{{ '/img/posts/icon-star.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Rating star icon" class="wp-image-447" width="25" height="25"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":447,"width":25,"height":25,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full is-resized"><img src="{{ '/img/posts/icon-star.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-447" width="25" height="25"/></figure>
+<figure class="wp-block-image size-full is-resized"><img src="{{ '/img/posts/icon-star.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Rating star icon" class="wp-image-447" width="25" height="25"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":447,"width":25,"height":25,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full is-resized"><img src="{{ '/img/posts/icon-star.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-447" width="25" height="25"/></figure>
+<figure class="wp-block-image size-full is-resized"><img src="{{ '/img/posts/icon-star.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Rating star icon" class="wp-image-447" width="25" height="25"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:group -->
 

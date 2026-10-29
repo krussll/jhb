@@ -5,6 +5,7 @@ author: reece
 categories: [ help ]
 featured: false
 description: ""
+last_modified_at: 2026-10-29 15:45:00 +0000
 date: 2022-04-25 13:00:00 -0400
 ---
     
@@ -14,7 +15,7 @@ date: 2022-04-25 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":983,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="{{ '/img/posts/Lawn-Bowls-Rules-The-Dead-End.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-983"/></figure>
+<figure class="wp-block-image size-full"><img src="{{ '/img/posts/Lawn-Bowls-Rules-The-Dead-End.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Lawn bowls rules the dead end - Lawn Bowls Rules - The Dead End | A Complete Guide To Dead Ends" class="wp-image-983"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

@@ -5,6 +5,7 @@ author: reece
 categories: [ guide ]
 featured: false
 description: ""
+last_modified_at: 2026-10-29 15:45:00 +0000
 date: 2023-03-07 13:00:00 -0400
 ---
     
@@ -14,7 +15,7 @@ date: 2023-03-07 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":3079,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="{{ '/img/posts/Aero-Z-Scoop-1024x576.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-3079"/></figure>
+<figure class="wp-block-image size-large"><img src="{{ '/img/posts/Aero-Z-Scoop-1024x576.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Aero z scoop - Aero Z-Scoop Grip Review | Is The Aero Z-Scoop Grip Any Good?" class="wp-image-3079"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -68,7 +69,7 @@ date: 2023-03-07 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":3077,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="{{ '/img/posts/aero-quantum-grip-1024x768.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-3077"/></figure>
+<figure class="wp-block-image size-large"><img src="{{ '/img/posts/aero-quantum-grip-1024x768.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Aero Quantum Grip for lawn bowls" class="wp-image-3077"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

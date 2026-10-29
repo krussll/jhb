@@ -5,6 +5,7 @@ author: reece
 categories: [ bowls, review ]
 featured: false
 description: ""
+last_modified_at: 2026-10-29 15:45:00 +0000
 date: 2021-04-27 13:00:00 -0400
 ---
     
@@ -62,23 +63,23 @@ date: 2021-04-27 13:00:00 -0400
 
 <!-- wp:group {"layout":{"type":"flex","allowOrientation":false}} -->
 <div class="wp-block-group"><!-- wp:image {"id":481,"width":25,"height":25,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full is-resized"><img src="{{ '/img/posts/icon-star.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-481" width="25" height="25"/></figure>
+<figure class="wp-block-image size-full is-resized"><img src="{{ '/img/posts/icon-star.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="Rating star icon" class="wp-image-481" width="25" height="25"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":481,"width":25,"height":25,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full is-resized"><img src="{{ '/img/posts/icon-star.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-481" width="25" height="25"/></figure>
+<figure class="wp-block-image size-full is-resized"><img src="{{ '/img/posts/icon-star.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="Rating star icon" class="wp-image-481" width="25" height="25"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":481,"width":25,"height":25,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full is-resized"><img src="{{ '/img/posts/icon-star.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-481" width="25" height="25"/></figure>
+<figure class="wp-block-image size-full is-resized"><img src="{{ '/img/posts/icon-star.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="Rating star icon" class="wp-image-481" width="25" height="25"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":481,"width":25,"height":25,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full is-resized"><img src="{{ '/img/posts/icon-star.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-481" width="25" height="25"/></figure>
+<figure class="wp-block-image size-full is-resized"><img src="{{ '/img/posts/icon-star.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="Rating star icon" class="wp-image-481" width="25" height="25"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":481,"width":25,"height":25,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full is-resized"><img src="{{ '/img/posts/icon-star.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-481" width="25" height="25"/></figure>
+<figure class="wp-block-image size-full is-resized"><img src="{{ '/img/posts/icon-star.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="Rating star icon" class="wp-image-481" width="25" height="25"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:group -->
 
@@ -114,7 +115,7 @@ date: 2021-04-27 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/taylor-international.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt=""/></a></figure>
+<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/taylor-international.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Taylor international - Taylor International Lawn Bowls Review"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading -->
@@ -138,7 +139,7 @@ date: 2021-04-27 13:00:00 -0400
 <!-- /wp:list -->
 
 <!-- wp:image {"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/taylor-international-colour.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt=""/></a></figure>
+<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/taylor-international-colour.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Taylor international colour - Taylor International Lawn Bowls Review"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -162,7 +163,7 @@ date: 2021-04-27 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/taylor-international-grip.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt=""/></a></figure>
+<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/taylor-international-grip.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Taylor International Grip for lawn bowls"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

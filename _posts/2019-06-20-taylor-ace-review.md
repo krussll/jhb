@@ -4,7 +4,8 @@ title:  "Taylor Ace Lawn Bowls Review"
 author: reece
 categories: [ bowls, review ]
 featured: false
-description: ""
+description: "Comprehensive Taylor Ace lawn bowls review: bias profile analysis, grip options, indoor vs outdoor performance, and pros & cons for club bowlers."
+last_modified_at: 2026-10-29 15:45:00 +0000
 date: 2019-06-20 13:00:00 -0400
 ---
     
@@ -16,6 +17,30 @@ date: 2019-06-20 13:00:00 -0400
 <!-- wp:image {"id":330,"sizeSlug":"full","linkDestination":"none"} -->
 <figure class="wp-block-image size-full"><img src="{{ '/img/posts/taylor-ace-review.jpeg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Taylor Ace Lawn Bowls Review" class="wp-image-330"/></figure>
 <!-- /wp:image -->
+
+<div class="alert alert-success border-success my-4 p-3 rounded">
+  <h3 class="h5 font-weight-bold text-success mb-2"><i class="fas fa-check-circle mr-1"></i> Quick Verdict: Taylor Ace Lawn Bowls</h3>
+  <p class="mb-2"><strong>The Taylor Ace is the UK's benchmark all-round lawn bowl.</strong> Featuring a predictable mid-to-wide trajectory and a smooth, hook-free finish, it performs reliably on outdoor grass greens (12–15 seconds) and handles wider indoor lines with equal consistency.</p>
+  <ul class="mb-0 pl-3">
+    <li><strong>Best For:</strong> Club bowlers seeking one versatile set for all rink positions (Lead, Second, Third, or Skip).</li>
+    <li><strong>Bias Profile:</strong> Mid-to-Wide Bias with a clean, forgiving draw arc.</li>
+    <li><strong>Surface Suitability:</strong> Outdoor Grass (Medium/Slow) and Indoor Rinks.</li>
+    <li><strong>Overall Score:</strong> 9.4 / 10 &mdash; Recommended Buy</li>
+  </ul>
+</div>
+
+### Model Specifications
+
+| Feature | Specification |
+| :--- | :--- |
+| **Bias Profile** | Mid Bias (Wider arc than Vector VS, narrower than Lignoid) |
+| **Running Surface** | Outdoor grass greens, indoor carpet rinks |
+| **Ideal Positions** | All positions (Lead to Skip) |
+| **Available Sizes** | 00 to 5 |
+| **Available Weights** | Medium, Heavy, Extra Heavy |
+| **Grip Options** | Progrip (deep dimple), Half-Pipe, Plain non-gripped |
+| **Price Guide** | £380 – £420 (New) / £150 – £250 (Second-hand) |
+
 
 <!-- wp:heading -->
 <h2><a href="#bottom-line"></a>Bottom line</h2>
@@ -75,23 +100,23 @@ date: 2019-06-20 13:00:00 -0400
 
 <!-- wp:group {"layout":{"type":"flex","allowOrientation":false}} -->
 <div class="wp-block-group"><!-- wp:image {"id":447,"width":25,"height":25,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full is-resized"><img src="{{ '/img/posts/icon-star.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-447" width="25" height="25"/></figure>
+<figure class="wp-block-image size-full is-resized"><img src="{{ '/img/posts/icon-star.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Taylor Ace lawn bowl in maroon on grass green" class="wp-image-447" width="25" height="25"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":447,"width":25,"height":25,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full is-resized"><img src="{{ '/img/posts/icon-star.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-447" width="25" height="25"/></figure>
+<figure class="wp-block-image size-full is-resized"><img src="{{ '/img/posts/icon-star.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Rating star icon" class="wp-image-447" width="25" height="25"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":447,"width":25,"height":25,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full is-resized"><img src="{{ '/img/posts/icon-star.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-447" width="25" height="25"/></figure>
+<figure class="wp-block-image size-full is-resized"><img src="{{ '/img/posts/icon-star.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Rating star icon" class="wp-image-447" width="25" height="25"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":447,"width":25,"height":25,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full is-resized"><img src="{{ '/img/posts/icon-star.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-447" width="25" height="25"/></figure>
+<figure class="wp-block-image size-full is-resized"><img src="{{ '/img/posts/icon-star.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Rating star icon" class="wp-image-447" width="25" height="25"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":447,"width":25,"height":25,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full is-resized"><img src="{{ '/img/posts/icon-star.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-447" width="25" height="25"/></figure>
+<figure class="wp-block-image size-full is-resized"><img src="{{ '/img/posts/icon-star.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Rating star icon" class="wp-image-447" width="25" height="25"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:group -->
 

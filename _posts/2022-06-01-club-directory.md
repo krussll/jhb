@@ -5,12 +5,13 @@ author: reece
 categories: [ bowls-clubs ]
 featured: false
 description: ""
+last_modified_at: 2026-10-29 15:45:00 +0000
 date: 2022-06-01 13:00:00 -0400
 ---
     
 
 <!-- wp:image {"id":1620,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large" xmlns="http://www.w3.org/1999/xhtml"><img src="{{ '/img/posts/Club-Directory-1024x576.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-1620"/></figure>
+<figure class="wp-block-image size-large" xmlns="http://www.w3.org/1999/xhtml"><img src="{{ '/img/posts/Club-Directory-1024x576.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Club directory - Indoor and Lawn Bowls Club Directory | Find A Club Near You" class="wp-image-1620"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading -->

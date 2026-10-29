@@ -7,7 +7,7 @@ featured: false
 description: ""
 background: "/img/posts/pick-the-right-bowls.png"
 date: 2022-11-24 13:00:00 -0400
-last_modified_at: 2025-10-20T16:19:14+00:00
+last_modified_at: 2026-10-29 15:45:00 +0000
 ---
     
 
@@ -16,7 +16,7 @@ last_modified_at: 2025-10-20T16:19:14+00:00
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":1640,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="{{ '/img/posts/How-To-Choose-A-Set-Of-Lawn-Bowls-1024x576.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-1640"/></figure>
+<figure class="wp-block-image size-large"><img src="{{ '/img/posts/How-To-Choose-A-Set-Of-Lawn-Bowls-1024x576.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="How to choose a set of lawn bowls - How To Choose A Set Of Lawn Bowls? | A Complete Guide" class="wp-image-1640"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

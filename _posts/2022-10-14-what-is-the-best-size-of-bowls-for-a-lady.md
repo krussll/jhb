@@ -5,6 +5,7 @@ author: reece
 categories: [ help ]
 featured: false
 description: ""
+last_modified_at: 2026-10-29 15:45:00 +0000
 date: 2022-10-14 13:00:00 -0400
 ---
     
@@ -14,7 +15,7 @@ date: 2022-10-14 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":1663,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="{{ '/img/posts/What-Is-The-Best-Size-Of-Bowls-For-A-Lady-1024x576.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-1663"/></figure>
+<figure class="wp-block-image size-large"><img src="{{ '/img/posts/What-Is-The-Best-Size-Of-Bowls-For-A-Lady-1024x576.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="What is the best size of bowls for a lady - What Is The Best Size Of Bowls For A Lady? | A Step By Step Guide" class="wp-image-1663"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

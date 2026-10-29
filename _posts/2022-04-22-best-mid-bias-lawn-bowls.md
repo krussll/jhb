@@ -5,6 +5,7 @@ author: reece
 categories: [ guide ]
 featured: false
 description: ""
+last_modified_at: 2026-10-29 15:45:00 +0000
 date: 2022-04-22 13:00:00 -0400
 ---
     
@@ -14,7 +15,7 @@ date: 2022-04-22 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":829,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="{{ '/img/posts/Best-mid-biased-lawn-bowls.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-829"/></figure>
+<figure class="wp-block-image size-full"><img src="{{ '/img/posts/Best-mid-biased-lawn-bowls.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Lawn bowls trajectory bias chart" class="wp-image-829"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

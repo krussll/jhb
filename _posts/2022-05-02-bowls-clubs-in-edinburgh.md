@@ -5,6 +5,7 @@ author: reece
 categories: [ bowls-clubs ]
 featured: false
 description: ""
+last_modified_at: 2026-10-29 15:45:00 +0000
 date: 2022-05-02 13:00:00 -0400
 ---
     
@@ -14,7 +15,7 @@ date: 2022-05-02 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":913,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="{{ '/img/posts/bowls-clubs-Edinburgh.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-913"/></figure>
+<figure class="wp-block-image size-full"><img src="{{ '/img/posts/bowls-clubs-Edinburgh.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Bowls clubs edinburgh - Lawn Bowls Clubs In Edinburgh, Scotland | A List Of The Best Clubs" class="wp-image-913"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading -->

@@ -5,6 +5,7 @@ author: reece
 categories: [ bowls, review ]
 featured: false
 description: ""
+last_modified_at: 2026-10-29 15:45:00 +0000
 date: 2021-04-30 13:00:00 -0400
 ---
     
@@ -52,7 +53,7 @@ date: 2021-04-30 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"center","id":446,"width":50,"height":50,"sizeSlug":"full","linkDestination":"none"} -->
-<div class="wp-block-image"><figure class="aligncenter size-full is-resized"><img src="{{ '/img/posts/icon-surface.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-446" width="50" height="50"/></figure></div>
+<div class="wp-block-image"><figure class="aligncenter size-full is-resized"><img src="{{ '/img/posts/icon-surface.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Bowls playing surface icon" class="wp-image-446" width="50" height="50"/></figure></div>
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"align":"center"} -->
@@ -66,7 +67,7 @@ date: 2021-04-30 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"center","id":443,"width":50,"height":50,"sizeSlug":"full","linkDestination":"none"} -->
-<div class="wp-block-image"><figure class="aligncenter size-full is-resized"><img src="{{ '/img/posts/icons.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-443" width="50" height="50"/></figure></div>
+<div class="wp-block-image"><figure class="aligncenter size-full is-resized"><img src="{{ '/img/posts/icons.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Bowls equipment icons" class="wp-image-443" width="50" height="50"/></figure></div>
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"align":"center"} -->
@@ -80,7 +81,7 @@ date: 2021-04-30 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"center","id":444,"width":50,"height":50,"sizeSlug":"full","linkDestination":"none"} -->
-<div class="wp-block-image"><figure class="aligncenter size-full is-resized"><img src="{{ '/img/posts/icon-size.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-444" width="50" height="50"/></figure></div>
+<div class="wp-block-image"><figure class="aligncenter size-full is-resized"><img src="{{ '/img/posts/icon-size.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Bowls size chart icon" class="wp-image-444" width="50" height="50"/></figure></div>
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"align":"center"} -->
@@ -94,7 +95,7 @@ date: 2021-04-30 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"center","id":445,"width":50,"height":50,"sizeSlug":"full","linkDestination":"none"} -->
-<div class="wp-block-image"><figure class="aligncenter size-full is-resized"><img src="{{ '/img/posts/icon-region.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-445" width="50" height="50"/></figure></div>
+<div class="wp-block-image"><figure class="aligncenter size-full is-resized"><img src="{{ '/img/posts/icon-region.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Bowls region icon" class="wp-image-445" width="50" height="50"/></figure></div>
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"align":"center"} -->
@@ -111,23 +112,23 @@ date: 2021-04-30 13:00:00 -0400
 
 <!-- wp:group {"layout":{"type":"flex","allowOrientation":false}} -->
 <div class="wp-block-group"><!-- wp:image {"id":447,"width":25,"height":25,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full is-resized"><img src="{{ '/img/posts/icon-star.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-447" width="25" height="25"/></figure>
+<figure class="wp-block-image size-full is-resized"><img src="{{ '/img/posts/icon-star.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Rating star icon" class="wp-image-447" width="25" height="25"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":447,"width":25,"height":25,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full is-resized"><img src="{{ '/img/posts/icon-star.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-447" width="25" height="25"/></figure>
+<figure class="wp-block-image size-full is-resized"><img src="{{ '/img/posts/icon-star.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Rating star icon" class="wp-image-447" width="25" height="25"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":447,"width":25,"height":25,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full is-resized"><img src="{{ '/img/posts/icon-star.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-447" width="25" height="25"/></figure>
+<figure class="wp-block-image size-full is-resized"><img src="{{ '/img/posts/icon-star.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Rating star icon" class="wp-image-447" width="25" height="25"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":447,"width":25,"height":25,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full is-resized"><img src="{{ '/img/posts/icon-star.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-447" width="25" height="25"/></figure>
+<figure class="wp-block-image size-full is-resized"><img src="{{ '/img/posts/icon-star.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Rating star icon" class="wp-image-447" width="25" height="25"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":447,"width":25,"height":25,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full is-resized"><img src="{{ '/img/posts/icon-star.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-447" width="25" height="25"/></figure>
+<figure class="wp-block-image size-full is-resized"><img src="{{ '/img/posts/icon-star.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Rating star icon" class="wp-image-447" width="25" height="25"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:group -->
 
@@ -172,7 +173,7 @@ date: 2021-04-30 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="https://camo.githubusercontent.com/bce07f5dd79c8901c8cb5dab81f07e54f337738a5d27e13978eb9554eb400e8e/68747470733a2f2f7777772e626f776c65727370617261646973652e636f6d2e61752f73686f702f696d616765732f542f4754525f626961732d322e6a7067" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/68747470733a2f2f7777772e626f776c65727370617261646973652e636f6d2e61752f73686f702f696d616765732f542f4754525f626961732d322e6a7067' | prepend: site.baseurl | replace: '//', '/' }}" alt=""/></a></figure>
+<figure class="wp-block-image"><a href="https://camo.githubusercontent.com/bce07f5dd79c8901c8cb5dab81f07e54f337738a5d27e13978eb9554eb400e8e/68747470733a2f2f7777772e626f776c65727370617261646973652e636f6d2e61752f73686f702f696d616765732f542f4754525f626961732d322e6a7067" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/68747470733a2f2f7777772e626f776c65727370617261646973652e636f6d2e61752f73686f702f696d616765732f542f4754525f626961732d322e6a7067' | prepend: site.baseurl | replace: '//', '/' }}" alt="68747470733a2f2f7777772e626f776c65727370617261646973652e636f6d2e61752f73686f702f696d616765732f542f4754525f626961732d322e6a7067 - Taylor GTR Lawn Bowls Review"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

@@ -5,6 +5,7 @@ author: reece
 categories: [ help ]
 featured: false
 description: ""
+last_modified_at: 2026-10-29 15:45:00 +0000
 date: 2022-05-04 13:00:00 -0400
 ---
     
@@ -14,7 +15,7 @@ date: 2022-05-04 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":929,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="{{ '/img/posts/The-Different-Types-Of-Lawn-Bowls.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-929"/></figure>
+<figure class="wp-block-image size-full"><img src="{{ '/img/posts/The-Different-Types-Of-Lawn-Bowls.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="The different types of lawn bowls - The Different Types Of Lawn Bowls | A Complete Guide To The Types Of lawn Bowls" class="wp-image-929"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

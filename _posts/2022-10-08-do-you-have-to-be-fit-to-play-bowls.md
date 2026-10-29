@@ -5,6 +5,7 @@ author: reece
 categories: [ help ]
 featured: false
 description: ""
+last_modified_at: 2026-10-29 15:45:00 +0000
 date: 2022-10-08 13:00:00 -0400
 ---
     
@@ -14,7 +15,7 @@ date: 2022-10-08 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":1470,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="{{ '/img/posts/Do-You-Have-To-Be-Fit-To-Play-Bowls.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-1470"/></figure>
+<figure class="wp-block-image size-full"><img src="{{ '/img/posts/Do-You-Have-To-Be-Fit-To-Play-Bowls.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Do you have to be fit to play bowls - Do You Have To Be Fit To Play Bowls? | A Complete Guide" class="wp-image-1470"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

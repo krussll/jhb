@@ -4,7 +4,8 @@ title:  "Drakes Pride Professional vs Taylor Ace - Which To Choose?"
 author: reece
 categories: [ bowls, review ]
 featured: false
-description: ""
+description: "Drakes Pride Professional vs Taylor Ace head-to-head comparison: bias arc differences, grip choices, surface versatility, and verdict."
+last_modified_at: 2026-10-29 15:45:00 +0000
 date: 2020-08-28 13:00:00 -0400
 ---
     
@@ -16,6 +17,27 @@ date: 2020-08-28 13:00:00 -0400
 <!-- wp:image {"id":262,"sizeSlug":"full","linkDestination":"none"} -->
 <figure class="wp-block-image size-full"><img src="{{ '/img/posts/drakes-pride-vs-taylor-ace.jpeg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Drakes Pride Professional vs Taylor Ace - Which to choose?" class="wp-image-262"/></figure>
 <!-- /wp:image -->
+
+<div class="alert alert-success border-success my-4 p-3 rounded">
+  <h3 class="h5 font-weight-bold text-success mb-2"><i class="fas fa-check-circle mr-1"></i> Quick Verdict: Drakes Pride Professional vs Taylor Ace</h3>
+  <ul class="mb-0 pl-3">
+    <li><strong>Taylor Ace:</strong> Features a slightly wider arc with a gentle hook finish. Offers superior versatility for outdoor skips and wide indoor lines.</li>
+    <li><strong>Drakes Pride Professional:</strong> Delivers a continuous, perfectly even curve with zero late hook. Favoured by traditional draw bowlers and front-end players.</li>
+    <li><strong>The Recommendation:</strong> Choose the <strong>Taylor Ace</strong> if you want extra draw around short bowls; choose the <strong>Professional</strong> if you prefer an even, predictable arc that never kicks at the finish.</li>
+  </ul>
+</div>
+
+### Side-by-Side Comparison
+
+| Feature / Specification | Taylor Ace | Drakes Pride Professional |
+| :--- | :--- | :--- |
+| **Bias Rating** | Mid Bias (Slightly wider finish) | Mid Bias (Continuous, even curve) |
+| **Best Playing Surfaces** | Outdoor Grass (12–15s) & Indoor | Outdoor Grass (11–15s) & Indoor |
+| **Best Position** | All positions (Lead to Skip) | All positions (Lead to Skip) |
+| **Grip Options** | Progrip, Half-Pipe, Plain | 30-Dimple, Plain |
+| **Size Range** | Size 00 to 5 | Size 0000 to 5 |
+| **Price Bracket** | £380 – £420 | £370 – £410 |
+
 
 <!-- wp:heading -->
 <h2>Taylor Ace vs Drakes Pride Professional</h2>

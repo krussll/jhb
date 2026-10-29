@@ -5,6 +5,7 @@ author: reece
 categories: [ help ]
 featured: false
 description: ""
+last_modified_at: 2026-10-29 15:45:00 +0000
 date: 2022-05-15 13:00:00 -0400
 ---
     
@@ -14,7 +15,7 @@ date: 2022-05-15 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":974,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="{{ '/img/posts/Lawn-bowls-Bias-Explained.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-974"/></figure>
+<figure class="wp-block-image size-full"><img src="{{ '/img/posts/Lawn-bowls-Bias-Explained.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Lawn bowls trajectory bias chart" class="wp-image-974"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -76,7 +77,7 @@ date: 2022-05-15 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":975,"sizeSlug":"medium","linkDestination":"none"} -->
-<figure class="wp-block-image size-medium"><img src="{{ '/img/posts/DSC08176-800x795-1-300x298.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-975"/></figure>
+<figure class="wp-block-image size-medium"><img src="{{ '/img/posts/DSC08176-800x795-1-300x298.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Dsc08176 - Lawn bowls Bias Explained | A Guide On Lawn Bowls Bias" class="wp-image-975"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading -->

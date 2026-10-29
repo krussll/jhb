@@ -5,6 +5,7 @@ author: reece
 categories: [ help ]
 featured: false
 description: ""
+last_modified_at: 2026-10-29 15:45:00 +0000
 date: 2022-07-22 13:00:00 -0400
 ---
     
@@ -14,7 +15,7 @@ date: 2022-07-22 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":1377,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="{{ '/img/posts/Why-Is-Lawn-Bowls-Not-In-The-Olympics.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-1377"/></figure>
+<figure class="wp-block-image size-full"><img src="{{ '/img/posts/Why-Is-Lawn-Bowls-Not-In-The-Olympics.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Why is lawn bowls not in the olympics - Why Is Lawn Bowls Not In The Olympics? | ANSWERED" class="wp-image-1377"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

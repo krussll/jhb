@@ -5,6 +5,7 @@ author: reece
 categories: [ help ]
 featured: false
 description: ""
+last_modified_at: 2026-10-29 15:45:00 +0000
 date: 2022-07-05 13:00:00 -0400
 ---
     
@@ -14,7 +15,7 @@ date: 2022-07-05 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":1283,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="{{ '/img/posts/What-Weight-Lawn-Bowls-Do-I-Need.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-1283"/></figure>
+<figure class="wp-block-image size-full"><img src="{{ '/img/posts/What-Weight-Lawn-Bowls-Do-I-Need.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="What weight lawn bowls do i need - What Weight Lawn Bowls Do I Need? | A Complete Guide" class="wp-image-1283"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -90,7 +91,7 @@ date: 2022-07-05 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":1282,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="{{ '/img/posts/image-1.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-1282"/></figure>
+<figure class="wp-block-image size-full"><img src="{{ '/img/posts/image-1.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="Image - What Weight Lawn Bowls Do I Need? | A Complete Guide" class="wp-image-1282"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

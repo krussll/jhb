@@ -4,7 +4,8 @@ title:  "Taylor Ace vs Henselite Tiger II | Which is Best?"
 author: reece
 categories: [ bowls, review ]
 featured: false
-description: ""
+description: "Taylor Ace vs Henselite Tiger II lawn bowls comparison: bias profile differences, outdoor vs indoor suitability, grips, and verdict."
+last_modified_at: 2026-10-29 15:45:00 +0000
 date: 2023-02-24 13:00:00 -0400
 ---
     
@@ -14,8 +15,29 @@ date: 2023-02-24 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":1642,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="{{ '/img/posts/Taylor-Ace-vs-Henselite-Tiger-II-1024x576.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-1642"/></figure>
+<figure class="wp-block-image size-large"><img src="{{ '/img/posts/Taylor-Ace-vs-Henselite-Tiger-II-1024x576.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Taylor Ace vs Henselite Tiger II lawn bowls comparison" class="wp-image-1642"/></figure>
 <!-- /wp:image -->
+
+<div class="alert alert-success border-success my-4 p-3 rounded">
+  <h3 class="h5 font-weight-bold text-success mb-2"><i class="fas fa-check-circle mr-1"></i> Quick Verdict: Taylor Ace vs Henselite Tiger II</h3>
+  <ul class="mb-0 pl-3">
+    <li><strong>Taylor Ace:</strong> Mid-to-wide bias with a steady, predictable finish. The ultimate all-rounder for outdoor grass greens (12–15s) across all team positions.</li>
+    <li><strong>Henselite Tiger II:</strong> Narrow-to-mid line with a tight, holding finish. Excels on fast outdoor surfaces, artificial turf, and indoor carpets.</li>
+    <li><strong>The Recommendation:</strong> Choose the <strong>Taylor Ace</strong> for outdoor club grass versatility; choose the <strong>Tiger II</strong> if you play primarily indoors or on slick summer greens.</li>
+  </ul>
+</div>
+
+### Side-by-Side Comparison
+
+| Feature / Specification | Taylor Ace | Henselite Tiger II |
+| :--- | :--- | :--- |
+| **Bias Rating** | Mid Bias (Wider drawing arc) | Narrow-to-Mid Bias (Straighter line) |
+| **Primary Surface** | Outdoor Grass (Slow to Medium-Fast) | Fast Grass, Synthetic & Indoor Rinks |
+| **Best Team Position** | All positions (Lead to Skip) | Lead, Second, Singles Draw Bowlers |
+| **Grip Options** | Progrip, Half-Pipe, Plain | Ergo Extreme, Diamond Grip |
+| **Size Range** | Size 00 to 5 (Medium, Heavy, X-Heavy) | Size 00 to 5 (Medium, Heavy) |
+| **Price Bracket** | £380 – £420 | £390 – £430 |
+
 
 <!-- wp:paragraph -->
 <p>When choosing a set of bowls you want to make sure you are not wasting your money - I've helped many bowlers, and this is something I hear a lot. </p>
@@ -90,7 +112,7 @@ date: 2023-02-24 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":1630,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="{{ '/img/posts/Copy-of-aiming-points-imaginary-line.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-1630"/><figcaption class="wp-element-caption">An example of the Xtreme Grip on a Taylor Ace</figcaption></figure>
+<figure class="wp-block-image size-full"><img src="{{ '/img/posts/Copy-of-aiming-points-imaginary-line.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Copy of aiming points imaginary line - Taylor Ace vs Henselite Tiger II | Which is Best?" class="wp-image-1630"/><figcaption class="wp-element-caption">An example of the Xtreme Grip on a Taylor Ace</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

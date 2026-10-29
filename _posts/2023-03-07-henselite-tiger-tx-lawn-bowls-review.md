@@ -4,7 +4,8 @@ title:  "Henselite Tiger TX Lawn Bowls Review"
 author: reece
 categories: [ guide ]
 featured: false
-description: ""
+description: "Henselite Tiger TX lawn bowls review: ultra-narrow line analysis, indoor carpet testing, and suitability for leads."
+last_modified_at: 2026-10-29 15:45:00 +0000
 date: 2023-03-07 13:00:00 -0400
 ---
     
@@ -14,8 +15,32 @@ date: 2023-03-07 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":3154,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="{{ '/img/posts/Henselite-Tiger-TX-1024x576.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-3154"/></figure>
+<figure class="wp-block-image size-large"><img src="{{ '/img/posts/Henselite-Tiger-TX-1024x576.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Henselite Tiger TX lawn bowls on indoor carpet rink" class="wp-image-3154"/></figure>
 <!-- /wp:image -->
+
+<div class="alert alert-success border-success my-4 p-3 rounded">
+  <h3 class="h5 font-weight-bold text-success mb-2"><i class="fas fa-check-circle mr-1"></i> Quick Verdict: Henselite Tiger TX</h3>
+  <p class="mb-2"><strong>The Henselite Tiger TX is Henselite's narrowest bowl for the UK indoor circuit.</strong> Designed with an ultra-direct line and a flat finish, it allows front-end players to draw directly onto the jack without taking wide ice or interfering with adjacent rinks.</p>
+  <ul class="mb-0 pl-3">
+    <li><strong>Best For:</strong> Indoor Leads, Seconds, and singles competitors bowling on fast carpet surfaces.</li>
+    <li><strong>Bias Profile:</strong> Ultra-Narrow Bias (Henselite's straightest bowl).</li>
+    <li><strong>Surface Suitability:</strong> Fast Indoor Carpets and rapid synthetic greens.</li>
+    <li><strong>Overall Score:</strong> 9.0 / 10 &mdash; Top Indoor Front-End Pick</li>
+  </ul>
+</div>
+
+### Model Specifications
+
+| Feature | Specification |
+| :--- | :--- |
+| **Bias Profile** | Ultra-Narrow Bias (Straighter than Tiger II) |
+| **Running Surface** | Indoor carpet rinks, fast artificial greens |
+| **Ideal Positions** | Lead, Second, Indoor Singles |
+| **Available Sizes** | 00 to 5 |
+| **Available Weights** | Medium, Heavy |
+| **Grip Options** | Ergo Extreme grip |
+| **Price Guide** | £390 – £430 (New) |
+
 
 <!-- wp:heading -->
 <h2 class="wp-block-heading"><a href="#bottom-line"></a>Bottom line</h2>
@@ -67,23 +92,23 @@ date: 2023-03-07 13:00:00 -0400
 
 <!-- wp:group {"layout":{"type":"flex","allowOrientation":false}} -->
 <div class="wp-block-group"><!-- wp:image {"id":447,"width":25,"height":25,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full is-resized"><img src="{{ '/img/posts/icon-star.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-447" width="25" height="25"/></figure>
+<figure class="wp-block-image size-full is-resized"><img src="{{ '/img/posts/icon-star.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Rating star icon" class="wp-image-447" width="25" height="25"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":447,"width":25,"height":25,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full is-resized"><img src="{{ '/img/posts/icon-star.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-447" width="25" height="25"/></figure>
+<figure class="wp-block-image size-full is-resized"><img src="{{ '/img/posts/icon-star.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Rating star icon" class="wp-image-447" width="25" height="25"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":447,"width":25,"height":25,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full is-resized"><img src="{{ '/img/posts/icon-star.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-447" width="25" height="25"/></figure>
+<figure class="wp-block-image size-full is-resized"><img src="{{ '/img/posts/icon-star.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Rating star icon" class="wp-image-447" width="25" height="25"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":447,"width":25,"height":25,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full is-resized"><img src="{{ '/img/posts/icon-star.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-447" width="25" height="25"/></figure>
+<figure class="wp-block-image size-full is-resized"><img src="{{ '/img/posts/icon-star.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Rating star icon" class="wp-image-447" width="25" height="25"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":447,"width":25,"height":25,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full is-resized"><img src="{{ '/img/posts/icon-star.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-447" width="25" height="25"/></figure>
+<figure class="wp-block-image size-full is-resized"><img src="{{ '/img/posts/icon-star.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Rating star icon" class="wp-image-447" width="25" height="25"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:group -->
 

@@ -5,6 +5,7 @@ author: reece
 categories: [ guide ]
 featured: false
 description: ""
+last_modified_at: 2026-10-29 15:45:00 +0000
 date: 2020-05-20 13:00:00 -0400
 ---
     
@@ -136,7 +137,7 @@ date: 2020-05-20 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":1687,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="{{ '/img/posts/henselite-bowls-trajectory-guide-1024x788.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-1687"/><figcaption class="wp-element-caption"><a href="https://howtoplaysport.com/lawn-bowls/lawn-bowls-bias-guides">https://howtoplaysport.com/lawn-bowls/lawn-bowls-bias-guides</a></figcaption></figure>
+<figure class="wp-block-image size-large"><img src="{{ '/img/posts/henselite-bowls-trajectory-guide-1024x788.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Lawn bowls trajectory bias chart" class="wp-image-1687"/><figcaption class="wp-element-caption"><a href="https://howtoplaysport.com/lawn-bowls/lawn-bowls-bias-guides">https://howtoplaysport.com/lawn-bowls/lawn-bowls-bias-guides</a></figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading -->

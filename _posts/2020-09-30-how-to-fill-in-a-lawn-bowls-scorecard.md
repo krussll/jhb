@@ -5,6 +5,7 @@ author: reece
 categories: [ help ]
 featured: false
 description: ""
+last_modified_at: 2026-10-29 15:45:00 +0000
 date: 2020-09-30 13:00:00 -0400
 ---
     
@@ -22,7 +23,7 @@ date: 2020-09-30 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:image {"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/scorecard.png' | prepend: site.baseurl | replace: '//', '/' }}" alt=""/></a></figure>
+<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/scorecard.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="Lawn bowls scorecard layout example"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"level":3} -->
@@ -38,7 +39,7 @@ date: 2020-09-30 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:image {"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/game-details.png' | prepend: site.baseurl | replace: '//', '/' }}" alt=""/></a></figure>
+<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/game-details.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="Game details - How To Fill In A Lawn Bowls Scorecard | A Helpful Illustrated Guide"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -50,7 +51,7 @@ date: 2020-09-30 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:image {"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/team-details.png' | prepend: site.baseurl | replace: '//', '/' }}" alt=""/></a></figure>
+<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/team-details.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="Team details - How To Fill In A Lawn Bowls Scorecard | A Helpful Illustrated Guide"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -62,7 +63,7 @@ date: 2020-09-30 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:image {"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/shots-details.png' | prepend: site.baseurl | replace: '//', '/' }}" alt=""/></a></figure>
+<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/shots-details.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="Shots details - How To Fill In A Lawn Bowls Scorecard | A Helpful Illustrated Guide"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -78,7 +79,7 @@ date: 2020-09-30 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:image {"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/result-details.png' | prepend: site.baseurl | replace: '//', '/' }}" alt=""/></a></figure>
+<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/result-details.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="Result details - How To Fill In A Lawn Bowls Scorecard | A Helpful Illustrated Guide"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -108,11 +109,11 @@ date: 2020-09-30 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:image {"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/game-details-completed.png' | prepend: site.baseurl | replace: '//', '/' }}" alt=""/></a></figure>
+<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/game-details-completed.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="Game details completed - How To Fill In A Lawn Bowls Scorecard | A Helpful Illustrated Guide"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/team-details-completed.png' | prepend: site.baseurl | replace: '//', '/' }}" alt=""/></a></figure>
+<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/team-details-completed.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="Team details completed - How To Fill In A Lawn Bowls Scorecard | A Helpful Illustrated Guide"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -124,7 +125,7 @@ date: 2020-09-30 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:image {"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/scores-details-end1.png' | prepend: site.baseurl | replace: '//', '/' }}" alt=""/></a></figure>
+<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/scores-details-end1.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="Scores details end1 - How To Fill In A Lawn Bowls Scorecard | A Helpful Illustrated Guide"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -140,7 +141,7 @@ date: 2020-09-30 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:image {"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/scores-details-end2.png' | prepend: site.baseurl | replace: '//', '/' }}" alt=""/></a></figure>
+<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/scores-details-end2.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="Scores details end2 - How To Fill In A Lawn Bowls Scorecard | A Helpful Illustrated Guide"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -156,7 +157,7 @@ date: 2020-09-30 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:image {"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/scores-details-end3.png' | prepend: site.baseurl | replace: '//', '/' }}" alt=""/></a></figure>
+<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/scores-details-end3.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="Scores details end3 - How To Fill In A Lawn Bowls Scorecard | A Helpful Illustrated Guide"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -172,7 +173,7 @@ date: 2020-09-30 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:image {"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/scores-details-end4.png' | prepend: site.baseurl | replace: '//', '/' }}" alt=""/></a></figure>
+<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/scores-details-end4.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="Scores details end4 - How To Fill In A Lawn Bowls Scorecard | A Helpful Illustrated Guide"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -188,7 +189,7 @@ date: 2020-09-30 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:image {"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/scores-details-end5.png' | prepend: site.baseurl | replace: '//', '/' }}" alt=""/></a></figure>
+<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/scores-details-end5.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="Scores details end5 - How To Fill In A Lawn Bowls Scorecard | A Helpful Illustrated Guide"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -204,7 +205,7 @@ date: 2020-09-30 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:image {"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/scores-details-end6.png' | prepend: site.baseurl | replace: '//', '/' }}" alt=""/></a></figure>
+<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/scores-details-end6.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="Scores details end6 - How To Fill In A Lawn Bowls Scorecard | A Helpful Illustrated Guide"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -220,7 +221,7 @@ date: 2020-09-30 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:image {"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/scores-details-end7.png' | prepend: site.baseurl | replace: '//', '/' }}" alt=""/></a></figure>
+<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/scores-details-end7.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="Scores details end7 - How To Fill In A Lawn Bowls Scorecard | A Helpful Illustrated Guide"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -236,7 +237,7 @@ date: 2020-09-30 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:image {"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/result-details-completed.png' | prepend: site.baseurl | replace: '//', '/' }}" alt=""/></a></figure>
+<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/result-details-completed.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="Result details completed - How To Fill In A Lawn Bowls Scorecard | A Helpful Illustrated Guide"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -248,7 +249,7 @@ date: 2020-09-30 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/scorecard-completed.png' | prepend: site.baseurl | replace: '//', '/' }}" alt=""/></a></figure>
+<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/scorecard-completed.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="Lawn bowls scorecard layout example"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

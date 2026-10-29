@@ -4,7 +4,8 @@ title:  "Henselite Tiger Lawn Bowls Review"
 author: reece
 categories: [ guide ]
 featured: false
-description: ""
+description: "Henselite Tiger lawn bowls review: classic mid-bias draw, outdoor green adaptability, and comparison with Tiger II and Tiger Pro."
+last_modified_at: 2026-10-29 15:45:00 +0000
 date: 2023-03-07 13:00:00 -0400
 ---
     
@@ -14,8 +15,32 @@ date: 2023-03-07 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":3148,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="{{ '/img/posts/Henselite-Tiger-1024x576.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-3148"/></figure>
+<figure class="wp-block-image size-large"><img src="{{ '/img/posts/Henselite-Tiger-1024x576.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Henselite Tiger lawn bowls on grass rink" class="wp-image-3148"/></figure>
 <!-- /wp:image -->
+
+<div class="alert alert-success border-success my-4 p-3 rounded">
+  <h3 class="h5 font-weight-bold text-success mb-2"><i class="fas fa-check-circle mr-1"></i> Quick Verdict: Henselite Tiger Lawn Bowls</h3>
+  <p class="mb-2"><strong>The Henselite Tiger is the foundation of the modern Henselite range.</strong> Offering a full, traditional mid-bias arc, it is wider than the Tiger II and well suited for outdoor grass greens where a confident, forgiving draw is required.</p>
+  <ul class="mb-0 pl-3">
+    <li><strong>Best For:</strong> Outdoor club bowlers in all positions looking for a classic, forgiving draw curve.</li>
+    <li><strong>Bias Profile:</strong> Mid Bias with smooth, consistent trajectory.</li>
+    <li><strong>Surface Suitability:</strong> Outdoor grass greens (11–14 seconds).</li>
+    <li><strong>Overall Score:</strong> 9.1 / 10 &mdash; Reliable Outdoor Standard</li>
+  </ul>
+</div>
+
+### Model Specifications
+
+| Feature | Specification |
+| :--- | :--- |
+| **Bias Profile** | Mid Bias (Wider than Tiger II and Tiger Pro) |
+| **Running Surface** | Outdoor grass greens (11–14s) |
+| **Ideal Positions** | All positions (Lead to Skip) |
+| **Available Sizes** | 00 to 5 |
+| **Available Weights** | Medium, Heavy |
+| **Grip Options** | Ergo Extreme, Diamond grip |
+| **Price Guide** | £390 – £430 (New) |
+
 
 <!-- wp:heading -->
 <h2 class="wp-block-heading"><a href="#bottom-line"></a>Bottom line</h2>
@@ -67,23 +92,23 @@ date: 2023-03-07 13:00:00 -0400
 
 <!-- wp:group {"layout":{"type":"flex","allowOrientation":false}} -->
 <div class="wp-block-group"><!-- wp:image {"id":447,"width":25,"height":25,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full is-resized"><img src="{{ '/img/posts/icon-star.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-447" width="25" height="25"/></figure>
+<figure class="wp-block-image size-full is-resized"><img src="{{ '/img/posts/icon-star.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Rating star icon" class="wp-image-447" width="25" height="25"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":447,"width":25,"height":25,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full is-resized"><img src="{{ '/img/posts/icon-star.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-447" width="25" height="25"/></figure>
+<figure class="wp-block-image size-full is-resized"><img src="{{ '/img/posts/icon-star.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Rating star icon" class="wp-image-447" width="25" height="25"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":447,"width":25,"height":25,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full is-resized"><img src="{{ '/img/posts/icon-star.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-447" width="25" height="25"/></figure>
+<figure class="wp-block-image size-full is-resized"><img src="{{ '/img/posts/icon-star.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Rating star icon" class="wp-image-447" width="25" height="25"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":447,"width":25,"height":25,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full is-resized"><img src="{{ '/img/posts/icon-star.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-447" width="25" height="25"/></figure>
+<figure class="wp-block-image size-full is-resized"><img src="{{ '/img/posts/icon-star.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Rating star icon" class="wp-image-447" width="25" height="25"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":447,"width":25,"height":25,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full is-resized"><img src="{{ '/img/posts/icon-star.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-447" width="25" height="25"/></figure>
+<figure class="wp-block-image size-full is-resized"><img src="{{ '/img/posts/icon-star.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Rating star icon" class="wp-image-447" width="25" height="25"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:group -->
 

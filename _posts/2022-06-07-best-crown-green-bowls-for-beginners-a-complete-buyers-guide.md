@@ -5,6 +5,7 @@ author: reece
 categories: [ crown-green-bowls ]
 featured: false
 description: ""
+last_modified_at: 2026-10-29 15:45:00 +0000
 date: 2022-06-07 13:00:00 -0400
 ---
     
@@ -14,7 +15,7 @@ date: 2022-06-07 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":1133,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="{{ '/img/posts/Best-Crown-Green-Bowls-for-Beginners.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-1133"/></figure>
+<figure class="wp-block-image size-full"><img src="{{ '/img/posts/Best-Crown-Green-Bowls-for-Beginners.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Best crown green bowls for beginners - Best Crown Green Bowls for Beginners | A Complete Buyers Guide" class="wp-image-1133"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -30,7 +31,7 @@ date: 2022-06-07 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:image -->
-<figure class="wp-block-image"><img src="{{ '/img/posts/9UUadFHvGfv_sK8Dp4udZCMGEmWDr87elIe9NkG8Ujil0Ii4cJKdCOMbpg7foIE9joQ8lUXLinSqBCqBSayhM7l7jHT3djcKYVNDKk_xVwgY0BtX5_rNmX5P5ltwg6X88Q2Zu7B4F6ovl1DW' | prepend: site.baseurl | replace: '//', '/' }}" alt=""/></figure>
+<figure class="wp-block-image"><img src="{{ '/img/posts/9UUadFHvGfv_sK8Dp4udZCMGEmWDr87elIe9NkG8Ujil0Ii4cJKdCOMbpg7foIE9joQ8lUXLinSqBCqBSayhM7l7jHT3djcKYVNDKk_xVwgY0BtX5_rNmX5P5ltwg6X88Q2Zu7B4F6ovl1DW' | prepend: site.baseurl | replace: '//', '/' }}" alt="9uuadfhvgfv sk8dp4udzcmgemwdr87elie9nkg8ujil0ii4cjkdcombpg7foie9joq8luxlinsqbcqbsayhm7l7jht3djckyvndkk xvwgy0btx5 rnmx5p5ltwg6x88q2zu7b4f6ovl1dw - Best Crown Green Bowls for Beginners | A Complete Buyers Guide"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -82,7 +83,7 @@ date: 2022-06-07 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:image -->
-<figure class="wp-block-image"><img src="{{ '/img/posts/tbp77ONShXNEq_RlNN3px79IrUbNzF53T2WrI0VV0vQBzVUJFgbNlNbmGFGeiJnqX0THG0tCvzRekIh533_lqxkVTb7VRvwlPWFyWjeL3UEGsPmT4OMNGm_2yoGD9pkGWGb2QabRejqTb19q' | prepend: site.baseurl | replace: '//', '/' }}" alt=""/></figure>
+<figure class="wp-block-image"><img src="{{ '/img/posts/tbp77ONShXNEq_RlNN3px79IrUbNzF53T2WrI0VV0vQBzVUJFgbNlNbmGFGeiJnqX0THG0tCvzRekIh533_lqxkVTb7VRvwlPWFyWjeL3UEGsPmT4OMNGm_2yoGD9pkGWGb2QabRejqTb19q' | prepend: site.baseurl | replace: '//', '/' }}" alt="Tbp77onshxneq rlnn3px79irubnzf53t2wri0vv0vqbzvujfgbnlnbmgfgeijnqx0thg0tcvzrekih533 lqxkvtb7vrvwlpwfywjel3uegspmt4omngm 2yogd9pkgwgb2qabrejqtb19q - Best Crown Green Bowls for Beginners | A Complete Buyers Guide"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

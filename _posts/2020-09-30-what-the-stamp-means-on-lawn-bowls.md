@@ -5,6 +5,7 @@ author: reece
 categories: [ help ]
 featured: false
 description: ""
+last_modified_at: 2026-10-29 15:45:00 +0000
 date: 2020-09-30 13:00:00 -0400
 ---
     
@@ -30,11 +31,11 @@ date: 2020-09-30 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"right","width":472,"height":296,"linkDestination":"custom"} -->
-<div class="wp-block-image"><figure class="alignright is-resized"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/new-stamp.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="" width="472" height="296"/></a></figure></div>
+<div class="wp-block-image"><figure class="alignright is-resized"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/new-stamp.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="New stamp - What The Stamp Means On Lawn Bowls | A Helpful Illustrated Guide" width="472" height="296"/></a></figure></div>
 <!-- /wp:image -->
 
 <!-- wp:image {"align":"right","width":522,"height":282,"linkDestination":"custom"} -->
-<div class="wp-block-image"><figure class="alignright is-resized"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/old-stamp.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="" width="522" height="282"/></a></figure></div>
+<div class="wp-block-image"><figure class="alignright is-resized"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/old-stamp.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="Old stamp - What The Stamp Means On Lawn Bowls | A Helpful Illustrated Guide" width="522" height="282"/></a></figure></div>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -74,7 +75,7 @@ date: 2020-09-30 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:image {"align":"right","width":472,"height":296,"linkDestination":"custom"} -->
-<div class="wp-block-image"><figure class="alignright is-resized"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/new-stamp-expiry.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="" width="472" height="296"/></a></figure></div>
+<div class="wp-block-image"><figure class="alignright is-resized"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/new-stamp-expiry.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="New stamp expiry - What The Stamp Means On Lawn Bowls | A Helpful Illustrated Guide" width="472" height="296"/></a></figure></div>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -90,7 +91,7 @@ date: 2020-09-30 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:image {"align":"left","width":472,"height":296,"linkDestination":"custom"} -->
-<div class="wp-block-image"><figure class="alignleft is-resized"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/new-stamp-registered.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="" width="472" height="296"/></a></figure></div>
+<div class="wp-block-image"><figure class="alignleft is-resized"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/new-stamp-registered.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="New stamp registered - What The Stamp Means On Lawn Bowls | A Helpful Illustrated Guide" width="472" height="296"/></a></figure></div>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -118,7 +119,7 @@ date: 2020-09-30 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:image {"align":"right","width":472,"height":296,"linkDestination":"custom"} -->
-<div class="wp-block-image"><figure class="alignright is-resized"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/new-stamp-standard.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="" width="472" height="296"/></a></figure></div>
+<div class="wp-block-image"><figure class="alignright is-resized"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/new-stamp-standard.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="New stamp standard - What The Stamp Means On Lawn Bowls | A Helpful Illustrated Guide" width="472" height="296"/></a></figure></div>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -134,7 +135,7 @@ date: 2020-09-30 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:image {"align":"right","width":472,"height":296,"linkDestination":"custom"} -->
-<div class="wp-block-image"><figure class="alignright is-resized"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/new-stamp-tester.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="" width="472" height="296"/></a></figure></div>
+<div class="wp-block-image"><figure class="alignright is-resized"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/new-stamp-tester.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="New stamp tester - What The Stamp Means On Lawn Bowls | A Helpful Illustrated Guide" width="472" height="296"/></a></figure></div>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

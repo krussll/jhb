@@ -5,6 +5,7 @@ author: reece
 categories: [ help ]
 featured: false
 description: ""
+last_modified_at: 2026-10-29 15:45:00 +0000
 date: 2023-02-20 13:00:00 -0400
 ---
     
@@ -14,7 +15,7 @@ date: 2023-02-20 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":1634,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="{{ '/img/posts/Is-Lawn-Bowling-Like-Curling-1024x576.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="wp-image-1634"/></figure>
+<figure class="wp-block-image size-large"><img src="{{ '/img/posts/Is-Lawn-Bowling-Like-Curling-1024x576.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Is lawn bowling like curling - Is Lawn Bowling Like Curling | A Guide To Similarities And Differences" class="wp-image-1634"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

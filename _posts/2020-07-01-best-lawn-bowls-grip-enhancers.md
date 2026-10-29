@@ -5,6 +5,7 @@ author: reece
 categories: [ guide ]
 featured: false
 description: ""
+last_modified_at: 2026-10-29 15:45:00 +0000
 date: 2020-07-01 13:00:00 -0400
 ---
     
@@ -66,7 +67,7 @@ date: 2020-07-01 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:image {"align":"right","linkDestination":"custom"} -->
-<div class="wp-block-image"><figure class="alignright"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/grip-it-lawn-bowls-wax.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt=""/></a></figure></div>
+<div class="wp-block-image"><figure class="alignright"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/grip-it-lawn-bowls-wax.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Grip It Lawn Bowls Wax for lawn bowls"/></a></figure></div>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -98,7 +99,7 @@ date: 2020-07-01 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:image {"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/grippo.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt=""/></a></figure>
+<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/grippo.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Grippo for lawn bowls"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -126,7 +127,7 @@ date: 2020-07-01 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:image {"align":"right","width":400,"height":400,"linkDestination":"custom"} -->
-<div class="wp-block-image"><figure class="alignright is-resized"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/crack-a-jack-lawn-bowls-wax.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" width="400" height="400"/></a></figure></div>
+<div class="wp-block-image"><figure class="alignright is-resized"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/crack-a-jack-lawn-bowls-wax.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Crack A Jack Lawn Bowls Wax for lawn bowls" width="400" height="400"/></a></figure></div>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -150,7 +151,7 @@ date: 2020-07-01 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:image {"align":"right","width":780,"height":1040,"linkDestination":"custom"} -->
-<div class="wp-block-image"><figure class="alignright is-resized"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/bulldog.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="" width="780" height="1040"/></a></figure></div>
+<div class="wp-block-image"><figure class="alignright is-resized"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/bulldog.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Bulldog - Best Lawn Bowls Grip Enhancers" width="780" height="1040"/></a></figure></div>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
