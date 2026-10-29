@@ -38,7 +38,7 @@ layout: default
         <div class="col-lg-3 col-md-6">
           <article class="core-guide-card">
             <div>
-              <img src="/jhb/img/icons/learn-the-rules.png" />
+              <img src="{{ '/img/icons/learn-the-rules.png' | relative_url }}" alt="Illustration for lawn bowls rules guide" loading="lazy" />
             </div>
             <h3>Learn the rules</h3>
             <p>Understand formats, scoring and etiquette before you step onto the green.</p>
@@ -48,7 +48,7 @@ layout: default
         <div class="col-lg-3 col-md-6">
           <article class="core-guide-card">
             <div>
-              <img src="/jhb/img/icons/buy-the-right-bowls.png" />
+              <img src="{{ '/img/icons/buy-the-right-bowls.png' | relative_url }}" alt="Illustration of a lawn bowl for equipment selection" loading="lazy" />
             </div>
             <h3>Pick the right bowls</h3>
             <p>Compare models, bias profiles and sizes to find equipment that suits your draw.</p>
@@ -58,7 +58,7 @@ layout: default
         <div class="col-lg-3 col-md-6">
           <article class="core-guide-card">
             <div>
-              <img src="/jhb/img/icons/practice-with-confidence.png" />
+              <img src="{{ '/img/icons/practice-with-confidence.png' | relative_url }}" alt="Illustration of target rings for practice plans" loading="lazy" />
             </div>
             <h3>Practice with purpose</h3>
             <p>Follow a structured improvement plan that develops draw weight, line and mindset.</p>
@@ -68,7 +68,7 @@ layout: default
         <div class="col-lg-3 col-md-6">
           <article class="core-guide-card">
             <div>
-              <img src="/jhb/img/icons/win-at-singles.png" />
+              <img src="{{ '/img/icons/win-at-singles.png' | relative_url }}" alt="Illustration of tactical board for singles play" loading="lazy" />
             </div>
             <h3>Win your singles</h3>
             <p>Adopt match tactics that help you control the mat, jack and momentum end after end.</p>
@@ -144,8 +144,7 @@ layout: default
         <div class="col-lg-4">
           <div class="service-card">
             <div>
-              <!--<i class="fas fa-star"></i>-->
-              <img src="/jhb/img/img/find-right-bowls.png" />
+              <img src="{{ '/img/img/find-right-bowls.png' | relative_url }}" alt="Illustration representing finding the right bowls" loading="lazy" />
             </div>
             <h3>Find the right bowls</h3>
             <p>Dive into our side-by-side comparisons to uncover the model that complements your draw, line and playing surface.</p>
@@ -155,9 +154,7 @@ layout: default
         <div class="col-lg-4">
           <div class="service-card">
             <div>
-              <!--<i class="fas fa-graduation-cap"></i>-->
-            
-              <img src="/jhb/img/img/master-core-skills.png" />
+              <img src="{{ '/img/img/master-core-skills.png' | relative_url }}" alt="Illustration representing core bowling skills" loading="lazy" />
             </div>
             <h3>Master core skills</h3>
             <p>From delivery drills to tactical shot selection, our guides show you how to practice with intention and play with confidence.</p>
@@ -166,9 +163,8 @@ layout: default
         </div>
         <div class="col-lg-4">
           <div class="service-card">
-            <div><!--<i class="fas fa-clipboard-check"></i>-->
-            
-              <img src="/jhb/img/img/train-with-purpose.png" />
+            <div>
+              <img src="{{ '/img/img/train-with-purpose.png' | relative_url }}" alt="Illustration representing structured bowls training" loading="lazy" />
             </div>
             <h3>Train with purpose</h3>
             <p>Download structured practice plans that keep you motivated and improving between matches.</p>
@@ -210,7 +206,7 @@ layout: default
               <span>&middot;</span>
               <span>{% include read_time.html content=post.content %}</span>
             </div>
-            <a class="post-card__cta" href="{{ post.url | relative_url }}">Read the article <i class="fas fa-arrow-right"></i></a>
+            <a class="post-card__cta" href="{{ post.url | relative_url }}" aria-label="Read {{ post.title | escape }}">Read article <i class="fas fa-arrow-right"></i></a>
           </article>
         </div>
         {% endfor %}
