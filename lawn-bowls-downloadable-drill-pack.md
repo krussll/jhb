@@ -4,6 +4,7 @@ title: Lawn Bowls Downloadable Drill Pack
 description: 20 structured practice drills to sharpen your line, length and weighted shots.
 permalink: /lawn-bowls-downloadable-drill-pack
 hide_page_hero: true
+last_modified_at: 2026-10-29 17:08:00
 ---
 
 <div class="drill-pack-intro mb-5">
@@ -14,6 +15,8 @@ hide_page_hero: true
           src="{{ '/img/drill-pack/cover.png' | relative_url }}"
           class="figure-img img-fluid rounded shadow-sm"
           alt="Cover of the Jack High Bowls downloadable drill pack"
+          width="800"
+          height="600"
           loading="lazy"
         >
       </figure>
@@ -28,6 +31,8 @@ hide_page_hero: true
           src="{{ '/img/drill-pack/inside-pages.png' | relative_url }}"
           class="figure-img img-fluid rounded shadow-sm"
           alt="Preview of the downloadable drill pack layout showing drill setup pages"
+          width="800"
+          height="600"
           loading="lazy"
         >
       </figure>

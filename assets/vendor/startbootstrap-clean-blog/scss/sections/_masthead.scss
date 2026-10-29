@@ -10,11 +10,12 @@ header.masthead {
 
     .row {
         margin-right: 0;
-        
+
         @media only screen and (max-width: 768px) {
             flex-direction: column-reverse !important;
         }
     }
+
     .overlay {
         position: absolute;
         top: 0;
@@ -33,6 +34,7 @@ header.masthead {
 
         img {
             max-height: 400px;
+
             @media only screen and (min-width: 768px) {
                 max-height: 600px;
                 margin-left: auto;
@@ -51,7 +53,7 @@ header.masthead {
         color: white;
 
         @media only screen and (min-width: 768px) {
-            padding: 200px 2rem 6.5rem;
+            padding: 100px 2rem 6.5rem;
         }
     }
 
@@ -90,7 +92,7 @@ header.masthead {
         h1 {
             font-size: 35px;
         }
-        
+
         .category {
             text-transform: uppercase;
             font-weight: 700;

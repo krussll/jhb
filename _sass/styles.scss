@@ -8,3 +8,12 @@
 @import "post";
 @import "video";
 @import "footer";
+
+// Accessibility contrast enhancements
+.text-muted {
+  color: #595959 !important;
+}
+
+.alert-light {
+  color: #212529;
+}

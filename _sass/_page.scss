@@ -161,10 +161,25 @@ header.masthead.page-hero--compact {
 }
 
 .price {
-  color: #E08264;
+  color: #b8431e;
   font-size: 36px;
 
   s {
-    color: #b4b4b4;
+    color: #595959;
   }
 }
+
+.btn-success {
+  background-color: #1e7e34;
+  border-color: #1c7430;
+  color: #fff;
+
+  &:hover,
+  &:focus,
+  &:active {
+    background-color: #155724 !important;
+    border-color: #10421a !important;
+    color: #fff !important;
+  }
+}
+

@@ -20,7 +20,7 @@ layout: default
       </div>
       <div class="home-hero__media">
         <img src="{{ '/img/posts/jack-high-bowls-success.png' | relative_url }}"
-          alt="Jack High Bowls players celebrating a successful end" loading="lazy" />
+          alt="Jack High Bowls players celebrating a successful end" width="700" height="600" loading="lazy" />
       </div>
     </div>
   </div>
@@ -40,7 +40,7 @@ layout: default
           <article class="core-guide-card">
             <div>
               <img src="{{ '/img/icons/learn-the-rules.png' | relative_url }}"
-                alt="Illustration for lawn bowls rules guide" loading="lazy" />
+                alt="Illustration for lawn bowls rules guide" width="256" height="256" loading="lazy" />
             </div>
             <h3>Learn the rules</h3>
             <p>Understand formats, scoring and etiquette before you step onto the green.</p>
@@ -52,7 +52,7 @@ layout: default
           <article class="core-guide-card">
             <div>
               <img src="{{ '/img/icons/buy-the-right-bowls.png' | relative_url }}"
-                alt="Illustration of a lawn bowl for equipment selection" loading="lazy" />
+                alt="Illustration of a lawn bowl for equipment selection" width="256" height="256" loading="lazy" />
             </div>
             <h3>Pick the right bowls</h3>
             <p>Compare models, bias profiles and sizes to find equipment that suits your draw.</p>
@@ -65,7 +65,7 @@ layout: default
           <article class="core-guide-card">
             <div>
               <img src="{{ '/img/icons/practice-with-confidence.png' | relative_url }}"
-                alt="Illustration of target rings for practice plans" loading="lazy" />
+                alt="Illustration of target rings for practice plans" width="256" height="256" loading="lazy" />
             </div>
             <h3>Practice with purpose</h3>
             <p>Follow a structured improvement plan that develops draw weight, line and mindset.</p>
@@ -77,7 +77,7 @@ layout: default
           <article class="core-guide-card">
             <div>
               <img src="{{ '/img/icons/win-at-singles.png' | relative_url }}"
-                alt="Illustration of tactical board for singles play" loading="lazy" />
+                alt="Illustration of tactical board for singles play" width="256" height="256" loading="lazy" />
             </div>
             <h3>Win your singles</h3>
             <p>Adopt match tactics that help you control the mat, jack and momentum end after end.</p>
@@ -139,7 +139,7 @@ layout: default
         <div class="col-lg-5 offset-lg-1">
           <div class="home-intro__card">
             <img class="home-intro__image" src="{{ '/img/reece-williams-jack-high-bowls.jpg' | relative_url }}"
-              alt="{{ site.author }} from Jack High Bowls" loading="lazy">
+              alt="{{ site.author }} from Jack High Bowls" width="450" height="600" loading="lazy">
             <div class="home-intro__quote">
               <p>“Great bowls is a blend of feel, focus and the right kit. I’m here to help you bring all three
                 together.”</p>
@@ -163,7 +163,7 @@ layout: default
           <div class="service-card">
             <div>
               <img src="{{ '/img/img/find-right-bowls.png' | relative_url }}"
-                alt="Illustration representing finding the right bowls" loading="lazy" />
+                alt="Illustration representing finding the right bowls" width="525" height="450" loading="lazy" />
             </div>
             <h3>Find the right bowls</h3>
             <p>Dive into our side-by-side comparisons to uncover the model that complements your draw, line and playing
@@ -175,7 +175,7 @@ layout: default
           <div class="service-card">
             <div>
               <img src="{{ '/img/img/master-core-skills.png' | relative_url }}"
-                alt="Illustration representing core bowling skills" loading="lazy" />
+                alt="Illustration representing core bowling skills" width="525" height="450" loading="lazy" />
             </div>
             <h3>Master core skills</h3>
             <p>From delivery drills to tactical shot selection, our guides show you how to practice with intention and
@@ -187,7 +187,7 @@ layout: default
           <div class="service-card">
             <div>
               <img src="{{ '/img/img/train-with-purpose.png' | relative_url }}"
-                alt="Illustration representing structured bowls training" loading="lazy" />
+                alt="Illustration representing structured bowls training" width="525" height="450" loading="lazy" />
             </div>
             <h3>Train with purpose</h3>
             <p>Download structured practice plans that keep you motivated and improving between matches.</p>
@@ -232,7 +232,7 @@ layout: default
               <span>{% include read_time.html content=post.content %}</span>
             </div>
             <a class="post-card__cta" href="{{ post.url | relative_url }}"
-              aria-label="Read {{ post.title | escape }}">Read article <i class="fas fa-arrow-right"></i></a>
+              aria-label="Read article: {{ post.title | escape }}">Read article <i class="fas fa-arrow-right" aria-hidden="true"></i></a>
           </article>
         </div>
         {% endfor %}
