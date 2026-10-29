@@ -15,9 +15,9 @@ last_modified_at: 2026-10-29 17:08:00
           src="{{ '/img/drill-pack/cover.png' | relative_url }}"
           class="figure-img img-fluid rounded shadow-sm"
           alt="Cover of the Jack High Bowls downloadable drill pack"
-          width="800"
-          height="600"
-          loading="lazy"
+          width="600"
+          height="450"
+          fetchpriority="high"
         >
       </figure>
       <div class="p-4 rounded bg-light border">
