@@ -5,11 +5,21 @@ author: reece
 categories: [ bowls, review ]
 featured: false
 description: "Drakes Pride Pro-50 lawn bowls review: channel grip evaluation, wet weather handling, and comparison to the classic Professional."
-last_modified_at: 2026-10-29 15:45:00 +0000
+last_modified_at: 2026-10-30 09:15:00 +0000
 date: 2019-05-16 13:00:00 -0400
+review:
+  name: "Drakes Pride PRO-50 Lawn Bowls"
+  rating: 9.4
+  best_rating: 10
+  pros:
+    - "Unique deep channel grip provides exceptional finger purchase and slip resistance"
+    - "Extends proven, balanced Professional trajectory"
+    - "Versatile performance on both indoor rinks and outdoor greens"
+    - "Gradual draw and clean finish makes draw shots predictable"
+  cons:
+    - "Bias may be too narrow on slow outdoor rinks for late position skips"
+    - "Only available with the channel dimple grip"
 ---
-    
-
 <!-- wp:paragraph -->
 <p xmlns="http://www.w3.org/1999/xhtml">9 reasons to buy/NOT buy Drakes Pride PRO-50 lawn bowls.</p>
 <!-- /wp:paragraph -->

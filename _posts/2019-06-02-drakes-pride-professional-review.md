@@ -5,11 +5,21 @@ author: reece
 categories: [ bowls, review ]
 featured: false
 description: "In-depth Drakes Pride Professional review: trajectory analysis, grip variations, running surface versatility, and expert verdict."
-last_modified_at: 2026-10-29 15:45:00 +0000
+last_modified_at: 2026-10-30 09:15:00 +0000
 date: 2019-06-02 13:00:00 -0400
+review:
+  name: "Drakes Pride Professional Lawn Bowls"
+  rating: 9.3
+  best_rating: 10
+  pros:
+    - "The UK's benchmark classic all-round lawn bowl"
+    - "Balanced mid-bias profile equally playable on indoor and outdoor surfaces"
+    - "Smooth predictable finish without unpredictable hooking"
+    - "Outstanding second-hand availability and resale value"
+  cons:
+    - "Can run slightly narrow for late position skips on heavy outdoor turf"
+    - "Does not offer modern deep channel grip options"
 ---
-    
-
 <!-- wp:paragraph -->
 <p xmlns="http://www.w3.org/1999/xhtml">9 reasons to buy/NOT buy Drakes Pride Professional lawn bowls.</p>
 <!-- /wp:paragraph -->

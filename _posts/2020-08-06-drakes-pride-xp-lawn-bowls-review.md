@@ -5,11 +5,19 @@ author: reece
 categories: [ bowls, review ]
 featured: false
 description: "Drakes Pride XP lawn bowls review: wide bias profile, heavy grass performance, Skip suitability, and verdict."
-last_modified_at: 2026-10-29 15:45:00 +0000
+last_modified_at: 2026-10-30 09:15:00 +0000
 date: 2020-08-06 13:00:00 -0400
+review:
+  name: "Drakes Pride XP Lawn Bowls"
+  rating: 9.0
+  best_rating: 10
+  pros:
+    - "Based on the hugely popular Professional model"
+    - "Designed specifically for slow, heavy outdoor greens"
+    - "Forgiving sweeping finish to navigate around short bowls"
+  cons:
+    - "Produces a wide line that is difficult to control on fast indoor rinks"
 ---
-    
-
 <!-- wp:paragraph -->
 <p xmlns="http://www.w3.org/1999/xhtml">6 reasons to buy/NOT buy Drakes Pride XP lawn bowls.</p>
 <!-- /wp:paragraph -->

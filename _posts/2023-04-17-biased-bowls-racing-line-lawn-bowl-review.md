@@ -5,11 +5,19 @@ author: reece
 categories: [ guide ]
 featured: false
 description: ""
-last_modified_at: 2026-10-29 15:45:00 +0000
+last_modified_at: 2026-10-30 09:15:00 +0000
 date: 2023-04-17 13:00:00 -0400
+review:
+  name: "Biased Bowls Racing Line Lawn Bowls"
+  rating: 5.0
+  best_rating: 5
+  pros:
+    - "Playable on both indoor and outdoor surfaces"
+    - "Consistent trajectory with controlled finish"
+    - "Contemporary graphic engraving options"
+  cons:
+    - "Limited availability on second-hand marketplaces"
 ---
-    
-
 <!-- wp:paragraph -->
 <p xmlns="http://www.w3.org/1999/xhtml"><strong>Biased Bowls may have only been around since 2020, but their range of racing inspired bowls certainly make an impact. But just how good is the Racing Line model? And is it the right choice for you?</strong></p>
 <!-- /wp:paragraph -->

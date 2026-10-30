@@ -5,11 +5,20 @@ author: reece
 categories: [ bowls, review ]
 featured: false
 description: "Drakes Pride D-Tec lawn bowls review: narrow bias profile, indoor specialist analysis, and direct comparisons."
-last_modified_at: 2026-10-29 15:45:00 +0000
+last_modified_at: 2026-10-30 09:15:00 +0000
 date: 2018-01-12 13:00:00 -0400
+review:
+  name: "Drakes Pride D-Tec Lawn Bowls"
+  rating: 8.9
+  best_rating: 10
+  pros:
+    - "Ultra-narrow running line ideal for fast indoor carpets and slick synthetic greens"
+    - "Consistent flat finishing draw shot"
+    - "Wide range of sizes from 0000 to 5"
+  cons:
+    - "Too straight for slow or heavy outdoor grass greens"
+    - "Does not offer the channel Pro-50 grip option"
 ---
-    
-
 <!-- wp:paragraph -->
 <p xmlns="http://www.w3.org/1999/xhtml">The d-tec is one of the best narrow line bowls available. Ideal for either indoor, or outdoor lead bowling on faster greens, the d-tec offers a consistent flat finishing draw shot.</p>
 <!-- /wp:paragraph -->

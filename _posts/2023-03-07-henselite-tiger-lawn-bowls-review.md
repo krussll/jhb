@@ -5,11 +5,19 @@ author: reece
 categories: [ guide ]
 featured: false
 description: "Henselite Tiger lawn bowls review: classic mid-bias draw, outdoor green adaptability, and comparison with Tiger II and Tiger Pro."
-last_modified_at: 2026-10-29 15:45:00 +0000
+last_modified_at: 2026-10-30 09:15:00 +0000
 date: 2023-03-07 13:00:00 -0400
+review:
+  name: "Henselite Tiger Lawn Bowls"
+  rating: 9.1
+  best_rating: 10
+  pros:
+    - "Ideal for backend bowlers such as skips on outdoor greens"
+    - "Predictable mid-bias draw arc"
+    - "Robust Henselite material durability and finish"
+  cons:
+    - "Not suitable as a dual-purpose indoor bowl"
 ---
-    
-
 <!-- wp:paragraph -->
 <p xmlns="http://www.w3.org/1999/xhtml"><strong>Today's market is jampacked with mid-biased bowls, with only a few models dedicated solely to either indoor or outdoor bowlers. This is a real shame as their are some gems out there for those who want to venture outside the "mid biased" comfort zone. in this guide I'll be looking at one such specialist - the Henselite Tiger.</strong></p>
 <!-- /wp:paragraph -->

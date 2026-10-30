@@ -5,11 +5,20 @@ author: reece
 categories: [ guide ]
 featured: false
 description: "Henselite Tiger II lawn bowls review: bias line analysis, Ergo Extreme grip test, indoor vs fast outdoor suitability, and expert ratings."
-last_modified_at: 2026-10-29 15:45:00 +0000
+last_modified_at: 2026-10-30 09:15:00 +0000
 date: 2023-03-07 13:00:00 -0400
+review:
+  name: "Henselite Tiger II Lawn Bowls"
+  rating: 9.2
+  best_rating: 10
+  pros:
+    - "Popular with competitive tournament players"
+    - "Narrow-to-mid line excels on fast outdoor greens and indoor surfaces"
+    - "Ergo Extreme profile provides exceptional grip comfort"
+  cons:
+    - "Hard to find sellers on online marketplaces like Amazon"
+    - "Too narrow for very heavy, slow outdoor greens"
 ---
-    
-
 <!-- wp:paragraph -->
 <p xmlns="http://www.w3.org/1999/xhtml"><strong>Henselite have been a top manufacturer in bowls for a number of decades. They have fantastic ranges of bowls for both Northern and Southern Hemisphere bowlers. Their UK range in particular covers just about every preference imaginable. In this guide I'll be looking at one of their most popular models - the Tiger II.</strong></p>
 <!-- /wp:paragraph -->

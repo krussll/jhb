@@ -5,10 +5,19 @@ author: reece
 categories: [ shoes, review ]
 featured: false
 description: ""
+last_modified_at: 2026-10-30 09:15:00 +0000
 date: 2018-01-12 13:00:00 -0400
+review:
+  name: "Dek Unisex Bowls Shoes"
+  rating: 4.5
+  best_rating: 5
+  pros:
+    - "Durable synthetic leather uppers with robust build quality"
+    - "Available in both lace-up and velcro strap variations"
+    - "Meets club dress codes with white and grey options"
+  cons:
+    - "Sizing can run slightly large for narrow feet"
 ---
-    
-
 <!-- wp:paragraph -->
 <p xmlns="http://www.w3.org/1999/xhtml">Are Dek the best bowls shoe available? See our in-depth review to find out.</p>
 <!-- /wp:paragraph -->

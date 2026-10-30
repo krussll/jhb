@@ -5,11 +5,19 @@ author: reece
 categories: [ guide ]
 featured: false
 description: "Henselite Tiger TX lawn bowls review: ultra-narrow line analysis, indoor carpet testing, and suitability for leads."
-last_modified_at: 2026-10-29 15:45:00 +0000
+last_modified_at: 2026-10-30 09:15:00 +0000
 date: 2023-03-07 13:00:00 -0400
+review:
+  name: "Henselite Tiger TX Lawn Bowls"
+  rating: 9.0
+  best_rating: 10
+  pros:
+    - "Ideal for bowlers who primarily play indoors"
+    - "Handles fast, slick outdoor greens with ease"
+    - "Narrow line allows tight drawing to the jack"
+  cons:
+    - "Hard to find second-hand, usually requires buying new"
 ---
-    
-
 <!-- wp:paragraph -->
 <p xmlns="http://www.w3.org/1999/xhtml"><strong>Henselite offers one of the widest range of bowls of any of the top manufacturers. Because of this they can produce bowls for just about any preference a bowler may have. One such bowl is the Tiger TX, designed solely for indoor rinks. but how good is it, and is it right for you?</strong></p>
 <!-- /wp:paragraph -->

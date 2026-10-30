@@ -5,11 +5,19 @@ author: reece
 categories: [ guide ]
 featured: false
 description: "Aero Sonic lawn bowl review: mid-to-wide trajectory test, wind stability, and head-to-head comparison with Groove and Quantum."
-last_modified_at: 2026-10-29 15:45:00 +0000
+last_modified_at: 2026-10-30 09:15:00 +0000
 date: 2023-03-22 13:00:00 -0400
+review:
+  name: "Aero Sonic Lawn Bowls"
+  rating: 9.3
+  best_rating: 10
+  pros:
+    - "Outstanding stability and performance on outdoor grass greens"
+    - "Versatile enough to handle varying green speeds"
+    - "Trajectory resists wind disruption"
+  cons:
+    - "Limited second-hand availability on eBay and online forums"
 ---
-    
-
 <!-- wp:paragraph -->
 <p xmlns="http://www.w3.org/1999/xhtml"><strong>Aero are one of the big 4 lawn bowls brands on the market, and are known for their innovative approach to designing and manufacturing bowls. Today I will be reviewing their wide biased offering - the Aero Sonic. I'll go over it's spec, as well as its pros and cons to give you a better understanding of whether it is right for you.</strong></p>
 <!-- /wp:paragraph -->

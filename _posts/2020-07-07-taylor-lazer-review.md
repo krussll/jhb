@@ -5,11 +5,19 @@ author: reece
 categories: [ bowls, review ]
 featured: false
 description: ""
-last_modified_at: 2026-10-29 15:45:00 +0000
+last_modified_at: 2026-10-30 09:15:00 +0000
 date: 2020-07-07 13:00:00 -0400
+review:
+  name: "Taylor Lazer Lawn Bowls"
+  rating: 5.0
+  best_rating: 5
+  pros:
+    - "Ideal for dedicated indoor bowling and lightning-fast greens"
+    - "Slim profile fits comfortably in smaller hands"
+    - "Clean, narrow running line allows pinpoint draw accuracy"
+  cons:
+    - "Should not be considered if you plan to play through the outdoor season"
 ---
-    
-
 <!-- wp:paragraph -->
 <p xmlns="http://www.w3.org/1999/xhtml">6 reasons to buy/NOT buy Taylor Lazer lawn bowls.</p>
 <!-- /wp:paragraph -->

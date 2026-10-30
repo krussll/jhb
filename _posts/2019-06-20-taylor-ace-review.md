@@ -5,11 +5,20 @@ author: reece
 categories: [ bowls, review ]
 featured: false
 description: "Comprehensive Taylor Ace lawn bowls review: bias profile analysis, grip options, indoor vs outdoor performance, and pros & cons for club bowlers."
-last_modified_at: 2026-10-29 15:45:00 +0000
+last_modified_at: 2026-10-30 09:15:00 +0000
 date: 2019-06-20 13:00:00 -0400
+review:
+  name: "Taylor Ace Lawn Bowls"
+  rating: 9.4
+  best_rating: 10
+  pros:
+    - "Popular with professional players"
+    - "Strong all-round bowl that performs in all rink positions"
+    - "Predictable forgiving draw line ideal for club bowlers"
+    - "Strong second-hand value and liquidity"
+  cons:
+    - "Hard to find sellers on popular online marketplaces like Amazon"
 ---
-    
-
 <!-- wp:paragraph -->
 <p xmlns="http://www.w3.org/1999/xhtml">7 reasons to buy/NOT buy Taylor Ace lawn bowls.</p>
 <!-- /wp:paragraph -->

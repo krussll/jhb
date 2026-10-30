@@ -5,8 +5,19 @@ author: reece
 categories: [ guide ]
 featured: false
 description: "Taylor Lignoid lawn bowls review: wide bias profile, holding line on slow grass greens, second-hand affordability, and verdict."
-last_modified_at: 2026-10-29 15:45:00 +0000
+last_modified_at: 2026-10-30 09:15:00 +0000
 date: 2023-04-22 13:00:00 -0400
+review:
+  name: "Taylor Lignoid Lawn Bowls"
+  rating: 8.8
+  best_rating: 10
+  pros:
+    - "Affordable second hand bowl"
+    - "Great for new players looking to get a feel for the game"
+    - "Generous draw arc helps clear short bowls on slow greens"
+  cons:
+    - "Has limited use on fast outdoor greens and indoor surfaces"
+    - "Limited colour and grip options"
 ---
     
 

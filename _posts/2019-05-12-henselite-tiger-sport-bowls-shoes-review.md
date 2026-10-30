@@ -5,10 +5,19 @@ author: reece
 categories: [ shoes, review ]
 featured: false
 description: ""
+last_modified_at: 2026-10-30 09:15:00 +0000
 date: 2019-05-12 13:00:00 -0400
+review:
+  name: "Henselite Tiger Sport Bowls Shoes"
+  rating: 4.5
+  best_rating: 5
+  pros:
+    - "Latex orthopaedic mid-sole provides exceptional comfort and arch support"
+    - "Anti-bacterial moisture-wicking inner sole for hot summer play"
+    - "Durable heel counter, toe protection, and metatarsal support reduce delivery wear"
+  cons:
+    - "Higher price bracket than basic entry-level bowls shoes"
 ---
-    
-
 <!-- wp:paragraph -->
 <p xmlns="http://www.w3.org/1999/xhtml">Are Henselite Tiger Sport the best bowls shoe available? See our in-depth review to find out.</p>
 <!-- /wp:paragraph -->

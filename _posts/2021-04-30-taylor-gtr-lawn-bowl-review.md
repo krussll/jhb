@@ -5,11 +5,19 @@ author: reece
 categories: [ bowls, review ]
 featured: false
 description: ""
-last_modified_at: 2026-10-29 15:45:00 +0000
+last_modified_at: 2026-10-30 09:15:00 +0000
 date: 2021-04-30 13:00:00 -0400
+review:
+  name: "Taylor GTR Lawn Bowls"
+  rating: 5.0
+  best_rating: 5
+  pros:
+    - "Popular with competitive outdoor bowlers"
+    - "Smooth, consistent arc on medium grass greens"
+    - "High quality Taylor finish"
+  cons:
+    - "May play slightly wide for leads on slick surfaces"
 ---
-    
-
 <!-- wp:paragraph -->
 <p xmlns="http://www.w3.org/1999/xhtml">Ideal for either indoor or outdoor surfaces, the GTR offers a consistent flat finishing draw shot, and will suit any Southern Hemisphere green.</p>
 <!-- /wp:paragraph -->

@@ -211,12 +211,34 @@
     <script type="application/ld+json">{{ page_breadcrumbs_json_ld | strip }}</script>
   {% endif %}
 
+  {% comment %} Check for Review Data {% endcomment %}
+  {% assign has_review = false %}
+  {% if page.review and page.review.rating %}
+    {% assign has_review = true %}
+    {% assign review_rating = page.review.rating %}
+    {% assign review_best = page.review.best_rating %}
+    {% if review_best == nil or review_best == "" %}
+      {% if review_rating > 5 %}
+        {% assign review_best = 10 %}
+      {% else %}
+        {% assign review_best = 5 %}
+      {% endif %}
+    {% endif %}
+    {% assign review_worst = page.review.worst_rating | default: 1 %}
+    {% assign default_product_name = page_title | remove: ' Lawn Bowls Review' | remove: ' Lawn Bowl Review' | remove: ' Bowls Shoes Review' | remove: ' Review' | remove: ' review' | split: ' | ' | first | strip %}
+    {% assign review_product_name = page.review.name | default: page.review.product | default: default_product_name %}
+    {% assign review_item_type = page.review.item_type | default: 'Product' %}
+    {% assign review_category = page.review.category | default: 'Lawn Bowls Equipment' %}
+    {% assign review_image = page.review.image | default: og_image_url %}
+  {% endif %}
+
   {% comment %} 3. Article Schema {% endcomment %}
   {% if is_article and page_title %}
     {% capture article_json_ld -%}
 {
   "@context": "https://schema.org",
   "@type": "Article",
+  "@id": {{ canonical_url | append: '#article' | jsonify }},
   "mainEntityOfPage": {{ canonical_url | jsonify }},
   "headline": {{ page_title | jsonify }}{% if page_description %}
   , "description": {{ page_description | jsonify }}{% endif %}{% if og_image_url %}
@@ -235,43 +257,75 @@
       "@type": "ImageObject",
       "url": {{ publisher_logo_url | jsonify }}
     }{% endif %}
-  }
+  }{% if has_review %}
+  , "review": {
+    "@id": {{ canonical_url | append: '#review' | jsonify }}
+  }{% endif %}
 }
     {%- endcapture %}
     <script type="application/ld+json">{{ article_json_ld | strip }}</script>
   {% endif %}
 
   {% comment %} 4. Review Schema for Equipment Reviews {% endcomment %}
-  {% assign is_review_page = false %}
-  {% if page.categories contains 'review' or page_title contains 'Review' or page_title contains 'review' %}
-    {% assign is_review_page = true %}
-    {% assign reviewed_product = page_title | remove: ' Review' | remove: ' review' | strip %}
-  {% endif %}
-  {% if is_review_page and page_title %}
+  {% if has_review %}
     {% capture review_json_ld -%}
 {
   "@context": "https://schema.org",
   "@type": "Review",
+  "@id": {{ canonical_url | append: '#review' | jsonify }},
+  "isPartOf": {
+    "@id": {{ canonical_url | append: '#article' | jsonify }}
+  },
   "mainEntityOfPage": {{ canonical_url | jsonify }},
   "headline": {{ page_title | jsonify }},
   "itemReviewed": {
-    "@type": "Product",
-    "name": {{ reviewed_product | jsonify }},
-    "category": "Lawn Bowls Equipment"
+    "@type": {{ review_item_type | jsonify }},
+    "name": {{ review_product_name | jsonify }},
+    "category": {{ review_category | jsonify }}{% if review_image %}
+    , "image": {{ review_image | jsonify }}{% endif %}
   },
   "reviewRating": {
     "@type": "Rating",
-    "ratingValue": "4.5",
-    "bestRating": "5"
-  },
-  "author": {
+    "ratingValue": {{ review_rating | jsonify }},
+    "bestRating": {{ review_best | jsonify }},
+    "worstRating": {{ review_worst | jsonify }}
+  }{% if page.review.pros and page.review.pros.size > 0 %}
+  , "positiveNotes": {
+    "@type": "ItemList",
+    "itemListElement": [
+      {% for pro in page.review.pros %}
+      {
+        "@type": "ListItem",
+        "position": {{ forloop.index }},
+        "name": {{ pro | jsonify }}
+      }{% unless forloop.last %},{% endunless %}
+      {% endfor %}
+    ]
+  }{% endif %}{% if page.review.cons and page.review.cons.size > 0 %}
+  , "negativeNotes": {
+    "@type": "ItemList",
+    "itemListElement": [
+      {% for con in page.review.cons %}
+      {
+        "@type": "ListItem",
+        "position": {{ forloop.index }},
+        "name": {{ con | jsonify }}
+      }{% unless forloop.last %},{% endunless %}
+      {% endfor %}
+    ]
+  }{% endif %}
+  , "author": {
     "@type": "Person",
     "name": {{ author_name | jsonify }}{% if author_url %}
     , "url": {{ author_url | jsonify }}{% endif %}
   },
   "publisher": {
     "@type": "Organization",
-    "name": {{ site.title | jsonify }}
+    "name": {{ site.title | jsonify }}{% if publisher_logo_url %}
+    , "logo": {
+      "@type": "ImageObject",
+      "url": {{ publisher_logo_url | jsonify }}
+    }{% endif %}
   }{% if article_published %}
   , "datePublished": {{ article_published | jsonify }}{% endif %}{% if article_modified %}
   , "dateModified": {{ article_modified | jsonify }}{% endif %}

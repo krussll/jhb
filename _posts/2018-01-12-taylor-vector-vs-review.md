@@ -5,11 +5,20 @@ author: reece
 categories: [ bowls, review ]
 featured: false
 description: "Taylor Vector VS lawn bowls review: narrow bias profile, indoor performance, suitability for leads, and comprehensive buyers guide."
-last_modified_at: 2026-10-29 15:45:00 +0000
+last_modified_at: 2026-10-30 09:15:00 +0000
 date: 2018-01-12 13:00:00 -0400
+review:
+  name: "Taylor Vector VS Lawn Bowls"
+  rating: 9.1
+  best_rating: 10
+  pros:
+    - "Narrow running line excels on fast outdoor grass and indoor carpet rinks"
+    - "Gentle holding finish gives front-end bowlers exceptional draw precision"
+    - "Available with Taylor Progrip and Half-Pipe grip options"
+  cons:
+    - "Too straight for slow heavy outdoor grass greens"
+    - "Requires precise weight control on holding greens"
 ---
-    
-
 <!-- wp:paragraph -->
 <p xmlns="http://www.w3.org/1999/xhtml">The Taylor Vector VS are a premium, narrow lined bowl. Ideal for indoor/fast outdoor greens and front end play in general. Strong second hand marketplace allows this model to be picked up for those on a tighter budget.</p>
 <!-- /wp:paragraph -->

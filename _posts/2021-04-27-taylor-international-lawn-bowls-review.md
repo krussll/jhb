@@ -5,11 +5,20 @@ author: reece
 categories: [ bowls, review ]
 featured: false
 description: ""
-last_modified_at: 2026-10-29 15:45:00 +0000
+last_modified_at: 2026-10-30 09:15:00 +0000
 date: 2021-04-27 13:00:00 -0400
+review:
+  name: "Taylor International Lawn Bowls"
+  rating: 5.0
+  best_rating: 5
+  pros:
+    - "Great line to the jack on outdoor greens"
+    - "Strong finish helps draw around short bowls"
+    - "Versatile across multiple team positions"
+  cons:
+    - "Might run a bit wide on faster indoor rinks"
+    - "Not ideal for dedicated indoor leads"
 ---
-    
-
 <!-- wp:paragraph -->
 <p xmlns="http://www.w3.org/1999/xhtml">The Taylor International is a versatile outdoor bowl. The strong finish will favour those playing backend positions, but might not be one for the lead purists. It’s versatile and consistent enough to handle anything you throw at it, especially on the outdoor greens.</p>
 <!-- /wp:paragraph -->

@@ -5,11 +5,20 @@ author: reece
 categories: [ bowls, review ]
 featured: false
 description: "Taylor Blaze lawn bowls review: mid-narrow bias line, fast surface performance, and comparison to Ace and Vector VS."
-last_modified_at: 2026-10-29 15:45:00 +0000
+last_modified_at: 2026-10-30 09:15:00 +0000
 date: 2020-09-01 13:00:00 -0400
+review:
+  name: "Taylor Blaze Lawn Bowls"
+  rating: 9.2
+  best_rating: 10
+  pros:
+    - "Ideally suited to fast outdoor greens and indoor surfaces"
+    - "Narrow-to-mid line with a flat, controlled finish"
+    - "Comfortable grip profile in the hand"
+  cons:
+    - "Better suited to experienced bowlers than raw beginners"
+    - "Taylor Ace offers greater versatility on slow outdoor grass"
 ---
-    
-
 <!-- wp:paragraph -->
 <p xmlns="http://www.w3.org/1999/xhtml">6 reasons to buy/NOT buy Taylor Blaze lawn bowls.</p>
 <!-- /wp:paragraph -->

@@ -5,11 +5,21 @@ author: reece
 categories: [ bowls, review ]
 featured: false
 description: ""
-last_modified_at: 2026-10-29 15:45:00 +0000
+last_modified_at: 2026-10-30 09:15:00 +0000
 date: 2019-06-06 13:00:00 -0400
+review:
+  name: "Taylor Legacy SL Lawn Bowls"
+  rating: 4.5
+  best_rating: 5
+  pros:
+    - "Slim line design makes the bowl easier to hold for smaller hands"
+    - "Taylor's Progrip added as standard for superior grip"
+    - "Strong mid-to-wide bias ideally suited to outdoor greens"
+    - "Smooth draw arch making it possible to play lead even with wider bias"
+  cons:
+    - "May not suit bowlers with very large hands"
+    - "Would not suit fast indoor surfaces"
 ---
-    
-
 <!-- wp:paragraph -->
 <p xmlns="http://www.w3.org/1999/xhtml">9 reasons to buy/NOT buy Taylor Legacy SL lawn bowls.</p>
 <!-- /wp:paragraph -->

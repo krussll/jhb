@@ -5,11 +5,19 @@ author: reece
 categories: [ bowls, review ]
 featured: false
 description: "Aero Quantum lawn bowls review: wide bias profile for slow grass greens, heavy surface performance, and buyers guide."
-last_modified_at: 2026-10-29 15:45:00 +0000
+last_modified_at: 2026-10-30 09:15:00 +0000
 date: 2021-05-18 13:00:00 -0400
+review:
+  name: "Aero Quantum Lawn Bowls"
+  rating: 9.0
+  best_rating: 10
+  pros:
+    - "Perfect for lead bowlers on fast outdoor greens"
+    - "Versatile for all positions on indoor surfaces"
+    - "Robotic precision lathe manufacturing"
+  cons:
+    - "Can struggle to turn on heavy damp UK greens"
 ---
-    
-
 <!-- wp:paragraph -->
 <p xmlns="http://www.w3.org/1999/xhtml">6 reasons to buy/NOT buy Aero Quantum lawn bowls.</p>
 <!-- /wp:paragraph -->

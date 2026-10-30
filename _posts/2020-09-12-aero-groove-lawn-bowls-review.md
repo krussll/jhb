@@ -5,11 +5,19 @@ author: reece
 categories: [ bowls, review ]
 featured: false
 description: "Aero Groove lawn bowls review: robotic precision manufacturing, mid-bias trajectory, Z-Scoop grip evaluation, and performance score."
-last_modified_at: 2026-10-29 15:45:00 +0000
+last_modified_at: 2026-10-30 09:15:00 +0000
 date: 2020-09-12 13:00:00 -0400
+review:
+  name: "Aero GrooVe Lawn Bowls"
+  rating: 9.5
+  best_rating: 10
+  pros:
+    - "Great allrounder playable on both indoor rinks and outdoor greens"
+    - "Robotic precision manufacturing ensures flawless set matching"
+    - "Trajectory holds very true in crosswinds"
+  cons:
+    - "Very small second hand market requires buying new"
 ---
-    
-
 <!-- wp:paragraph -->
 <p xmlns="http://www.w3.org/1999/xhtml">4 reasons to buy/NOT buy Aero Groove lawn bowls.</p>
 <!-- /wp:paragraph -->
