@@ -5,7 +5,7 @@ author: reece
 categories: [ bowls, review ]
 featured: false
 description: "Drakes Pride Pro-50 lawn bowls review: channel grip evaluation, wet weather handling, and comparison to the classic Professional."
-last_modified_at: 2026-10-30 09:15:00 +0000
+last_modified_at: 2026-10-30 09:30:00 +0000
 date: 2019-05-16 13:00:00 -0400
 review:
   name: "Drakes Pride PRO-50 Lawn Bowls"
@@ -140,7 +140,7 @@ review:
 <!-- /wp:group -->
 
 <!-- wp:paragraph -->
-<p><a href="http://rover.ebay.com/rover/1/710-53481-19255-0/1?icep_ff3=9&amp;pub=5575495824&amp;toolid=10001&amp;campid=5338542401&amp;customid=&amp;icep_uq=Drakes+Pride+PRO-50&amp;icep_sellerId=&amp;icep_ex_kw=&amp;icep_sortBy=12&amp;icep_catId=888&amp;icep_minPrice=&amp;icep_maxPrice=&amp;ipn=psmain&amp;icep_vectorid=229508&amp;kwid=902099&amp;mtid=824&amp;kw=lg">See current deals</a></p>
+<p><a href="http://rover.ebay.com/rover/1/710-53481-19255-0/1?icep_ff3=9&amp;pub=5575495824&amp;toolid=10001&amp;campid=5338542401&amp;customid=&amp;icep_uq=Drakes+Pride+PRO-50&amp;icep_sellerId=&amp;icep_ex_kw=&amp;icep_sortBy=12&amp;icep_catId=888&amp;icep_minPrice=&amp;icep_maxPrice=&amp;ipn=psmain&amp;icep_vectorid=229508&amp;kwid=902099&amp;mtid=824&amp;kw=lg" target="_blank" rel="sponsored nofollow noopener noreferrer">See current deals</a></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

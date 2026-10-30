@@ -5,7 +5,7 @@ author: reece
 categories: [ bowls, review ]
 featured: false
 description: "Drakes Pride XP lawn bowls review: wide bias profile, heavy grass performance, Skip suitability, and verdict."
-last_modified_at: 2026-10-30 09:15:00 +0000
+last_modified_at: 2026-10-30 09:30:00 +0000
 date: 2020-08-06 13:00:00 -0400
 review:
   name: "Drakes Pride XP Lawn Bowls"
@@ -125,7 +125,7 @@ review:
 <!-- /wp:group -->
 
 <!-- wp:paragraph -->
-<p><a href="https://www.amazon.co.uk/gp/product/B07L5NC66P/ref=as_li_qf_asin_il_tl?ie=UTF8&amp;tag=jackhighbow0a-21&amp;creative=6738&amp;linkCode=as2&amp;creativeASIN=B07L5NC66P&amp;linkId=914744cf2972eafc0cd25405c1cbfcc8">See current deals</a></p>
+<p><a href="https://www.amazon.co.uk/gp/product/B07L5NC66P/ref=as_li_qf_asin_il_tl?ie=UTF8&amp;tag=jackhighbow0a-21&amp;creative=6738&amp;linkCode=as2&amp;creativeASIN=B07L5NC66P&amp;linkId=914744cf2972eafc0cd25405c1cbfcc8" target="_blank" rel="sponsored nofollow noopener noreferrer">See current deals</a></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

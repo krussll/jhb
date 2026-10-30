@@ -5,7 +5,7 @@ author: reece
 categories: [ guide ]
 featured: false
 description: ""
-last_modified_at: 2026-10-29 15:45:00 +0000
+last_modified_at: 2026-10-30 09:30:00 +0000
 date: 2022-04-06 13:00:00 -0400
 ---
     
@@ -59,7 +59,7 @@ date: 2022-04-06 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>You can get this colour choice by using the Taylor "Build a Bowl" feature on their website. You can access the <a href="https://www.taylorbowls.com/browse/c-Lawn-Bowls-1/c-Ace-17/c-Ace-with-Xtreme-Grip-Build-a-Bowl-76/" data-type="URL" data-id="https://www.taylorbowls.com/browse/c-Lawn-Bowls-1/c-Ace-17/c-Ace-with-Xtreme-Grip-Build-a-Bowl-76/">builder feature here</a></p>
+<p>You can get this colour choice by using the Taylor "Build a Bowl" feature on their website. You can access the <a href="https://www.taylorbowls.com/browse/c-Lawn-Bowls-1/c-Ace-17/c-Ace-with-Xtreme-Grip-Build-a-Bowl-76/" data-type="URL" data-id="https://www.taylorbowls.com/browse/c-Lawn-Bowls-1/c-Ace-17/c-Ace-with-Xtreme-Grip-Build-a-Bowl-76/" target="_blank" rel="sponsored nofollow noopener noreferrer">builder feature here</a></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":3} -->
@@ -75,7 +75,7 @@ date: 2022-04-06 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>You can get this colour choice by using the Taylor "Build a Bowl" feature on their website. You can access the <a href="https://www.taylorbowls.com/item/133/Taylor/Vector-VS---Build-a-Bowl.html" data-type="URL">builder feature here</a>. </p>
+<p>You can get this colour choice by using the Taylor "Build a Bowl" feature on their website. You can access the <a href="https://www.taylorbowls.com/item/133/Taylor/Vector-VS---Build-a-Bowl.html" data-type="URL" target="_blank" rel="sponsored nofollow noopener noreferrer">builder feature here</a>. </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -139,7 +139,7 @@ date: 2022-04-06 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>The <a href="https://www.aerobowls.com/pages/build-your-own-bowls" data-type="URL" data-id="https://www.aerobowls.com/pages/build-your-own-bowls">Aero Build a Bowl feature can be found here</a>.</p>
+<p>The <a href="https://www.aerobowls.com/pages/build-your-own-bowls" data-type="URL" data-id="https://www.aerobowls.com/pages/build-your-own-bowls" target="_blank" rel="sponsored nofollow noopener noreferrer">Aero Build a Bowl feature can be found here</a>.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->

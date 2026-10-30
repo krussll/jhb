@@ -5,7 +5,7 @@ author: reece
 categories: [ crown-green-bowls ]
 featured: false
 description: ""
-last_modified_at: 2026-10-29 15:45:00 +0000
+last_modified_at: 2026-10-30 09:30:00 +0000
 date: 2022-06-07 13:00:00 -0400
 ---
     
@@ -87,7 +87,7 @@ date: 2022-06-07 13:00:00 -0400
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
-<p><a href="https://www.mastersofgames.com/cat/bowls/drakes-pride-bowls-crown-green.htm" rel="noreferrer noopener" target="_blank">View Drakes Pride Professional crown green bowls</a></p>
+<p><a href="https://www.mastersofgames.com/cat/bowls/drakes-pride-bowls-crown-green.htm" rel="sponsored nofollow noopener noreferrer" target="_blank">View Drakes Pride Professional crown green bowls</a></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

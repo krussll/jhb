@@ -5,7 +5,7 @@ author: reece
 categories: [ guide ]
 featured: false
 description: ""
-last_modified_at: 2026-10-29 15:45:00 +0000
+last_modified_at: 2026-10-30 09:30:00 +0000
 date: 2020-07-01 13:00:00 -0400
 ---
     
@@ -71,7 +71,7 @@ date: 2020-07-01 13:00:00 -0400
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
-<p><a href="https://www.amazon.co.uk/gp/product/B07HQSSMLH/ref=as_li_qf_asin_il_tl?ie=UTF8&amp;tag=jackhighbow0a-21&amp;creative=6738&amp;linkCode=as2&amp;creativeASIN=B07HQSSMLH&amp;linkId=14bae9b7b748392b500ef8286fa8058a">See current deals</a></p>
+<p><a href="https://www.amazon.co.uk/gp/product/B07HQSSMLH/ref=as_li_qf_asin_il_tl?ie=UTF8&amp;tag=jackhighbow0a-21&amp;creative=6738&amp;linkCode=as2&amp;creativeASIN=B07HQSSMLH&amp;linkId=14bae9b7b748392b500ef8286fa8058a" target="_blank" rel="sponsored nofollow noopener noreferrer">See current deals</a></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -103,7 +103,7 @@ date: 2020-07-01 13:00:00 -0400
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
-<p><a href="https://www.amazon.co.uk/gp/product/B004UQV7YS/ref=as_li_qf_asin_il_tl?ie=UTF8&amp;tag=jackhighbow0a-21&amp;creative=6738&amp;linkCode=as2&amp;creativeASIN=B004UQV7YS&amp;linkId=94116a280d33baff3a73915f3c5d616c">See current deals</a></p>
+<p><a href="https://www.amazon.co.uk/gp/product/B004UQV7YS/ref=as_li_qf_asin_il_tl?ie=UTF8&amp;tag=jackhighbow0a-21&amp;creative=6738&amp;linkCode=as2&amp;creativeASIN=B004UQV7YS&amp;linkId=94116a280d33baff3a73915f3c5d616c" target="_blank" rel="sponsored nofollow noopener noreferrer">See current deals</a></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -131,7 +131,7 @@ date: 2020-07-01 13:00:00 -0400
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
-<p><a href="https://www.amazon.co.uk/gp/product/B0027Y62KO/ref=as_li_qf_asin_il_tl?ie=UTF8&amp;tag=jackhighbow0a-21&amp;creative=6738&amp;linkCode=as2&amp;creativeASIN=B0027Y62KO&amp;linkId=499566ac22901d2a99d98cba7960345e">See current deals</a></p>
+<p><a href="https://www.amazon.co.uk/gp/product/B0027Y62KO/ref=as_li_qf_asin_il_tl?ie=UTF8&amp;tag=jackhighbow0a-21&amp;creative=6738&amp;linkCode=as2&amp;creativeASIN=B0027Y62KO&amp;linkId=499566ac22901d2a99d98cba7960345e" target="_blank" rel="sponsored nofollow noopener noreferrer">See current deals</a></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -155,7 +155,7 @@ date: 2020-07-01 13:00:00 -0400
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
-<p><a href="https://www.amazon.co.uk/Henselite-Bulldog-Sports-Grip/dp/B07HB4SCZ3/ref=as_li_ss_tl?dchild=1&amp;keywords=Bulldog+Bowls+Grip+Wax&amp;qid=1595588930&amp;sr=8-1-fkmr0&amp;linkCode=ll1&amp;tag=jackhighbow0a-21&amp;linkId=a1a649b1ee01ac8f8a1c27b3cdf8c1b6">See current deals</a></p>
+<p><a href="https://www.amazon.co.uk/Henselite-Bulldog-Sports-Grip/dp/B07HB4SCZ3/ref=as_li_ss_tl?dchild=1&amp;keywords=Bulldog+Bowls+Grip+Wax&amp;qid=1595588930&amp;sr=8-1-fkmr0&amp;linkCode=ll1&amp;tag=jackhighbow0a-21&amp;linkId=a1a649b1ee01ac8f8a1c27b3cdf8c1b6" target="_blank" rel="sponsored nofollow noopener noreferrer">See current deals</a></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

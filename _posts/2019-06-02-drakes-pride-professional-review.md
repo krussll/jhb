@@ -5,7 +5,7 @@ author: reece
 categories: [ bowls, review ]
 featured: false
 description: "In-depth Drakes Pride Professional review: trajectory analysis, grip variations, running surface versatility, and expert verdict."
-last_modified_at: 2026-10-30 09:15:00 +0000
+last_modified_at: 2026-10-30 09:30:00 +0000
 date: 2019-06-02 13:00:00 -0400
 review:
   name: "Drakes Pride Professional Lawn Bowls"
@@ -91,7 +91,7 @@ review:
 <!-- /wp:group -->
 
 <!-- wp:paragraph -->
-<p><a href="https://www.amazon.co.uk/gp/product/B005MI2YE0/ref=as_li_qf_asin_il_tl?ie=UTF8&amp;tag=jackhighbow0a-21&amp;creative=6738&amp;linkCode=as2&amp;creativeASIN=B005MI2YE0&amp;linkId=fb5c41c051c9e6b228526c411ebe6742">See current deals</a></p>
+<p><a href="https://www.amazon.co.uk/gp/product/B005MI2YE0/ref=as_li_qf_asin_il_tl?ie=UTF8&amp;tag=jackhighbow0a-21&amp;creative=6738&amp;linkCode=as2&amp;creativeASIN=B005MI2YE0&amp;linkId=fb5c41c051c9e6b228526c411ebe6742" target="_blank" rel="sponsored nofollow noopener noreferrer">See current deals</a></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

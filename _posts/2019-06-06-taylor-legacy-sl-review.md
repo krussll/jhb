@@ -5,7 +5,7 @@ author: reece
 categories: [ bowls, review ]
 featured: false
 description: ""
-last_modified_at: 2026-10-30 09:15:00 +0000
+last_modified_at: 2026-10-30 09:30:00 +0000
 date: 2019-06-06 13:00:00 -0400
 review:
   name: "Taylor Legacy SL Lawn Bowls"
@@ -111,7 +111,7 @@ review:
 <!-- /wp:group -->
 
 <!-- wp:paragraph -->
-<p><a href="https://www.amazon.co.uk/gp/product/B07JVFK2Z7/ref=as_li_qf_asin_il_tl?ie=UTF8&amp;tag=jackhighbow0a-21&amp;creative=6738&amp;linkCode=as2&amp;creativeASIN=B07JVFK2Z7&amp;linkId=9c76508e9b6393076da3c448fc92bdd9">See current deals</a></p>
+<p><a href="https://www.amazon.co.uk/gp/product/B07JVFK2Z7/ref=as_li_qf_asin_il_tl?ie=UTF8&amp;tag=jackhighbow0a-21&amp;creative=6738&amp;linkCode=as2&amp;creativeASIN=B07JVFK2Z7&amp;linkId=9c76508e9b6393076da3c448fc92bdd9" target="_blank" rel="sponsored nofollow noopener noreferrer">See current deals</a></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

@@ -9,6 +9,8 @@ permalink: /reviews
   Choosing the right set of bowls can transform your consistency on the green. Explore our independent reviews and side-by-side comparisons across leading manufacturers—including <strong>Taylor</strong>, <strong>Henselite</strong>, <strong>Drakes Pride</strong>, and <strong>Aero</strong>—tested for line consistency, weight control, grip comfort, and green speed adaptability.
 </p>
 
+{% include affiliate-disclosure.html %}
+
 <div class="row mb-4">
   <div class="col-md-3 col-6 mb-2">
     <div class="p-2 border rounded text-center bg-light">

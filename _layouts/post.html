@@ -80,6 +80,13 @@ layout: default
       <div class="col-md-10">
         <article class="post-article">
           <div class="post-article__body">
+            {% assign has_affiliate = false %}
+            {% if page.review or page.categories contains 'review' or page.categories contains 'shoes' or page.affiliate or content contains 'rel="sponsored' or content contains 'amazon.co.uk' or content contains 'rover.ebay' %}
+              {% assign has_affiliate = true %}
+            {% endif %}
+            {% if has_affiliate %}
+              {% include affiliate-disclosure.html %}
+            {% endif %}
             {{ content }}
             <div id="drill-pack-feature" class="post-article__drill-pack">
               {% include drill-pack-feature.html %}

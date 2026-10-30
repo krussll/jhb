@@ -5,7 +5,7 @@ author: reece
 categories: [ guide ]
 featured: false
 description: "Henselite Tiger TX lawn bowls review: ultra-narrow line analysis, indoor carpet testing, and suitability for leads."
-last_modified_at: 2026-10-30 09:15:00 +0000
+last_modified_at: 2026-10-30 09:30:00 +0000
 date: 2023-03-07 13:00:00 -0400
 review:
   name: "Henselite Tiger TX Lawn Bowls"
@@ -121,7 +121,7 @@ review:
 <!-- /wp:group -->
 
 <!-- wp:paragraph -->
-<p><a href="https://www.amazon.co.uk/gp/product/B07WNVHXCL/ref=as_li_qf_asin_il_tl?ie=UTF8&amp;tag=jackhighbow0a-21&amp;creative=6738&amp;linkCode=as2&amp;creativeASIN=B07WNVHXCL&amp;linkId=067b62862230ccfce82ac4f68182b149">See current deals</a></p>
+<p><a href="https://www.amazon.co.uk/gp/product/B07WNVHXCL/ref=as_li_qf_asin_il_tl?ie=UTF8&amp;tag=jackhighbow0a-21&amp;creative=6738&amp;linkCode=as2&amp;creativeASIN=B07WNVHXCL&amp;linkId=067b62862230ccfce82ac4f68182b149" target="_blank" rel="sponsored nofollow noopener noreferrer">See current deals</a></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

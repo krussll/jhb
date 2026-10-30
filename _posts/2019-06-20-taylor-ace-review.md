@@ -5,7 +5,7 @@ author: reece
 categories: [ bowls, review ]
 featured: false
 description: "Comprehensive Taylor Ace lawn bowls review: bias profile analysis, grip options, indoor vs outdoor performance, and pros & cons for club bowlers."
-last_modified_at: 2026-10-30 09:15:00 +0000
+last_modified_at: 2026-10-30 09:30:00 +0000
 date: 2019-06-20 13:00:00 -0400
 review:
   name: "Taylor Ace Lawn Bowls"
@@ -130,7 +130,7 @@ review:
 <!-- /wp:group -->
 
 <!-- wp:paragraph -->
-<p><a href="https://www.amazon.co.uk/gp/product/B07WNVHXCL/ref=as_li_qf_asin_il_tl?ie=UTF8&amp;tag=jackhighbow0a-21&amp;creative=6738&amp;linkCode=as2&amp;creativeASIN=B07WNVHXCL&amp;linkId=067b62862230ccfce82ac4f68182b149">See current deals</a></p>
+<p><a href="https://www.amazon.co.uk/gp/product/B07WNVHXCL/ref=as_li_qf_asin_il_tl?ie=UTF8&amp;tag=jackhighbow0a-21&amp;creative=6738&amp;linkCode=as2&amp;creativeASIN=B07WNVHXCL&amp;linkId=067b62862230ccfce82ac4f68182b149" target="_blank" rel="sponsored nofollow noopener noreferrer">See current deals</a></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

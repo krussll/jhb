@@ -5,7 +5,7 @@ author: reece
 categories: [ shoes, review ]
 featured: false
 description: ""
-last_modified_at: 2026-10-30 09:15:00 +0000
+last_modified_at: 2026-10-30 09:30:00 +0000
 date: 2018-01-12 13:00:00 -0400
 review:
   name: "Dek Unisex Bowls Shoes"
@@ -35,7 +35,7 @@ review:
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><a href="https://www.amazon.co.uk/gp/product/B06Y67P3FT/ref=as_li_tl?ie=UTF8&amp;camp=1634&amp;creative=6738&amp;creativeASIN=B06Y67P3FT&amp;linkCode=as2&amp;tag=jackhighbowls-21&amp;linkId=042db14bdeee0de79298b6272cab8ccd">See more</a></p>
+<p><a href="https://www.amazon.co.uk/gp/product/B06Y67P3FT/ref=as_li_tl?ie=UTF8&amp;camp=1634&amp;creative=6738&amp;creativeASIN=B06Y67P3FT&amp;linkCode=as2&amp;tag=jackhighbowls-21&amp;linkId=042db14bdeee0de79298b6272cab8ccd" target="_blank" rel="sponsored nofollow noopener noreferrer">See more</a></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

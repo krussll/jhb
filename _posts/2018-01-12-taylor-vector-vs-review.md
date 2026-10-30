@@ -5,7 +5,7 @@ author: reece
 categories: [ bowls, review ]
 featured: false
 description: "Taylor Vector VS lawn bowls review: narrow bias profile, indoor performance, suitability for leads, and comprehensive buyers guide."
-last_modified_at: 2026-10-30 09:15:00 +0000
+last_modified_at: 2026-10-30 09:30:00 +0000
 date: 2018-01-12 13:00:00 -0400
 review:
   name: "Taylor Vector VS Lawn Bowls"
@@ -84,7 +84,7 @@ review:
 <!-- /wp:group -->
 
 <!-- wp:paragraph -->
-<p><a href="https://www.amazon.co.uk/gp/product/B07YXT8JNG/ref=as_li_qf_asin_il_tl?ie=UTF8&amp;tag=jackhighbow0a-21&amp;creative=6738&amp;linkCode=as2&amp;creativeASIN=B07YXT8JNG&amp;linkId=aaacdf1052d99758560d3703fcbf8cd4">See more</a></p>
+<p><a href="https://www.amazon.co.uk/gp/product/B07YXT8JNG/ref=as_li_qf_asin_il_tl?ie=UTF8&amp;tag=jackhighbow0a-21&amp;creative=6738&amp;linkCode=as2&amp;creativeASIN=B07YXT8JNG&amp;linkId=aaacdf1052d99758560d3703fcbf8cd4" target="_blank" rel="sponsored nofollow noopener noreferrer">See more</a></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -156,6 +156,6 @@ review:
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><a href="https://www.amazon.co.uk/gp/product/B07YXT8JNG/ref=as_li_qf_asin_il_tl?ie=UTF8&amp;tag=jackhighbow0a-21&amp;creative=6738&amp;linkCode=as2&amp;creativeASIN=B07YXT8JNG&amp;linkId=aaacdf1052d99758560d3703fcbf8cd4">View Deals</a></p>
+<p><a href="https://www.amazon.co.uk/gp/product/B07YXT8JNG/ref=as_li_qf_asin_il_tl?ie=UTF8&amp;tag=jackhighbow0a-21&amp;creative=6738&amp;linkCode=as2&amp;creativeASIN=B07YXT8JNG&amp;linkId=aaacdf1052d99758560d3703fcbf8cd4" target="_blank" rel="sponsored nofollow noopener noreferrer">View Deals</a></p>
 <!-- /wp:paragraph -->
     

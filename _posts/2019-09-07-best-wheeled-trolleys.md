@@ -6,7 +6,7 @@ categories: [ guide ]
 featured: false
 description: ""
 date: 2019-09-07 13:00:00 -0400
-last_modified_at: 2025-02-20T10:52:15+00:00
+last_modified_at: 2026-10-30 09:30:00 +0000
 ---
     
 
@@ -107,7 +107,7 @@ last_modified_at: 2025-02-20T10:52:15+00:00
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p><a href="https://www.amazon.co.uk/gp/product/B00UI2ZPM8/ref=as_li_tl?ie=UTF8&amp;camp=1634&amp;creative=6738&amp;creativeASIN=B00UI2ZPM8&amp;linkCode=as2&amp;tag=jackhighbowls-21&amp;linkId=eec85a36ecb30ad13a86a351da379fae">Available here</a></p>
+<p><a href="https://www.amazon.co.uk/gp/product/B00UI2ZPM8/ref=as_li_tl?ie=UTF8&amp;camp=1634&amp;creative=6738&amp;creativeASIN=B00UI2ZPM8&amp;linkCode=as2&amp;tag=jackhighbowls-21&amp;linkId=eec85a36ecb30ad13a86a351da379fae" target="_blank" rel="sponsored nofollow noopener noreferrer">Available here</a></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -141,7 +141,7 @@ last_modified_at: 2025-02-20T10:52:15+00:00
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p><a href="https://www.amazon.co.uk/gp/product/B00ZKSU0E8/ref=as_li_tl?ie=UTF8&amp;camp=1634&amp;creative=6738&amp;creativeASIN=B00ZKSU0E8&amp;linkCode=as2&amp;tag=jackhighbowls-21&amp;linkId=795a9ea08a2d4541c5734e06fe40b12a">Available here</a></p>
+<p><a href="https://www.amazon.co.uk/gp/product/B00ZKSU0E8/ref=as_li_tl?ie=UTF8&amp;camp=1634&amp;creative=6738&amp;creativeASIN=B00ZKSU0E8&amp;linkCode=as2&amp;tag=jackhighbowls-21&amp;linkId=795a9ea08a2d4541c5734e06fe40b12a" target="_blank" rel="sponsored nofollow noopener noreferrer">Available here</a></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -183,6 +183,6 @@ last_modified_at: 2025-02-20T10:52:15+00:00
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>If this is something that interests you we would recommend the Drake's Pride "fold flat" trolley (<a href="https://www.amazon.co.uk/gp/product/B0053PTA12/ref=as_li_tl?ie=UTF8&amp;tag=jackhighbowls-21&amp;camp=1634&amp;creative=6738&amp;linkCode=as2&amp;creativeASIN=B0053PTA12&amp;linkId=178385cf2afe52690811f94b68f6b7db">Available here</a>). At £23.49 it's nearly a quarter of the price of a brand new wheeled trolley, and with an average of 4 out of 5 stars (from 97 reviews) it's got some great feedback.</p>
+<p>If this is something that interests you we would recommend the Drake's Pride "fold flat" trolley (<a href="https://www.amazon.co.uk/gp/product/B0053PTA12/ref=as_li_tl?ie=UTF8&amp;tag=jackhighbowls-21&amp;camp=1634&amp;creative=6738&amp;linkCode=as2&amp;creativeASIN=B0053PTA12&amp;linkId=178385cf2afe52690811f94b68f6b7db" target="_blank" rel="sponsored nofollow noopener noreferrer">Available here</a>). At £23.49 it's nearly a quarter of the price of a brand new wheeled trolley, and with an average of 4 out of 5 stars (from 97 reviews) it's got some great feedback.</p>
 <!-- /wp:paragraph -->
     

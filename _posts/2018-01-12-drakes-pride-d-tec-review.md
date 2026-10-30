@@ -5,7 +5,7 @@ author: reece
 categories: [ bowls, review ]
 featured: false
 description: "Drakes Pride D-Tec lawn bowls review: narrow bias profile, indoor specialist analysis, and direct comparisons."
-last_modified_at: 2026-10-30 09:15:00 +0000
+last_modified_at: 2026-10-30 09:30:00 +0000
 date: 2018-01-12 13:00:00 -0400
 review:
   name: "Drakes Pride D-Tec Lawn Bowls"
@@ -92,7 +92,7 @@ review:
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><a href="https://www.amazon.co.uk/gp/product/B07VF5RJH8/ref=as_li_qf_asin_il_tl?ie=UTF8&amp;tag=jackhighbow0a-21&amp;creative=6738&amp;linkCode=as2&amp;creativeASIN=B07VF5RJH8&amp;linkId=e5b90d4e6fd7c6bf5c239d43a275d8da">See more</a></p>
+<p><a href="https://www.amazon.co.uk/gp/product/B07VF5RJH8/ref=as_li_qf_asin_il_tl?ie=UTF8&amp;tag=jackhighbow0a-21&amp;creative=6738&amp;linkCode=as2&amp;creativeASIN=B07VF5RJH8&amp;linkId=e5b90d4e6fd7c6bf5c239d43a275d8da" target="_blank" rel="sponsored nofollow noopener noreferrer">See more</a></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -160,6 +160,6 @@ review:
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><a href="https://www.amazon.co.uk/gp/product/B07VF5RJH8/ref=as_li_qf_asin_il_tl?ie=UTF8&amp;tag=jackhighbow0a-21&amp;creative=6738&amp;linkCode=as2&amp;creativeASIN=B07VF5RJH8&amp;linkId=e5b90d4e6fd7c6bf5c239d43a275d8da">See more</a></p>
+<p><a href="https://www.amazon.co.uk/gp/product/B07VF5RJH8/ref=as_li_qf_asin_il_tl?ie=UTF8&amp;tag=jackhighbow0a-21&amp;creative=6738&amp;linkCode=as2&amp;creativeASIN=B07VF5RJH8&amp;linkId=e5b90d4e6fd7c6bf5c239d43a275d8da" target="_blank" rel="sponsored nofollow noopener noreferrer">See more</a></p>
 <!-- /wp:paragraph -->
     

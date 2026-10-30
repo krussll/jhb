@@ -5,7 +5,7 @@ author: reece
 categories: [ guide ]
 featured: false
 description: ""
-last_modified_at: 2026-10-29 15:45:00 +0000
+last_modified_at: 2026-10-30 09:30:00 +0000
 date: 2020-10-01 13:00:00 -0400
 ---
     
@@ -135,7 +135,7 @@ date: 2020-10-01 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>If you are interested in the Taylor Ace in sizes 0000 and 000, then you can order them directly <a href="https://www.taylorbowls.com/item/132/Taylor/Ace---Build-a-Bowl.html">from Taylor Bowls</a>.</p>
+<p>If you are interested in the Taylor Ace in sizes 0000 and 000, then you can order them directly <a href="https://www.taylorbowls.com/item/132/Taylor/Ace---Build-a-Bowl.html" target="_blank" rel="sponsored nofollow noopener noreferrer">from Taylor Bowls</a>.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":3} -->

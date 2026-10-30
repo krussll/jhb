@@ -6,7 +6,7 @@ categories: [ help ]
 featured: false
 description: ""
 date: 2020-07-11 13:00:00 -0400
-last_modified_at: 2025-02-20T10:52:15+00:00
+last_modified_at: 2026-10-30 09:30:00 +0000
 ---
     
 
@@ -243,7 +243,7 @@ last_modified_at: 2025-02-20T10:52:15+00:00
 <!-- /wp:paragraph -->
 
 <!-- wp:quote -->
-<blockquote class="wp-block-quote"><p>Many modern coaches advise the bowler to hold the bowl with the thumb at its natural resting point. The re-positioned Dreamline XG grip is aligned with this point</p><p><a href="https://www.henselite.com.au/products/142-lawn-bowls/1878-dreamline-xg">https://www.henselite.com.au/products/142-lawn-bowls/1878-dreamline-xg</a></p></blockquote>
+<blockquote class="wp-block-quote"><p>Many modern coaches advise the bowler to hold the bowl with the thumb at its natural resting point. The re-positioned Dreamline XG grip is aligned with this point</p><p><a href="https://www.henselite.com.au/products/142-lawn-bowls/1878-dreamline-xg" target="_blank" rel="sponsored nofollow noopener noreferrer">https://www.henselite.com.au/products/142-lawn-bowls/1878-dreamline-xg</a></p></blockquote>
 <!-- /wp:quote -->
 
 <!-- wp:heading -->
