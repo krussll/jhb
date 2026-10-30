@@ -1,22 +1,26 @@
-{% assign author_id = include.author | default: page.author %}
-{% assign author = site.data.authors[author_id] %}
+{% assign raw_author = include.author | default: page.author | default: 'reece' %}
+{% assign author_id = raw_author | to_s | strip | downcase %}
+{% assign author = site.data.authors[author_id] | default: site.data.authors['reece'] %}
 {% if author %}
-<section class="author-bio" aria-labelledby="author-bio-title-{{ author_id }}">
+<section class="author-bio" aria-labelledby="author-bio-title-{{ author_id }}" itemscope itemtype="https://schema.org/Person">
   {% if author.headshot %}
   <div class="author-bio__media">
     <img
       class="author-bio__image"
-      src="{{ '/img/' | append: author.headshot | prepend: site.baseurl | replace: '//', '/' }}"
+      src="{{ author.headshot | prepend: '/img/' | relative_url }}"
       alt="{{ author.name }} headshot"
+      width="120"
+      height="120"
       loading="lazy"
+      itemprop="image"
     />
   </div>
   {% endif %}
   <div class="author-bio__content">
     <h2 class="author-bio__heading" id="author-bio-title-{{ author_id }}">About the author</h2>
-    <p class="author-bio__name">{{ author.name }}</p>
+    <p class="author-bio__name" itemprop="name">{{ author.name }}</p>
     {% if author.experience %}
-    <p class="author-bio__experience"><strong>Bowling experience:</strong> {{ author.experience }}</p>
+    <p class="author-bio__experience" itemprop="description"><strong>Bowling experience:</strong> {{ author.experience }}</p>
     {% endif %}
     {% if author.highlights %}
     <div class="author-bio__section">
@@ -38,7 +42,7 @@
       </ul>
     </div>
     {% endif %}
-    <a class="author-bio__link" href="{{ '/about-us.html' | prepend: site.baseurl | replace: '//', '/' }}">Meet the full Jack High Bowls team</a>
+    <a class="author-bio__link" href="{{ author.bio_url | default: '/about-us' | relative_url }}" itemprop="url">Meet the full Jack High Bowls team <i class="fas fa-arrow-right" aria-hidden="true"></i></a>
   </div>
 </section>
 {% endif %}

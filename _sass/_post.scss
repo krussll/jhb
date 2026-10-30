@@ -460,12 +460,14 @@
 
 .author-bio__media {
   flex: 0 0 120px;
-  max-width: 160px;
+  width: 120px;
+  max-width: 140px;
 }
 
 .author-bio__image {
-  width: 100%;
-  height: auto;
+  width: 120px;
+  height: 120px;
+  aspect-ratio: 1 / 1;
   border-radius: 50%;
   object-fit: cover;
   box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.1);
@@ -478,6 +480,7 @@
 .author-bio__heading {
   font-size: 1.25rem;
   font-weight: 700;
+  margin-top: 0;
   margin-bottom: 0.25rem;
   text-transform: uppercase;
   letter-spacing: 0.08em;
@@ -513,15 +516,15 @@
 
 .author-bio__link {
   display: inline-block;
-  margin-top: 1.5rem;
+  margin-top: 1.25rem;
   font-weight: 600;
-  color: #007bff;
+  color: $home-secondary;
 }
 
 .author-bio__link:hover,
 .author-bio__link:focus {
   text-decoration: underline;
-  color: #0056b3;
+  color: darken($home-secondary, 12%);
 }
 
 @media (max-width: 767.98px) {
@@ -533,6 +536,7 @@
 
   .author-bio__media {
     flex: 0 0 auto;
+    margin: 0 auto;
   }
 
   .author-bio__list {
