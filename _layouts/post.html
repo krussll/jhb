@@ -87,6 +87,9 @@ layout: default
             {% if has_affiliate %}
               {% include affiliate-disclosure.html %}
             {% endif %}
+            {% if page.medical_disclaimer or page.ymyl %}
+              {% include medical-disclaimer.html %}
+            {% endif %}
             {{ content }}
             <div id="drill-pack-feature" class="post-article__drill-pack">
               {% include drill-pack-feature.html %}

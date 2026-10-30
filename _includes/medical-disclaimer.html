@@ -1,0 +1,17 @@
+<aside class="medical-disclaimer-banner" aria-label="Medical and health advisory disclaimer" role="note">
+  <div class="medical-disclaimer-banner__icon">
+    <i class="fas fa-user-md" aria-hidden="true"></i>
+  </div>
+  <div class="medical-disclaimer-banner__body">
+    <p class="medical-disclaimer-banner__text">
+      <strong>Medical &amp; Health Disclaimer:</strong>
+      {% if include.text %}
+        {{ include.text }}
+      {% elsif page.medical_disclaimer_text %}
+        {{ page.medical_disclaimer_text }}
+      {% else %}
+        The content on this page is for informational and educational purposes only and reflects lawn bowling technique adjustments and sporting experience. It is not intended as medical advice, clinical diagnosis, or a treatment plan. Always consult a qualified medical doctor, GP, or chartered physiotherapist regarding pain, injuries, mobility limitations, or physical activity during pregnancy.
+      {% endif %}
+    </p>
+  </div>
+</aside>

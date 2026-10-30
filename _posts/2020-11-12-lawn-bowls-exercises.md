@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Lawn Bowls Exercises. Improve Your Technical, Physical, and Tactical Skills | A Helpful Guide"
+title:  "Lawn Bowls Exercises: Improve Your Technical, Physical, and Tactical Skills"
 author: reece
 categories: [ help ]
 featured: false
-description: ""
+description: "Recommended exercises, warm-ups, and stretching drills for lawn bowls, combining skill development with clinical guidance from the NHS and Chartered Society of Physiotherapy."
+last_modified_at: 2026-10-30 09:35:00 +0000
 date: 2020-11-12 13:00:00 -0400
+medical_disclaimer: true
 ---
     
 
@@ -100,15 +102,22 @@ date: 2020-11-12 13:00:00 -0400
 <!-- /wp:html -->
 
 <!-- wp:heading {"level":3} -->
-<h3><a href="#stretching-exercises"></a>Stretching exercises</h3>
+<h3><a href="#stretching-exercises"></a>Stretching &amp; Mobility Exercises</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Stretching is a great way to prevent injuries. Keeping our muscles loose and ready to go ensures they are prepped for the game ahead.</p>
+<p>Modern sports physiotherapy from bodies such as the <a href="https://www.csp.org.uk/" target="_blank" rel="noopener noreferrer">Chartered Society of Physiotherapy (CSP)</a> emphasizes a distinction between warm-up mobility and post-game stretching:</p>
 <!-- /wp:paragraph -->
 
+<!-- wp:list -->
+<ul>
+  <li><strong>Pre-game dynamic mobility:</strong> Use smooth, active movements through a full range of motion (arm circles, torso rotations, and gentle lunges) to increase blood flow and prepare joint capsules. Avoid deep, cold static holds before playing.</li>
+  <li><strong>Post-game static stretching:</strong> After completing your match or practice session while muscles are still warm, hold gentle static stretches (hamstrings, calves, quadriceps, and chest) for 20 to 30 seconds to restore muscle length and reduce post-exercise tightness.</li>
+</ul>
+<!-- /wp:list -->
+
 <!-- wp:paragraph -->
-<p>Here are a few stretches that you should look at.</p>
+<p>Here are several targeted stretching exercises tailored for lawn bowlers:</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -276,18 +285,18 @@ date: 2020-11-12 13:00:00 -0400
 <!-- /wp:html -->
 
 <!-- wp:heading {"level":3} -->
-<h3><a href="#walkingrunning"></a>Walking/running</h3>
+<h3><a href="#walkingrunning"></a>Aerobic conditioning: Walking and running</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>There is an endurance element to <a href="https://www.jackhighbowls.com/help/5-fundamental-ways-to-improve-your-lawn-bowls-delivery/">lawn bowls</a>. Especially if you play in day-long competitions. Running and walking regularly helps build up this fitness.</p>
+<p>There is an essential endurance element to <a href="{{ '/help/5-fundamental-ways-to-improve-your-lawn-bowls-delivery' | relative_url }}">lawn bowls</a>. A competitive weekend tournament can involve walking upwards of 10,000 to 15,000 steps per day across multiple matches. Building aerobic base fitness significantly reduces cognitive fatigue and muscle tremor in the crucial closing ends of a game.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>5K is a great distance to train for, especially for beginners. If you are new to running I would recommend the <a href="https://www.nhs.uk/live-well/exercise/couch-to-5k-week-by-week/">NHS Couch to 5K</a>. If you want to push on further after that, it will only benefit you. 10K is a fantastic distance, as you will likely be running for the duration of a short singles game. This base fitness of running will help keep your energy levels up through a hard game.</p>
+<p>The <a href="https://www.nhs.uk/live-well/exercise/exercise-guidelines/physical-activity-guidelines-for-older-adults/" target="_blank" rel="noopener noreferrer">NHS Physical Activity Guidelines for Adults and Older Adults</a> recommend at least 150 minutes of moderate aerobic activity per week, alongside activities that build strength and balance on at least 2 days. For beginners looking to build cardiovascular endurance, the <a href="https://www.nhs.uk/live-well/exercise/couch-to-5k-week-by-week/" target="_blank" rel="noopener noreferrer">NHS Couch to 5K Programme</a> provides an evidence-based, graduated entry point. If you prefer low-impact options, brisk daily walking, swimming, or cycling are equally effective.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Physical training is mental training. I believe <a href="https://www.jackhighbowls.com/help/guide-to-mental-training-in-lawn-bowls/">training hard gives you extra mental</a> fortitude in tricky, and tense game situations. It should not be overlooked!</p>
+<p>Physical fitness and mental focus go hand-in-hand. Developing your physical endurance directly feeds into your tactical sharpness; explore our <a href="{{ '/help/guide-to-mental-training-in-lawn-bowls' | relative_url }}">guide to mental training in lawn bowls</a> to learn how to keep your composure under pressure.</p>
 <!-- /wp:paragraph -->
     
