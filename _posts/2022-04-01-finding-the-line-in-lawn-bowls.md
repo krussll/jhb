@@ -5,7 +5,7 @@ author: reece
 categories: [ help ]
 featured: false
 description: ""
-last_modified_at: 2026-10-29 15:45:00 +0000
+last_modified_at: 2026-10-30 10:25:00 +0000
 date: 2022-04-01 13:00:00 -0400
 ---
     
@@ -19,7 +19,7 @@ date: 2022-04-01 13:00:00 -0400
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
-<p>There are plenty of guides about using aiming points to help stick to your line - including my <a href="https://www.jackhighbowls.com/guide/using-aiming-points-in-lawn-bowls/">guide on aiming points</a> - but that doesn't really help you find the line in the first place.</p>
+<p>There are plenty of guides about using aiming points to help stick to your line - including my <a href="{{ '/guide/using-aiming-points-in-lawn-bowls' | relative_url }}">guide on aiming points</a> - but that doesn't really help you find the line in the first place.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -65,7 +65,7 @@ date: 2022-04-01 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>The best way to do this is to use your knowledge of your own bowls. The bias never changes on the bowls, so you can be fairly confident on how much your bowls will bend on an <a href="https://www.jackhighbowls.com/help/guide-to-lawn-bowl-green-speeds/">"average" green</a> (that is - the most common type of green you encounter).</p>
+<p>The best way to do this is to use your knowledge of your own bowls. The bias never changes on the bowls, so you can be fairly confident on how much your bowls will bend on an <a href="{{ '/help/guide-to-lawn-bowl-green-speeds' | relative_url }}">"average" green</a> (that is - the most common type of green you encounter).</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -313,6 +313,6 @@ date: 2022-04-01 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Finding the right line is essential for a good <a href="https://www.jackhighbowls.com/help/best-lawn-bowls-player-of-all-time/">lawn bowler</a>. Keeping on a line is only good if you know where the line is! Therefore the key skill in bowls is finding the correct line first.</p>
+<p>Finding the right line is essential for a good <a href="{{ '/help/best-lawn-bowls-player-of-all-time' | relative_url }}">lawn bowler</a>. Keeping on a line is only good if you know where the line is! Therefore the key skill in bowls is finding the correct line first.</p>
 <!-- /wp:paragraph -->
     

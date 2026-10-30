@@ -6,6 +6,7 @@ categories: [ help ]
 featured: false
 description: ""
 date: 2021-03-31 13:00:00 -0400
+last_modified_at: 2026-10-30 10:25:00 +0000
 ---
     
 
@@ -118,7 +119,7 @@ date: 2021-03-31 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>There is a benefit to “getting to know” your <a href="https://www.jackhighbowls.com/help/finding-the-line-in-lawn-bowls/">bowls in order to find the correct line</a>. Some models start to turn much earlier than others. The earlier they turn the less of an adjustment is needed.</p>
+<p>There is a benefit to “getting to know” your <a href="{{ '/help/finding-the-line-in-lawn-bowls' | relative_url }}">bowls in order to find the correct line</a>. Some models start to turn much earlier than others. The earlier they turn the less of an adjustment is needed.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":3} -->

@@ -6,11 +6,12 @@ categories: [ help ]
 featured: false
 description: ""
 date: 2021-05-19 13:00:00 -0400
+last_modified_at: 2026-10-30 10:25:00 +0000
 ---
     
 
 <!-- wp:paragraph -->
-<p xmlns="http://www.w3.org/1999/xhtml">Anyone can play lawn bowls since it is a very easy game to learn. Bowling is relaxing and competitive at the same time, depending on how active the players are. You can play alone for practice or with friends to make it more fun. There is a good number of active bowling clubs and new members are joining every day, which means it's still a fun and attractive game. Even better, both young and adults play the game regardless of their ability. Since there is no bowling without bowls, let's see how <a href="https://www.jackhighbowls.com/help/lawn-bowl-care/">lawn bowls</a> are made.</p>
+<p xmlns="http://www.w3.org/1999/xhtml">Anyone can play lawn bowls since it is a very easy game to learn. Bowling is relaxing and competitive at the same time, depending on how active the players are. You can play alone for practice or with friends to make it more fun. There is a good number of active bowling clubs and new members are joining every day, which means it's still a fun and attractive game. Even better, both young and adults play the game regardless of their ability. Since there is no bowling without bowls, let's see how <a href="{{ '/help/lawn-bowl-care' | relative_url }}">lawn bowls</a> are made.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":125,"sizeSlug":"full","linkDestination":"none"} -->
@@ -46,11 +47,11 @@ date: 2021-05-19 13:00:00 -0400
 <!-- /wp:html -->
 
 <!-- wp:paragraph -->
-<p>The manufacturing process starts with melamine granules dyed in different colours according to customer preference. Since <a href="https://www.jackhighbowls.com/help/what-size-lawn-bowl-should-i-use/">lawn bowls vary in size</a>, the granules are weighed to make different sizes that fit hands. These granules are weighed in a container which is then covered by a cloth and pieces of wood is are used to hold it in place. They are then kept in a machine known as a preheater which uses high-frequency radio waves to melt the plastic. Moisture may be produced during the process and the cloth absorbs it.</p>
+<p>The manufacturing process starts with melamine granules dyed in different colours according to customer preference. Since <a href="{{ '/help/what-size-lawn-bowl-should-i-use' | relative_url }}">lawn bowls vary in size</a>, the granules are weighed to make different sizes that fit hands. These granules are weighed in a container which is then covered by a cloth and pieces of wood is are used to hold it in place. They are then kept in a machine known as a preheater which uses high-frequency radio waves to melt the plastic. Moisture may be produced during the process and the cloth absorbs it.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>The melamine is now in a malleable mass and is squished to a shape that fits in a molding machine. It’s molded to a sphere, but since the sphere doesn’t come out perfectly, it is pushed to a computerized machine which spins the bowl as the blade curves it to perfect the spherical shape. Other special tools are used to engrave two rows of half-moon patterns on the surface of the bowl. These patterns are essential as they make the <a href="https://www.jackhighbowls.com/guide/best-lawn-bowl-grips/">lawn bowls easy to grip</a>.</p>
+<p>The melamine is now in a malleable mass and is squished to a shape that fits in a molding machine. It’s molded to a sphere, but since the sphere doesn’t come out perfectly, it is pushed to a computerized machine which spins the bowl as the blade curves it to perfect the spherical shape. Other special tools are used to engrave two rows of half-moon patterns on the surface of the bowl. These patterns are essential as they make the <a href="{{ '/guide/best-lawn-bowl-grips' | relative_url }}">lawn bowls easy to grip</a>.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

@@ -5,7 +5,7 @@ author: reece
 categories: [ bowls, review ]
 featured: false
 description: "Drakes Pride XP lawn bowls review: wide bias profile, heavy grass performance, Skip suitability, and verdict."
-last_modified_at: 2026-10-30 09:30:00 +0000
+last_modified_at: 2026-10-30 10:25:00 +0000
 date: 2020-08-06 13:00:00 -0400
 review:
   name: "Drakes Pride XP Lawn Bowls"
@@ -145,7 +145,7 @@ review:
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Whilst not specifically designed for <a href="https://www.jackhighbowls.com/help/rules-of-short-mat-bowls/">short mat bowls</a>, the XP excels in the format. Due to the extra bias many players find them unbeatable in comparison.</p>
+<p>Whilst not specifically designed for <a href="{{ '/help/rules-of-short-mat-bowls' | relative_url }}">short mat bowls</a>, the XP excels in the format. Due to the extra bias many players find them unbeatable in comparison.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->

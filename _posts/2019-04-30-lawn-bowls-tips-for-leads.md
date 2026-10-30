@@ -6,6 +6,7 @@ categories: [ help ]
 featured: false
 description: ""
 date: 2019-04-30 13:00:00 -0400
+last_modified_at: 2026-10-30 10:25:00 +0000
 ---
     
 
@@ -46,7 +47,7 @@ date: 2019-04-30 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>A good lead will be <a href="https://www.jackhighbowls.com/help/lawn-bowls-tips-for-skips/">guided through the thoughts of the skip</a>, who has ultimate control of how he wants the team to play.</p>
+<p>A good lead will be <a href="{{ '/help/lawn-bowls-tips-for-skips' | relative_url }}">guided through the thoughts of the skip</a>, who has ultimate control of how he wants the team to play.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -170,7 +171,7 @@ date: 2019-04-30 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>We have an in-depth guide to <a href="https://www.jackhighbowls.com/guide/best-rated-bowls-for-leads">the best bowls for leads</a>, with a range of models and price points for you to select from.</p>
+<p>We have an in-depth guide to <a href="{{ '/guide/best-rated-bowls-for-leads' | relative_url }}">the best bowls for leads</a>, with a range of models and price points for you to select from.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

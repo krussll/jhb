@@ -5,7 +5,7 @@ author: reece
 categories: [ bowls, review ]
 featured: false
 description: "Drakes Pride Pro-50 lawn bowls review: channel grip evaluation, wet weather handling, and comparison to the classic Professional."
-last_modified_at: 2026-10-30 09:30:00 +0000
+last_modified_at: 2026-10-30 10:25:00 +0000
 date: 2019-05-16 13:00:00 -0400
 review:
   name: "Drakes Pride PRO-50 Lawn Bowls"
@@ -174,7 +174,7 @@ review:
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>As you’d expect the Drakes Pride PRO-50 comes in sizes 00 to 5, and will be available in “Heavyweight”. The lack of a “Middle weight” option may put some off, however, this is the norm these days, and with Drakes Pride following the World <a href="https://www.jackhighbowls.com/help/lawn-bowls-size-charts/">Bowls sizing</a> standards you can be confident in getting the right size.</p>
+<p>As you’d expect the Drakes Pride PRO-50 comes in sizes 00 to 5, and will be available in “Heavyweight”. The lack of a “Middle weight” option may put some off, however, this is the norm these days, and with Drakes Pride following the World <a href="{{ '/help/lawn-bowls-size-charts' | relative_url }}">Bowls sizing</a> standards you can be confident in getting the right size.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:quote -->

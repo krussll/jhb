@@ -5,7 +5,7 @@ author: reece
 categories: [ bowls, review ]
 featured: false
 description: "Comprehensive Taylor Ace lawn bowls review: bias profile analysis, grip options, indoor vs outdoor performance, and pros & cons for club bowlers."
-last_modified_at: 2026-10-30 09:30:00 +0000
+last_modified_at: 2026-10-30 10:25:00 +0000
 date: 2019-06-20 13:00:00 -0400
 review:
   name: "Taylor Ace Lawn Bowls"
@@ -186,11 +186,11 @@ review:
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>The Taylor Ace comes with Taylor's unique Progrip dimple grip as standard. The Progrip is a deep circular dimple style that offers you improved control of the bowl. This is designed to help you when <a href="https://www.jackhighbowls.com/help/playing-lawn-bowls-in-wet-conditions/">playing in wet conditions</a> as the larger surface area offers more grip.</p>
+<p>The Taylor Ace comes with Taylor's unique Progrip dimple grip as standard. The Progrip is a deep circular dimple style that offers you improved control of the bowl. This is designed to help you when <a href="{{ '/help/playing-lawn-bowls-in-wet-conditions' | relative_url }}">playing in wet conditions</a> as the larger surface area offers more grip.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>When we tried it out we could feel a noticeable <a href="https://www.jackhighbowls.com/review/5-tips-and-tricks-to-improve-your-lawn-bowls-delivery/">improvement in our control of the bowl</a>, which in turn helped our line control.</p>
+<p>When we tried it out we could feel a noticeable <a href="{{ '/review/5-tips-and-tricks-to-improve-your-lawn-bowls-delivery' | relative_url }}">improvement in our control of the bowl</a>, which in turn helped our line control.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

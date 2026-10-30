@@ -5,7 +5,7 @@ author: reece
 categories: [ help ]
 featured: false
 description: ""
-last_modified_at: 2026-10-29 15:45:00 +0000
+last_modified_at: 2026-10-30 10:25:00 +0000
 date: 2022-05-04 13:00:00 -0400
 ---
     
@@ -115,7 +115,7 @@ date: 2022-05-04 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>A strong biased bowl for slow outdoor greens, or shot mat bowls may be too wide to control for a club player, so the right model is essential. You can find my list of the <a href="https://www.jackhighbowls.com/guide/best-lawn-bowls-for-indoors/" data-type="post" data-id="267">best indoor lawn bowls here</a>.</p>
+<p>A strong biased bowl for slow outdoor greens, or shot mat bowls may be too wide to control for a club player, so the right model is essential. You can find my list of the <a href="{{ '/guide/best-lawn-bowls-for-indoors' | relative_url }}" data-type="post" data-id="267">best indoor lawn bowls here</a>.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":3} -->
@@ -135,7 +135,7 @@ date: 2022-05-04 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>You can find my list of the <a href="https://www.jackhighbowls.com/guide/best-mid-bias-lawn-bowls/" data-type="post" data-id="807">best duel purpose bowls here</a>.</p>
+<p>You can find my list of the <a href="{{ '/guide/best-mid-bias-lawn-bowls' | relative_url }}" data-type="post" data-id="807">best duel purpose bowls here</a>.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":3} -->

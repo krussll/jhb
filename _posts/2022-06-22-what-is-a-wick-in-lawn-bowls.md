@@ -5,7 +5,7 @@ author: reece
 categories: [ help ]
 featured: false
 description: ""
-last_modified_at: 2026-10-29 15:45:00 +0000
+last_modified_at: 2026-10-30 10:25:00 +0000
 date: 2022-06-22 13:00:00 -0400
 ---
     
@@ -35,7 +35,7 @@ date: 2022-06-22 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>A wick can be infuriating for the team who are on the opposing side, and they certainly aren't against the <a href="https://www.jackhighbowls.com/help/lawn-bowls-rules/" data-type="post" data-id="304">rules of lawn bowls</a>, everyone gets lucky from time to time so its best to enjoy it whilst you have it.</p>
+<p>A wick can be infuriating for the team who are on the opposing side, and they certainly aren't against the <a href="{{ '/help/lawn-bowls-rules' | relative_url }}" data-type="post" data-id="304">rules of lawn bowls</a>, everyone gets lucky from time to time so its best to enjoy it whilst you have it.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

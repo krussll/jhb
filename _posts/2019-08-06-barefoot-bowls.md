@@ -6,6 +6,7 @@ categories: [ help ]
 featured: false
 description: ""
 date: 2019-08-06 13:00:00 -0400
+last_modified_at: 2026-10-30 10:25:00 +0000
 ---
     
 
@@ -18,7 +19,7 @@ date: 2019-08-06 13:00:00 -0400
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
-<p>Lawn bowls is a challenging game that requires a high level of expertise and skills to execute the right play. However, for barefoot lawn bowls, you do not need to be an expert to play it. The game offers a lot of physical and therapeutic benefits to its participants. Barefoot lawn bowls can be played by both the old and the young. If you want more on the basic rules of bowls, then checkout our <a href="https://www.jackhighbowls.com/help/lawn-bowls-rules">lawn bowls rules guide</a>.</p>
+<p>Lawn bowls is a challenging game that requires a high level of expertise and skills to execute the right play. However, for barefoot lawn bowls, you do not need to be an expert to play it. The game offers a lot of physical and therapeutic benefits to its participants. Barefoot lawn bowls can be played by both the old and the young. If you want more on the basic rules of bowls, then checkout our <a href="{{ '/help/lawn-bowls-rules' | relative_url }}">lawn bowls rules guide</a>.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

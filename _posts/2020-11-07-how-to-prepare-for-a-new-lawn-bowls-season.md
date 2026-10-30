@@ -6,6 +6,7 @@ categories: [ help ]
 featured: false
 description: ""
 date: 2020-11-07 13:00:00 -0400
+last_modified_at: 2026-10-30 10:25:00 +0000
 ---
     
 
@@ -86,7 +87,7 @@ date: 2020-11-07 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Your main focus should be on re-building your “muscle memory”. Muscle memory is massively important in <a href="https://www.jackhighbowls.com/help/5-ways-to-improve-concentration-in-lawn-bowls/">lawn bowls</a>, as its a repeated task which requires consistency.</p>
+<p>Your main focus should be on re-building your “muscle memory”. Muscle memory is massively important in <a href="{{ '/help/5-ways-to-improve-concentration-in-lawn-bowls' | relative_url }}">lawn bowls</a>, as its a repeated task which requires consistency.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:quote -->
@@ -138,7 +139,7 @@ date: 2020-11-07 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><strong>Book roll-up sessions.</strong> Even if your club doesn’t require you to book a rink (although many do), it’s great to book slots in on your own personal calendar. This <a href="https://www.jackhighbowls.com/help/how-to-practice-lawn-bowls-at-home/">way you can plan ahead and organise your bowling</a> around your other responsibilities.</p>
+<p><strong>Book roll-up sessions.</strong> Even if your club doesn’t require you to book a rink (although many do), it’s great to book slots in on your own personal calendar. This <a href="{{ '/help/how-to-practice-lawn-bowls-at-home' | relative_url }}">way you can plan ahead and organise your bowling</a> around your other responsibilities.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

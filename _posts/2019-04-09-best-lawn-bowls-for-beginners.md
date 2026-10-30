@@ -6,7 +6,7 @@ categories: [ guide ]
 featured: false
 description: ""
 date: 2019-04-09 13:00:00 -0400
-last_modified_at: 2026-10-30 09:30:00 +0000
+last_modified_at: 2026-10-30 10:25:00 +0000
 ---
     
 
@@ -27,7 +27,7 @@ last_modified_at: 2026-10-30 09:30:00 +0000
 <!-- /wp:table -->
 
 <!-- wp:paragraph -->
-<p>Once you've learnt the <a href="https://www.jackhighbowls.com/help/lawn-bowls-rules">rules of lawn bowls</a>, and you've decided you want to take up the sport, you'll need to get your own set of bowls.</p>
+<p>Once you've learnt the <a href="{{ '/help/lawn-bowls-rules' | relative_url }}">rules of lawn bowls</a>, and you've decided you want to take up the sport, you'll need to get your own set of bowls.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -117,7 +117,7 @@ last_modified_at: 2026-10-30 09:30:00 +0000
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>If you are playing indoors only, then checkout our guide on the <a href="https://www.jackhighbowls.com/guide/best-lawn-bowls-for-indoors/" data-type="post" data-id="267">best indoor bowls to buy</a>.</p>
+<p>If you are playing indoors only, then checkout our guide on the <a href="{{ '/guide/best-lawn-bowls-for-indoors' | relative_url }}" data-type="post" data-id="267">best indoor bowls to buy</a>.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":3} -->
@@ -133,7 +133,7 @@ last_modified_at: 2026-10-30 09:30:00 +0000
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>So how do you know which model does what? Thankfully each manufacturer have their own “bias charts”. You can see our list of <a href="https://www.jackhighbowls.com/guide/lawn-bowls-bias-guide-and-trajectory-charts-2020/" data-type="post" data-id="287">bias charts for all major brands here</a>, this will give you a list of models to try.</p>
+<p>So how do you know which model does what? Thankfully each manufacturer have their own “bias charts”. You can see our list of <a href="{{ '/guide/lawn-bowls-bias-guide-and-trajectory-charts-2020' | relative_url }}" data-type="post" data-id="287">bias charts for all major brands here</a>, this will give you a list of models to try.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -176,15 +176,15 @@ last_modified_at: 2026-10-30 09:30:00 +0000
 
 <!-- wp:list -->
 <ul><!-- wp:list-item -->
-<li><a href="https://www.jackhighbowls.com/help/lawn-bowls-player-positions/" data-type="post" data-id="290">Player roles in lawn bowls</a></li>
+<li><a href="{{ '/help/lawn-bowls-player-positions' | relative_url }}" data-type="post" data-id="290">Player roles in lawn bowls</a></li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li><a href="https://www.jackhighbowls.com/guide/best-rated-bowls-for-leads/" data-type="post" data-id="388">Best rated bowls for leads</a></li>
+<li><a href="{{ '/guide/best-rated-bowls-for-leads' | relative_url }}" data-type="post" data-id="388">Best rated bowls for leads</a></li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li><a href="https://www.jackhighbowls.com/help/lawn-bowls-tips-for-leads/" data-type="post" data-id="358">Tips for leads</a></li>
+<li><a href="{{ '/help/lawn-bowls-tips-for-leads' | relative_url }}" data-type="post" data-id="358">Tips for leads</a></li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
@@ -197,7 +197,7 @@ last_modified_at: 2026-10-30 09:30:00 +0000
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>You can get second hand bowls from a variety of sources (<a href="https://www.jackhighbowls.com/guide/second-hand-and-pre-loved-lawn-bowls/" data-type="post" data-id="379">see our guide to second hand bowls</a>), however we recommend eBay as there is always a wide variety of stock, and you will get a better selection of models.</p>
+<p>You can get second hand bowls from a variety of sources (<a href="{{ '/guide/second-hand-and-pre-loved-lawn-bowls' | relative_url }}" data-type="post" data-id="379">see our guide to second hand bowls</a>), however we recommend eBay as there is always a wide variety of stock, and you will get a better selection of models.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

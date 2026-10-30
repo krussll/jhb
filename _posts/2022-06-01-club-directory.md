@@ -5,7 +5,7 @@ author: reece
 categories: [ bowls-clubs ]
 featured: false
 description: ""
-last_modified_at: 2026-10-29 15:45:00 +0000
+last_modified_at: 2026-10-30 10:25:00 +0000
 date: 2022-06-01 13:00:00 -0400
 ---
     
@@ -21,7 +21,7 @@ date: 2022-06-01 13:00:00 -0400
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:paragraph -->
-<p><a href="https://www.jackhighbowls.com/bowls-clubs/bowls-clubs-in-edinburgh/" data-type="post" data-id="886">Bowls Clubs In Edinburgh</a></p>
+<p><a href="{{ '/bowls-clubs/bowls-clubs-in-edinburgh' | relative_url }}" data-type="post" data-id="886">Bowls Clubs In Edinburgh</a></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:column -->
 
@@ -53,7 +53,7 @@ date: 2022-06-01 13:00:00 -0400
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:paragraph -->
-<p><a href="https://www.jackhighbowls.com/bowls-clubs/bowls-clubs-in-adelaide-south-australia/" data-type="post" data-id="919">Bowls Clubs In Adelaide</a></p>
+<p><a href="{{ '/bowls-clubs/bowls-clubs-in-adelaide-south-australia' | relative_url }}" data-type="post" data-id="919">Bowls Clubs In Adelaide</a></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:column -->
 

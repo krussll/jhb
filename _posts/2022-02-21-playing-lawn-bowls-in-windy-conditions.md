@@ -6,6 +6,7 @@ categories: [ help ]
 featured: false
 description: ""
 date: 2022-02-21 13:00:00 -0400
+last_modified_at: 2026-10-30 10:25:00 +0000
 ---
     
 
@@ -30,7 +31,7 @@ date: 2022-02-21 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Playing in windy conditions is a problem, as its another factor impacting on the <a href="https://www.jackhighbowls.com/help/finding-the-line-in-lawn-bowls/">line and weight of your bowl</a>, as well as your body as you go through your delivery action. Lets look at those in a bit more detail</p>
+<p>Playing in windy conditions is a problem, as its another factor impacting on the <a href="{{ '/help/finding-the-line-in-lawn-bowls' | relative_url }}">line and weight of your bowl</a>, as well as your body as you go through your delivery action. Lets look at those in a bit more detail</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":3} -->

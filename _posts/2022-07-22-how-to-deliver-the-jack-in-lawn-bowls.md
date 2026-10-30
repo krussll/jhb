@@ -5,7 +5,7 @@ author: reece
 categories: [ help ]
 featured: false
 description: ""
-last_modified_at: 2026-10-29 15:45:00 +0000
+last_modified_at: 2026-10-30 10:25:00 +0000
 date: 2022-07-22 13:00:00 -0400
 ---
     
@@ -23,7 +23,7 @@ date: 2022-07-22 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p id="E330">It is common for players to discuss lines in <a href="https://www.jackhighbowls.com/help/lawn-bowls-rules/" data-type="post" data-id="304">lawn bowls</a>. While following your line is important, delivering the jack relies more on consistency. The player lying the shot has a distinct advantage for themselves and their team if they execute the maneuver correctly. For this person, unlike everyone else, has the opportunity to replicate their own bowling rhythm.</p>
+<p id="E330">It is common for players to discuss lines in <a href="{{ '/help/lawn-bowls-rules' | relative_url }}" data-type="post" data-id="304">lawn bowls</a>. While following your line is important, delivering the jack relies more on consistency. The player lying the shot has a distinct advantage for themselves and their team if they execute the maneuver correctly. For this person, unlike everyone else, has the opportunity to replicate their own bowling rhythm.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->

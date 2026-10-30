@@ -6,6 +6,7 @@ categories: [ help ]
 featured: false
 description: ""
 date: 2022-04-05 13:00:00 -0400
+last_modified_at: 2026-10-30 10:25:00 +0000
 ---
     
 
@@ -146,7 +147,7 @@ date: 2022-04-05 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>The placement of the mat is often overlooked as a tactic in most formats in club bowls. The placement of the mat affects the view the bowler gets and can affect how they <a href="https://www.jackhighbowls.com/help/how-do-you-judge-the-length-of-a-jack-in-lawn-bowls-a-complete-guide/">judge the length of the jack</a> and how they choose their aiming points.</p>
+<p>The placement of the mat is often overlooked as a tactic in most formats in club bowls. The placement of the mat affects the view the bowler gets and can affect how they <a href="{{ '/help/how-do-you-judge-the-length-of-a-jack-in-lawn-bowls-a-complete-guide' | relative_url }}">judge the length of the jack</a> and how they choose their aiming points.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

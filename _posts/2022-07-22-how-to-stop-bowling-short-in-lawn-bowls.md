@@ -5,7 +5,7 @@ author: reece
 categories: [ help ]
 featured: false
 description: ""
-last_modified_at: 2026-10-29 15:45:00 +0000
+last_modified_at: 2026-10-30 10:25:00 +0000
 date: 2022-07-22 13:00:00 -0400
 ---
     
@@ -79,7 +79,7 @@ date: 2022-07-22 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p id="E467"><a href="https://www.jackhighbowls.com/help/ultimate-guide-to-weight-control/" data-type="post" data-id="370">The pendulum swing</a> should work as one, allowing gravity to take the lead.</p>
+<p id="E467"><a href="{{ '/help/ultimate-guide-to-weight-control' | relative_url }}" data-type="post" data-id="370">The pendulum swing</a> should work as one, allowing gravity to take the lead.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":3} -->

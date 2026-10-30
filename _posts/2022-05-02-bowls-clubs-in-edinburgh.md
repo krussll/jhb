@@ -5,7 +5,7 @@ author: reece
 categories: [ bowls-clubs ]
 featured: false
 description: ""
-last_modified_at: 2026-10-29 15:45:00 +0000
+last_modified_at: 2026-10-30 10:25:00 +0000
 date: 2022-05-02 13:00:00 -0400
 ---
     
@@ -373,6 +373,6 @@ date: 2022-05-02 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>If your club is missing from my list please reach out and <a href="https://www.jackhighbowls.com/contact/" data-type="page" data-id="55">contact me here</a> and I will be sure to update my list.</p>
+<p>If your club is missing from my list please reach out and <a href="{{ '/contact' | relative_url }}" data-type="page" data-id="55">contact me here</a> and I will be sure to update my list.</p>
 <!-- /wp:paragraph -->
     

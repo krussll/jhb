@@ -5,13 +5,13 @@ author: reece
 categories: [ help ]
 featured: false
 description: ""
-last_modified_at: 2026-10-29 15:45:00 +0000
+last_modified_at: 2026-10-30 10:25:00 +0000
 date: 2019-04-24 13:00:00 -0400
 ---
     
 
 <!-- wp:paragraph -->
-<p xmlns="http://www.w3.org/1999/xhtml">Lawn bowling happens to be one of the games with several rules of etiquette. These rules, especially once learned and appreciated, create a pleasant game for all involved. Are you a <a href="https://www.jackhighbowls.com/help/6-tips-for-beginner-lawn-bowlers/">beginner in lawn</a> bowling?</p>
+<p xmlns="http://www.w3.org/1999/xhtml">Lawn bowling happens to be one of the games with several rules of etiquette. These rules, especially once learned and appreciated, create a pleasant game for all involved. Are you a <a href="{{ '/help/6-tips-for-beginner-lawn-bowlers' | relative_url }}">beginner in lawn</a> bowling?</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":362,"sizeSlug":"full","linkDestination":"none"} -->
@@ -19,7 +19,7 @@ date: 2019-04-24 13:00:00 -0400
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
-<p> This article presents critical lawn bowls practices worth considering the next time you are on the rink. If you want more on the basic rules of bowls, then checkout my guide for <a href="https://www.jackhighbowls.com/help/lawn-bowls-rules">the rules of lawn bowls</a>.</p>
+<p> This article presents critical lawn bowls practices worth considering the next time you are on the rink. If you want more on the basic rules of bowls, then checkout my guide for <a href="{{ '/help/lawn-bowls-rules' | relative_url }}">the rules of lawn bowls</a>.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
@@ -35,7 +35,7 @@ date: 2019-04-24 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Timekeeping is perhaps one of the oldest rules on courtesy. The greatest way to start <a href="https://www.jackhighbowls.com/review/5-tips-and-tricks-to-improve-your-lawn-bowls-delivery/">lawn bowling</a> is by showing up on time for a game. Arriving on time will also give you adequate time to change before the game. Being early will also give you a chance to help organize the equipment and familiarize yourself with the game. Ensure all equipment, jacks and mats are in position before the game begins.</p>
+<p>Timekeeping is perhaps one of the oldest rules on courtesy. The greatest way to start <a href="{{ '/review/5-tips-and-tricks-to-improve-your-lawn-bowls-delivery' | relative_url }}">lawn bowling</a> is by showing up on time for a game. Arriving on time will also give you adequate time to change before the game. Being early will also give you a chance to help organize the equipment and familiarize yourself with the game. Ensure all equipment, jacks and mats are in position before the game begins.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":3} -->
@@ -143,7 +143,7 @@ date: 2019-04-24 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>• Politely ask the player to stop breaking the rules. If necessary, explain which laws they are breaking through their behaviour. If the person is an opponent, be careful not to use <a href="https://www.jackhighbowls.com/help/sledging-in-lawn-bowls/">insulting or vulgar language</a> as it is contrary to lawn bowling custom.</p>
+<p>• Politely ask the player to stop breaking the rules. If necessary, explain which laws they are breaking through their behaviour. If the person is an opponent, be careful not to use <a href="{{ '/help/sledging-in-lawn-bowls' | relative_url }}">insulting or vulgar language</a> as it is contrary to lawn bowling custom.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -163,6 +163,6 @@ date: 2019-04-24 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Observing the rules above is a great place to start if you are learning how to <a href="https://www.jackhighbowls.com/help/9-tips-for-how-to-play-bowls-well/">play lawn bowls</a>. By following common etiquette, lawn bowling can be a <a href="https://www.jackhighbowls.com/help/jokes-about-lawn-bowls/">pleasant game</a> for you and those around you.</p>
+<p>Observing the rules above is a great place to start if you are learning how to <a href="{{ '/help/9-tips-for-how-to-play-bowls-well' | relative_url }}">play lawn bowls</a>. By following common etiquette, lawn bowling can be a <a href="{{ '/help/jokes-about-lawn-bowls' | relative_url }}">pleasant game</a> for you and those around you.</p>
 <!-- /wp:paragraph -->
     

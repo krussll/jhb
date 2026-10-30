@@ -6,6 +6,7 @@ categories: [ help ]
 featured: false
 description: ""
 date: 2021-02-12 13:00:00 -0400
+last_modified_at: 2026-10-30 10:25:00 +0000
 ---
     
 
@@ -178,7 +179,7 @@ date: 2021-02-12 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->
-<ul><li>Record-breaking six-time World Indoor Singles Champion</li><li>Awarded MBE in 2007</li><li>Has boosted efforts to modernise <a href="https://www.jackhighbowls.com/help/lawn-bowls-rules/">bowls by playing</a> in the APL.</li><li>In 2014, he won the Australian Premier League with the Murray Steamers and was named Most Valuable Player at the end of the season</li><li>One of the most prolific winners in lawn bowls. Has a historic pairs winning partnership with Paul Foster</li></ul>
+<ul><li>Record-breaking six-time World Indoor Singles Champion</li><li>Awarded MBE in 2007</li><li>Has boosted efforts to modernise <a href="{{ '/help/lawn-bowls-rules' | relative_url }}">bowls by playing</a> in the APL.</li><li>In 2014, he won the Australian Premier League with the Murray Steamers and was named Most Valuable Player at the end of the season</li><li>One of the most prolific winners in lawn bowls. Has a historic pairs winning partnership with Paul Foster</li></ul>
 <!-- /wp:list -->
 
 <!-- wp:html -->
@@ -214,7 +215,7 @@ date: 2021-02-12 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Honours: 7 World <a href="https://www.jackhighbowls.com/help/indoor-bowls/">Indoor Bowls</a> Championships (1 singles, 6 pairs)</p>
+<p>Honours: 7 World <a href="{{ '/help/indoor-bowls' | relative_url }}">Indoor Bowls</a> Championships (1 singles, 6 pairs)</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -230,7 +231,7 @@ date: 2021-02-12 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p><strong></strong>David Bryant is the best <a href="https://www.jackhighbowls.com/help/world-bowls-player-profiles/">lawn bowler of all-time due to his impressive record both indoor</a> and outdoor.</p>
+<p><strong></strong>David Bryant is the best <a href="{{ '/help/world-bowls-player-profiles' | relative_url }}">lawn bowler of all-time due to his impressive record both indoor</a> and outdoor.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

@@ -5,7 +5,7 @@ author: reece
 categories: [ guide ]
 featured: false
 description: ""
-last_modified_at: 2026-10-29 15:45:00 +0000
+last_modified_at: 2026-10-30 10:25:00 +0000
 date: 2022-04-01 13:00:00 -0400
 ---
     
@@ -147,7 +147,7 @@ date: 2022-04-01 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>The Professional is a mid-biased bowl popular with some of the best <a href="https://www.jackhighbowls.com/help/world-bowls-player-profiles/">bowlers in the world</a>, so you'd be in good company!</p>
+<p>The Professional is a mid-biased bowl popular with some of the best <a href="{{ '/help/world-bowls-player-profiles' | relative_url }}">bowlers in the world</a>, so you'd be in good company!</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

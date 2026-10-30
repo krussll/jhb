@@ -6,11 +6,12 @@ categories: [ help ]
 featured: false
 description: ""
 date: 2022-02-22 13:00:00 -0400
+last_modified_at: 2026-10-30 10:25:00 +0000
 ---
     
 
 <!-- wp:paragraph -->
-<p xmlns="http://www.w3.org/1999/xhtml">Are short mat bowls the same as <a href="https://www.jackhighbowls.com/help/lawn-bowls-rules/" data-type="post" data-id="304">lawn bowls</a>? This is my guide to the two games, and what is required to play both games.</p>
+<p xmlns="http://www.w3.org/1999/xhtml">Are short mat bowls the same as <a href="{{ '/help/lawn-bowls-rules' | relative_url }}" data-type="post" data-id="304">lawn bowls</a>? This is my guide to the two games, and what is required to play both games.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":76,"sizeSlug":"full","linkDestination":"none"} -->
@@ -22,7 +23,7 @@ date: 2022-02-22 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>But for those not familiar with the game there are some concerns about needing to double up on equipment. This obviously isn;t true for shoes or clothing - as any valid <a href="https://www.jackhighbowls.com/help/rules-of-short-mat-bowls/">bowls shoes will be fine for short mat</a>. The main concern is with the bowls themselves. Can a bowler use the same set they use for the outdoor and/or indoor game? Or are there special bowls purely for short mat?</p>
+<p>But for those not familiar with the game there are some concerns about needing to double up on equipment. This obviously isn;t true for shoes or clothing - as any valid <a href="{{ '/help/rules-of-short-mat-bowls' | relative_url }}">bowls shoes will be fine for short mat</a>. The main concern is with the bowls themselves. Can a bowler use the same set they use for the outdoor and/or indoor game? Or are there special bowls purely for short mat?</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -74,7 +75,7 @@ date: 2022-02-22 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>A carpet bowl is much smaller than a lawn bowl - roughly 60% the size of an average lawn bowl. Carpet bowls only come in one size, again different from <a href="https://www.jackhighbowls.com/help/what-size-lawn-bowl-should-i-use/">lawn bowls which come in many sizes</a> depending on the needs of the bowler.</p>
+<p>A carpet bowl is much smaller than a lawn bowl - roughly 60% the size of an average lawn bowl. Carpet bowls only come in one size, again different from <a href="{{ '/help/what-size-lawn-bowl-should-i-use' | relative_url }}">lawn bowls which come in many sizes</a> depending on the needs of the bowler.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->

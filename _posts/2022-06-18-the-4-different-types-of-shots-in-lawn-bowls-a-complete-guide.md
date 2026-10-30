@@ -5,13 +5,13 @@ author: reece
 categories: [ help ]
 featured: false
 description: ""
-last_modified_at: 2026-10-29 15:45:00 +0000
+last_modified_at: 2026-10-30 10:25:00 +0000
 date: 2022-06-18 13:00:00 -0400
 ---
     
 
 <!-- wp:paragraph -->
-<p xmlns="http://www.w3.org/1999/xhtml">Understanding the different types of shots is integral to developing your <a href="https://www.jackhighbowls.com/help/lawn-bowls-rules/" data-type="post" data-id="304">lawn bowls game</a>. Knowing what the shots are, how they are used, and why they are used is the first step in creating an all round game.</p>
+<p xmlns="http://www.w3.org/1999/xhtml">Understanding the different types of shots is integral to developing your <a href="{{ '/help/lawn-bowls-rules' | relative_url }}" data-type="post" data-id="304">lawn bowls game</a>. Knowing what the shots are, how they are used, and why they are used is the first step in creating an all round game.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":1225,"sizeSlug":"full","linkDestination":"none"} -->
@@ -77,7 +77,7 @@ date: 2022-06-18 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>You can find out more in my <a href="https://www.jackhighbowls.com/help/the-draw-shot-in-lawn-bowls/" data-type="post" data-id="1170">guide to the draw shot</a>.</p>
+<p>You can find out more in my <a href="{{ '/help/the-draw-shot-in-lawn-bowls' | relative_url }}" data-type="post" data-id="1170">guide to the draw shot</a>.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":3} -->
@@ -107,7 +107,7 @@ date: 2022-06-18 13:00:00 -0400
 <!-- /wp:quote -->
 
 <!-- wp:paragraph -->
-<p>You can find out more in my <a href="https://www.jackhighbowls.com/help/how-to-play-the-yard-on-shot-in-bowls/" data-type="post">guide to the yard-on shot</a>.</p>
+<p>You can find out more in my <a href="{{ '/help/how-to-play-the-yard-on-shot-in-bowls' | relative_url }}" data-type="post">guide to the yard-on shot</a>.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":3} -->
@@ -215,7 +215,7 @@ date: 2022-06-18 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>You can find out more by reading my <a href="https://www.jackhighbowls.com/help/the-ultimate-guide-to-building-the-head-in-lawn-bowls/" data-type="post" data-id="699">guide on shot selection</a>.</p>
+<p>You can find out more by reading my <a href="{{ '/help/the-ultimate-guide-to-building-the-head-in-lawn-bowls' | relative_url }}" data-type="post" data-id="699">guide on shot selection</a>.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
@@ -227,6 +227,6 @@ date: 2022-06-18 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>It takes years to learn each one, especially if you consider you may need to learn them on the <a href="https://www.jackhighbowls.com/help/lawn-bowls-forehand-or-backhand/" data-type="post" data-id="1156">forehand and the backhand</a>, however, you may only need a couple depending on what roll you play in your teams.</p>
+<p>It takes years to learn each one, especially if you consider you may need to learn them on the <a href="{{ '/help/lawn-bowls-forehand-or-backhand' | relative_url }}" data-type="post" data-id="1156">forehand and the backhand</a>, however, you may only need a couple depending on what roll you play in your teams.</p>
 <!-- /wp:paragraph -->
     

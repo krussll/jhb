@@ -7,7 +7,7 @@ featured: false
 description: ""
 background: "/img/posts/pick-the-right-bowls.png"
 date: 2022-11-24 13:00:00 -0400
-last_modified_at: 2026-10-29 15:45:00 +0000
+last_modified_at: 2026-10-30 10:25:00 +0000
 ---
     
 
@@ -106,15 +106,15 @@ last_modified_at: 2026-10-29 15:45:00 +0000
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><a href="https://www.jackhighbowls.com/guide/best-lawn-bowls-for-indoors/" data-type="post" data-id="267">Best Indoor Bowls</a></p>
+<p><a href="{{ '/guide/best-lawn-bowls-for-indoors' | relative_url }}" data-type="post" data-id="267">Best Indoor Bowls</a></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><a href="https://www.jackhighbowls.com/guide/best-lawn-bowls-for-fast-greens/" data-type="post" data-id="313">Best Lawn Bowls For Fast Greens</a></p>
+<p><a href="{{ '/guide/best-lawn-bowls-for-fast-greens' | relative_url }}" data-type="post" data-id="313">Best Lawn Bowls For Fast Greens</a></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><a href="https://www.jackhighbowls.com/guide/best-mid-bias-lawn-bowls/" data-type="post" data-id="807">Best Bowls For Indoor and Outdoor Players</a></p>
+<p><a href="{{ '/guide/best-mid-bias-lawn-bowls' | relative_url }}" data-type="post" data-id="807">Best Bowls For Indoor and Outdoor Players</a></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
@@ -164,11 +164,11 @@ last_modified_at: 2026-10-29 15:45:00 +0000
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><a href="https://www.jackhighbowls.com/guide/best-rated-bowls-for-leads/" data-type="post" data-id="388">Best Narrow Lawn Bowls</a></p>
+<p><a href="{{ '/guide/best-rated-bowls-for-leads' | relative_url }}" data-type="post" data-id="388">Best Narrow Lawn Bowls</a></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><a href="https://www.jackhighbowls.com/guide/best-lawn-bowls-for-skips/" data-type="post" data-id="587">Best Lawn Bowls For Skips</a></p>
+<p><a href="{{ '/guide/best-lawn-bowls-for-skips' | relative_url }}" data-type="post" data-id="587">Best Lawn Bowls For Skips</a></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
@@ -198,7 +198,7 @@ last_modified_at: 2026-10-29 15:45:00 +0000
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Whilst there are all kinds of lotions and potions for <a href="https://www.jackhighbowls.com/guide/best-lawn-bowls-grip-enhancers/" data-type="post" data-id="278">enhancing your grip on a lawn bowl</a>, nothing can beat a good grip from the dimples on a bowl.</p>
+<p>Whilst there are all kinds of lotions and potions for <a href="{{ '/guide/best-lawn-bowls-grip-enhancers' | relative_url }}" data-type="post" data-id="278">enhancing your grip on a lawn bowl</a>, nothing can beat a good grip from the dimples on a bowl.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -252,7 +252,7 @@ last_modified_at: 2026-10-29 15:45:00 +0000
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Here is my guide on how to <a href="https://www.jackhighbowls.com/help/what-size-lawn-bowl-should-i-use/" data-type="post" data-id="140">choose the correct size of lawn bowl</a> for you.</p>
+<p>Here is my guide on how to <a href="{{ '/help/what-size-lawn-bowl-should-i-use' | relative_url }}" data-type="post" data-id="140">choose the correct size of lawn bowl</a> for you.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
@@ -268,7 +268,7 @@ last_modified_at: 2026-10-29 15:45:00 +0000
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>A brand new <a href="https://www.jackhighbowls.com/help/how-much-does-a-set-of-lawn-bowls-cost/" data-type="post" data-id="1458">set of lawn bowls can cost upwards of £400</a>, and despite there being a thriving second hand market of bowls, many of the newer models have not yet started to make it to online marketplaces, such as eBay.</p>
+<p>A brand new <a href="{{ '/help/how-much-does-a-set-of-lawn-bowls-cost' | relative_url }}" data-type="post" data-id="1458">set of lawn bowls can cost upwards of £400</a>, and despite there being a thriving second hand market of bowls, many of the newer models have not yet started to make it to online marketplaces, such as eBay.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -280,7 +280,7 @@ last_modified_at: 2026-10-29 15:45:00 +0000
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Here is my guide on <a href="https://www.jackhighbowls.com/guide/second-hand-and-pre-loved-lawn-bowls/" data-type="post" data-id="379">buying bowls second hand</a>, so go out there and grab yourself a bargain!</p>
+<p>Here is my guide on <a href="{{ '/guide/second-hand-and-pre-loved-lawn-bowls' | relative_url }}" data-type="post" data-id="379">buying bowls second hand</a>, so go out there and grab yourself a bargain!</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->

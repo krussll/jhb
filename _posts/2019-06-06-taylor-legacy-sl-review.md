@@ -5,7 +5,7 @@ author: reece
 categories: [ bowls, review ]
 featured: false
 description: ""
-last_modified_at: 2026-10-30 09:30:00 +0000
+last_modified_at: 2026-10-30 10:25:00 +0000
 date: 2019-06-06 13:00:00 -0400
 review:
   name: "Taylor Legacy SL Lawn Bowls"
@@ -119,7 +119,7 @@ review:
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>The bowl is slimmer than the other Taylor models. This coupled with Taylor's <a href="https://www.jackhighbowls.com/guide/best-lawn-bowl-grips/">Progrip makes the Legacy SL ideal for bowlers with smaller hands who struggle to maintain a proper grip of their bowls</a>.</p>
+<p>The bowl is slimmer than the other Taylor models. This coupled with Taylor's <a href="{{ '/guide/best-lawn-bowl-grips' | relative_url }}">Progrip makes the Legacy SL ideal for bowlers with smaller hands who struggle to maintain a proper grip of their bowls</a>.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
@@ -163,7 +163,7 @@ review:
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>The Taylor Legacy SL comes with Taylor's unique Progrip as standard. The Progrip is based on the classic dimple grip, but with a unique shape to improve control. It has been designed to help in the worst <a href="https://www.jackhighbowls.com/help/playing-lawn-bowls-in-wet-conditions/">conditions so you will always have control of the bowl</a> even in the wettest weather.</p>
+<p>The Taylor Legacy SL comes with Taylor's unique Progrip as standard. The Progrip is based on the classic dimple grip, but with a unique shape to improve control. It has been designed to help in the worst <a href="{{ '/help/playing-lawn-bowls-in-wet-conditions' | relative_url }}">conditions so you will always have control of the bowl</a> even in the wettest weather.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

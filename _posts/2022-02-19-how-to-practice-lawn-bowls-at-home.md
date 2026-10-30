@@ -6,6 +6,7 @@ categories: [ help ]
 featured: false
 description: ""
 date: 2022-02-19 13:00:00 -0400
+last_modified_at: 2026-10-30 10:25:00 +0000
 ---
     
 
@@ -22,7 +23,7 @@ date: 2022-02-19 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Here are my 6 tips for practicing <a href="https://www.jackhighbowls.com/help/how-to-prepare-for-a-new-lawn-bowls-season/">lawn bowls</a> at home.</p>
+<p>Here are my 6 tips for practicing <a href="{{ '/help/how-to-prepare-for-a-new-lawn-bowls-season' | relative_url }}">lawn bowls</a> at home.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
@@ -54,7 +55,7 @@ date: 2022-02-19 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Nothing is quite the same as getting the weight of a bowl in your hand. Obviously pinging a <a href="https://www.jackhighbowls.com/help/lawn-bowls-rules/">lawn bowl</a> around the kitchen is unlikely to go down well with your significant other! The next best thing is to practice with a soft ball - such as a dog toy, or plastic ball.</p>
+<p>Nothing is quite the same as getting the weight of a bowl in your hand. Obviously pinging a <a href="{{ '/help/lawn-bowls-rules' | relative_url }}">lawn bowl</a> around the kitchen is unlikely to go down well with your significant other! The next best thing is to practice with a soft ball - such as a dog toy, or plastic ball.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -74,7 +75,7 @@ date: 2022-02-19 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>The mental aspect of the game is often overlooked, but <a href="https://www.jackhighbowls.com/help/guide-to-mental-training-in-lawn-bowls/">lawn bowls is a mainly mental</a> game. By visualising we can prepare our mind for the game ahead, which in turn can help with our performance.</p>
+<p>The mental aspect of the game is often overlooked, but <a href="{{ '/help/guide-to-mental-training-in-lawn-bowls' | relative_url }}">lawn bowls is a mainly mental</a> game. By visualising we can prepare our mind for the game ahead, which in turn can help with our performance.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
@@ -90,7 +91,7 @@ date: 2022-02-19 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Try things like lunges, or balancing poses to improve. They don’t require much room, ao they are ideal for practcing at home. You can see more on <a href="https://www.jackhighbowls.com/help/lawn-bowls-exercises">exercises to improve your lawn bowls game here</a>.</p>
+<p>Try things like lunges, or balancing poses to improve. They don’t require much room, ao they are ideal for practcing at home. You can see more on <a href="{{ '/help/lawn-bowls-exercises' | relative_url }}">exercises to improve your lawn bowls game here</a>.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->

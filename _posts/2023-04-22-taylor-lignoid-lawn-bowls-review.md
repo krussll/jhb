@@ -5,7 +5,7 @@ author: reece
 categories: [ guide ]
 featured: false
 description: "Taylor Lignoid lawn bowls review: wide bias profile, holding line on slow grass greens, second-hand affordability, and verdict."
-last_modified_at: 2026-10-30 09:30:00 +0000
+last_modified_at: 2026-10-30 10:25:00 +0000
 date: 2023-04-22 13:00:00 -0400
 review:
   name: "Taylor Lignoid Lawn Bowls"
@@ -198,7 +198,7 @@ review:
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>It is also important to note that Taylor don't offer their fantastic embedded <a href="https://www.jackhighbowls.com/guide/taylor-xtreme-grip-review/" data-type="post" data-id="1624">Xtreme Grip</a> on the Lignoid - again this is only available on their most popular bowls.</p>
+<p>It is also important to note that Taylor don't offer their fantastic embedded <a href="{{ '/guide/taylor-xtreme-grip-review' | relative_url }}" data-type="post" data-id="1624">Xtreme Grip</a> on the Lignoid - again this is only available on their most popular bowls.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

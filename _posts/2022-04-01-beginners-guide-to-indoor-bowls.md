@@ -6,6 +6,7 @@ categories: [ help ]
 featured: false
 description: ""
 date: 2022-04-01 13:00:00 -0400
+last_modified_at: 2026-10-30 10:25:00 +0000
 ---
     
 
@@ -30,7 +31,7 @@ date: 2022-04-01 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Firstly, it's probably a good idea to go over what the differences are between <a href="https://www.jackhighbowls.com/help/indoor-bowls/">lawn bowls and indoor</a> bowls, and how those differences might impact on your tactics.</p>
+<p>Firstly, it's probably a good idea to go over what the differences are between <a href="{{ '/help/indoor-bowls' | relative_url }}">lawn bowls and indoor</a> bowls, and how those differences might impact on your tactics.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":3} -->
@@ -130,7 +131,7 @@ date: 2022-04-01 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>The shots you take will depend heavily on how you read the head - <a href="https://www.jackhighbowls.com/help/lawn-bowls-how-to-read-the-head/" data-type="post" data-id="298">you can read my beginner's guide to reading the head here</a>. However, the basics are choosing the right balance of aggression to convert shots.</p>
+<p>The shots you take will depend heavily on how you read the head - <a href="{{ '/help/lawn-bowls-how-to-read-the-head' | relative_url }}" data-type="post" data-id="298">you can read my beginner's guide to reading the head here</a>. However, the basics are choosing the right balance of aggression to convert shots.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -210,7 +211,7 @@ date: 2022-04-01 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->
-<ul><li><a href="https://www.jackhighbowls.com/help/ultimate-guide-to-lawn-bowls-singles-tactics/" data-type="post" data-id="113">Guide to singles in bowls</a></li><li><a href="https://www.jackhighbowls.com/help/lawn-bowls-pairs-tactics/" data-type="post" data-id="19">Guide to pairs in bowls</a></li><li><a href="https://www.jackhighbowls.com/help/lawn-bowls-triples-tactics/" data-type="post" data-id="487">Guide to triples in bowls</a></li><li><a href="https://www.jackhighbowls.com/help/lawn-bowls-fours-tactics/" data-type="post" data-id="701">Guide to fours in bowls</a></li></ul>
+<ul><li><a href="{{ '/help/ultimate-guide-to-lawn-bowls-singles-tactics' | relative_url }}" data-type="post" data-id="113">Guide to singles in bowls</a></li><li><a href="{{ '/help/lawn-bowls-pairs-tactics' | relative_url }}" data-type="post" data-id="19">Guide to pairs in bowls</a></li><li><a href="{{ '/help/lawn-bowls-triples-tactics' | relative_url }}" data-type="post" data-id="487">Guide to triples in bowls</a></li><li><a href="{{ '/help/lawn-bowls-fours-tactics' | relative_url }}" data-type="post" data-id="701">Guide to fours in bowls</a></li></ul>
 <!-- /wp:list -->
 
 <!-- wp:heading -->

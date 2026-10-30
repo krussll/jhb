@@ -5,7 +5,7 @@ author: reece
 categories: [ help ]
 featured: false
 description: ""
-last_modified_at: 2026-10-29 15:45:00 +0000
+last_modified_at: 2026-10-30 10:25:00 +0000
 date: 2022-10-08 13:00:00 -0400
 ---
     
@@ -39,7 +39,7 @@ date: 2022-10-08 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>For those who feel they may need some support, either because of old age, or from having something like <a href="https://www.jackhighbowls.com/help/can-you-play-bowls-with-arthritis/" data-type="post" data-id="1447">arthritis</a> there are many <a href="https://www.jackhighbowls.com/guide/lawn-bowls-bowling-aids/" data-type="post" data-id="770">aids</a> to help you.</p>
+<p>For those who feel they may need some support, either because of old age, or from having something like <a href="{{ '/help/can-you-play-bowls-with-arthritis' | relative_url }}" data-type="post" data-id="1447">arthritis</a> there are many <a href="{{ '/guide/lawn-bowls-bowling-aids' | relative_url }}" data-type="post" data-id="770">aids</a> to help you.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
@@ -79,7 +79,7 @@ date: 2022-10-08 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>If, however you are looking to improve your fitness, and are already playing as much as you can then check out my guide on the <a href="https://www.jackhighbowls.com/help/lawn-bowls-exercises/" data-type="post" data-id="196">best exercises for lawn bowls</a>.</p>
+<p>If, however you are looking to improve your fitness, and are already playing as much as you can then check out my guide on the <a href="{{ '/help/lawn-bowls-exercises' | relative_url }}" data-type="post" data-id="196">best exercises for lawn bowls</a>.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->

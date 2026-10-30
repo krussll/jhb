@@ -5,7 +5,7 @@ author: reece
 categories: [ guide ]
 featured: false
 description: ""
-last_modified_at: 2026-10-30 09:30:00 +0000
+last_modified_at: 2026-10-30 10:25:00 +0000
 date: 2021-03-31 13:00:00 -0400
 ---
     
@@ -43,7 +43,7 @@ date: 2021-03-31 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>You can find my full report of <a href="https://www.jackhighbowls.com/guide/best-lawn-bowls-for-indoors/" data-type="post" data-id="267">the best Indoor Lawn Bowls here</a>.</p>
+<p>You can find my full report of <a href="{{ '/guide/best-lawn-bowls-for-indoors' | relative_url }}" data-type="post" data-id="267">the best Indoor Lawn Bowls here</a>.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->

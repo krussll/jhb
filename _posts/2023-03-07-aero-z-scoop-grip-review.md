@@ -5,7 +5,7 @@ author: reece
 categories: [ guide ]
 featured: false
 description: ""
-last_modified_at: 2026-10-29 15:45:00 +0000
+last_modified_at: 2026-10-30 10:25:00 +0000
 date: 2023-03-07 13:00:00 -0400
 ---
     
@@ -125,7 +125,7 @@ date: 2023-03-07 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>However, this issue is less pronounced in the Z-Scoop compared to other manufacturers who make their channels far deeper -  such as the <a href="https://www.jackhighbowls.com/guide/taylor-xtreme-grip-review/" data-type="post" data-id="1624">Taylor Xtereme grip</a>. </p>
+<p>However, this issue is less pronounced in the Z-Scoop compared to other manufacturers who make their channels far deeper -  such as the <a href="{{ '/guide/taylor-xtreme-grip-review' | relative_url }}" data-type="post" data-id="1624">Taylor Xtereme grip</a>. </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->

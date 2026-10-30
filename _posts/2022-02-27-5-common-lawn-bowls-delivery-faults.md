@@ -6,6 +6,7 @@ categories: [ help ]
 featured: false
 description: ""
 date: 2022-02-27 13:00:00 -0400
+last_modified_at: 2026-10-30 10:25:00 +0000
 ---
     
 
@@ -30,7 +31,7 @@ date: 2022-02-27 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Here are 5 common <a href="https://www.jackhighbowls.com/help/5-fundamental-ways-to-improve-your-lawn-bowls-delivery/">lawn bowls delivery</a> faults - and how to fix them!</p>
+<p>Here are 5 common <a href="{{ '/help/5-fundamental-ways-to-improve-your-lawn-bowls-delivery' | relative_url }}">lawn bowls delivery</a> faults - and how to fix them!</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
@@ -46,7 +47,7 @@ date: 2022-02-27 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>This is a problem as it can affect line and weight. The line is affected as the <a href="https://www.jackhighbowls.com/guide/best-lawn-bowl-grips/">bowl can grip</a> onto a different line than the one it was delivered on, and the weight is affected as a wobbling bowl causes more friction on the ground along the running surface which takes some of the energy out of the bowl.</p>
+<p>This is a problem as it can affect line and weight. The line is affected as the <a href="{{ '/guide/best-lawn-bowl-grips' | relative_url }}">bowl can grip</a> onto a different line than the one it was delivered on, and the weight is affected as a wobbling bowl causes more friction on the ground along the running surface which takes some of the energy out of the bowl.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

@@ -6,7 +6,7 @@ categories: [ guide ]
 featured: false
 description: ""
 date: 2019-07-25 13:00:00 -0400
-last_modified_at: 2025-02-20T10:52:15+00:00
+last_modified_at: 2026-10-30 10:25:00 +0000
 ---
     
 
@@ -35,7 +35,7 @@ last_modified_at: 2025-02-20T10:52:15+00:00
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Fast greens are usually found in the hotter countries where <a href="https://www.jackhighbowls.com/help/lawn-bowls-rules/">bowls is played</a>, such as Australia, New Zealand and South Africa, but you can see them in the UK particularly during heatwaves, or prolonged warm summers. Why are fast greens hard?</p>
+<p>Fast greens are usually found in the hotter countries where <a href="{{ '/help/lawn-bowls-rules' | relative_url }}">bowls is played</a>, such as Australia, New Zealand and South Africa, but you can see them in the UK particularly during heatwaves, or prolonged warm summers. Why are fast greens hard?</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -64,7 +64,7 @@ last_modified_at: 2025-02-20T10:52:15+00:00
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>Adjust your <a href="https://www.jackhighbowls.com/help/how-do-you-judge-the-length-of-a-jack-in-lawn-bowls-a-complete-guide/">jack length</a>. If you commonly do well on short jacks, you should find your delivery better suited to longer jack lengths on a fast green</li>
+<li>Adjust your <a href="{{ '/help/how-do-you-judge-the-length-of-a-jack-in-lawn-bowls-a-complete-guide' | relative_url }}">jack length</a>. If you commonly do well on short jacks, you should find your delivery better suited to longer jack lengths on a fast green</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
@@ -85,7 +85,7 @@ last_modified_at: 2025-02-20T10:52:15+00:00
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>As <a href="https://www.jackhighbowls.com/help/playing-lawn-bowls-in-windy-conditions/">bowls can also be affected by windy conditions</a> more on fast greens you could also consider looking at models that have specialist grips that aim to reduce those affects.</p>
+<p>As <a href="{{ '/help/playing-lawn-bowls-in-windy-conditions' | relative_url }}">bowls can also be affected by windy conditions</a> more on fast greens you could also consider looking at models that have specialist grips that aim to reduce those affects.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

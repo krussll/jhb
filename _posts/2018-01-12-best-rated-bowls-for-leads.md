@@ -6,7 +6,7 @@ categories: [ guide ]
 featured: false
 description: ""
 date: 2018-01-12 13:00:00 -0400
-last_modified_at: 2026-10-30 09:30:00 +0000
+last_modified_at: 2026-10-30 10:25:00 +0000
 ---
     
 
@@ -155,7 +155,7 @@ last_modified_at: 2026-10-30 09:30:00 +0000
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>The Aero ranges also have a couple of features which you won’t see on the other big names. Firstly, they have their unique “Z Scoop” grip, which Aero say improves control, and allows the bowl to feel smaller in your hand, which is ideal if you want to try a slightly larger bowl. The design team at Areo have improved the profile of their <a href="https://www.jackhighbowls.com/help/playing-lawn-bowls-in-windy-conditions/">bowls to make them less affected in windy conditions</a>, which is ideal for the traditional English summer!</p>
+<p>The Aero ranges also have a couple of features which you won’t see on the other big names. Firstly, they have their unique “Z Scoop” grip, which Aero say improves control, and allows the bowl to feel smaller in your hand, which is ideal if you want to try a slightly larger bowl. The design team at Areo have improved the profile of their <a href="{{ '/help/playing-lawn-bowls-in-windy-conditions' | relative_url }}">bowls to make them less affected in windy conditions</a>, which is ideal for the traditional English summer!</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

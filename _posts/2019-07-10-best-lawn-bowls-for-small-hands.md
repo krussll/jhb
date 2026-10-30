@@ -6,7 +6,7 @@ categories: [ guide ]
 featured: false
 description: ""
 date: 2019-07-10 13:00:00 -0400
-last_modified_at: 2025-02-20T10:52:15+00:00
+last_modified_at: 2026-10-30 10:25:00 +0000
 ---
     
 
@@ -62,7 +62,7 @@ last_modified_at: 2025-02-20T10:52:15+00:00
 
 <!-- wp:list -->
 <ul><!-- wp:list-item -->
-<li>Smaller bowls can find gaps between other bowls in the head. The constant frustration as a bowler is seeing your <a href="https://www.jackhighbowls.com/help/finding-the-line-in-lawn-bowls/">bowl following a perfect line</a>, only to crash into a short shot. I have lost count of the number of times my old, smaller bowls had snuck past these obstacles and produced a great result</li>
+<li>Smaller bowls can find gaps between other bowls in the head. The constant frustration as a bowler is seeing your <a href="{{ '/help/finding-the-line-in-lawn-bowls' | relative_url }}">bowl following a perfect line</a>, only to crash into a short shot. I have lost count of the number of times my old, smaller bowls had snuck past these obstacles and produced a great result</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
@@ -173,7 +173,7 @@ last_modified_at: 2025-02-20T10:52:15+00:00
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>The Z Scoop is named after the zig zag pattern that sits within the inset grip. This has been designed not only to aid your general grip, but to help water run off it to help give you confidence it <a href="https://www.jackhighbowls.com/help/playing-lawn-bowls-in-wet-conditions/">wet conditions</a>.</p>
+<p>The Z Scoop is named after the zig zag pattern that sits within the inset grip. This has been designed not only to aid your general grip, but to help water run off it to help give you confidence it <a href="{{ '/help/playing-lawn-bowls-in-wet-conditions' | relative_url }}">wet conditions</a>.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

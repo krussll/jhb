@@ -5,13 +5,13 @@ author: reece
 categories: [ help ]
 featured: false
 description: ""
-last_modified_at: 2026-10-29 15:45:00 +0000
+last_modified_at: 2026-10-30 10:25:00 +0000
 date: 2022-04-25 13:00:00 -0400
 ---
     
 
 <!-- wp:paragraph -->
-<p xmlns="http://www.w3.org/1999/xhtml">Bowlers get used to the <a href="https://www.jackhighbowls.com/help/lawn-bowls-rules/" data-type="post" data-id="304">basic rules of lawn bowls </a>and how an end works pretty quickly - however there are other ways an end can play out other than the standard way of playing all of the bowls and counting up the shots.</p>
+<p xmlns="http://www.w3.org/1999/xhtml">Bowlers get used to the <a href="{{ '/help/lawn-bowls-rules' | relative_url }}" data-type="post" data-id="304">basic rules of lawn bowls </a>and how an end works pretty quickly - however there are other ways an end can play out other than the standard way of playing all of the bowls and counting up the shots.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":983,"sizeSlug":"full","linkDestination":"none"} -->
@@ -47,7 +47,7 @@ date: 2022-04-25 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>There are specific rules for how to play with a jack in the ditch, you can find my <a href="https://www.jackhighbowls.com/help/lawn-bowls-rules-when-the-jack-is-in-the-ditch/" data-type="post" data-id="499">guide on the "jack in the ditch" scenario here</a>.</p>
+<p>There are specific rules for how to play with a jack in the ditch, you can find my <a href="{{ '/help/lawn-bowls-rules-when-the-jack-is-in-the-ditch' | relative_url }}" data-type="post" data-id="499">guide on the "jack in the ditch" scenario here</a>.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
@@ -93,6 +93,6 @@ date: 2022-04-25 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>If you learn the rules for dead ends, and <a href="https://www.jackhighbowls.com/help/lawn-bowls-rules-when-the-jack-is-in-the-ditch/" data-type="post" data-id="499">the jack in the ditch</a> you likely know more than the majority of the players on the green!</p>
+<p>If you learn the rules for dead ends, and <a href="{{ '/help/lawn-bowls-rules-when-the-jack-is-in-the-ditch' | relative_url }}" data-type="post" data-id="499">the jack in the ditch</a> you likely know more than the majority of the players on the green!</p>
 <!-- /wp:paragraph -->
     

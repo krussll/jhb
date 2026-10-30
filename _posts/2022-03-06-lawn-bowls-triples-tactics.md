@@ -6,6 +6,7 @@ categories: [ help ]
 featured: false
 description: ""
 date: 2022-03-06 13:00:00 -0400
+last_modified_at: 2026-10-30 10:25:00 +0000
 ---
     
 
@@ -82,7 +83,7 @@ date: 2022-03-06 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->
-<ul id="block-c113fe9b-d5d9-4704-b012-f370ee9d5d40"><li><a href="https://www.jackhighbowls.com/help/lawn-bowls-tips-for-skips/">Guiding the skip when he is playing his bowls</a></li><li>Measuring and agreeing scores alongside the lead from the opposing team</li></ul>
+<ul id="block-c113fe9b-d5d9-4704-b012-f370ee9d5d40"><li><a href="{{ '/help/lawn-bowls-tips-for-skips' | relative_url }}">Guiding the skip when he is playing his bowls</a></li><li>Measuring and agreeing scores alongside the lead from the opposing team</li></ul>
 <!-- /wp:list -->
 
 <!-- wp:paragraph -->
@@ -134,7 +135,7 @@ date: 2022-03-06 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Also, having so many <a href="https://www.jackhighbowls.com/help/how-to-play-the-yard-on-shot-in-bowls/">bowls in play means that weighted shots</a> can lead to lucky wicks (defections off of other bowls). As with most things in life, its better to be lucky than good!</p>
+<p>Also, having so many <a href="{{ '/help/how-to-play-the-yard-on-shot-in-bowls' | relative_url }}">bowls in play means that weighted shots</a> can lead to lucky wicks (defections off of other bowls). As with most things in life, its better to be lucky than good!</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -170,7 +171,7 @@ date: 2022-03-06 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>The placement of the mat is often overlooked as a tactic in most formats in club bowls. The placement of the mat affects the view the bowler gets and can affect how they <a href="https://www.jackhighbowls.com/help/how-do-you-judge-the-length-of-a-jack-in-lawn-bowls-a-complete-guide/">judge the length of the jack</a> and how they choose their aiming points.</p>
+<p>The placement of the mat is often overlooked as a tactic in most formats in club bowls. The placement of the mat affects the view the bowler gets and can affect how they <a href="{{ '/help/how-do-you-judge-the-length-of-a-jack-in-lawn-bowls-a-complete-guide' | relative_url }}">judge the length of the jack</a> and how they choose their aiming points.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

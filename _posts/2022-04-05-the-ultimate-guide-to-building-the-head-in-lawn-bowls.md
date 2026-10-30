@@ -5,7 +5,7 @@ author: reece
 categories: [ help ]
 featured: false
 description: ""
-last_modified_at: 2026-10-29 15:45:00 +0000
+last_modified_at: 2026-10-30 10:25:00 +0000
 date: 2022-04-05 13:00:00 -0400
 ---
     
@@ -195,7 +195,7 @@ date: 2022-04-05 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Finally, it's important to note that building the head is only half the battle. Being able to read the head is a skill in itself, especially as you try to understand what your opponent might be doing, and how you may need to react to it. You can find my<a href="https://www.jackhighbowls.com/help/lawn-bowls-how-to-read-the-head/" data-type="post" data-id="298"> guide on reading the head here</a>.</p>
+<p>Finally, it's important to note that building the head is only half the battle. Being able to read the head is a skill in itself, especially as you try to understand what your opponent might be doing, and how you may need to react to it. You can find my<a href="{{ '/help/lawn-bowls-how-to-read-the-head' | relative_url }}" data-type="post" data-id="298"> guide on reading the head here</a>.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->

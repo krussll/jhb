@@ -6,6 +6,7 @@ categories: [ help ]
 featured: false
 description: ""
 date: 2020-10-20 13:00:00 -0400
+last_modified_at: 2026-10-30 10:25:00 +0000
 ---
     
 
@@ -86,7 +87,7 @@ date: 2020-10-20 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>A quality enamel paint can be used on lawn bowls. The paint is only used during the production process on the grips, rings, and the emblems. The rest of the bowl is coloured through the compound used to create the body of bowl itself. Therefore, it is not recommended to paint the surface of a <a href="https://www.jackhighbowls.com/help/how-lawn-bowls-are-made/">lawn bowl</a>.</p>
+<p>A quality enamel paint can be used on lawn bowls. The paint is only used during the production process on the grips, rings, and the emblems. The rest of the bowl is coloured through the compound used to create the body of bowl itself. Therefore, it is not recommended to paint the surface of a <a href="{{ '/help/how-lawn-bowls-are-made' | relative_url }}">lawn bowl</a>.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->

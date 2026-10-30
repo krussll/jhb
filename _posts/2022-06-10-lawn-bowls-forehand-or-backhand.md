@@ -5,7 +5,7 @@ author: reece
 categories: [ help ]
 featured: false
 description: ""
-last_modified_at: 2026-10-29 15:45:00 +0000
+last_modified_at: 2026-10-30 10:25:00 +0000
 date: 2022-06-10 13:00:00 -0400
 ---
     
@@ -71,7 +71,7 @@ date: 2022-06-10 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>A backhand shot is played slightly across the body, whereas a forehand is delivered with the body pointing out towards the dominant side. This is especially true for those who play with the shooter stance (see my <a href="https://www.jackhighbowls.com/help/the-shooter-stance-for-lawn-bowls/" data-type="post" data-id="326">guide on the shooter stance here</a>).</p>
+<p>A backhand shot is played slightly across the body, whereas a forehand is delivered with the body pointing out towards the dominant side. This is especially true for those who play with the shooter stance (see my <a href="{{ '/help/the-shooter-stance-for-lawn-bowls' | relative_url }}" data-type="post" data-id="326">guide on the shooter stance here</a>).</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

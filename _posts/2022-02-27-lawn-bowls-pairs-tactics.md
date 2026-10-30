@@ -6,11 +6,12 @@ categories: [ help ]
 featured: false
 description: ""
 date: 2022-02-27 13:00:00 -0400
+last_modified_at: 2026-10-30 10:25:00 +0000
 ---
     
 
 <!-- wp:paragraph -->
-<p xmlns="http://www.w3.org/1999/xhtml">Here is my complete guide to <a href="https://www.jackhighbowls.com/help/lawn-bowls-rules/" data-type="post" data-id="304">lawn bowls</a> pairs tactics. Pairs is the simplest team format, but the most complex to strategise.</p>
+<p xmlns="http://www.w3.org/1999/xhtml">Here is my complete guide to <a href="{{ '/help/lawn-bowls-rules' | relative_url }}" data-type="post" data-id="304">lawn bowls</a> pairs tactics. Pairs is the simplest team format, but the most complex to strategise.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -30,7 +31,7 @@ date: 2022-02-27 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Pairs can be <a href="https://www.jackhighbowls.com/help/lawn-bowls-rules/">played in either the 4 bowl</a> format (where each player has 4 bowls - totalling 8 for a pair) which is common at club level, or the 3 bowl format (where each player has 3 bowls - totalling 6 for a pair). The 4 bowl format is more common at club level, compared to 3 bowls which you will likely encounter at national and international levels.</p>
+<p>Pairs can be <a href="{{ '/help/lawn-bowls-rules' | relative_url }}">played in either the 4 bowl</a> format (where each player has 4 bowls - totalling 8 for a pair) which is common at club level, or the 3 bowl format (where each player has 3 bowls - totalling 6 for a pair). The 4 bowl format is more common at club level, compared to 3 bowls which you will likely encounter at national and international levels.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -67,7 +68,7 @@ date: 2022-02-27 13:00:00 -0400
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li><a href="https://www.jackhighbowls.com/help/lawn-bowls-tips-for-skips/">Guiding the skip when he is playing his bowls</a></li>
+<li><a href="{{ '/help/lawn-bowls-tips-for-skips' | relative_url }}">Guiding the skip when he is playing his bowls</a></li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
@@ -122,7 +123,7 @@ date: 2022-02-27 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>As the skip can have up to four bowls (depending on the format) they do have more time to build the head further from the lead before <a href="https://www.jackhighbowls.com/help/how-to-play-the-yard-on-shot-in-bowls/">playing any aggressive shots</a> later in the end.</p>
+<p>As the skip can have up to four bowls (depending on the format) they do have more time to build the head further from the lead before <a href="{{ '/help/how-to-play-the-yard-on-shot-in-bowls' | relative_url }}">playing any aggressive shots</a> later in the end.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->

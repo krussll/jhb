@@ -6,6 +6,7 @@ categories: [ help ]
 featured: false
 description: ""
 date: 2022-02-18 13:00:00 -0400
+last_modified_at: 2026-10-30 10:25:00 +0000
 ---
     
 
@@ -26,7 +27,7 @@ date: 2022-02-18 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Lawn bowls is a<a href="https://www.jackhighbowls.com/help/jokes-about-lawn-bowls/"> friendly and pleasant sport</a> to take part in. It doesn’t take long to notice how tight-knit the community is, and members seem to get along with little to no problems.</p>
+<p>Lawn bowls is a<a href="{{ '/help/jokes-about-lawn-bowls' | relative_url }}"> friendly and pleasant sport</a> to take part in. It doesn’t take long to notice how tight-knit the community is, and members seem to get along with little to no problems.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -126,7 +127,7 @@ date: 2022-02-18 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Keeping your muscles in top shape is needed to <a href="https://www.jackhighbowls.com/help/lawn-bowls-rules/">play lawn bowls</a>. Although it isn’t the most strenuous of activities, you still need to be relatively in-shape. Here are some easy exercises to loosen those muscles. Stretching before a match is always advised.</p>
+<p>Keeping your muscles in top shape is needed to <a href="{{ '/help/lawn-bowls-rules' | relative_url }}">play lawn bowls</a>. Although it isn’t the most strenuous of activities, you still need to be relatively in-shape. Here are some easy exercises to loosen those muscles. Stretching before a match is always advised.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":4} -->
@@ -134,7 +135,7 @@ date: 2022-02-18 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>These are useful when it comes to delivering your bowls. Your leg muscles are quite important in a game of <a href="https://www.jackhighbowls.com/help/how-to-prepare-for-a-new-lawn-bowls-season/">lawn bowls</a>.</p>
+<p>These are useful when it comes to delivering your bowls. Your leg muscles are quite important in a game of <a href="{{ '/help/how-to-prepare-for-a-new-lawn-bowls-season' | relative_url }}">lawn bowls</a>.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":4} -->
@@ -150,7 +151,7 @@ date: 2022-02-18 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>We’ve included this one for obvious reasons as the use of your arm muscles is pretty essential when it comes to <a href="https://www.jackhighbowls.com/help/how-to-practice-lawn-bowls-at-home/">lawn bowls</a>.</p>
+<p>We’ve included this one for obvious reasons as the use of your arm muscles is pretty essential when it comes to <a href="{{ '/help/how-to-practice-lawn-bowls-at-home' | relative_url }}">lawn bowls</a>.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->

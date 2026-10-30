@@ -5,7 +5,7 @@ author: reece
 categories: [ help ]
 featured: false
 description: ""
-last_modified_at: 2026-10-29 15:45:00 +0000
+last_modified_at: 2026-10-30 10:25:00 +0000
 date: 2022-10-14 13:00:00 -0400
 ---
     
@@ -137,7 +137,7 @@ date: 2022-10-14 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>I cover many of these benefits (plus a few myths!) in my complete <a href="https://www.jackhighbowls.com/help/what-size-lawn-bowl-should-i-use/" data-type="post" data-id="140">guide to selecting a size of bowl here</a>.</p>
+<p>I cover many of these benefits (plus a few myths!) in my complete <a href="{{ '/help/what-size-lawn-bowl-should-i-use' | relative_url }}" data-type="post" data-id="140">guide to selecting a size of bowl here</a>.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->

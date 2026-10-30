@@ -5,7 +5,7 @@ author: reece
 categories: [ help ]
 featured: false
 description: ""
-last_modified_at: 2026-10-29 15:45:00 +0000
+last_modified_at: 2026-10-30 10:25:00 +0000
 date: 2022-03-06 13:00:00 -0400
 ---
     
@@ -19,7 +19,7 @@ date: 2022-03-06 13:00:00 -0400
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
-<p>When you start bowls there is so much to learn - <a href="https://www.jackhighbowls.com/help/lawn-bowls-rules/" data-type="post" data-id="304">rules</a>, technique and etiquette are usually top of most player's list, and then on top of that you have to start learning the lingo! </p>
+<p>When you start bowls there is so much to learn - <a href="{{ '/help/lawn-bowls-rules' | relative_url }}" data-type="post" data-id="304">rules</a>, technique and etiquette are usually top of most player's list, and then on top of that you have to start learning the lingo! </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -91,7 +91,7 @@ date: 2022-03-06 13:00:00 -0400
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
-<p>You can find more in our guide to <a href="https://www.jackhighbowls.com/help/lawn-bowls-hand-signals/" data-type="post" data-id="209">hand signals in lawn bowls</a>.</p>
+<p>You can find more in our guide to <a href="{{ '/help/lawn-bowls-hand-signals' | relative_url }}" data-type="post" data-id="209">hand signals in lawn bowls</a>.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
@@ -107,7 +107,7 @@ date: 2022-03-06 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>This is an issue because if you <a href="https://www.jackhighbowls.com/help/finding-the-line-in-lawn-bowls/">correct your line</a> and bowl with the same weight the bowl will actually finish further up the green because of the angles created by the bias.</p>
+<p>This is an issue because if you <a href="{{ '/help/finding-the-line-in-lawn-bowls' | relative_url }}">correct your line</a> and bowl with the same weight the bowl will actually finish further up the green because of the angles created by the bias.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

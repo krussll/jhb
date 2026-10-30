@@ -5,7 +5,7 @@ author: reece
 categories: [ help ]
 featured: false
 description: ""
-last_modified_at: 2026-10-29 15:45:00 +0000
+last_modified_at: 2026-10-30 10:25:00 +0000
 date: 2022-02-22 13:00:00 -0400
 ---
     
@@ -35,7 +35,7 @@ date: 2022-02-22 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Yes, <a href="https://www.jackhighbowls.com/help/lawn-bowls-rules/">lawn bowls can be played</a> in the rain. Play is only stopped if the rain is deemed so heavy that it either:</p>
+<p>Yes, <a href="{{ '/help/lawn-bowls-rules' | relative_url }}">lawn bowls can be played</a> in the rain. Play is only stopped if the rain is deemed so heavy that it either:</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->
@@ -83,7 +83,7 @@ date: 2022-02-22 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->
-<ul><li><a href="https://www.jackhighbowls.com/help/5-fundamental-ways-to-improve-your-lawn-bowls-delivery/">Bowls being “dropped” on delivery</a> causing issues causing bowls to come up short</li><li>Bowls wobbling on release causing issues with line control</li><li>Bowls coming out the side of the hand causing a wasted shot</li></ul>
+<ul><li><a href="{{ '/help/5-fundamental-ways-to-improve-your-lawn-bowls-delivery' | relative_url }}">Bowls being “dropped” on delivery</a> causing issues causing bowls to come up short</li><li>Bowls wobbling on release causing issues with line control</li><li>Bowls coming out the side of the hand causing a wasted shot</li></ul>
 <!-- /wp:list -->
 
 <!-- wp:paragraph -->
@@ -111,7 +111,7 @@ date: 2022-02-22 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>In particularly wet conditions it can be much harder to reach long jacks. By “reaching” I mean being able to roll the <a href="https://www.jackhighbowls.com/help/how-do-you-judge-the-length-of-a-jack-in-lawn-bowls-a-complete-guide/">bowl far enough to actually get to the jack</a>.</p>
+<p>In particularly wet conditions it can be much harder to reach long jacks. By “reaching” I mean being able to roll the <a href="{{ '/help/how-do-you-judge-the-length-of-a-jack-in-lawn-bowls-a-complete-guide' | relative_url }}">bowl far enough to actually get to the jack</a>.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -145,7 +145,7 @@ date: 2022-02-22 13:00:00 -0400
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:paragraph -->
-<p>Most players use some kind of variation of the claw grip, where the finger tips are used to help <a href="https://www.jackhighbowls.com/guide/best-lawn-bowl-grips/">grip the bowl</a>. This can be very tricky in wet conditions, as the bowl will just slip out from your tips.</p>
+<p>Most players use some kind of variation of the claw grip, where the finger tips are used to help <a href="{{ '/guide/best-lawn-bowl-grips' | relative_url }}">grip the bowl</a>. This can be very tricky in wet conditions, as the bowl will just slip out from your tips.</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:column -->
 
@@ -165,7 +165,7 @@ date: 2022-02-22 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>A solution to the slow greens in wet conditions is to adjust your stance. This will provide more body weight through the <a href="https://www.jackhighbowls.com/review/5-tips-and-tricks-to-improve-your-lawn-bowls-delivery/">delivery giving extra force into the bowl</a>.</p>
+<p>A solution to the slow greens in wet conditions is to adjust your stance. This will provide more body weight through the <a href="{{ '/review/5-tips-and-tricks-to-improve-your-lawn-bowls-delivery' | relative_url }}">delivery giving extra force into the bowl</a>.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

@@ -6,6 +6,7 @@ categories: [ help ]
 featured: false
 description: ""
 date: 2019-10-30 13:00:00 -0400
+last_modified_at: 2026-10-30 10:25:00 +0000
 ---
     
 
@@ -86,7 +87,7 @@ date: 2019-10-30 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>On top of leading the team's mindset, the <a href="https://www.jackhighbowls.com/help/lawn-bowls-tips-for-skips/">skip will guide</a> the tactics of the team. This will include what jack lengths should be rolled, as well as guiding how aggressive his players play through the shots he asks to be played. The skip should continue with this through his own play.</p>
+<p>On top of leading the team's mindset, the <a href="{{ '/help/lawn-bowls-tips-for-skips' | relative_url }}">skip will guide</a> the tactics of the team. This will include what jack lengths should be rolled, as well as guiding how aggressive his players play through the shots he asks to be played. The skip should continue with this through his own play.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -134,7 +135,7 @@ date: 2019-10-30 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>When rolling the jack the lead must be guided by the thoughts of the skip. It is vital that the <a href="https://www.jackhighbowls.com/help/how-do-you-judge-the-length-of-a-jack-in-lawn-bowls-a-complete-guide/">jack is rolled to the length</a> dictated by the skip. If not, the team's game plan is wasted and the advantage is given to the opposition.</p>
+<p>When rolling the jack the lead must be guided by the thoughts of the skip. It is vital that the <a href="{{ '/help/how-do-you-judge-the-length-of-a-jack-in-lawn-bowls-a-complete-guide' | relative_url }}">jack is rolled to the length</a> dictated by the skip. If not, the team's game plan is wasted and the advantage is given to the opposition.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -210,6 +211,6 @@ date: 2019-10-30 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>As mentioned before, this is only a suggestion and there are many <a href="https://www.jackhighbowls.com/help/5-fundamental-ways-to-improve-your-lawn-bowls-delivery/">ways to win a game of bowls</a>. But the next time you are in a game, look at what is being asked of you in your role, and see if you can work out which roles you are fulfilling.</p>
+<p>As mentioned before, this is only a suggestion and there are many <a href="{{ '/help/5-fundamental-ways-to-improve-your-lawn-bowls-delivery' | relative_url }}">ways to win a game of bowls</a>. But the next time you are in a game, look at what is being asked of you in your role, and see if you can work out which roles you are fulfilling.</p>
 <!-- /wp:paragraph -->
     

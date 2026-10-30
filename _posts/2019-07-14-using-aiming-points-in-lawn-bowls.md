@@ -6,6 +6,7 @@ categories: [ guide ]
 featured: false
 description: ""
 date: 2019-07-14 13:00:00 -0400
+last_modified_at: 2026-10-30 10:25:00 +0000
 ---
     
 
@@ -30,7 +31,7 @@ date: 2019-07-14 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Aiming points are also pretty resilient to minor changes to the environment, playing conditions, and the <a href="https://www.jackhighbowls.com/help/how-do-you-judge-the-length-of-a-jack-in-lawn-bowls-a-complete-guide/">jack length</a>. There are downsides, which we will cover later, but for the most part aiming points are fairly reliable.</p>
+<p>Aiming points are also pretty resilient to minor changes to the environment, playing conditions, and the <a href="{{ '/help/how-do-you-judge-the-length-of-a-jack-in-lawn-bowls-a-complete-guide' | relative_url }}">jack length</a>. There are downsides, which we will cover later, but for the most part aiming points are fairly reliable.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
@@ -116,7 +117,7 @@ date: 2019-07-14 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>One of the biggest variables to your line after the condition of the green is the wind. <a href="https://www.jackhighbowls.com/help/playing-lawn-bowls-in-windy-conditions/">Windy conditions</a> are tricky as any change in direction, or strength can have a big impact on the path of the bowl.</p>
+<p>One of the biggest variables to your line after the condition of the green is the wind. <a href="{{ '/help/playing-lawn-bowls-in-windy-conditions' | relative_url }}">Windy conditions</a> are tricky as any change in direction, or strength can have a big impact on the path of the bowl.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

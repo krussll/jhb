@@ -6,6 +6,7 @@ categories: [ help ]
 featured: false
 description: ""
 date: 2022-05-21 13:00:00 -0400
+last_modified_at: 2026-10-30 10:25:00 +0000
 ---
     
 
@@ -70,7 +71,7 @@ date: 2022-05-21 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>If you are looking for a second hand set your best bet would be eBay. I would also recommend checking out my guide on <a href="https://www.jackhighbowls.com/guide/second-hand-and-pre-loved-lawn-bowls/" data-type="post" data-id="379">buying second hand bowls</a> if you are interested in where else you can buy quality used bowls.</p>
+<p>If you are looking for a second hand set your best bet would be eBay. I would also recommend checking out my guide on <a href="{{ '/guide/second-hand-and-pre-loved-lawn-bowls' | relative_url }}" data-type="post" data-id="379">buying second hand bowls</a> if you are interested in where else you can buy quality used bowls.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->

@@ -5,7 +5,7 @@ author: reece
 categories: [ bowls, review ]
 featured: false
 description: "Drakes Pride Professional vs Taylor Ace head-to-head comparison: bias arc differences, grip choices, surface versatility, and verdict."
-last_modified_at: 2026-10-29 15:45:00 +0000
+last_modified_at: 2026-10-30 10:25:00 +0000
 date: 2020-08-28 13:00:00 -0400
 ---
     
@@ -156,7 +156,7 @@ date: 2020-08-28 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>The PRO-50 is a particular favourite of ours, and is one that we cover in a couple of articles. The deeper <a href="https://www.jackhighbowls.com/guide/best-lawn-bowl-grips/">grip makes the bowl</a> feel smaller in the hand. However, due to the deep cut, it can be uncomfortable if you hold the bowl across the running surface.</p>
+<p>The PRO-50 is a particular favourite of ours, and is one that we cover in a couple of articles. The deeper <a href="{{ '/guide/best-lawn-bowl-grips' | relative_url }}">grip makes the bowl</a> feel smaller in the hand. However, due to the deep cut, it can be uncomfortable if you hold the bowl across the running surface.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

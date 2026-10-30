@@ -6,6 +6,7 @@ categories: [ help ]
 featured: false
 description: ""
 date: 2019-05-05 13:00:00 -0400
+last_modified_at: 2026-10-30 10:25:00 +0000
 ---
     
 
@@ -30,7 +31,7 @@ date: 2019-05-05 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p><a href="https://www.jackhighbowls.com/help/is-lawn-bowls-a-dying-sport/">Lawn bowls is a summer sport</a>, so you should get plenty of time to enjoy some fresh air and some sunshine.</p>
+<p><a href="{{ '/help/is-lawn-bowls-a-dying-sport' | relative_url }}">Lawn bowls is a summer sport</a>, so you should get plenty of time to enjoy some fresh air and some sunshine.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -86,11 +87,11 @@ date: 2019-05-05 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><a href="https://www.jackhighbowls.com/guide/best-junior-lawn-bowls/">Lawn bowls</a> nurtures many other soft skills. Concentration and focus are required as well as how to win and lose with respect.</p>
+<p><a href="{{ '/guide/best-junior-lawn-bowls' | relative_url }}">Lawn bowls</a> nurtures many other soft skills. Concentration and focus are required as well as how to win and lose with respect.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>We have a whole article on the <a href="https://www.jackhighbowls.com/help/lawn-bowls-rules-and-etiquette">rules and etiqutte of lawn bowls</a>, which is great for anyone (young or old!) who wants to take part.</p>
+<p>We have a whole article on the <a href="{{ '/help/lawn-bowls-rules-and-etiquette' | relative_url }}">rules and etiqutte of lawn bowls</a>, which is great for anyone (young or old!) who wants to take part.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
@@ -102,7 +103,7 @@ date: 2019-05-05 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>So there you have it, 5 reasons for your kids to take up <a href="https://www.jackhighbowls.com/help/lawn-bowls-rules/">lawn bowls</a> today.</p>
+<p>So there you have it, 5 reasons for your kids to take up <a href="{{ '/help/lawn-bowls-rules' | relative_url }}">lawn bowls</a> today.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

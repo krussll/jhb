@@ -5,13 +5,13 @@ author: reece
 categories: [ crown-green-bowls ]
 featured: false
 description: ""
-last_modified_at: 2026-10-29 15:45:00 +0000
+last_modified_at: 2026-10-30 10:25:00 +0000
 date: 2022-05-16 13:00:00 -0400
 ---
     
 
 <!-- wp:paragraph -->
-<p xmlns="http://www.w3.org/1999/xhtml">Crown green bowls is an outdoor game that uses the same equipment as <a href="https://www.jackhighbowls.com/help/lawn-bowls-rules/" data-type="post" data-id="304">lawn bowls</a>, but the rules are slightly different. The main difference between crown green bowls and lawn bowls lies in the shape of the bowls themselves, with crown green bowls having rounded bottoms while lawn bowls have flat bottoms. However, they're both played in similar ways and even use a similar set of rules – at least to start with!</p>
+<p xmlns="http://www.w3.org/1999/xhtml">Crown green bowls is an outdoor game that uses the same equipment as <a href="{{ '/help/lawn-bowls-rules' | relative_url }}" data-type="post" data-id="304">lawn bowls</a>, but the rules are slightly different. The main difference between crown green bowls and lawn bowls lies in the shape of the bowls themselves, with crown green bowls having rounded bottoms while lawn bowls have flat bottoms. However, they're both played in similar ways and even use a similar set of rules – at least to start with!</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":1061,"sizeSlug":"full","linkDestination":"none"} -->

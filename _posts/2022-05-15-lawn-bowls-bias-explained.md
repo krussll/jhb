@@ -5,7 +5,7 @@ author: reece
 categories: [ help ]
 featured: false
 description: ""
-last_modified_at: 2026-10-29 15:45:00 +0000
+last_modified_at: 2026-10-30 10:25:00 +0000
 date: 2022-05-15 13:00:00 -0400
 ---
     
@@ -55,7 +55,7 @@ date: 2022-05-15 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>If you have a set of bowls and are unsure what the bias strength is, you can see my <a href="https://www.jackhighbowls.com/guide/lawn-bowls-bias-guide-and-trajectory-charts-2020/" data-type="post" data-id="287">guide on bowls trajectories here</a>.</p>
+<p>If you have a set of bowls and are unsure what the bias strength is, you can see my <a href="{{ '/guide/lawn-bowls-bias-guide-and-trajectory-charts-2020' | relative_url }}" data-type="post" data-id="287">guide on bowls trajectories here</a>.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:block {"ref":1320} /-->
@@ -69,7 +69,7 @@ date: 2022-05-15 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>You can determine which side is the biased side by looking for the side with the small logo. It is also usually the side with the stamp. You can find out more about <a href="https://www.jackhighbowls.com/help/what-the-stamp-means-on-lawn-bowls/" data-type="post" data-id="242">what the stamp means on lawn bowls here</a>.</p>
+<p>You can determine which side is the biased side by looking for the side with the small logo. It is also usually the side with the stamp. You can find out more about <a href="{{ '/help/what-the-stamp-means-on-lawn-bowls' | relative_url }}" data-type="post" data-id="242">what the stamp means on lawn bowls here</a>.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

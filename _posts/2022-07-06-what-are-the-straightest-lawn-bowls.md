@@ -5,7 +5,7 @@ author: reece
 categories: [ guide ]
 featured: false
 description: ""
-last_modified_at: 2026-10-29 15:45:00 +0000
+last_modified_at: 2026-10-30 10:25:00 +0000
 date: 2022-07-06 13:00:00 -0400
 ---
     
@@ -27,7 +27,7 @@ date: 2022-07-06 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>All the major brands now offer straight bowls to satisfy the market, however players do have to be careful with how straight they choose to go. As whilst the <a href="https://www.jackhighbowls.com/help/lawn-bowls-rules/" data-type="post" data-id="304">rules of lawn bowls</a> don't say a bowl can be too narrow, it is certainly against the spirit of the game.</p>
+<p>All the major brands now offer straight bowls to satisfy the market, however players do have to be careful with how straight they choose to go. As whilst the <a href="{{ '/help/lawn-bowls-rules' | relative_url }}" data-type="post" data-id="304">rules of lawn bowls</a> don't say a bowl can be too narrow, it is certainly against the spirit of the game.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

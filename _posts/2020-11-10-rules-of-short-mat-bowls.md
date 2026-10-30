@@ -6,6 +6,7 @@ categories: [ help ]
 featured: false
 description: ""
 date: 2020-11-10 13:00:00 -0400
+last_modified_at: 2026-10-30 10:25:00 +0000
 ---
     
 
@@ -38,7 +39,7 @@ date: 2020-11-10 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Short mat <a href="https://www.jackhighbowls.com/help/lawn-bowls-vs-bocce/">bowls is very similar</a> to indoor bowls. The rules of play are very similar, as is the scoring.</p>
+<p>Short mat <a href="{{ '/help/lawn-bowls-vs-bocce' | relative_url }}">bowls is very similar</a> to indoor bowls. The rules of play are very similar, as is the scoring.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->
@@ -122,7 +123,7 @@ date: 2020-11-10 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>The dress code for <a href="https://www.jackhighbowls.com/help/are-short-mat-bowls-the-same-as-lawn-bowls/">short mat bowls is more relaxed than lawn</a> bowls. Relaxed, loose clothing is best to not restrict movement. However, it is accepted that “hoodies” and caps should not be worn.</p>
+<p>The dress code for <a href="{{ '/help/are-short-mat-bowls-the-same-as-lawn-bowls' | relative_url }}">short mat bowls is more relaxed than lawn</a> bowls. Relaxed, loose clothing is best to not restrict movement. However, it is accepted that “hoodies” and caps should not be worn.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -186,7 +187,7 @@ date: 2020-11-10 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>As the <a href="https://www.jackhighbowls.com/help/best-lawn-bowls-stance/">distance is much shorter you will see many bowlers either setting their stance with their step completed</a>, or they complete the step, but then pause. This is to stop extra weight being added to the bowl as they deliver. This will also give them better control over how far the bowl will travel.</p>
+<p>As the <a href="{{ '/help/best-lawn-bowls-stance' | relative_url }}">distance is much shorter you will see many bowlers either setting their stance with their step completed</a>, or they complete the step, but then pause. This is to stop extra weight being added to the bowl as they deliver. This will also give them better control over how far the bowl will travel.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

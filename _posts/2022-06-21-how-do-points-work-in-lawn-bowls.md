@@ -5,7 +5,7 @@ author: reece
 categories: [ help ]
 featured: false
 description: ""
-last_modified_at: 2026-10-29 15:45:00 +0000
+last_modified_at: 2026-10-30 10:25:00 +0000
 date: 2022-06-21 13:00:00 -0400
 ---
     
@@ -23,7 +23,7 @@ date: 2022-06-21 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>In this guide I'll go over the basic <a href="https://www.jackhighbowls.com/help/lawn-bowls-rules/" data-type="post" data-id="304">rules for lawn bowls</a>, how you score points (known as "shots"), how you decide what shots are scored, and when this all happens during a game.</p>
+<p>In this guide I'll go over the basic <a href="{{ '/help/lawn-bowls-rules' | relative_url }}" data-type="post" data-id="304">rules for lawn bowls</a>, how you score points (known as "shots"), how you decide what shots are scored, and when this all happens during a game.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -51,7 +51,7 @@ date: 2022-06-21 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>You can find out more by reading my guide on <a href="https://www.jackhighbowls.com/help/how-long-does-a-game-of-lawn-bowls-take/" data-type="post" data-id="1005">how long is a game of bowls</a>.</p>
+<p>You can find out more by reading my guide on <a href="{{ '/help/how-long-does-a-game-of-lawn-bowls-take' | relative_url }}" data-type="post" data-id="1005">how long is a game of bowls</a>.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->

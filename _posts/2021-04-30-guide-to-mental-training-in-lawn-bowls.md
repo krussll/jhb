@@ -6,6 +6,7 @@ categories: [ help ]
 featured: false
 description: ""
 date: 2021-04-30 13:00:00 -0400
+last_modified_at: 2026-10-30 10:25:00 +0000
 ---
     
 
@@ -54,7 +55,7 @@ date: 2021-04-30 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>This is especially true when playing singles, as you will have no one else to guide you. You need to find a <a href="https://www.jackhighbowls.com/help/5-ways-to-improve-concentration-in-lawn-bowls/">way to prepare yourself to bowl</a> and to maintain your best levels.</p>
+<p>This is especially true when playing singles, as you will have no one else to guide you. You need to find a <a href="{{ '/help/5-ways-to-improve-concentration-in-lawn-bowls' | relative_url }}">way to prepare yourself to bowl</a> and to maintain your best levels.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

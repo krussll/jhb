@@ -5,7 +5,7 @@ author: reece
 categories: [ help ]
 featured: false
 description: ""
-last_modified_at: 2026-10-29 15:45:00 +0000
+last_modified_at: 2026-10-30 10:25:00 +0000
 date: 2019-07-04 13:00:00 -0400
 ---
     
@@ -165,6 +165,6 @@ date: 2019-07-04 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>So there we have it. I hope you try out The Shooter Stance the next time you have a roll up. The great thing about <a href="https://www.jackhighbowls.com/help/lawn-bowls-rules/">lawn bowls</a> is there are a million ways to achieve the same result, you just got to find what works for you.</p>
+<p>So there we have it. I hope you try out The Shooter Stance the next time you have a roll up. The great thing about <a href="{{ '/help/lawn-bowls-rules' | relative_url }}">lawn bowls</a> is there are a million ways to achieve the same result, you just got to find what works for you.</p>
 <!-- /wp:paragraph -->
     

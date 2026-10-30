@@ -6,6 +6,7 @@ categories: [ help ]
 featured: false
 description: ""
 date: 2022-04-01 13:00:00 -0400
+last_modified_at: 2026-10-30 10:25:00 +0000
 ---
     
 
@@ -22,7 +23,7 @@ date: 2022-04-01 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Here are 6 ways you could cheat at <a href="https://www.jackhighbowls.com/help/lawn-bowls-rules/">lawn bowls</a>!</p>
+<p>Here are 6 ways you could cheat at <a href="{{ '/help/lawn-bowls-rules' | relative_url }}">lawn bowls</a>!</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:quote -->
@@ -50,7 +51,7 @@ date: 2022-04-01 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Foot faults are rarely picked up on, and some players even do it with out realising. So, if you wanted to deliver the <a href="https://www.jackhighbowls.com/help/how-do-you-judge-the-length-of-a-jack-in-lawn-bowls-a-complete-guide/">bowl as close as possible to the jack</a>, you could foot fault by delivering the bowl off of the mat.</p>
+<p>Foot faults are rarely picked up on, and some players even do it with out realising. So, if you wanted to deliver the <a href="{{ '/help/how-do-you-judge-the-length-of-a-jack-in-lawn-bowls-a-complete-guide' | relative_url }}">bowl as close as possible to the jack</a>, you could foot fault by delivering the bowl off of the mat.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

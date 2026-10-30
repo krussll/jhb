@@ -5,13 +5,13 @@ author: reece
 categories: [ help ]
 featured: false
 description: ""
-last_modified_at: 2026-10-29 15:45:00 +0000
+last_modified_at: 2026-10-30 10:25:00 +0000
 date: 2022-07-22 13:00:00 -0400
 ---
     
 
 <!-- wp:paragraph -->
-<p id="E149" xmlns="http://www.w3.org/1999/xhtml">The marker has several vital functions in lawn bowls that ensure the <a href="https://www.jackhighbowls.com/help/lawn-bowls-rules/" data-type="post" data-id="304">rules of lawn bowls</a> are correctly applied, and the scoring is fair. A marker is not a player but functions like a match official in a singles game. The game can proceed smoothly and efficiently if a marker does their job well.</p>
+<p id="E149" xmlns="http://www.w3.org/1999/xhtml">The marker has several vital functions in lawn bowls that ensure the <a href="{{ '/help/lawn-bowls-rules' | relative_url }}" data-type="post" data-id="304">rules of lawn bowls</a> are correctly applied, and the scoring is fair. A marker is not a player but functions like a match official in a singles game. The game can proceed smoothly and efficiently if a marker does their job well.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":1389,"sizeSlug":"full","linkDestination":"none"} -->
@@ -36,7 +36,7 @@ date: 2022-07-22 13:00:00 -0400
 
 <!-- wp:list -->
 <ul><!-- wp:list-item -->
-<li>when they mark <a href="https://www.jackhighbowls.com/help/what-is-a-toucher-in-lawn-bowls/" data-type="post" data-id="1152">touchers</a> – usually after the toucher has stopped rolling and before delivery of the next bowl</li>
+<li>when they mark <a href="{{ '/help/what-is-a-toucher-in-lawn-bowls' | relative_url }}" data-type="post" data-id="1152">touchers</a> – usually after the toucher has stopped rolling and before delivery of the next bowl</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
@@ -48,7 +48,7 @@ date: 2022-07-22 13:00:00 -0400
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>asking how the players want distances to be indicated, e.g. in words or by <a href="https://www.jackhighbowls.com/help/lawn-bowls-hand-signals/" data-type="post" data-id="209">hand signals</a></li>
+<li>asking how the players want distances to be indicated, e.g. in words or by <a href="{{ '/help/lawn-bowls-hand-signals' | relative_url }}" data-type="post" data-id="209">hand signals</a></li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 

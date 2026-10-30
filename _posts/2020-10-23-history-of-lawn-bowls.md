@@ -5,7 +5,7 @@ author: reece
 categories: [ help ]
 featured: false
 description: ""
-last_modified_at: 2026-10-29 15:45:00 +0000
+last_modified_at: 2026-10-30 10:25:00 +0000
 date: 2020-10-23 13:00:00 -0400
 ---
     
@@ -31,7 +31,7 @@ date: 2020-10-23 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>A version of the game - much closer to what we would understand to be bowls - was played by another great civilisation - in ancient Rome. This version was to become modern-day bocce. It is believed that the Romans brought this game to the rest of Europe, with several countries adapting the rules creating their open version. This includes boules in France and of course <a href="https://www.jackhighbowls.com/help/lawn-bowls-at-the-commonwealth-games/">lawn bowls</a> in Great Britain.</p>
+<p>A version of the game - much closer to what we would understand to be bowls - was played by another great civilisation - in ancient Rome. This version was to become modern-day bocce. It is believed that the Romans brought this game to the rest of Europe, with several countries adapting the rules creating their open version. This includes boules in France and of course <a href="{{ '/help/lawn-bowls-at-the-commonwealth-games' | relative_url }}">lawn bowls</a> in Great Britain.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"linkDestination":"custom"} -->
@@ -47,7 +47,7 @@ date: 2020-10-23 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>The increasing popularity of bowls in England led to a string of kings and queens passing laws restricting its play. The concern was that <a href="https://www.jackhighbowls.com/help/lawn-bowls-rules/">lawn bowls</a> were taking too much time away from men practising archery. This was important as bowmen were an integral part of any army, and any drop in their effectiveness in battle would have major implications for king and country.</p>
+<p>The increasing popularity of bowls in England led to a string of kings and queens passing laws restricting its play. The concern was that <a href="{{ '/help/lawn-bowls-rules' | relative_url }}">lawn bowls</a> were taking too much time away from men practising archery. This was important as bowmen were an integral part of any army, and any drop in their effectiveness in battle would have major implications for king and country.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"linkDestination":"custom"} -->

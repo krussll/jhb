@@ -6,11 +6,12 @@ categories: [ help ]
 featured: false
 description: ""
 date: 2019-07-30 13:00:00 -0400
+last_modified_at: 2026-10-30 10:25:00 +0000
 ---
     
 
 <!-- wp:paragraph -->
-<p xmlns="http://www.w3.org/1999/xhtml">Each club will have their own guidelines depending on the type of game is being played, however there are usually some <a href="https://www.jackhighbowls.com/help/lawn-bowls-rules/" data-type="post" data-id="304">common rules in lawn bowls</a> that you will find in most clubs and leagues.</p>
+<p xmlns="http://www.w3.org/1999/xhtml">Each club will have their own guidelines depending on the type of game is being played, however there are usually some <a href="{{ '/help/lawn-bowls-rules' | relative_url }}" data-type="post" data-id="304">common rules in lawn bowls</a> that you will find in most clubs and leagues.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":311,"sizeSlug":"full","linkDestination":"none"} -->
@@ -46,7 +47,7 @@ date: 2019-07-30 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>When <a href="https://www.jackhighbowls.com/help/lawn-bowls-rules/">playing a game of bowls</a> you should be wearing the shirt or top that was provided to you by your club.</p>
+<p>When <a href="{{ '/help/lawn-bowls-rules' | relative_url }}">playing a game of bowls</a> you should be wearing the shirt or top that was provided to you by your club.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

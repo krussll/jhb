@@ -6,6 +6,7 @@ categories: [ help ]
 featured: false
 description: ""
 date: 2022-05-23 13:00:00 -0400
+last_modified_at: 2026-10-30 10:25:00 +0000
 ---
     
 
@@ -176,7 +177,7 @@ date: 2022-05-23 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>You can find my guide on the <a href="https://www.jackhighbowls.com/guide/best-lawn-bowl-grips/" data-type="post" data-id="166">best lawn bowls grips here</a>.</p>
+<p>You can find my guide on the <a href="{{ '/guide/best-lawn-bowl-grips' | relative_url }}" data-type="post" data-id="166">best lawn bowls grips here</a>.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":3} -->
@@ -196,7 +197,7 @@ date: 2022-05-23 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>You can find my guide on <a href="https://www.jackhighbowls.com/guide/best-lawn-bowls-grip-enhancers/" data-type="post" data-id="278">the best grip enhancers here</a>.</p>
+<p>You can find my guide on <a href="{{ '/guide/best-lawn-bowls-grip-enhancers' | relative_url }}" data-type="post" data-id="278">the best grip enhancers here</a>.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":3} -->
@@ -212,7 +213,7 @@ date: 2022-05-23 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>One of the biggest mistakes you can make is buying a set of bowls too big for your hands, so check out my guide on <a href="https://www.jackhighbowls.com/help/what-size-lawn-bowl-should-i-use/" data-type="post" data-id="140">what size lawn bowls</a> to use.</p>
+<p>One of the biggest mistakes you can make is buying a set of bowls too big for your hands, so check out my guide on <a href="{{ '/help/what-size-lawn-bowl-should-i-use' | relative_url }}" data-type="post" data-id="140">what size lawn bowls</a> to use.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->

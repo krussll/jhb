@@ -7,7 +7,7 @@ featured: false
 background: '/img/posts/learn-rules-of-lawn-bowls.png'
 description: ""
 date: 2019-08-22 13:00:00 -0400
-last_modified_at: 2024-05-05 10:00:00 -0400
+last_modified_at: 2026-10-30 10:25:00 +0000
 ---
     
 
@@ -48,7 +48,7 @@ last_modified_at: 2024-05-05 10:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Here are the <a href="https://www.jackhighbowls.com/guide/what-equipment-do-you-need-for-lawn-bowls/" data-type="post" data-id="1368">basic items</a> needed for a game of bowls:</p>
+<p>Here are the <a href="{{ '/guide/what-equipment-do-you-need-for-lawn-bowls' | relative_url }}" data-type="post" data-id="1368">basic items</a> needed for a game of bowls:</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":3} -->
@@ -72,7 +72,7 @@ last_modified_at: 2024-05-05 10:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>The number of <a href="https://www.jackhighbowls.com/help/how-much-does-a-set-of-lawn-bowls-cost/" data-type="post" data-id="1458">bowls</a> each player requires differs depending on the number of players.</p>
+<p>The number of <a href="{{ '/help/how-much-does-a-set-of-lawn-bowls-cost' | relative_url }}" data-type="post" data-id="1458">bowls</a> each player requires differs depending on the number of players.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":3} -->
@@ -92,7 +92,7 @@ last_modified_at: 2024-05-05 10:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>The first bowler <a href="https://www.jackhighbowls.com/help/how-to-deliver-the-jack-in-lawn-bowls/" data-type="post" data-id="1359">rolls the jack</a> to whatever distance they like within the limits set out in the Laws. </p>
+<p>The first bowler <a href="{{ '/help/how-to-deliver-the-jack-in-lawn-bowls' | relative_url }}" data-type="post" data-id="1359">rolls the jack</a> to whatever distance they like within the limits set out in the Laws. </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -108,11 +108,11 @@ last_modified_at: 2024-05-05 10:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Any bowls that are in play can be moved by another shot, and they stay active to where they finish. <a href="https://www.jackhighbowls.com/help/can-you-hit-the-jack-in-lawn-bowls/" data-type="post" data-id="1150">This includes the jack.</a> Any <a href="https://www.jackhighbowls.com/help/lawn-bowls-rules-when-the-jack-is-in-the-ditch/" data-type="post" data-id="499">bowl that finishes in the ditch</a> without having been marked as a toucher is considered out of play. (<a href="http://www.worldbowls.com/wp-content/uploads/2020/06/Laws_of_the_sport_v3.2.pdf#page=36">Law 17.1.1</a>)</p>
+<p>Any bowls that are in play can be moved by another shot, and they stay active to where they finish. <a href="{{ '/help/can-you-hit-the-jack-in-lawn-bowls' | relative_url }}" data-type="post" data-id="1150">This includes the jack.</a> Any <a href="{{ '/help/lawn-bowls-rules-when-the-jack-is-in-the-ditch' | relative_url }}" data-type="post" data-id="499">bowl that finishes in the ditch</a> without having been marked as a toucher is considered out of play. (<a href="http://www.worldbowls.com/wp-content/uploads/2020/06/Laws_of_the_sport_v3.2.pdf#page=36">Law 17.1.1</a>)</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Once all players have finished their shots the <a href="https://www.jackhighbowls.com/help/how-do-points-work-in-lawn-bowls/" data-type="post" data-id="1160">game is scored.</a> </p>
+<p>Once all players have finished their shots the <a href="{{ '/help/how-do-points-work-in-lawn-bowls' | relative_url }}" data-type="post" data-id="1160">game is scored.</a> </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -202,11 +202,11 @@ last_modified_at: 2024-05-05 10:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Here is a general overview of the <a href="https://www.jackhighbowls.com/help/how-long-does-a-game-of-lawn-bowls-take/" data-type="post" data-id="1005">number of ends and number of bowls</a> required for each format</p>
+<p>Here is a general overview of the <a href="{{ '/help/how-long-does-a-game-of-lawn-bowls-take' | relative_url }}" data-type="post" data-id="1005">number of ends and number of bowls</a> required for each format</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:table -->
-<figure class="wp-block-table"><table><tbody><tr><td>Number of players</td><td>Number of bowls (per player)</td><td>Number of ends played</td></tr><tr><td>1 (<a href="https://www.jackhighbowls.com/help/ultimate-guide-to-lawn-bowls-singles-tactics/" data-type="post" data-id="113">singles</a>)</td><td>4</td><td>21</td></tr><tr><td>2 (<a href="https://www.jackhighbowls.com/help/lawn-bowls-pairs-tactics/" data-type="post" data-id="19">doubles</a>)</td><td>4</td><td>21</td></tr><tr><td>3 (<a href="https://www.jackhighbowls.com/help/lawn-bowls-triples-tactics/" data-type="post" data-id="487">triples</a>)</td><td>3</td><td>18</td></tr><tr><td>4 (fours)</td><td>2</td><td>21</td></tr></tbody></table><figcaption class="table-caption">Format guidance drawn from the <a href="http://www.worldbowls.com/wp-content/uploads/2020/06/Laws_of_the_sport_v3.2.pdf">World Bowls Laws of the Sport (Crystal Mark Third Edition)</a>.</figcaption></figure>
+<figure class="wp-block-table"><table><tbody><tr><td>Number of players</td><td>Number of bowls (per player)</td><td>Number of ends played</td></tr><tr><td>1 (<a href="{{ '/help/ultimate-guide-to-lawn-bowls-singles-tactics' | relative_url }}" data-type="post" data-id="113">singles</a>)</td><td>4</td><td>21</td></tr><tr><td>2 (<a href="{{ '/help/lawn-bowls-pairs-tactics' | relative_url }}" data-type="post" data-id="19">doubles</a>)</td><td>4</td><td>21</td></tr><tr><td>3 (<a href="{{ '/help/lawn-bowls-triples-tactics' | relative_url }}" data-type="post" data-id="487">triples</a>)</td><td>3</td><td>18</td></tr><tr><td>4 (fours)</td><td>2</td><td>21</td></tr></tbody></table><figcaption class="table-caption">Format guidance drawn from the <a href="http://www.worldbowls.com/wp-content/uploads/2020/06/Laws_of_the_sport_v3.2.pdf">World Bowls Laws of the Sport (Crystal Mark Third Edition)</a>.</figcaption></figure>
 <!-- /wp:table -->
 
 <!-- wp:block {"ref":1320} /-->
@@ -248,7 +248,7 @@ last_modified_at: 2024-05-05 10:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>How <a href="https://www.jackhighbowls.com/help/how-long-does-a-game-of-lawn-bowls-take/" data-type="post" data-id="1005">long is a game of lawn bowls</a>? <strong>A game of bowls will last between 1 and a half hours and 3 hours. The duration of a game of bowls will vary depending on the format. Singles will be on the shorter time frame and Fours taking much longer.</strong></p>
+<p>How <a href="{{ '/help/how-long-does-a-game-of-lawn-bowls-take' | relative_url }}" data-type="post" data-id="1005">long is a game of lawn bowls</a>? <strong>A game of bowls will last between 1 and a half hours and 3 hours. The duration of a game of bowls will vary depending on the format. Singles will be on the shorter time frame and Fours taking much longer.</strong></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
@@ -260,7 +260,7 @@ last_modified_at: 2024-05-05 10:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:table -->
-<figure class="wp-block-table"><table><tbody><tr><td>Number of players</td><td>Number of ends played</td></tr><tr><td>1 (<a href="https://www.jackhighbowls.com/help/ultimate-guide-to-lawn-bowls-singles-tactics/" data-type="post" data-id="113">singles</a>)</td><td>21</td></tr><tr><td>2 (<a href="https://www.jackhighbowls.com/help/lawn-bowls-pairs-tactics/" data-type="post" data-id="19">doubles</a>)</td><td>21</td></tr><tr><td>3 (<a href="https://www.jackhighbowls.com/help/lawn-bowls-triples-tactics/" data-type="post" data-id="487">triples</a>)</td><td>18</td></tr><tr><td>4 (fours)</td><td>21</td></tr></tbody></table><figcaption class="table-caption">Typical end counts follow the <a href="https://www.bowlsengland.com/wp-content/uploads/2023/02/Competition-Regulations-2023-v1.0.pdf">Bowls England Domestic Competition Regulations</a>.</figcaption></figure>
+<figure class="wp-block-table"><table><tbody><tr><td>Number of players</td><td>Number of ends played</td></tr><tr><td>1 (<a href="{{ '/help/ultimate-guide-to-lawn-bowls-singles-tactics' | relative_url }}" data-type="post" data-id="113">singles</a>)</td><td>21</td></tr><tr><td>2 (<a href="{{ '/help/lawn-bowls-pairs-tactics' | relative_url }}" data-type="post" data-id="19">doubles</a>)</td><td>21</td></tr><tr><td>3 (<a href="{{ '/help/lawn-bowls-triples-tactics' | relative_url }}" data-type="post" data-id="487">triples</a>)</td><td>18</td></tr><tr><td>4 (fours)</td><td>21</td></tr></tbody></table><figcaption class="table-caption">Typical end counts follow the <a href="https://www.bowlsengland.com/wp-content/uploads/2023/02/Competition-Regulations-2023-v1.0.pdf">Bowls England Domestic Competition Regulations</a>.</figcaption></figure>
 <!-- /wp:table -->
 
 <!-- wp:paragraph -->
@@ -286,7 +286,7 @@ last_modified_at: 2024-05-05 10:00:00 -0400
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
-<p><strong>A <a href="https://www.jackhighbowls.com/help/a-guide-to-lawn-bowls-green-markings/" data-type="post" data-id="1354">lawn bowls green</a> must be between 31 meters and 40 meters long. Each rink on the green must be between 4.3 meters and 5.8 meters wide. This makes the average 6 rink bowls green between 25.8 meters and 34.8 meters wide.</strong> (<a href="http://www.worldbowls.com/wp-content/uploads/2020/06/Laws_of_the_sport_v3.2.pdf#page=74">Appendix B.1</a>)</p>
+<p><strong>A <a href="{{ '/help/a-guide-to-lawn-bowls-green-markings' | relative_url }}" data-type="post" data-id="1354">lawn bowls green</a> must be between 31 meters and 40 meters long. Each rink on the green must be between 4.3 meters and 5.8 meters wide. This makes the average 6 rink bowls green between 25.8 meters and 34.8 meters wide.</strong> (<a href="http://www.worldbowls.com/wp-content/uploads/2020/06/Laws_of_the_sport_v3.2.pdf#page=74">Appendix B.1</a>)</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:quote -->
@@ -330,7 +330,7 @@ last_modified_at: 2024-05-05 10:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>There you have it. All you need to know to get out and start <a href="https://www.jackhighbowls.com/help/9-tips-for-how-to-play-bowls-well/">playing bowls</a>. </p>
+<p>There you have it. All you need to know to get out and start <a href="{{ '/help/9-tips-for-how-to-play-bowls-well' | relative_url }}">playing bowls</a>. </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -355,11 +355,11 @@ last_modified_at: 2024-05-05 10:00:00 -0400
 
 <!-- wp:list -->
 <ul><!-- wp:list-item -->
-<li><a href="https://www.jackhighbowls.com/help/lawn-bowls-dress-code">What to wear when playing bowls</a></li>
+<li><a href="{{ '/help/lawn-bowls-dress-code' | relative_url }}">What to wear when playing bowls</a></li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li><a href="https://www.jackhighbowls.com/help/lawn-bowls-how-to-measure">The rules of measuring</a></li>
+<li><a href="{{ '/help/lawn-bowls-how-to-measure' | relative_url }}">The rules of measuring</a></li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 

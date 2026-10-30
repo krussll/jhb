@@ -5,7 +5,7 @@ author: reece
 categories: [ help ]
 featured: false
 description: ""
-last_modified_at: 2026-10-29 15:45:00 +0000
+last_modified_at: 2026-10-30 10:25:00 +0000
 date: 2022-06-18 13:00:00 -0400
 ---
     
@@ -31,7 +31,7 @@ date: 2022-06-18 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>It is important to note, that the <a href="https://www.jackhighbowls.com/help/lawn-bowls-rules/" data-type="post" data-id="304">rules of lawn bowls</a> state a toucher is only marked if the bowl comes into direct contact with the jack (i.e. it doesn't move the jack by knocking another bowl into it). </p>
+<p>It is important to note, that the <a href="{{ '/help/lawn-bowls-rules' | relative_url }}" data-type="post" data-id="304">rules of lawn bowls</a> state a toucher is only marked if the bowl comes into direct contact with the jack (i.e. it doesn't move the jack by knocking another bowl into it). </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -81,7 +81,7 @@ date: 2022-06-18 13:00:00 -0400
 <!-- /wp:quote -->
 
 <!-- wp:paragraph -->
-<p>For more information on this read my full guide on what happens when <a href="https://www.jackhighbowls.com/help/lawn-bowls-rules-when-the-jack-is-in-the-ditch/" data-type="post" data-id="499">the jack is in the ditch</a> which covers several scenarios for when either the jack or a bowl ends up in the ditch.</p>
+<p>For more information on this read my full guide on what happens when <a href="{{ '/help/lawn-bowls-rules-when-the-jack-is-in-the-ditch' | relative_url }}" data-type="post" data-id="499">the jack is in the ditch</a> which covers several scenarios for when either the jack or a bowl ends up in the ditch.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->

@@ -6,11 +6,12 @@ categories: [ help ]
 featured: false
 description: ""
 date: 2022-02-24 13:00:00 -0400
+last_modified_at: 2026-10-30 10:25:00 +0000
 ---
     
 
 <!-- wp:paragraph -->
-<p xmlns="http://www.w3.org/1999/xhtml">A good lawn bowls delivery will only have a handful of key ideas. Here is my list of fundamental ways to boost your <a href="https://www.jackhighbowls.com/help/best-lawn-bowls-stance/">lawn bowls</a> delivery.</p>
+<p xmlns="http://www.w3.org/1999/xhtml">A good lawn bowls delivery will only have a handful of key ideas. Here is my list of fundamental ways to boost your <a href="{{ '/help/best-lawn-bowls-stance' | relative_url }}">lawn bowls</a> delivery.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":67,"sizeSlug":"full","linkDestination":"none"} -->
@@ -26,7 +27,7 @@ date: 2022-02-24 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Here is my list of fundamental ways to boost your <a href="https://www.jackhighbowls.com/help/5-common-lawn-bowls-delivery-faults/">lawn bowls delivery</a>.</p>
+<p>Here is my list of fundamental ways to boost your <a href="{{ '/help/5-common-lawn-bowls-delivery-faults' | relative_url }}">lawn bowls delivery</a>.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->

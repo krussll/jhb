@@ -5,7 +5,7 @@ author: reece
 categories: [ bowls, review ]
 featured: false
 description: "In-depth Drakes Pride Professional review: trajectory analysis, grip variations, running surface versatility, and expert verdict."
-last_modified_at: 2026-10-30 09:30:00 +0000
+last_modified_at: 2026-10-30 10:25:00 +0000
 date: 2019-06-02 13:00:00 -0400
 review:
   name: "Drakes Pride Professional Lawn Bowls"
@@ -133,7 +133,7 @@ review:
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>As you’d expect the Professional comes in sizes 00 to 5, however, is only available in “Heavyweight”. This is the norm these days, and with Drakes Pride following the World <a href="https://www.jackhighbowls.com/help/lawn-bowls-size-charts/">Bowls sizing</a> standards you can be confident in getting the right size.</p>
+<p>As you’d expect the Professional comes in sizes 00 to 5, however, is only available in “Heavyweight”. This is the norm these days, and with Drakes Pride following the World <a href="{{ '/help/lawn-bowls-size-charts' | relative_url }}">Bowls sizing</a> standards you can be confident in getting the right size.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:quote -->

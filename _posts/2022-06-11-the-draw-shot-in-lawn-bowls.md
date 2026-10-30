@@ -5,7 +5,7 @@ author: reece
 categories: [ help ]
 featured: false
 description: ""
-last_modified_at: 2026-10-29 15:45:00 +0000
+last_modified_at: 2026-10-30 10:25:00 +0000
 date: 2022-06-11 13:00:00 -0400
 ---
     
@@ -167,7 +167,7 @@ date: 2022-06-11 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>This step will come down to your personal style and stance. You can find more information on stances and alignment on my guide to the <a href="https://www.jackhighbowls.com/help/best-lawn-bowls-stance/" data-type="post" data-id="489">best stances in lawn bowls</a>.</p>
+<p>This step will come down to your personal style and stance. You can find more information on stances and alignment on my guide to the <a href="{{ '/help/best-lawn-bowls-stance' | relative_url }}" data-type="post" data-id="489">best stances in lawn bowls</a>.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":3} -->
@@ -183,11 +183,11 @@ date: 2022-06-11 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>You can find out more on <a href="https://www.jackhighbowls.com/guide/using-aiming-points-in-lawn-bowls/" data-type="post" data-id="316">what to use as your aiming point</a> in my guide here.</p>
+<p>You can find out more on <a href="{{ '/guide/using-aiming-points-in-lawn-bowls' | relative_url }}" data-type="post" data-id="316">what to use as your aiming point</a> in my guide here.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:quote -->
-<blockquote class="wp-block-quote"><p>The draw shot is the perfect combination of the basics of line and weight control. Focus on these using my <a href="https://www.jackhighbowls.com/help/ultimate-guide-to-weight-control/" data-type="post" data-id="370">guide to weight control</a> and my <a href="https://www.jackhighbowls.com/help/ultimate-guide-to-line-control/" data-type="post" data-id="175">guide on line control</a> and you won't go far wrong.</p></blockquote>
+<blockquote class="wp-block-quote"><p>The draw shot is the perfect combination of the basics of line and weight control. Focus on these using my <a href="{{ '/help/ultimate-guide-to-weight-control' | relative_url }}" data-type="post" data-id="370">guide to weight control</a> and my <a href="{{ '/help/ultimate-guide-to-line-control' | relative_url }}" data-type="post" data-id="175">guide on line control</a> and you won't go far wrong.</p></blockquote>
 <!-- /wp:quote -->
 
 <!-- wp:heading -->

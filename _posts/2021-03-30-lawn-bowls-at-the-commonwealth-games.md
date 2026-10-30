@@ -6,6 +6,7 @@ categories: [ help ]
 featured: false
 description: ""
 date: 2021-03-30 13:00:00 -0400
+last_modified_at: 2026-10-30 10:25:00 +0000
 ---
     
 
@@ -34,7 +35,7 @@ date: 2021-03-30 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Lawn bowls has featured in 19 editions of the Commonwealth Games in total. Here is all of the host cities where <a href="https://www.jackhighbowls.com/help/lawn-bowls-rules/">lawn bowls has been played</a>, and the year the Games was held.</p>
+<p>Lawn bowls has featured in 19 editions of the Commonwealth Games in total. Here is all of the host cities where <a href="{{ '/help/lawn-bowls-rules' | relative_url }}">lawn bowls has been played</a>, and the year the Games was held.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->
@@ -50,7 +51,7 @@ date: 2021-03-30 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><a href="https://www.jackhighbowls.com/help/commonwealth-games-2022-lawn-bowls/">Lawn Bowls has featured twice at the Commonwealth Youth Games</a>, making its debut at Bendigo in 2004, followed by an appearance at the Samoa 2015 Games.</p>
+<p><a href="{{ '/help/commonwealth-games-2022-lawn-bowls' | relative_url }}">Lawn Bowls has featured twice at the Commonwealth Youth Games</a>, making its debut at Bendigo in 2004, followed by an appearance at the Samoa 2015 Games.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -98,7 +99,7 @@ date: 2021-03-30 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>England’s most successful Commonwealth games lawn bowler was <a href="https://www.jackhighbowls.com/help/best-lawn-bowls-player-of-all-time/">David Bryant</a>, winning 4 Gold medals in singles between 1962 and 1974.</p>
+<p>England’s most successful Commonwealth games lawn bowler was <a href="{{ '/help/best-lawn-bowls-player-of-all-time' | relative_url }}">David Bryant</a>, winning 4 Gold medals in singles between 1962 and 1974.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:quote -->

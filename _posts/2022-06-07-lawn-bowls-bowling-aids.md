@@ -5,7 +5,7 @@ author: reece
 categories: [ guide ]
 featured: false
 description: ""
-last_modified_at: 2026-10-29 15:45:00 +0000
+last_modified_at: 2026-10-30 10:25:00 +0000
 date: 2022-06-07 13:00:00 -0400
 ---
     
@@ -19,7 +19,7 @@ date: 2022-06-07 13:00:00 -0400
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
-<p>In this article I will be going through the most popular aids that you will find at most bowls clubs, that comply with all the <a href="https://www.jackhighbowls.com/help/lawn-bowls-rules/" data-type="post" data-id="304">rules of lawn bowls</a>. Hopefully this will give you an insight as to what is possible, and how you can continue playing and enjoying a game of bowls.</p>
+<p>In this article I will be going through the most popular aids that you will find at most bowls clubs, that comply with all the <a href="{{ '/help/lawn-bowls-rules' | relative_url }}" data-type="post" data-id="304">rules of lawn bowls</a>. Hopefully this will give you an insight as to what is possible, and how you can continue playing and enjoying a game of bowls.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
@@ -103,7 +103,7 @@ date: 2022-06-07 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>You can find a full guide on <a href="https://www.jackhighbowls.com/help/ultimate-guide-to-bowling-arms/" data-type="post" data-id="108">how to use a lawn bowling arm here</a>.</p>
+<p>You can find a full guide on <a href="{{ '/help/ultimate-guide-to-bowling-arms' | relative_url }}" data-type="post" data-id="108">how to use a lawn bowling arm here</a>.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->

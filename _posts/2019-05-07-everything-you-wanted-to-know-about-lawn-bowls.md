@@ -6,6 +6,7 @@ categories: [ help ]
 featured: false
 description: ""
 date: 2019-05-07 13:00:00 -0400
+last_modified_at: 2026-10-30 10:25:00 +0000
 ---
     
 
@@ -90,7 +91,7 @@ date: 2019-05-07 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p><strong>"Jack High" refers to a bowl that finishes directly parallel to the jack. Both the jack and the bowl were delivered with the exact same force (or "weight"). This is the ideal result for a </strong><a href="https://www.jackhighbowls.com/review/5-tips-and-tricks-to-improve-your-lawn-bowls-delivery/">delivery in lawn bowl.</a></p>
+<p><strong>"Jack High" refers to a bowl that finishes directly parallel to the jack. Both the jack and the bowl were delivered with the exact same force (or "weight"). This is the ideal result for a </strong><a href="{{ '/review/5-tips-and-tricks-to-improve-your-lawn-bowls-delivery' | relative_url }}">delivery in lawn bowl.</a></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
@@ -112,7 +113,7 @@ date: 2019-05-07 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Here is a video showing that <a href="https://www.jackhighbowls.com/help/lawn-bowls-rules/">lawn bowls can be - and often is - played</a> in quite heavy rain.</p>
+<p>Here is a video showing that <a href="{{ '/help/lawn-bowls-rules' | relative_url }}">lawn bowls can be - and often is - played</a> in quite heavy rain.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -186,6 +187,6 @@ date: 2019-05-07 13:00:00 -0400
 <!-- /wp:list -->
 
 <!-- wp:paragraph -->
-<p>Eventually when you decide to join a club you will need to get your own <a href="https://www.jackhighbowls.com/guide/best-lawn-bowls-for-indoors/" data-type="post" data-id="267">set of indoor bowls</a>.</p>
+<p>Eventually when you decide to join a club you will need to get your own <a href="{{ '/guide/best-lawn-bowls-for-indoors' | relative_url }}" data-type="post" data-id="267">set of indoor bowls</a>.</p>
 <!-- /wp:paragraph -->
     

@@ -6,6 +6,7 @@ categories: [ guide ]
 featured: false
 description: ""
 date: 2018-03-01 13:00:00 -0400
+last_modified_at: 2026-10-30 10:25:00 +0000
 ---
     
 
@@ -46,7 +47,7 @@ date: 2018-03-01 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>The player formats and roles remain largely the same from the "full size" game. If you want to find out more about player roles see our <a href="https://www.jackhighbowls.com/help/lawn-bowls-player-positions">guide to player positions and roles</a>.</p>
+<p>The player formats and roles remain largely the same from the "full size" game. If you want to find out more about player roles see our <a href="{{ '/help/lawn-bowls-player-positions' | relative_url }}">guide to player positions and roles</a>.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
@@ -62,7 +63,7 @@ date: 2018-03-01 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>There are county and international opportunities for those who wish to take the game seriously, however <a href="https://www.jackhighbowls.com/help/rules-of-short-mat-bowls/">short mat bowls</a> is ideal for the social player.</p>
+<p>There are county and international opportunities for those who wish to take the game seriously, however <a href="{{ '/help/rules-of-short-mat-bowls' | relative_url }}">short mat bowls</a> is ideal for the social player.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

@@ -5,7 +5,7 @@ author: reece
 categories: [ help ]
 featured: false
 description: ""
-last_modified_at: 2026-10-29 15:45:00 +0000
+last_modified_at: 2026-10-30 10:25:00 +0000
 date: 2022-06-20 13:00:00 -0400
 ---
     
@@ -163,7 +163,7 @@ date: 2022-06-20 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>For more information on this, read my <a href="https://www.jackhighbowls.com/help/lawn-bowls-exercises/" data-type="post" data-id="196">guide on practice drills for lawn bowls</a>.</p>
+<p>For more information on this, read my <a href="{{ '/help/lawn-bowls-exercises' | relative_url }}" data-type="post" data-id="196">guide on practice drills for lawn bowls</a>.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
@@ -183,7 +183,7 @@ date: 2022-06-20 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>If you want more information on what the different roles are, you can see my <a href="https://www.jackhighbowls.com/help/lawn-bowls-player-positions/" data-type="post" data-id="290">guide on roles in lawn bowls</a>.</p>
+<p>If you want more information on what the different roles are, you can see my <a href="{{ '/help/lawn-bowls-player-positions' | relative_url }}" data-type="post" data-id="290">guide on roles in lawn bowls</a>.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->

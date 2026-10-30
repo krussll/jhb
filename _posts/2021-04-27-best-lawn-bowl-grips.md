@@ -5,7 +5,7 @@ author: reece
 categories: [ guide ]
 featured: false
 description: ""
-last_modified_at: 2026-10-29 15:45:00 +0000
+last_modified_at: 2026-10-30 10:25:00 +0000
 date: 2021-04-27 13:00:00 -0400
 ---
     
@@ -67,7 +67,7 @@ date: 2021-04-27 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Firstly, make sure you have the right <a href="https://www.jackhighbowls.com/help/lawn-bowls-size-charts/">size bowl</a>. There is a common mindset in bowls that “bigger is better”, which is true. A bigger bowl carries more weight, this helps with weight control. Also a heavier bowl takes more energy to be moved. This forces your opponent to use more weight when trying to remove one of your shots.</p>
+<p>Firstly, make sure you have the right <a href="{{ '/help/lawn-bowls-size-charts' | relative_url }}">size bowl</a>. There is a common mindset in bowls that “bigger is better”, which is true. A bigger bowl carries more weight, this helps with weight control. Also a heavier bowl takes more energy to be moved. This forces your opponent to use more weight when trying to remove one of your shots.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -179,7 +179,7 @@ date: 2021-04-27 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p><a href="https://www.jackhighbowls.com/help/playing-lawn-bowls-in-wet-conditions/">Wet conditions are the hardest to play</a> in - at least from your grip stand point. They will test your grip and bowl size selection like no other element.</p>
+<p><a href="{{ '/help/playing-lawn-bowls-in-wet-conditions' | relative_url }}">Wet conditions are the hardest to play</a> in - at least from your grip stand point. They will test your grip and bowl size selection like no other element.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

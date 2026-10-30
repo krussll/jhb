@@ -6,6 +6,7 @@ categories: [ help ]
 featured: false
 description: ""
 date: 2021-02-12 13:00:00 -0400
+last_modified_at: 2026-10-30 10:25:00 +0000
 ---
     
 
@@ -38,7 +39,7 @@ date: 2021-02-12 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>All of the <a href="https://www.jackhighbowls.com/help/lawn-bowls-rules/">lawn bowls events will be played</a> at Leamington Spa’s Victoria Park.</p>
+<p>All of the <a href="{{ '/help/lawn-bowls-rules' | relative_url }}">lawn bowls events will be played</a> at Leamington Spa’s Victoria Park.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -110,7 +111,7 @@ date: 2021-02-12 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Commonwealth events differ from most of the other major championships. Whereas most competitions are run in a straight knock-out format, the <a href="https://www.jackhighbowls.com/help/lawn-bowls-at-the-commonwealth-games/">Commonwealth Games</a> have a group stage.</p>
+<p>Commonwealth events differ from most of the other major championships. Whereas most competitions are run in a straight knock-out format, the <a href="{{ '/help/lawn-bowls-at-the-commonwealth-games' | relative_url }}">Commonwealth Games</a> have a group stage.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

@@ -5,7 +5,7 @@ author: reece
 categories: [ help ]
 featured: false
 description: ""
-last_modified_at: 2026-10-29 15:45:00 +0000
+last_modified_at: 2026-10-30 10:25:00 +0000
 date: 2022-07-22 13:00:00 -0400
 ---
     
@@ -39,7 +39,7 @@ date: 2022-07-22 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p id="E337">A lawn bowling green is a square that generally ranges between 31m to 40m (34-43.5 yards) - as defined in the <a href="https://www.jackhighbowls.com/help/lawn-bowls-rules/" data-type="post" data-id="304">rules for lawn bowls</a>. The square shape allows players to play north to south one week and east to west another week. The rotation of play helps preserve the green. In each far corner of the green, there might also be a flag.</p>
+<p id="E337">A lawn bowling green is a square that generally ranges between 31m to 40m (34-43.5 yards) - as defined in the <a href="{{ '/help/lawn-bowls-rules' | relative_url }}" data-type="post" data-id="304">rules for lawn bowls</a>. The square shape allows players to play north to south one week and east to west another week. The rotation of play helps preserve the green. In each far corner of the green, there might also be a flag.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->

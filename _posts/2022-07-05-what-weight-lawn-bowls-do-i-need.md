@@ -5,7 +5,7 @@ author: reece
 categories: [ help ]
 featured: false
 description: ""
-last_modified_at: 2026-10-29 15:45:00 +0000
+last_modified_at: 2026-10-30 10:25:00 +0000
 date: 2022-07-05 13:00:00 -0400
 ---
     
@@ -35,7 +35,7 @@ date: 2022-07-05 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>I like to consider this to be 2 separate decisions. First, you select the size of lawn bowl - you can see my guide on <a href="https://www.jackhighbowls.com/help/what-size-lawn-bowl-should-i-use/" data-type="post" data-id="140">how to select the right size </a>for you - and then secondly you select the weight of the bowl.</p>
+<p>I like to consider this to be 2 separate decisions. First, you select the size of lawn bowl - you can see my guide on <a href="{{ '/help/what-size-lawn-bowl-should-i-use' | relative_url }}" data-type="post" data-id="140">how to select the right size </a>for you - and then secondly you select the weight of the bowl.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -71,11 +71,11 @@ date: 2022-07-05 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Pretty much all brands have dropped the medium option from new sets of bowls due to the lack of demand, however, you can get great <a href="https://www.jackhighbowls.com/guide/second-hand-and-pre-loved-lawn-bowls/" data-type="post" data-id="379">quality medium bowls on second hand</a> marketplaces such as eBay.</p>
+<p>Pretty much all brands have dropped the medium option from new sets of bowls due to the lack of demand, however, you can get great <a href="{{ '/guide/second-hand-and-pre-loved-lawn-bowls' | relative_url }}" data-type="post" data-id="379">quality medium bowls on second hand</a> marketplaces such as eBay.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>You can read my full <a href="https://www.jackhighbowls.com/help/lawn-bowls-heavy-or-medium/" data-type="post" data-id="805">guide on "medium vs heavy" </a>to find out more.</p>
+<p>You can read my full <a href="{{ '/help/lawn-bowls-heavy-or-medium' | relative_url }}" data-type="post" data-id="805">guide on "medium vs heavy" </a>to find out more.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
@@ -95,7 +95,7 @@ date: 2022-07-05 13:00:00 -0400
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
-<p>This stamp is located on the same size as the "World Bowls" stamp. You can find out more about <a href="https://www.jackhighbowls.com/help/what-the-stamp-means-on-lawn-bowls/" data-type="post" data-id="242">what the stamp on a lawn bowl means</a> in my guide.</p>
+<p>This stamp is located on the same size as the "World Bowls" stamp. You can find out more about <a href="{{ '/help/what-the-stamp-means-on-lawn-bowls' | relative_url }}" data-type="post" data-id="242">what the stamp on a lawn bowl means</a> in my guide.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->

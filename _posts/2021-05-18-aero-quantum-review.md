@@ -5,7 +5,7 @@ author: reece
 categories: [ bowls, review ]
 featured: false
 description: "Aero Quantum lawn bowls review: wide bias profile for slow grass greens, heavy surface performance, and buyers guide."
-last_modified_at: 2026-10-30 09:15:00 +0000
+last_modified_at: 2026-10-30 10:25:00 +0000
 date: 2021-05-18 13:00:00 -0400
 review:
   name: "Aero Quantum Lawn Bowls"
@@ -261,7 +261,7 @@ review:
 <!-- /wp:list -->
 
 <!-- wp:paragraph -->
-<p>For my test I used the <a href="https://www.jackhighbowls.com/guide/aero-z-scoop-grip-review/" data-type="post" data-id="1881">Z-Scoop</a> - the Z-Scoop is the Zigzag grip, but slightly embedded into the bowl. I'm a big fan of the latest trend for embedded grips as I feel they help maintain control of the bowl.</p>
+<p>For my test I used the <a href="{{ '/guide/aero-z-scoop-grip-review' | relative_url }}" data-type="post" data-id="1881">Z-Scoop</a> - the Z-Scoop is the Zigzag grip, but slightly embedded into the bowl. I'm a big fan of the latest trend for embedded grips as I feel they help maintain control of the bowl.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

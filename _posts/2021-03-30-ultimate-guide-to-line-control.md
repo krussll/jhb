@@ -6,6 +6,7 @@ categories: [ help ]
 featured: false
 description: ""
 date: 2021-03-30 13:00:00 -0400
+last_modified_at: 2026-10-30 10:25:00 +0000
 ---
     
 
@@ -34,7 +35,7 @@ date: 2021-03-30 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Line control is the base from which all <a href="https://www.jackhighbowls.com/help/lawn-bowls-rules/">bowls are played</a>.</p>
+<p>Line control is the base from which all <a href="{{ '/help/lawn-bowls-rules' | relative_url }}">bowls are played</a>.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -50,7 +51,7 @@ date: 2021-03-30 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Bowls is a game of consistency and a strong <a href="https://www.jackhighbowls.com/help/finding-the-line-in-lawn-bowls/">line control technique</a> is fundamental to this.</p>
+<p>Bowls is a game of consistency and a strong <a href="{{ '/help/finding-the-line-in-lawn-bowls' | relative_url }}">line control technique</a> is fundamental to this.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
@@ -102,7 +103,7 @@ date: 2021-03-30 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>A fixed point is required for each delivery, and you must be able to find new ones as conditions change throughout the season as <a href="https://www.jackhighbowls.com/help/guide-to-lawn-bowl-green-speeds/">greens speed</a> up and slow down. You may even need to change mid-game as the green changes in the evening.</p>
+<p>A fixed point is required for each delivery, and you must be able to find new ones as conditions change throughout the season as <a href="{{ '/help/guide-to-lawn-bowl-green-speeds' | relative_url }}">greens speed</a> up and slow down. You may even need to change mid-game as the green changes in the evening.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":3} -->
@@ -162,7 +163,7 @@ date: 2021-03-30 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>I recommend the shooter stance. You can see a <a href="https://www.jackhighbowls.com/help/the-shooter-stance-for-lawn-bowls/">guide on the shooter stance</a> here.</p>
+<p>I recommend the shooter stance. You can see a <a href="{{ '/help/the-shooter-stance-for-lawn-bowls' | relative_url }}">guide on the shooter stance</a> here.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -268,7 +269,7 @@ date: 2021-03-30 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>This “feeling” analysis is a great <a href="https://www.jackhighbowls.com/help/5-fundamental-ways-to-improve-your-lawn-bowls-delivery/">way to connect with the delivery</a> and will help you as you move forward. You can do this step on top of the filmed troubleshooting step.</p>
+<p>This “feeling” analysis is a great <a href="{{ '/help/5-fundamental-ways-to-improve-your-lawn-bowls-delivery' | relative_url }}">way to connect with the delivery</a> and will help you as you move forward. You can do this step on top of the filmed troubleshooting step.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":3} -->
@@ -384,7 +385,7 @@ date: 2021-03-30 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>The aim of this drill is to get as many <a href="https://www.jackhighbowls.com/help/how-do-you-judge-the-length-of-a-jack-in-lawn-bowls-a-complete-guide/">bowls within a mat’s length</a> from the centre line. Once you have finished bowling your 4 bowls check how far the bowls are from the centre line by comparing them against the two mats you placed at the start.</p>
+<p>The aim of this drill is to get as many <a href="{{ '/help/how-do-you-judge-the-length-of-a-jack-in-lawn-bowls-a-complete-guide' | relative_url }}">bowls within a mat’s length</a> from the centre line. Once you have finished bowling your 4 bowls check how far the bowls are from the centre line by comparing them against the two mats you placed at the start.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

@@ -5,7 +5,7 @@ author: reece
 categories: [ help ]
 featured: false
 description: ""
-last_modified_at: 2026-10-29 15:45:00 +0000
+last_modified_at: 2026-10-30 10:25:00 +0000
 date: 2022-09-27 13:00:00 -0400
 ---
     
@@ -52,7 +52,7 @@ date: 2022-09-27 13:00:00 -0400
 
 
 <!-- wp:paragraph -->
-<p>If you want to know more about buying second hand, see my <a href="https://www.jackhighbowls.com/guide/second-hand-and-pre-loved-lawn-bowls/" data-type="post" data-id="379">guide on second hand bowls</a>.</p>
+<p>If you want to know more about buying second hand, see my <a href="{{ '/guide/second-hand-and-pre-loved-lawn-bowls' | relative_url }}" data-type="post" data-id="379">guide on second hand bowls</a>.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":3} -->
@@ -60,7 +60,7 @@ date: 2022-09-27 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>If you buy bowls brand new from one of the <a href="https://www.jackhighbowls.com/guide/best-lawn-bowls-brands/" data-type="post" data-id="284">main lawn bowls brands</a> you should expect to pay in the region of £280-350.</p>
+<p>If you buy bowls brand new from one of the <a href="{{ '/guide/best-lawn-bowls-brands' | relative_url }}" data-type="post" data-id="284">main lawn bowls brands</a> you should expect to pay in the region of £280-350.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -116,7 +116,7 @@ date: 2022-09-27 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Models such as the Professional or the Taylor Ace will often cost more due to their popularity. Both of these models would be considered "mid biased", and any <a href="https://www.jackhighbowls.com/guide/best-mid-bias-lawn-bowls/" data-type="post" data-id="807">mid biased bowl</a> will be worth more.</p>
+<p>Models such as the Professional or the Taylor Ace will often cost more due to their popularity. Both of these models would be considered "mid biased", and any <a href="{{ '/guide/best-mid-bias-lawn-bowls' | relative_url }}" data-type="post" data-id="807">mid biased bowl</a> will be worth more.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

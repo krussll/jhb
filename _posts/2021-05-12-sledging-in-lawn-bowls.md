@@ -6,11 +6,12 @@ categories: [ help ]
 featured: false
 description: ""
 date: 2021-05-12 13:00:00 -0400
+last_modified_at: 2026-10-30 10:25:00 +0000
 ---
     
 
 <!-- wp:paragraph -->
-<p xmlns="http://www.w3.org/1999/xhtml">This article defines sledging and discusses why it is practised, the different types of sledging, and its moral implications in <a href="https://www.jackhighbowls.com/help/lawn-bowls-rules/" data-type="post" data-id="304">lawn bowls</a> and other sports.</p>
+<p xmlns="http://www.w3.org/1999/xhtml">This article defines sledging and discusses why it is practised, the different types of sledging, and its moral implications in <a href="{{ '/help/lawn-bowls-rules' | relative_url }}" data-type="post" data-id="304">lawn bowls</a> and other sports.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":134,"sizeSlug":"full","linkDestination":"none"} -->
@@ -30,7 +31,7 @@ date: 2021-05-12 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Sledging can vary from mildly humorous comments to extremely hurtful behaviors. Either way, the idea is that it will throw the opponent off mentally, emotionally, or physically – enough so that they’ll lose <a href="https://www.jackhighbowls.com/help/5-ways-to-improve-concentration-in-lawn-bowls/">concentration or otherwise react in a way</a> that will cause them to lose the game.</p>
+<p>Sledging can vary from mildly humorous comments to extremely hurtful behaviors. Either way, the idea is that it will throw the opponent off mentally, emotionally, or physically – enough so that they’ll lose <a href="{{ '/help/5-ways-to-improve-concentration-in-lawn-bowls' | relative_url }}">concentration or otherwise react in a way</a> that will cause them to lose the game.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
@@ -130,7 +131,7 @@ date: 2021-05-12 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>One of the unwritten <a href="https://www.jackhighbowls.com/help/lawn-bowls-rules/">rules of bowls</a> etiquette (and other sports, too) is to be quiet and not distract your opponent. Bowls, after all, is a game that relies heavily on concentration. To interfere with that focus just doesn’t seem fair. It can be seen as low and mean-spirited. It may all boil down to what one believes about the nature of competitive sport itself. If the purpose of an athletic game is to demonstrate physical prowess and skill, then mental trickery should have no place in sports.</p>
+<p>One of the unwritten <a href="{{ '/help/lawn-bowls-rules' | relative_url }}">rules of bowls</a> etiquette (and other sports, too) is to be quiet and not distract your opponent. Bowls, after all, is a game that relies heavily on concentration. To interfere with that focus just doesn’t seem fair. It can be seen as low and mean-spirited. It may all boil down to what one believes about the nature of competitive sport itself. If the purpose of an athletic game is to demonstrate physical prowess and skill, then mental trickery should have no place in sports.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

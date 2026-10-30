@@ -6,6 +6,7 @@ categories: [ help ]
 featured: false
 description: ""
 date: 2020-10-02 13:00:00 -0400
+last_modified_at: 2026-10-30 10:25:00 +0000
 ---
     
 
@@ -38,7 +39,7 @@ date: 2020-10-02 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:list -->
-<ul><li>A coin is tossed to decide which team bowl first.</li><li>The first bowler places the mat. It must be placed centrally - so it lines up with the rink number markers - and at least 2 meters from the rink edge.</li><li>When playing any shot the player bowling must always have one foot on the mat</li><li>The first bowler rolls the jack to whatever distance they like. The only restrictions is it must be at least 25 meters from the mat, and must stay out of the ditch. There is usually a marker on the rink to show where the minimum distance is</li><li>Once the jack has come to rest it is placed centrally by the marker with the help of the bowler. The jack now becomes the target</li><li>Teams alternate taking shots. Each member of the team will take all of their shots before the next one takes over</li><li>Any bowls that are in play can be moved by another shot, and they stay active to where they finish. This includes the jack!</li><li>Any <a href="https://www.jackhighbowls.com/help/lawn-bowls-rules-when-the-jack-is-in-the-ditch/">bowl that finishes in the ditch</a> is considered out of play</li><li>Once all players have finished their shots the game is scored (see below for details on how to score)</li><li>The winning team will get to go first on the next "end" (or leg). This will be played in the opposite direction to the previous end</li><li>The game continues until a predetermined number of ends are played - usually 18 or 21, however, indoor bowls can also be played over multiple sets</li></ul>
+<ul><li>A coin is tossed to decide which team bowl first.</li><li>The first bowler places the mat. It must be placed centrally - so it lines up with the rink number markers - and at least 2 meters from the rink edge.</li><li>When playing any shot the player bowling must always have one foot on the mat</li><li>The first bowler rolls the jack to whatever distance they like. The only restrictions is it must be at least 25 meters from the mat, and must stay out of the ditch. There is usually a marker on the rink to show where the minimum distance is</li><li>Once the jack has come to rest it is placed centrally by the marker with the help of the bowler. The jack now becomes the target</li><li>Teams alternate taking shots. Each member of the team will take all of their shots before the next one takes over</li><li>Any bowls that are in play can be moved by another shot, and they stay active to where they finish. This includes the jack!</li><li>Any <a href="{{ '/help/lawn-bowls-rules-when-the-jack-is-in-the-ditch' | relative_url }}">bowl that finishes in the ditch</a> is considered out of play</li><li>Once all players have finished their shots the game is scored (see below for details on how to score)</li><li>The winning team will get to go first on the next "end" (or leg). This will be played in the opposite direction to the previous end</li><li>The game continues until a predetermined number of ends are played - usually 18 or 21, however, indoor bowls can also be played over multiple sets</li></ul>
 <!-- /wp:list -->
 
 <!-- wp:heading -->
@@ -46,7 +47,7 @@ date: 2020-10-02 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Indoor <a href="https://www.jackhighbowls.com/help/lawn-bowls-rules/">bowls is often played</a> over two sets of 9 ends. If it is a draw after the 2 sets, a 3 end set is played to decide the winner.</p>
+<p>Indoor <a href="{{ '/help/lawn-bowls-rules' | relative_url }}">bowls is often played</a> over two sets of 9 ends. If it is a draw after the 2 sets, a 3 end set is played to decide the winner.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -70,7 +71,7 @@ date: 2020-10-02 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Robert Paxton won the <a href="https://www.jackhighbowls.com/help/world-bowls-player-profiles/">World Indoor</a> Bowls Championship in 2020, and will hold the title until the next tournament a Potter’s Resort in early 2021.</p>
+<p>Robert Paxton won the <a href="{{ '/help/world-bowls-player-profiles' | relative_url }}">World Indoor</a> Bowls Championship in 2020, and will hold the title until the next tournament a Potter’s Resort in early 2021.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
@@ -78,7 +79,7 @@ date: 2020-10-02 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Indoor <a href="https://www.jackhighbowls.com/help/guide-to-lawn-bowl-green-speeds/">bowls rinks are often much slower than outdoor greens</a>, it, therefore, requires less effort to bowl the ball. A superior technique is often one that is simple, repeatable, and smooth.</p>
+<p>Indoor <a href="{{ '/help/guide-to-lawn-bowl-green-speeds' | relative_url }}">bowls rinks are often much slower than outdoor greens</a>, it, therefore, requires less effort to bowl the ball. A superior technique is often one that is simple, repeatable, and smooth.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":3} -->

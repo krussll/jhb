@@ -5,7 +5,7 @@ author: reece
 categories: [ help ]
 featured: false
 description: ""
-last_modified_at: 2026-10-29 15:45:00 +0000
+last_modified_at: 2026-10-30 10:25:00 +0000
 date: 2020-09-30 13:00:00 -0400
 ---
     
@@ -31,7 +31,7 @@ date: 2020-09-30 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>The scorecard is kept as a record of each <a href="https://www.jackhighbowls.com/help/lawn-bowls-rules/" data-type="post" data-id="304">game of bowls</a> - therefore it will contain everything you’ll want to know about where, when, and how the game was played. The scorecard is split up into several sections, each focusing on one of those three elements.</p>
+<p>The scorecard is kept as a record of each <a href="{{ '/help/lawn-bowls-rules' | relative_url }}" data-type="post" data-id="304">game of bowls</a> - therefore it will contain everything you’ll want to know about where, when, and how the game was played. The scorecard is split up into several sections, each focusing on one of those three elements.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":4} -->
@@ -245,7 +245,7 @@ date: 2020-09-30 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Some scorecards require the Skips to sign it, however, this will depend on the <a href="https://www.jackhighbowls.com/help/lawn-bowls-rules/">rules of the competition being played</a>.</p>
+<p>Some scorecards require the Skips to sign it, however, this will depend on the <a href="{{ '/help/lawn-bowls-rules' | relative_url }}">rules of the competition being played</a>.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"linkDestination":"custom"} -->

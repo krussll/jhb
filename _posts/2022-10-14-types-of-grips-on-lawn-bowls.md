@@ -5,7 +5,7 @@ author: reece
 categories: [ guide ]
 featured: false
 description: ""
-last_modified_at: 2026-10-29 15:45:00 +0000
+last_modified_at: 2026-10-30 10:25:00 +0000
 date: 2022-10-14 13:00:00 -0400
 ---
     
@@ -137,7 +137,7 @@ date: 2022-10-14 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>The pattern within this channel can be anything. In the example above, the grip pattern is Aero's "Zigzag", but you can find other embedded grips with dimples (for example <a href="https://www.jackhighbowls.com/guide/taylor-xtreme-grip-review/" data-type="post" data-id="1624">Taylor's Xtreme grip</a>) or crescents.</p>
+<p>The pattern within this channel can be anything. In the example above, the grip pattern is Aero's "Zigzag", but you can find other embedded grips with dimples (for example <a href="{{ '/guide/taylor-xtreme-grip-review' | relative_url }}" data-type="post" data-id="1624">Taylor's Xtreme grip</a>) or crescents.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

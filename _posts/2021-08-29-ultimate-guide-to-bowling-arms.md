@@ -6,11 +6,12 @@ categories: [ help ]
 featured: false
 description: ""
 date: 2021-08-29 13:00:00 -0400
+last_modified_at: 2026-10-30 10:25:00 +0000
 ---
     
 
 <!-- wp:paragraph -->
-<p xmlns="http://www.w3.org/1999/xhtml">A bowling arm is a clever device useful for disabled and elderly bowlers as it allows them to deliver the bowl from a standing position. It operates as an extension of the bowler's arm and has a <a href="https://www.jackhighbowls.com/guide/best-lawn-bowl-grips/">bowl grip</a> at one end and a handle at the other. The bowler squeezes the handle to release the bowl.</p>
+<p xmlns="http://www.w3.org/1999/xhtml">A bowling arm is a clever device useful for disabled and elderly bowlers as it allows them to deliver the bowl from a standing position. It operates as an extension of the bowler's arm and has a <a href="{{ '/guide/best-lawn-bowl-grips' | relative_url }}">bowl grip</a> at one end and a handle at the other. The bowler squeezes the handle to release the bowl.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":109,"sizeSlug":"full","linkDestination":"none"} -->
@@ -18,7 +19,7 @@ date: 2021-08-29 13:00:00 -0400
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
-<p><a href="https://www.jackhighbowls.com/help/lawn-bowls-rules/">Lawn bowls</a> is a sport for old and young alike, but disabled and elderly bowlers sometimes need a bit of help. They battle to bend down to correctly deliver the bowl, and as anyone who has tried lawn bowls will tell you, <a href="_wp_link_placeholder" data-wplink-edit="true">delivery is everything</a>. Once the bowl leaves your hand, the rest is down to the weather, the green, and the wind - and perhaps a bit of aid from Lady Luck.</p>
+<p><a href="{{ '/help/lawn-bowls-rules' | relative_url }}">Lawn bowls</a> is a sport for old and young alike, but disabled and elderly bowlers sometimes need a bit of help. They battle to bend down to correctly deliver the bowl, and as anyone who has tried lawn bowls will tell you, <a href="_wp_link_placeholder" data-wplink-edit="true">delivery is everything</a>. Once the bowl leaves your hand, the rest is down to the weather, the green, and the wind - and perhaps a bit of aid from Lady Luck.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

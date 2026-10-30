@@ -5,13 +5,13 @@ author: reece
 categories: [ help ]
 featured: false
 description: ""
-last_modified_at: 2026-10-29 15:45:00 +0000
+last_modified_at: 2026-10-30 10:25:00 +0000
 date: 2022-03-06 13:00:00 -0400
 ---
     
 
 <!-- wp:paragraph -->
-<p xmlns="http://www.w3.org/1999/xhtml">The game of bowls is pretty simple. Just roll your bowls towards the jack and the closest one wins. However there are some common <a href="https://www.jackhighbowls.com/help/lawn-bowls-rules/" data-type="post" data-id="304">lawn bowls rules</a> that beginners need to be aware of - many of which are around the jack, and how it affects what is in play.</p>
+<p xmlns="http://www.w3.org/1999/xhtml">The game of bowls is pretty simple. Just roll your bowls towards the jack and the closest one wins. However there are some common <a href="{{ '/help/lawn-bowls-rules' | relative_url }}" data-type="post" data-id="304">lawn bowls rules</a> that beginners need to be aware of - many of which are around the jack, and how it affects what is in play.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":569,"sizeSlug":"full","linkDestination":"none"} -->

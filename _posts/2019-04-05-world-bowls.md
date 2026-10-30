@@ -6,11 +6,12 @@ categories: [ help ]
 featured: false
 description: ""
 date: 2019-04-05 13:00:00 -0400
+last_modified_at: 2026-10-30 10:25:00 +0000
 ---
     
 
 <!-- wp:paragraph -->
-<p xmlns="http://www.w3.org/1999/xhtml">World bowls is the internationally recognised federation for the <a href="https://www.jackhighbowls.com/help/lawn-bowls-rules/" data-type="post" data-id="304">Sport of Bowls</a>. It currently looks after the 54 federations which make up it’s membership.</p>
+<p xmlns="http://www.w3.org/1999/xhtml">World bowls is the internationally recognised federation for the <a href="{{ '/help/lawn-bowls-rules' | relative_url }}" data-type="post" data-id="304">Sport of Bowls</a>. It currently looks after the 54 federations which make up it’s membership.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":368,"sizeSlug":"full","linkDestination":"none"} -->
@@ -18,7 +19,7 @@ date: 2019-04-05 13:00:00 -0400
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
-<p>World bowls is the internationally recognised federation for the <a href="https://www.jackhighbowls.com/help/lawn-bowls-rules">Sport of Bowls</a>. It currently looks after the 54 federations which make up it’s membership.</p>
+<p>World bowls is the internationally recognised federation for the <a href="{{ '/help/lawn-bowls-rules' | relative_url }}">Sport of Bowls</a>. It currently looks after the 54 federations which make up it’s membership.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

@@ -6,6 +6,7 @@ categories: [ help ]
 featured: false
 description: ""
 date: 2019-02-19 13:00:00 -0400
+last_modified_at: 2026-10-30 10:25:00 +0000
 ---
     
 
@@ -98,7 +99,7 @@ date: 2019-02-19 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>You can read more on the <a href="https://www.jackhighbowls.com/help/history-of-lawn-bowls">history of lawn bowls here</a></p>
+<p>You can read more on the <a href="{{ '/help/history-of-lawn-bowls' | relative_url }}">history of lawn bowls here</a></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":3} -->
@@ -114,7 +115,7 @@ date: 2019-02-19 13:00:00 -0400
 <!-- /wp:html -->
 
 <!-- wp:paragraph -->
-<p><a href="https://www.jackhighbowls.com/help/ultimate-guide-to-bowling-arms/">Lawn bowls</a> have been a part of the Para-Commonwealth Games since it’s inception.</p>
+<p><a href="{{ '/help/ultimate-guide-to-bowling-arms' | relative_url }}">Lawn bowls</a> have been a part of the Para-Commonwealth Games since it’s inception.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
@@ -138,7 +139,7 @@ date: 2019-02-19 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Lawn bowls are only round on the running surface. Each side of the bowl is shaped differently, it is this unique shaping that makes lawn bowls curve. <a href="https://www.jackhighbowls.com/help/what-size-lawn-bowl-should-i-use/">Lawn bowls are also available in different sizes</a> and weights to suit the preferences of the bowler. Bowlers with smaller hands will require a smaller bowl. This will help them hold the bowl correctly when delivering their shot.</p>
+<p>Lawn bowls are only round on the running surface. Each side of the bowl is shaped differently, it is this unique shaping that makes lawn bowls curve. <a href="{{ '/help/what-size-lawn-bowl-should-i-use' | relative_url }}">Lawn bowls are also available in different sizes</a> and weights to suit the preferences of the bowler. Bowlers with smaller hands will require a smaller bowl. This will help them hold the bowl correctly when delivering their shot.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":3} -->
@@ -146,11 +147,11 @@ date: 2019-02-19 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>The main difference with the technique is that Bocce are thrown whereas <a href="https://www.jackhighbowls.com/help/9-tips-for-how-to-play-bowls-well/">lawn bowls</a> are rolled.</p>
+<p>The main difference with the technique is that Bocce are thrown whereas <a href="{{ '/help/9-tips-for-how-to-play-bowls-well' | relative_url }}">lawn bowls</a> are rolled.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Bocce balls are thrown directly towards the target, whereas <a href="https://www.jackhighbowls.com/help/lawn-bowls-rules/">lawn bowls</a> are aimed off-centre to allow the curve (or “bias”) to take effect. The offset is judged so that the curve finishes at the desired spot.</p>
+<p>Bocce balls are thrown directly towards the target, whereas <a href="{{ '/help/lawn-bowls-rules' | relative_url }}">lawn bowls</a> are aimed off-centre to allow the curve (or “bias”) to take effect. The offset is judged so that the curve finishes at the desired spot.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":3} -->

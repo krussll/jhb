@@ -5,7 +5,7 @@ author: reece
 categories: [ help ]
 featured: false
 description: ""
-last_modified_at: 2026-10-29 15:45:00 +0000
+last_modified_at: 2026-10-30 10:25:00 +0000
 date: 2020-11-06 13:00:00 -0400
 ---
     
@@ -263,7 +263,7 @@ date: 2020-11-06 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>To find out more about this check out this guide on <a href="https://www.jackhighbowls.com/help/what-is-jack-high-in-lawn-bowls-answered/" data-type="post" data-id="491">what jack high means in lawn bowls</a>.</p>
+<p>To find out more about this check out this guide on <a href="{{ '/help/what-is-jack-high-in-lawn-bowls-answered' | relative_url }}" data-type="post" data-id="491">what jack high means in lawn bowls</a>.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->

@@ -6,6 +6,7 @@ categories: [ help ]
 featured: false
 description: ""
 date: 2022-03-06 13:00:00 -0400
+last_modified_at: 2026-10-30 10:25:00 +0000
 ---
     
 
@@ -54,7 +55,7 @@ date: 2022-03-06 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Of course, skips will also have to draw well to improve shot counts or to cut out shots when down, but they will find they will be <a href="https://www.jackhighbowls.com/help/how-to-play-the-yard-on-shot-in-bowls/">playing more aggressive shots</a> more often than not.</p>
+<p>Of course, skips will also have to draw well to improve shot counts or to cut out shots when down, but they will find they will be <a href="{{ '/help/how-to-play-the-yard-on-shot-in-bowls' | relative_url }}">playing more aggressive shots</a> more often than not.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
@@ -150,7 +151,7 @@ date: 2022-03-06 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>When you practice, use the "yard on/yard off" drill with your natural weight. This will enable you to adjust your game to different <a href="https://www.jackhighbowls.com/help/guide-to-lawn-bowl-green-speeds/">green speeds</a> - and finally to adjust to different jack lengths.</p>
+<p>When you practice, use the "yard on/yard off" drill with your natural weight. This will enable you to adjust your game to different <a href="{{ '/help/guide-to-lawn-bowl-green-speeds' | relative_url }}">green speeds</a> - and finally to adjust to different jack lengths.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -162,7 +163,7 @@ date: 2022-03-06 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Finding the right weight for your shot is a <a href="https://www.jackhighbowls.com/help/5-fundamental-ways-to-improve-your-lawn-bowls-delivery/">fundamental part of a successful lawn</a> bowler. </p>
+<p>Finding the right weight for your shot is a <a href="{{ '/help/5-fundamental-ways-to-improve-your-lawn-bowls-delivery' | relative_url }}">fundamental part of a successful lawn</a> bowler. </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

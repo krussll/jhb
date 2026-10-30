@@ -5,7 +5,7 @@ author: reece
 categories: [ help ]
 featured: false
 description: ""
-last_modified_at: 2026-10-29 15:45:00 +0000
+last_modified_at: 2026-10-30 10:25:00 +0000
 date: 2022-09-18 13:00:00 -0400
 ---
     
@@ -23,7 +23,7 @@ date: 2022-09-18 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p> This puts games such as <a href="https://www.jackhighbowls.com/help/lawn-bowls-rules/" data-type="post" data-id="304">lawn bowls</a> in a tricky spot, should it consider itself a sport? Lets take a closer look.</p>
+<p> This puts games such as <a href="{{ '/help/lawn-bowls-rules' | relative_url }}" data-type="post" data-id="304">lawn bowls</a> in a tricky spot, should it consider itself a sport? Lets take a closer look.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
@@ -173,7 +173,7 @@ date: 2022-09-18 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Finally, bowlers at the top level don't show emotion to each other mainly because of the <a href="https://www.jackhighbowls.com/help/lawn-bowls-rules-and-etiquette/" data-type="post" data-id="361">etiquette</a> to respect your opponent. </p>
+<p>Finally, bowlers at the top level don't show emotion to each other mainly because of the <a href="{{ '/help/lawn-bowls-rules-and-etiquette' | relative_url }}" data-type="post" data-id="361">etiquette</a> to respect your opponent. </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

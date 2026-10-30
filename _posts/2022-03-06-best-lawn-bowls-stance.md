@@ -5,7 +5,7 @@ author: reece
 categories: [ help ]
 featured: false
 description: ""
-last_modified_at: 2026-10-29 15:45:00 +0000
+last_modified_at: 2026-10-30 10:25:00 +0000
 date: 2022-03-06 13:00:00 -0400
 ---
     
@@ -83,7 +83,7 @@ date: 2022-03-06 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>You can see a full <a href="https://www.jackhighbowls.com/help/the-shooter-stance-for-lawn-bowls/" data-type="post" data-id="326">guide to the shooter stance</a> here.</p>
+<p>You can see a full <a href="{{ '/help/the-shooter-stance-for-lawn-bowls' | relative_url }}" data-type="post" data-id="326">guide to the shooter stance</a> here.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":3} -->

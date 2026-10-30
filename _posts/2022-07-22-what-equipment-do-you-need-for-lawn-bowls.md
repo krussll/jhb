@@ -5,7 +5,7 @@ author: reece
 categories: [ guide ]
 featured: false
 description: ""
-last_modified_at: 2026-10-29 15:45:00 +0000
+last_modified_at: 2026-10-30 10:25:00 +0000
 date: 2022-07-22 13:00:00 -0400
 ---
     
@@ -19,7 +19,7 @@ date: 2022-07-22 13:00:00 -0400
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
-<p id="E122"><strong>To <a href="https://www.jackhighbowls.com/help/lawn-bowls-rules/" data-type="post" data-id="304">play lawn bowls</a>, you need a set of bowls, a foot mat, a smaller white ball called a jack, and a pair of shoes with flat smooth soles. Shoes with rough, ribbed soles can damage the green, so you can't use ordinary trainers. You also need a measuring tape and a small piece of chalk.</strong></p>
+<p id="E122"><strong>To <a href="{{ '/help/lawn-bowls-rules' | relative_url }}" data-type="post" data-id="304">play lawn bowls</a>, you need a set of bowls, a foot mat, a smaller white ball called a jack, and a pair of shoes with flat smooth soles. Shoes with rough, ribbed soles can damage the green, so you can't use ordinary trainers. You also need a measuring tape and a small piece of chalk.</strong></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -47,7 +47,7 @@ date: 2022-07-22 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p id="E235">A <a href="https://www.jackhighbowls.com/guide/second-hand-and-pre-loved-lawn-bowls/" data-type="post" data-id="379">set of lawn bowls</a> is essential. They come in different colours and slightly varying sizes but must be standard bowls. If you have <a href="https://www.jackhighbowls.com/guide/best-lawn-bowls-for-small-hands/" data-type="post" data-id="319">small hands</a>, you may need a somewhat smaller, lighter bowl than if you have larger hands.</p>
+<p id="E235">A <a href="{{ '/guide/second-hand-and-pre-loved-lawn-bowls' | relative_url }}" data-type="post" data-id="379">set of lawn bowls</a> is essential. They come in different colours and slightly varying sizes but must be standard bowls. If you have <a href="{{ '/guide/best-lawn-bowls-for-small-hands' | relative_url }}" data-type="post" data-id="319">small hands</a>, you may need a somewhat smaller, lighter bowl than if you have larger hands.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -87,7 +87,7 @@ date: 2022-07-22 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p id="E308">Although other products can be used to mark a bowl, ordinary blackboard chalk is fine. If a bowl touches the jack, it is usually marked with chalk to show that it is a '<a href="https://www.jackhighbowls.com/help/what-is-a-toucher-in-lawn-bowls/" data-type="post" data-id="1152">toucher</a>'. Touchers have a special status in terms of the rules of the game.</p>
+<p id="E308">Although other products can be used to mark a bowl, ordinary blackboard chalk is fine. If a bowl touches the jack, it is usually marked with chalk to show that it is a '<a href="{{ '/help/what-is-a-toucher-in-lawn-bowls' | relative_url }}" data-type="post" data-id="1152">toucher</a>'. Touchers have a special status in terms of the rules of the game.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->

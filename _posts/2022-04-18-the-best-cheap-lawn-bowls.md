@@ -5,7 +5,7 @@ author: reece
 categories: [ guide ]
 featured: false
 description: ""
-last_modified_at: 2026-10-29 15:45:00 +0000
+last_modified_at: 2026-10-30 10:25:00 +0000
 date: 2022-04-18 13:00:00 -0400
 ---
     
@@ -105,7 +105,7 @@ date: 2022-04-18 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>See my <a href="https://www.jackhighbowls.com/guide/second-hand-and-pre-loved-lawn-bowls/" data-type="post" data-id="379">guide on second-hand bowls</a> for more information on buying online.</p>
+<p>See my <a href="{{ '/guide/second-hand-and-pre-loved-lawn-bowls' | relative_url }}" data-type="post" data-id="379">guide on second-hand bowls</a> for more information on buying online.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
@@ -137,7 +137,7 @@ date: 2022-04-18 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>The age of a set of bowls will also impact it's price. Newer sets will likely cost more as they will have the latest colours, and are more likely to be within their stamp date (find out <a href="https://www.jackhighbowls.com/help/what-the-stamp-means-on-lawn-bowls/" data-type="post" data-id="242">what the stamp means</a> here).</p>
+<p>The age of a set of bowls will also impact it's price. Newer sets will likely cost more as they will have the latest colours, and are more likely to be within their stamp date (find out <a href="{{ '/help/what-the-stamp-means-on-lawn-bowls' | relative_url }}" data-type="post" data-id="242">what the stamp means</a> here).</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":3} -->

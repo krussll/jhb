@@ -5,7 +5,7 @@ author: reece
 categories: [ guide ]
 featured: false
 description: ""
-last_modified_at: 2026-10-30 09:30:00 +0000
+last_modified_at: 2026-10-30 10:25:00 +0000
 date: 2020-07-01 13:00:00 -0400
 ---
     
@@ -51,7 +51,7 @@ date: 2020-07-01 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><a href="https://www.jackhighbowls.com/help/playing-lawn-bowls-in-wet-conditions/">Playing in wet conditions</a> can also be tricky. Whilst some moisture is good for making your bowls tacky, excessive water makes them slippery and impossible to control consistently.</p>
+<p><a href="{{ '/help/playing-lawn-bowls-in-wet-conditions' | relative_url }}">Playing in wet conditions</a> can also be tricky. Whilst some moisture is good for making your bowls tacky, excessive water makes them slippery and impossible to control consistently.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -159,7 +159,7 @@ date: 2020-07-01 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>These are small blocks that you keep in your pocket as you play. Simply soften one up in your hands, and then roll it between your fingers. This leaves a thin layer over your fingers to help <a href="https://www.jackhighbowls.com/guide/best-lawn-bowl-grips/">grip the bowl</a>.</p>
+<p>These are small blocks that you keep in your pocket as you play. Simply soften one up in your hands, and then roll it between your fingers. This leaves a thin layer over your fingers to help <a href="{{ '/guide/best-lawn-bowl-grips' | relative_url }}">grip the bowl</a>.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

@@ -5,7 +5,7 @@ author: reece
 categories: [ help ]
 featured: false
 description: ""
-last_modified_at: 2026-10-29 15:45:00 +0000
+last_modified_at: 2026-10-30 10:25:00 +0000
 date: 2022-06-18 13:00:00 -0400
 ---
     
@@ -23,7 +23,7 @@ date: 2022-06-18 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>But what happens next can be a little trickier to explain. In this guide, I will take you through the <a href="https://www.jackhighbowls.com/help/lawn-bowls-rules/" data-type="post" data-id="304">rules</a> around hitting the jack, as well as covering all the different scenarios once it has been hit.</p>
+<p>But what happens next can be a little trickier to explain. In this guide, I will take you through the <a href="{{ '/help/lawn-bowls-rules' | relative_url }}" data-type="post" data-id="304">rules</a> around hitting the jack, as well as covering all the different scenarios once it has been hit.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
@@ -91,7 +91,7 @@ date: 2022-06-18 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>For more information on this read my full guide on what happens <a href="https://www.jackhighbowls.com/help/lawn-bowls-rules-when-the-jack-is-in-the-ditch/" data-type="post" data-id="499">when the jack goes into the ditch</a>.</p>
+<p>For more information on this read my full guide on what happens <a href="{{ '/help/lawn-bowls-rules-when-the-jack-is-in-the-ditch' | relative_url }}" data-type="post" data-id="499">when the jack goes into the ditch</a>.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":3} -->
@@ -103,7 +103,7 @@ date: 2022-06-18 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>For more information on this read my full guide on what happens <a href="https://www.jackhighbowls.com/help/lawn-bowls-rules-the-dead-end/">when the jack goes off the rink</a>.</p>
+<p>For more information on this read my full guide on what happens <a href="{{ '/help/lawn-bowls-rules-the-dead-end' | relative_url }}">when the jack goes off the rink</a>.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
@@ -119,7 +119,7 @@ date: 2022-06-18 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>For more information on this read my full guide on <a href="https://www.jackhighbowls.com/help/what-is-a-toucher-in-lawn-bowls/" data-type="post" data-id="1152">what is a toucher in lawn bowls</a>.</p>
+<p>For more information on this read my full guide on <a href="{{ '/help/what-is-a-toucher-in-lawn-bowls' | relative_url }}" data-type="post" data-id="1152">what is a toucher in lawn bowls</a>.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->

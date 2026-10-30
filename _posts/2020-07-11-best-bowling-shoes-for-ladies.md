@@ -6,7 +6,7 @@ categories: [ guide ]
 featured: false
 description: ""
 date: 2020-07-11 13:00:00 -0400
-last_modified_at: 2026-10-30 09:30:00 +0000
+last_modified_at: 2026-10-30 10:25:00 +0000
 ---
     
 
@@ -27,11 +27,11 @@ last_modified_at: 2026-10-30 09:30:00 +0000
 <!-- /wp:table -->
 
 <!-- wp:paragraph -->
-<p>The days are starting to get longer, and the weather is getting a bit warmer. This can mean one thing - <a href="https://www.jackhighbowls.com/help/how-to-prepare-for-a-new-lawn-bowls-season/">bowls season</a> is upon us!</p>
+<p>The days are starting to get longer, and the weather is getting a bit warmer. This can mean one thing - <a href="{{ '/help/how-to-prepare-for-a-new-lawn-bowls-season' | relative_url }}">bowls season</a> is upon us!</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Now is the time to review your equipment, and seeing as all good technique starts from the ground up, what better place to start this with your shoes. Today we round up the best bowls shoes for <a href="https://www.jackhighbowls.com/help/best-lawn-bowls-for-ladies/">ladies</a>, however a few on our list are unisex, so there's something to learn for the men out there too.</p>
+<p>Now is the time to review your equipment, and seeing as all good technique starts from the ground up, what better place to start this with your shoes. Today we round up the best bowls shoes for <a href="{{ '/help/best-lawn-bowls-for-ladies' | relative_url }}">ladies</a>, however a few on our list are unisex, so there's something to learn for the men out there too.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->

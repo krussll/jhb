@@ -6,7 +6,7 @@ categories: [ help ]
 featured: false
 description: ""
 date: 2020-07-11 13:00:00 -0400
-last_modified_at: 2026-10-30 09:30:00 +0000
+last_modified_at: 2026-10-30 10:25:00 +0000
 ---
     
 
@@ -27,7 +27,7 @@ last_modified_at: 2026-10-30 09:30:00 +0000
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>In this article I’ll guide you through the different options, as well as giving my top recommendations for <a href="https://www.jackhighbowls.com/help/lawn-bowls-vs-bocce/">lawn bowls</a> for ladies.</p>
+<p>In this article I’ll guide you through the different options, as well as giving my top recommendations for <a href="{{ '/help/lawn-bowls-vs-bocce' | relative_url }}">lawn bowls</a> for ladies.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->

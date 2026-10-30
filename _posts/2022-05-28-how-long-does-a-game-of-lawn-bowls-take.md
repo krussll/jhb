@@ -5,7 +5,7 @@ author: reece
 categories: [ help ]
 featured: false
 description: ""
-last_modified_at: 2026-10-29 15:45:00 +0000
+last_modified_at: 2026-10-30 10:25:00 +0000
 date: 2022-05-28 13:00:00 -0400
 ---
     
@@ -23,7 +23,7 @@ date: 2022-05-28 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Lets look at some of the common formats of <a href="https://www.jackhighbowls.com/help/lawn-bowls-rules/" data-type="post" data-id="304">lawn bowls</a> and look at how long each one takes on average.</p>
+<p>Lets look at some of the common formats of <a href="{{ '/help/lawn-bowls-rules' | relative_url }}" data-type="post" data-id="304">lawn bowls</a> and look at how long each one takes on average.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:table {"className":"is-style-regular"} -->

@@ -5,7 +5,7 @@ author: reece
 categories: [ help ]
 featured: false
 description: ""
-last_modified_at: 2026-10-29 15:45:00 +0000
+last_modified_at: 2026-10-30 10:25:00 +0000
 date: 2019-09-30 13:00:00 -0400
 ---
     
@@ -51,7 +51,7 @@ date: 2019-09-30 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Reading the head begins with understanding the fundamentals of building a head. Before reading this guide I recommend you familiarise yourself with this in my <a href="https://www.jackhighbowls.com/help/the-ultimate-guide-to-building-the-head-in-lawn-bowls/" data-type="post" data-id="699">guide on building the head in lawn bowls</a>.</p>
+<p>Reading the head begins with understanding the fundamentals of building a head. Before reading this guide I recommend you familiarise yourself with this in my <a href="{{ '/help/the-ultimate-guide-to-building-the-head-in-lawn-bowls' | relative_url }}" data-type="post" data-id="699">guide on building the head in lawn bowls</a>.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
@@ -143,7 +143,7 @@ date: 2019-09-30 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>This is a more aggressive move, where the bowl is played heavier than a draw shot. This extra weight may just be a yard longer than the jack, or could be enough to send the <a href="https://www.jackhighbowls.com/help/lawn-bowls-rules-when-the-jack-is-in-the-ditch/">bowl flying into the ditch</a>.</p>
+<p>This is a more aggressive move, where the bowl is played heavier than a draw shot. This extra weight may just be a yard longer than the jack, or could be enough to send the <a href="{{ '/help/lawn-bowls-rules-when-the-jack-is-in-the-ditch' | relative_url }}">bowl flying into the ditch</a>.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

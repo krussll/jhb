@@ -6,6 +6,7 @@ categories: [ help ]
 featured: false
 description: ""
 date: 2021-07-20 13:00:00 -0400
+last_modified_at: 2026-10-30 10:25:00 +0000
 ---
     
 
@@ -18,7 +19,7 @@ date: 2021-07-20 13:00:00 -0400
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
-<p>Tactics in singles <a href="https://www.jackhighbowls.com/help/lawn-bowls-rules/" data-type="post" data-id="304">lawn bowls</a> require constant awareness of the state and pace of the green, wind direction, your favoured hand, your own and your opponent's strengths and weaknesses, and how to use your shots to best effect. Look for advantages in jack placement and building the head to help you win.</p>
+<p>Tactics in singles <a href="{{ '/help/lawn-bowls-rules' | relative_url }}" data-type="post" data-id="304">lawn bowls</a> require constant awareness of the state and pace of the green, wind direction, your favoured hand, your own and your opponent's strengths and weaknesses, and how to use your shots to best effect. Look for advantages in jack placement and building the head to help you win.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
@@ -34,7 +35,7 @@ date: 2021-07-20 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Closely assess the green as best you can to determine which is the most favorable side. This means looking for dry or dense patches, wear and tear at the ends of the rink, and thinking about the weather. No two <a href="https://www.jackhighbowls.com/help/how-to-build-and-maintain-lawn-bowls-green/">bowling greens</a> are the same, and the same green can change over the course of a game as it dries out.</p>
+<p>Closely assess the green as best you can to determine which is the most favorable side. This means looking for dry or dense patches, wear and tear at the ends of the rink, and thinking about the weather. No two <a href="{{ '/help/how-to-build-and-maintain-lawn-bowls-green' | relative_url }}">bowling greens</a> are the same, and the same green can change over the course of a game as it dries out.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -138,7 +139,7 @@ date: 2021-07-20 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Attacking play is risky if you are a couple of shots down. Look at whether your opponent has several bowls behind the jack first to see if it could move closer to them if you hit it. If you have <a href="https://www.jackhighbowls.com/help/how-do-you-judge-the-length-of-a-jack-in-lawn-bowls-a-complete-guide/">bowls behind the jack</a> to receive it, then attacking could work to your advantage. Don't take unnecessary risks.</p>
+<p>Attacking play is risky if you are a couple of shots down. Look at whether your opponent has several bowls behind the jack first to see if it could move closer to them if you hit it. If you have <a href="{{ '/help/how-do-you-judge-the-length-of-a-jack-in-lawn-bowls-a-complete-guide' | relative_url }}">bowls behind the jack</a> to receive it, then attacking could work to your advantage. Don't take unnecessary risks.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -158,7 +159,7 @@ date: 2021-07-20 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>The drive shot is delivered with so much weight that it breaks up the head and, in the best-case scenario, hits the <a href="https://www.jackhighbowls.com/help/lawn-bowls-rules-when-the-jack-is-in-the-ditch/">jack and puts it into the ditch</a>. However, the outcome of a drive shot is very unpredictable. If you are only a single shot down, driving is not a good idea because you could take out your own bowls lying nearby and increase the count against you.</p>
+<p>The drive shot is delivered with so much weight that it breaks up the head and, in the best-case scenario, hits the <a href="{{ '/help/lawn-bowls-rules-when-the-jack-is-in-the-ditch' | relative_url }}">jack and puts it into the ditch</a>. However, the outcome of a drive shot is very unpredictable. If you are only a single shot down, driving is not a good idea because you could take out your own bowls lying nearby and increase the count against you.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -194,7 +195,7 @@ date: 2021-07-20 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><a href="https://www.jackhighbowls.com/help/guide-to-mental-training-in-lawn-bowls/">Bowls is a mental</a> as well as a physical game. Try to visualize the path your bowl must follow before you deliver it and observe it as it travels towards the jack. Don't tense up when it's your turn to deliver a bowl. Consciously relax and narrow your focus to what you are doing in the moment.</p>
+<p><a href="{{ '/help/guide-to-mental-training-in-lawn-bowls' | relative_url }}">Bowls is a mental</a> as well as a physical game. Try to visualize the path your bowl must follow before you deliver it and observe it as it travels towards the jack. Don't tense up when it's your turn to deliver a bowl. Consciously relax and narrow your focus to what you are doing in the moment.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -210,6 +211,6 @@ date: 2021-07-20 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>When playing a singles game, you have to concentrate on every bowl played, whether by you or your opponent and use every bit of information gathered to decide your tactics. A <a href="https://www.jackhighbowls.com/help/6-tips-for-beginner-lawn-bowlers/">beginner can learn a lot by mindfully watching experienced singles bowlers</a>, but there is no substitute for playing the game yourself. A thoughtful approach is essential because you don't have a team to help you or bail you out if you make a mistake.</p>
+<p>When playing a singles game, you have to concentrate on every bowl played, whether by you or your opponent and use every bit of information gathered to decide your tactics. A <a href="{{ '/help/6-tips-for-beginner-lawn-bowlers' | relative_url }}">beginner can learn a lot by mindfully watching experienced singles bowlers</a>, but there is no substitute for playing the game yourself. A thoughtful approach is essential because you don't have a team to help you or bail you out if you make a mistake.</p>
 <!-- /wp:paragraph -->
     

@@ -6,6 +6,7 @@ categories: [ help ]
 featured: false
 description: ""
 date: 2021-04-28 13:00:00 -0400
+last_modified_at: 2026-10-30 10:25:00 +0000
 ---
     
 
@@ -62,7 +63,7 @@ date: 2021-04-28 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>A bowling green requires an undisturbed land with native soil to achieve differential settling to reduce the preparation time. A disturbed land will need extra preparation time to ensure the bowling green will be level. It is best to avoid any land formerly a landfill since it can be unstable and almost impossible to keep it level. When choosing the <a href="https://www.jackhighbowls.com/help/guide-to-lawn-bowl-green-speeds/">lawn bowling green</a> location, you should keep in mind the access to a sewer, power and water to reduce the maintenance costs.</p>
+<p>A bowling green requires an undisturbed land with native soil to achieve differential settling to reduce the preparation time. A disturbed land will need extra preparation time to ensure the bowling green will be level. It is best to avoid any land formerly a landfill since it can be unstable and almost impossible to keep it level. When choosing the <a href="{{ '/help/guide-to-lawn-bowl-green-speeds' | relative_url }}">lawn bowling green</a> location, you should keep in mind the access to a sewer, power and water to reduce the maintenance costs.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":3} -->

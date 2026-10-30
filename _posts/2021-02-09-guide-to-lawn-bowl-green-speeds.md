@@ -6,6 +6,7 @@ categories: [ help ]
 featured: false
 description: ""
 date: 2021-02-09 13:00:00 -0400
+last_modified_at: 2026-10-30 10:25:00 +0000
 ---
     
 
@@ -74,7 +75,7 @@ date: 2021-02-09 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>A ramp also comes with the ball. This ball is un-biased, so it won’t curve like a standard <a href="https://www.jackhighbowls.com/help/how-lawn-bowls-are-made/">lawn bowl</a>. It must be the same weight in each test. The consistency of the weight of the bowl and the height and angle of the ramp means the force the ball is delivered by the ramp is consistent, and a standard measurement can be made.</p>
+<p>A ramp also comes with the ball. This ball is un-biased, so it won’t curve like a standard <a href="{{ '/help/how-lawn-bowls-are-made' | relative_url }}">lawn bowl</a>. It must be the same weight in each test. The consistency of the weight of the bowl and the height and angle of the ramp means the force the ball is delivered by the ramp is consistent, and a standard measurement can be made.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -158,7 +159,7 @@ date: 2021-02-09 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>When a <a href="https://www.jackhighbowls.com/help/how-to-build-and-maintain-lawn-bowls-green/">bowls green</a> is freshly cut it will run faster. Even a slight change will have a dramatic effect on the behaviour of the bowls.</p>
+<p>When a <a href="{{ '/help/how-to-build-and-maintain-lawn-bowls-green' | relative_url }}">bowls green</a> is freshly cut it will run faster. Even a slight change will have a dramatic effect on the behaviour of the bowls.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -214,7 +215,7 @@ date: 2021-02-09 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>17-18 seconds is considered a good indoor green speed. <a href="https://www.jackhighbowls.com/help/indoor-bowls/">Indoor rinks are designed to play fast, which is why many players struggle to adjust when switching between indoor and outdoor bowls</a>.</p>
+<p>17-18 seconds is considered a good indoor green speed. <a href="{{ '/help/indoor-bowls' | relative_url }}">Indoor rinks are designed to play fast, which is why many players struggle to adjust when switching between indoor and outdoor bowls</a>.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":3} -->

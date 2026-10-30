@@ -5,7 +5,7 @@ author: reece
 categories: [ guide ]
 featured: false
 description: ""
-last_modified_at: 2026-10-29 15:45:00 +0000
+last_modified_at: 2026-10-30 10:25:00 +0000
 date: 2020-05-20 13:00:00 -0400
 ---
     
@@ -35,7 +35,7 @@ date: 2020-05-20 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Many bowlers have a preference for a specific brand, so we have split our charts accordingly. Below you will find a <a href="https://www.jackhighbowls.com/help/lawn-bowls-size-charts/">chart for each of the major UK brands</a> - Aero, Drakes Pride and Taylor.</p>
+<p>Many bowlers have a preference for a specific brand, so we have split our charts accordingly. Below you will find a <a href="{{ '/help/lawn-bowls-size-charts' | relative_url }}">chart for each of the major UK brands</a> - Aero, Drakes Pride and Taylor.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -47,7 +47,7 @@ date: 2020-05-20 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p><a href="https://www.jackhighbowls.com/help/how-lawn-bowls-are-made/">Lawn bowls</a> are not perfectly round. One side will be slightly heavier than the other, leading the bowl to curve in that direction. A bias can be manipulated by a manufacture to give a specific trajectory, depending on the goal of the player.</p>
+<p><a href="{{ '/help/how-lawn-bowls-are-made' | relative_url }}">Lawn bowls</a> are not perfectly round. One side will be slightly heavier than the other, leading the bowl to curve in that direction. A bias can be manipulated by a manufacture to give a specific trajectory, depending on the goal of the player.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->

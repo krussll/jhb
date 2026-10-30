@@ -6,6 +6,7 @@ categories: [ help ]
 featured: false
 description: ""
 date: 2020-06-16 13:00:00 -0400
+last_modified_at: 2026-10-30 10:25:00 +0000
 ---
     
 
@@ -106,7 +107,7 @@ date: 2020-06-16 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>If a new set of bowls is something you’d like to know more about, you can see our guide on the <a href="https://www.jackhighbowls.com/guide/best-lawn-bowls-for-beginners">best lawn bowls for beginners</a>.</p>
+<p>If a new set of bowls is something you’d like to know more about, you can see our guide on the <a href="{{ '/guide/best-lawn-bowls-for-beginners' | relative_url }}">best lawn bowls for beginners</a>.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":3} -->
@@ -134,7 +135,7 @@ date: 2020-06-16 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>See our guide to <a href="https://www.jackhighbowls.com/guide/second-hand-and-pre-loved-lawn-bowls">buying second hand bowls</a>.</p>
+<p>See our guide to <a href="{{ '/guide/second-hand-and-pre-loved-lawn-bowls' | relative_url }}">buying second hand bowls</a>.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
@@ -142,7 +143,7 @@ date: 2020-06-16 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>To start lawn bowls all you need are a pair of flat soled shoes, this is the only requirement. Flat soled shoes are needed as it protects the greens from damage. You can get shoes specifically for <a href="https://www.jackhighbowls.com/help/is-lawn-bowls-a-dying-sport/">lawn bowls</a>, however they don’t need to be by a specific brand, and any flat soled shoe will do.</p>
+<p>To start lawn bowls all you need are a pair of flat soled shoes, this is the only requirement. Flat soled shoes are needed as it protects the greens from damage. You can get shoes specifically for <a href="{{ '/help/is-lawn-bowls-a-dying-sport' | relative_url }}">lawn bowls</a>, however they don’t need to be by a specific brand, and any flat soled shoe will do.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

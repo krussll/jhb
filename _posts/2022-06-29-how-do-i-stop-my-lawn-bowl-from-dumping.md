@@ -5,7 +5,7 @@ author: reece
 categories: [ help ]
 featured: false
 description: ""
-last_modified_at: 2026-10-29 15:45:00 +0000
+last_modified_at: 2026-10-30 10:25:00 +0000
 date: 2022-06-29 13:00:00 -0400
 ---
     
@@ -171,11 +171,11 @@ date: 2022-06-29 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>The first thing to investigate is to check the grip you use. To find out more on this check my guide on <a href="https://www.jackhighbowls.com/guide/best-lawn-bowl-grips/" data-type="post" data-id="166">the best lawn bowls grips</a>.</p>
+<p>The first thing to investigate is to check the grip you use. To find out more on this check my guide on <a href="{{ '/guide/best-lawn-bowl-grips' | relative_url }}" data-type="post" data-id="166">the best lawn bowls grips</a>.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Following that there are several steps you can take to improve the grip. Something like using a polish on our bowls as a <a href="https://www.jackhighbowls.com/guide/best-lawn-bowls-grip-enhancers/" data-type="post" data-id="278">grip enhancer</a> can improve your grip no end. In extreme cases moving down a size or two on your bowls. To find out more check out my guide on <a href="https://www.jackhighbowls.com/help/how-to-improve-grip-on-your-lawn-bowls/" data-type="post" data-id="1009">how to improve your grip</a>.</p>
+<p>Following that there are several steps you can take to improve the grip. Something like using a polish on our bowls as a <a href="{{ '/guide/best-lawn-bowls-grip-enhancers' | relative_url }}" data-type="post" data-id="278">grip enhancer</a> can improve your grip no end. In extreme cases moving down a size or two on your bowls. To find out more check out my guide on <a href="{{ '/help/how-to-improve-grip-on-your-lawn-bowls' | relative_url }}" data-type="post" data-id="1009">how to improve your grip</a>.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

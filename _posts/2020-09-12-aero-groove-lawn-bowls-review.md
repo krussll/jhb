@@ -5,7 +5,7 @@ author: reece
 categories: [ bowls, review ]
 featured: false
 description: "Aero Groove lawn bowls review: robotic precision manufacturing, mid-bias trajectory, Z-Scoop grip evaluation, and performance score."
-last_modified_at: 2026-10-30 09:15:00 +0000
+last_modified_at: 2026-10-30 10:25:00 +0000
 date: 2020-09-12 13:00:00 -0400
 review:
   name: "Aero GrooVe Lawn Bowls"
@@ -144,7 +144,7 @@ review:
 <!-- wp:block {"ref":2822} /-->
 
 <!-- wp:paragraph -->
-<p>It’s suitable for middle and back end playing positions on average indoor surfaces, and can easily be played from most outdoor positions - however it may be a tad narrow for <a href="https://www.jackhighbowls.com/help/lawn-bowls-tips-for-skips/">skips who like to draw around short bowls</a>, so would lean towards lead/front-end roles.</p>
+<p>It’s suitable for middle and back end playing positions on average indoor surfaces, and can easily be played from most outdoor positions - however it may be a tad narrow for <a href="{{ '/help/lawn-bowls-tips-for-skips' | relative_url }}">skips who like to draw around short bowls</a>, so would lean towards lead/front-end roles.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

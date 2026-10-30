@@ -6,6 +6,7 @@ categories: [ review ]
 featured: false
 description: ""
 date: 2021-05-09 13:00:00 -0400
+last_modified_at: 2026-10-30 10:25:00 +0000
 ---
     
 
@@ -98,7 +99,7 @@ date: 2021-05-09 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Practice through exaggerating the action. Practice your <a href="https://www.jackhighbowls.com/help/5-fundamental-ways-to-improve-your-lawn-bowls-delivery/">delivery without a bowl</a>. As you "deliver" the imaginary bowl get so low that your palm of your hand brushes the floor.</p>
+<p>Practice through exaggerating the action. Practice your <a href="{{ '/help/5-fundamental-ways-to-improve-your-lawn-bowls-delivery' | relative_url }}">delivery without a bowl</a>. As you "deliver" the imaginary bowl get so low that your palm of your hand brushes the floor.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -210,7 +211,7 @@ date: 2021-05-09 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>I have a whole article on the best <a href="https://www.jackhighbowls.com/help/guide-to-mental-training-in-lawn-bowls/">mental training</a> methods.</p>
+<p>I have a whole article on the best <a href="{{ '/help/guide-to-mental-training-in-lawn-bowls' | relative_url }}">mental training</a> methods.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

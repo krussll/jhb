@@ -5,7 +5,7 @@ author: reece
 categories: [ help ]
 featured: false
 description: "The foundation of bowls is line and length. If you have control over these two factors then you will be able to play any shot in the book - but just how do you control your line and length? In this guide I'll run through everything you need to know."
-last_modified_at: 2026-10-29 14:45:00 +0000
+last_modified_at: 2026-10-30 10:25:00 +0000
 date: 2023-04-17 13:00:00 -0400
 ---
     
@@ -83,7 +83,7 @@ date: 2023-04-17 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>The keys to <a href="https://www.jackhighbowls.com/help/finding-the-line-in-lawn-bowls/" data-type="post" data-id="573">finding the line in lawn bowls</a> is having a repeatable action, and using an aiming point that works for you.</p>
+<p>The keys to <a href="{{ '/help/finding-the-line-in-lawn-bowls' | relative_url }}" data-type="post" data-id="573">finding the line in lawn bowls</a> is having a repeatable action, and using an aiming point that works for you.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -195,7 +195,7 @@ date: 2023-04-17 13:00:00 -0400
 <!-- /wp:list -->
 
 <!-- wp:paragraph -->
-<p>I go into the pros and cons of these in my <a href="https://www.jackhighbowls.com/guide/using-aiming-points-in-lawn-bowls/" data-type="post" data-id="316">guide to aiming points</a>, but needless to say you will find a preference for your style of play.</p>
+<p>I go into the pros and cons of these in my <a href="{{ '/guide/using-aiming-points-in-lawn-bowls' | relative_url }}" data-type="post" data-id="316">guide to aiming points</a>, but needless to say you will find a preference for your style of play.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -209,7 +209,7 @@ date: 2023-04-17 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Once you have your line control down, then you can move onto "<a href="https://www.jackhighbowls.com/help/ultimate-guide-to-weight-control/" data-type="post" data-id="370">weight control</a>".</p>
+<p>Once you have your line control down, then you can move onto "<a href="{{ '/help/ultimate-guide-to-weight-control' | relative_url }}" data-type="post" data-id="370">weight control</a>".</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -267,7 +267,7 @@ date: 2023-04-17 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>I go through this in more detail in my <a href="https://www.jackhighbowls.com/help/ultimate-guide-to-weight-control/" data-type="post" data-id="370">guide to weight control</a>, so please check that out if you need more information on controlling your weight.</p>
+<p>I go through this in more detail in my <a href="{{ '/help/ultimate-guide-to-weight-control' | relative_url }}" data-type="post" data-id="370">guide to weight control</a>, so please check that out if you need more information on controlling your weight.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->

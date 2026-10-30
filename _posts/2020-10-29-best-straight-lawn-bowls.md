@@ -6,6 +6,7 @@ categories: [ guide ]
 featured: false
 description: ""
 date: 2020-10-29 13:00:00 -0400
+last_modified_at: 2026-10-30 10:25:00 +0000
 ---
     
 
@@ -86,7 +87,7 @@ date: 2020-10-29 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>There is a debate amongst the <a href="https://www.jackhighbowls.com/help/how-to-cheat-at-lawn-bowls-6-ways-to-cheat-at-bowls/">bowls community about whether or not straight lawn</a> bowls are “fair” - or if they should be even legal.</p>
+<p>There is a debate amongst the <a href="{{ '/help/how-to-cheat-at-lawn-bowls-6-ways-to-cheat-at-bowls' | relative_url }}">bowls community about whether or not straight lawn</a> bowls are “fair” - or if they should be even legal.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

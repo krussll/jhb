@@ -5,7 +5,7 @@ author: reece
 categories: [ help ]
 featured: false
 description: ""
-last_modified_at: 2026-10-29 15:45:00 +0000
+last_modified_at: 2026-10-30 10:25:00 +0000
 date: 2022-11-01 13:00:00 -0400
 ---
     
@@ -23,7 +23,7 @@ date: 2022-11-01 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Polishing your bowls can help protect them from scratches and marks, but may not always be necessary, and can sometimes be against the <a href="https://www.jackhighbowls.com/help/lawn-bowls-rules/" data-type="post" data-id="304">rules of lawn bowls</a>. What are the circumstances where polishing is helpful? And when should you avoid it at all costs?</p>
+<p>Polishing your bowls can help protect them from scratches and marks, but may not always be necessary, and can sometimes be against the <a href="{{ '/help/lawn-bowls-rules' | relative_url }}" data-type="post" data-id="304">rules of lawn bowls</a>. What are the circumstances where polishing is helpful? And when should you avoid it at all costs?</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
@@ -39,7 +39,7 @@ date: 2022-11-01 13:00:00 -0400
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>First, in order to polish your bowls you'll need to get a proper set of <a href="https://www.jackhighbowls.com/guide/best-lawn-bowls-grip-enhancers/" data-type="post" data-id="278">lawn bowls polish</a>, such as Grippo or Crack-a-Jack - there's no need for furniture polish here!</p>
+<p>First, in order to polish your bowls you'll need to get a proper set of <a href="{{ '/guide/best-lawn-bowls-grip-enhancers' | relative_url }}" data-type="post" data-id="278">lawn bowls polish</a>, such as Grippo or Crack-a-Jack - there's no need for furniture polish here!</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

@@ -6,6 +6,7 @@ categories: [ help ]
 featured: false
 description: ""
 date: 2019-04-05 13:00:00 -0400
+last_modified_at: 2026-10-30 10:25:00 +0000
 ---
     
 
@@ -196,7 +197,7 @@ date: 2019-04-05 13:00:00 -0400
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>See my Ultimate <a href="https://www.jackhighbowls.com/help/ultimate-guide-to-line-control/" data-type="post" data-id="175">Guide to Line Control</a> for tips on how to improve.</p>
+<p>See my Ultimate <a href="{{ '/help/ultimate-guide-to-line-control' | relative_url }}" data-type="post" data-id="175">Guide to Line Control</a> for tips on how to improve.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":3} -->
