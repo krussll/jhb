@@ -96,12 +96,20 @@ hide_page_hero: true
         </div>
         <div class="gs-step__resources" role="list">
           <article class="gs-resource" role="listitem">
+            <h3><a href="{{ '/guide/best-lawn-bowls-for-beginners' | relative_url }}">Best lawn bowls for beginners</a></h3>
+            <p>Our top-rated forgiving all-round models for newcomers entering club play.</p>
+          </article>
+          <article class="gs-resource" role="listitem">
             <h3><a href="{{ '/guide/how-to-choose-a-set-of-lawn-bowls' | relative_url }}">How to choose a set of lawn bowls</a></h3>
-            <p>Work through bias charts, speeds and budgets before you buy.</p>
+            <p>Work through bias charts, green speeds and budgets before you buy.</p>
           </article>
           <article class="gs-resource" role="listitem">
             <h3><a href="{{ '/help/what-size-lawn-bowl-should-i-use' | relative_url }}">Find your perfect bowl size</a></h3>
             <p>Use proven grip checks to lock in the right size for your hand.</p>
+          </article>
+          <article class="gs-resource" role="listitem">
+            <h3><a href="{{ '/guide/best-rated-bowls-for-leads' | relative_url }}">Best rated bowls for leads</a></h3>
+            <p>Narrow-bias models built for drawing precision in front-end positions.</p>
           </article>
           <article class="gs-resource" role="listitem">
             <h3><a href="{{ '/reviews' | relative_url }}">Compare bowls &amp; equipment reviews</a></h3>

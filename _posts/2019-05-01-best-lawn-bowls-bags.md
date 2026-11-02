@@ -4,9 +4,9 @@ title:  "Best Lawn Bowls Bags"
 author: reece
 categories: [ guide ]
 featured: false
-description: ""
+description: "Find the best lawn bowls bags for your gear. Compare 2-bowl and 4-bowl carry bags, shoulder straps, base compartments, and durable picks from top brands."
 date: 2019-05-01 13:00:00 -0400
-last_modified_at: 2025-02-20T10:52:15+00:00
+last_modified_at: 2026-11-02 17:19:00 +0000
 ---
     
 

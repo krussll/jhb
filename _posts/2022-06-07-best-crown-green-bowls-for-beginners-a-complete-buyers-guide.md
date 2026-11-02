@@ -4,8 +4,8 @@ title:  "Best Crown Green Bowls for Beginners | A Complete Buyers Guide"
 author: reece
 categories: [ crown-green-bowls ]
 featured: false
-description: ""
-last_modified_at: 2026-10-30 09:30:00 +0000
+description: "The best crown green bowls for beginners: complete buyer guide covering standard 2-full bias, high density vs low density, sizing charts, and top starter brands."
+last_modified_at: 2026-11-02 17:19:00 +0000
 date: 2022-06-07 13:00:00 -0400
 ---
     

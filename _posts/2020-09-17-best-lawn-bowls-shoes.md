@@ -4,9 +4,10 @@ title:  "Best Lawn Bowls Shoes"
 author: reece
 categories: [ guide ]
 featured: false
-description: ""
+description: "The best lawn bowls shoes for men and women. We review regulation flat-sole footwear from Aero, Henselite, Taylor, and Drakes Pride for grip, comfort, and durability."
 date: 2020-09-17 13:00:00 -0400
----
+
+last_modified_at: 2026-11-02 17:19:00 +0000---
     
 
 <!-- wp:paragraph -->

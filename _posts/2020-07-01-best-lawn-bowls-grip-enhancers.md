@@ -4,8 +4,8 @@ title:  "Best Lawn Bowls Grip Enhancers"
 author: reece
 categories: [ guide ]
 featured: false
-description: ""
-last_modified_at: 2026-10-30 10:25:00 +0000
+description: "Compare the best lawn bowls grip enhancers, waxes, and polishes. Expert review of Grippo, Crack-a-Jack, Bulldog, and sprays for wet and humid bowling conditions."
+last_modified_at: 2026-11-02 17:19:00 +0000
 date: 2020-07-01 13:00:00 -0400
 ---
     

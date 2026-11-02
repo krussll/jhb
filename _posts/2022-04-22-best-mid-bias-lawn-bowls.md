@@ -4,8 +4,8 @@ title:  "Best Mid Bias Lawn Bowls | A Complete Buyers Guide"
 author: reece
 categories: [ guide ]
 featured: false
-description: ""
-last_modified_at: 2026-10-29 15:45:00 +0000
+description: "The best mid-bias lawn bowls reviewed. Discover versatile all-rounder models like the Taylor Ace, Drakes Pride Professional, and Henselite Tiger II for all surfaces."
+last_modified_at: 2026-11-02 17:19:00 +0000
 date: 2022-04-22 13:00:00 -0400
 ---
     

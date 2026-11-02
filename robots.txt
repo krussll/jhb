@@ -20,4 +20,4 @@ Allow: /
 User-agent: Bingbot
 Allow: /
 
-Sitemap: https://krussll.github.io/jhb/sitemap.xml
+Sitemap: https://jackhighbowls.com/sitemap.xml

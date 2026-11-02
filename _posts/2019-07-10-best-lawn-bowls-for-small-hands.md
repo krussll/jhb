@@ -4,9 +4,9 @@ title:  "Best Lawn Bowls For Small Hands"
 author: reece
 categories: [ guide ]
 featured: false
-description: ""
+description: "Looking for bowls that fit smaller hands? We compare slimline profiles, deep embedded grips (Z-Scoop & Progrip), and size 00-1 models for comfortable delivery."
 date: 2019-07-10 13:00:00 -0400
-last_modified_at: 2026-10-30 10:25:00 +0000
+last_modified_at: 2026-11-02 17:19:00 +0000
 ---
     
 

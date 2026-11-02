@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Best Make Of Crown Green Bowls | Best Brand 2023"
+title:  "Best Make Of Crown Green Bowls: Top Brands & Buyer's Guide"
 author: reece
 categories: [ crown-green-bowls ]
 featured: false
-description: ""
-last_modified_at: 2026-10-29 15:45:00 +0000
+description: "Compare the best crown green bowls manufacturers including Drakes Pride, Thomas Taylor, and Henselite. Learn about bias 2-full, density, and choosing the right weight."
+last_modified_at: 2026-11-02 17:19:00 +0000
 date: 2022-05-16 13:00:00 -0400
 ---
     

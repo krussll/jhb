@@ -4,9 +4,9 @@ title:  "7 Best Straight Lawn Bowls | A Helpful Guide"
 author: reece
 categories: [ guide ]
 featured: false
-description: ""
+description: "Looking for narrow, straight-drawing lawn bowls? We compare the 7 best straight models from Taylor, Aero, and Henselite for fast greens, indoor carpets, and leads."
 date: 2020-10-29 13:00:00 -0400
-last_modified_at: 2026-10-30 10:25:00 +0000
+last_modified_at: 2026-11-02 17:19:00 +0000
 ---
     
 

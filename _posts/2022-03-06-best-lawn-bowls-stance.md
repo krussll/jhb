@@ -4,8 +4,8 @@ title:  "Best Lawn Bowls Stance | A Complete Guide"
 author: reece
 categories: [ help ]
 featured: false
-description: ""
-last_modified_at: 2026-10-30 10:25:00 +0000
+description: "Master the best lawn bowls stance and delivery setup. Step-by-step coaching guide on foot positioning, balance, line alignment, and smooth follow-through."
+last_modified_at: 2026-11-02 17:19:00 +0000
 date: 2022-03-06 13:00:00 -0400
 ---
     

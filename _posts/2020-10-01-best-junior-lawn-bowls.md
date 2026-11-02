@@ -4,8 +4,8 @@ title:  "Best Junior Lawn Bowls"
 author: reece
 categories: [ guide ]
 featured: false
-description: ""
-last_modified_at: 2026-10-30 09:30:00 +0000
+description: "Discover the best junior lawn bowls for young players. Compare lightweight composite sets, small grip sizes (0000 to 00), and durable club starter woods."
+last_modified_at: 2026-11-02 17:19:00 +0000
 date: 2020-10-01 13:00:00 -0400
 ---
     

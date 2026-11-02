@@ -4,8 +4,8 @@ title:  "The Best Cheap Lawn Bowls | A Complete Buyers Guide"
 author: reece
 categories: [ guide ]
 featured: false
-description: ""
-last_modified_at: 2026-10-30 10:25:00 +0000
+description: "How to find the best cheap lawn bowls on a budget. Practical buyer guide to second-hand models, pre-loved bargains, and affordable new starter sets under £150."
+last_modified_at: 2026-11-02 17:19:00 +0000
 date: 2022-04-18 13:00:00 -0400
 ---
     
