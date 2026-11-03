@@ -28,10 +28,10 @@ review:
 
 <div class="alert alert-success border-success my-4 p-3 rounded">
   <h3 class="h5 font-weight-bold text-success mb-2"><i class="fas fa-check-circle mr-1"></i> Quick Verdict: Aero Quantum Lawn Bowls</h3>
-  <p class="mb-2"><strong>The Aero Quantum is Aero's widest bias model, engineered specifically for heavy, slow outdoor grass greens.</strong> When early-season grass greens run under 12 seconds, the Quantum swings cleanly around short bowls without getting pulled straight.</p>
+  <p class="mb-2"><strong>The Aero Quantum is Aero's narrowest bias model, engineered specifically for heavy, slow outdoor grass greens.</strong> When early-season grass greens run under 12 seconds, the Quantum swings cleanly around short bowls without getting pulled straight.</p>
   <ul class="mb-0 pl-3">
     <li><strong>Best For:</strong> Outdoor club bowlers on slow grass greens, and Skips needing wide drawing lines.</li>
-    <li><strong>Bias Profile:</strong> Wide Bias with a pronounced, dependable swing.</li>
+    <li><strong>Bias Profile:</strong> Narrow Bias with a pronounced, dependable swing.</li>
     <li><strong>Surface Suitability:</strong> Slow to medium outdoor grass greens (10–13 seconds).</li>
     <li><strong>Overall Score:</strong> 9.0 / 10 &mdash; Best for Heavy Grass</li>
   </ul>
@@ -41,9 +41,9 @@ review:
 
 | Feature | Specification |
 | :--- | :--- |
-| **Bias Profile** | Wide Bias (Widest model in Aero range) |
-| **Running Surface** | Slow outdoor grass (10–13 seconds) |
-| **Ideal Positions** | Third, Skip, Singles Players on Slow Greens |
+| **Bias Profile** | Narrow Bias (Narrowest model in Aero range) |
+| **Running Surface** | Fast-medium outdoor grass (12-16 seconds) |
+| **Ideal Positions** | Lead, Second, Singles Players |
 | **Available Sizes** | 00 to 5 |
 | **Available Weights** | Medium, Heavy |
 | **Grip Options** | Z-Scoop, Denticulated |
