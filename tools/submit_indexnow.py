@@ -13,7 +13,7 @@ import xml.etree.ElementTree as ET
 
 INDEXNOW_KEY = "35a0d3118063498b9485b529131cacd8"
 HOST = "jackhighbowls.com"
-KEY_LOCATION = f"https://{HOST}/{INDEXNOW_KEY}.txt"
+KEY_LOCATION = "https://{HOST}/{INDEXNOW_KEY}.txt"
 API_ENDPOINT = "https://api.indexnow.org/indexnow"
 
 def get_sitemap_urls(sitemap_path):
