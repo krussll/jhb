@@ -2,7 +2,7 @@
 layout: page
 title: Lawn Bowls Guides, Technique & Tactics
 description: Step-by-step lawn bowls guides covering delivery mechanics, line and length control, match rules, singles tactics, and green speed adjustments.
-permalink: /guides
+permalink: /guides/
 ---
 
 <p class="lead mb-4">

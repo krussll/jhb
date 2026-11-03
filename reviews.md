@@ -2,7 +2,7 @@
 layout: page
 title: Lawn Bowls Reviews & Equipment Comparisons
 description: Independent, hands-on lawn bowls reviews and head-to-head comparisons to help you choose the right set for your game, surface, and position.
-permalink: /reviews
+permalink: /reviews/
 ---
 
 <p class="lead mb-4">

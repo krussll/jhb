@@ -2,7 +2,7 @@
 layout: page
 title: Lawn Bowls Help & Support Hub
 description: "Answers to common bowls questions, delivery fault fixes, rules and scoring explanations, equipment sizing advice, and direct coaching support."
-permalink: /help-and-support
+permalink: /help-and-support/
 ---
 
 <div class="help-hub-intro mb-5">

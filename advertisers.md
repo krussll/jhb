@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Advertisers
+permalink: /advertisers/
 ---
 
 ## Advertising online works

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: All Posts
+permalink: /all-posts/
 ---
 
 

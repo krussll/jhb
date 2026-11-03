@@ -2,7 +2,7 @@
 layout: default
 title: Getting Started
 description: Follow this roadmap to learn the rules, choose your first bowls and practise with confidence.
-permalink: /getting-started
+permalink: /getting-started/
 hide_page_hero: true
 ---
 
