@@ -4,7 +4,7 @@ description:        Bringing you the best online bowls reviews and guides for pl
 author:             Reece Williams 
 baseurl:            ""
 url:                "https://jackhighbowls.com"
-permalink:          /:categories/:title
+permalink:          /:categories/:title/
 
 # Marketing
 newsletter_form_action:
