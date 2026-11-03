@@ -2,7 +2,7 @@
 layout: post
 title:  "Aero Quantum Lawn Bowls Review"
 author: reece
-categories: [ bowls, review ]
+categories: [ review, bowls ]
 featured: false
 description: "Aero Quantum lawn bowls review: wide bias profile for slow grass greens, heavy surface performance, and buyers guide."
 last_modified_at: 2026-10-30 10:25:00 +0000
