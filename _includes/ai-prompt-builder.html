@@ -1,0 +1,139 @@
+<section class="ai-prompt-builder my-4" data-ai-prompt-builder data-baseurl="{{ site.baseurl }}" aria-labelledby="ai-builder-heading">
+  <div class="ai-prompt-builder__card">
+    <div class="ai-prompt-builder__header">
+      <div class="d-flex align-items-center justify-content-between flex-wrap mb-2">
+        <span class="ai-prompt-builder__badge">Interactive Coaching Tool</span>
+        <span class="ai-prompt-builder__hint"><i class="fas fa-bolt mr-1" aria-hidden="true"></i> Works with ChatGPT, Claude &amp; Gemini</span>
+      </div>
+      <h2 id="ai-builder-heading" class="ai-prompt-builder__title">Custom Lawn Bowls AI Prompt Builder</h2>
+      <p class="ai-prompt-builder__subtitle mb-0">
+        Select your coaching goal, playing position, green speed, and current focus below to generate a tailored coaching prompt you can copy or launch directly in ChatGPT.
+      </p>
+    </div>
+
+    <form class="ai-prompt-builder__form" action="#" method="GET" data-ai-form novalidate>
+      <fieldset class="ai-prompt-builder__fieldset mb-4">
+        <legend class="ai-prompt-builder__legend">1. Choose Your Coaching Mode</legend>
+        <div class="ai-prompt-builder__modes">
+          <div class="ai-prompt-builder__mode-option">
+            <input type="radio" id="ai-mode-rollup" name="ai_mode" value="rollup" class="ai-prompt-builder__radio-input" checked>
+            <label for="ai-mode-rollup" class="ai-prompt-builder__mode-label">
+              <i class="fas fa-clipboard-list mr-2" aria-hidden="true"></i>Solo Roll-Up Planner
+            </label>
+          </div>
+          <div class="ai-prompt-builder__mode-option">
+            <input type="radio" id="ai-mode-tactics" name="ai_mode" value="tactics" class="ai-prompt-builder__radio-input">
+            <label for="ai-mode-tactics" class="ai-prompt-builder__mode-label">
+              <i class="fas fa-chess-knight mr-2" aria-hidden="true"></i>Match Tactics Simulator
+            </label>
+          </div>
+          <div class="ai-prompt-builder__mode-option">
+            <input type="radio" id="ai-mode-fault" name="ai_mode" value="fault" class="ai-prompt-builder__radio-input">
+            <label for="ai-mode-fault" class="ai-prompt-builder__mode-label">
+              <i class="fas fa-stethoscope mr-2" aria-hidden="true"></i>Delivery Fault Fixer
+            </label>
+          </div>
+        </div>
+      </fieldset>
+
+      <fieldset class="ai-prompt-builder__fieldset mb-4">
+        <legend class="ai-prompt-builder__legend">2. Customise Your Player Profile &amp; Green Conditions</legend>
+        <div class="row">
+          <div class="col-md-6 mb-3">
+            <label for="ai-position" class="ai-prompt-builder__label">Rink Position / Format</label>
+            <select id="ai-position" name="ai_position" class="form-control ai-prompt-builder__select" data-ai-position>
+              <option value="Lead">Lead (Setting the head &amp; drawing to the jack)</option>
+              <option value="Second">Second (Building the head &amp; positional cover)</option>
+              <option value="Third">Third / Vice-Skip (Measuring, calling &amp; conversion shots)</option>
+              <option value="Skip">Skip (Directing the head &amp; pressure last-bowl shots)</option>
+              <option value="Singles Player">Singles Player (All-round draw, weight &amp; mat control)</option>
+            </select>
+          </div>
+
+          <div class="col-md-6 mb-3">
+            <label for="ai-surface" class="ai-prompt-builder__label">Surface &amp; Green Speed</label>
+            <select id="ai-surface" name="ai_surface" class="form-control ai-prompt-builder__select" data-ai-surface>
+              <option value="medium outdoor grass green (13–15 seconds)">Medium Outdoor Grass (13–15 seconds)</option>
+              <option value="slow or heavy outdoor grass green (10–12 seconds)">Slow / Heavy Outdoor Grass (10–12 seconds)</option>
+              <option value="fast outdoor grass or synthetic green (16–18 seconds)">Fast Outdoor / Synthetic (16–18 seconds)</option>
+              <option value="fast indoor carpet rink (16–19 seconds)">Indoor Carpet Rink (16–19 seconds)</option>
+              <option value="short mat bowls rink with centre block">Short Mat Bowls Rink</option>
+            </select>
+          </div>
+
+          <div class="col-md-8 mb-3">
+            <label for="ai-struggle" class="ai-prompt-builder__label">Primary Skill Focus or Current Struggle</label>
+            <select id="ai-struggle" name="ai_struggle" class="form-control ai-prompt-builder__select" data-ai-struggle>
+              <option value="weight">Dropping short or heavy on draw shots (Weight Control)</option>
+              <option value="line">Missing narrow or wide of the aiming point (Line Control)</option>
+              <option value="dumping">Bowl bouncing / dumping loudly on release</option>
+              <option value="hands">Inconsistency between forehand and backhand draws</option>
+              <option value="weighted">Playing controlled weight,rests, and trail shots</option>
+              <option value="tactics">Reading the head and calling percentage match shots</option>
+            </select>
+          </div>
+
+          <div class="col-md-4 mb-3">
+            <label for="ai-duration" class="ai-prompt-builder__label">Session Time Available</label>
+            <select id="ai-duration" name="ai_duration" class="form-control ai-prompt-builder__select" data-ai-duration>
+              <option value="30-minute">30 minutes (Quick roll-up)</option>
+              <option value="45-minute" selected>45 minutes (Standard solo session)</option>
+              <option value="60-minute">60 minutes (Full training session)</option>
+            </select>
+          </div>
+        </div>
+      </fieldset>
+
+      <div class="ai-prompt-builder__output-group">
+        <div class="d-flex align-items-center justify-content-between flex-wrap mb-2">
+          <label for="ai-prompt-output" class="ai-prompt-builder__label mb-0">3. Your Custom Coaching Prompt (Editable)</label>
+          <span class="ai-prompt-builder__status" data-ai-copy-status aria-live="polite"></span>
+        </div>
+        <textarea
+          id="ai-prompt-output"
+          name="ai_prompt_output"
+          class="form-control ai-prompt-builder__textarea mb-3"
+          rows="6"
+          data-ai-output
+          aria-describedby="ai-output-help"
+        >Act as a qualified lawn bowls coach. I play Lead on a medium outdoor grass green (13–15 seconds). Right now, my biggest focus is fixing dropping short or heavy on draw shots (weight control), especially when jack lengths change between ends. Design a structured 45-minute solo roll-up session split into 3 scored drills using 4 bowls, 1 jack, and 2 markers. Include setup instructions, a clear target score out of 20 for each drill, and 2 physical feel cues for smooth weight control.</textarea>
+        <p id="ai-output-help" class="small text-muted mb-3">
+          Tip: You can edit any detail in the box above before copying or opening in ChatGPT.
+        </p>
+
+        <div class="ai-prompt-builder__actions">
+          <button type="submit" class="btn ai-prompt-builder__btn-primary" data-ai-copy-btn>
+            <i class="fas fa-copy mr-2" aria-hidden="true"></i><span data-ai-copy-label>Copy Prompt to Clipboard</span>
+          </button>
+          <a
+            href="https://chatgpt.com/?q=Act%20as%20a%20qualified%20lawn%20bowls%20coach."
+            target="_blank"
+            rel="noopener noreferrer"
+            class="btn ai-prompt-builder__btn-secondary"
+            data-ai-chatgpt-link
+          >
+            <i class="fas fa-external-link-alt mr-2" aria-hidden="true"></i>Open in ChatGPT
+          </a>
+        </div>
+      </div>
+    </form>
+
+    <div class="ai-prompt-builder__recommendation mt-4 pt-3 border-top" data-ai-recommendation>
+      <div class="row align-items-center">
+        <div class="col-lg-8 mb-2 mb-lg-0">
+          <span class="ai-prompt-builder__rec-eyebrow">Recommended Jack High Bowls Resource</span>
+          <p class="mb-0 small text-dark">
+            <strong data-ai-rec-title>Ultimate Guide to Weight Control in Lawn Bowls:</strong>
+            <span data-ai-rec-desc>Learn the pendulum swing and stance adjustments to stop dropping short on changing green speeds.</span>
+            <a href="{{ '/help/ultimate-guide-to-weight-control' | relative_url }}" class="font-weight-bold ml-1" style="color: #0F3D1F;" data-ai-rec-link>Read the guide &rarr;</a>
+          </p>
+        </div>
+        <div class="col-lg-4 text-lg-right">
+          <a href="{{ '/lawn-bowls-downloadable-drill-pack' | relative_url }}" class="btn btn-sm ai-prompt-builder__btn-drill">
+            <i class="fas fa-file-pdf mr-1" aria-hidden="true"></i>Get the 20-Drill Pack (£2.99)
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>

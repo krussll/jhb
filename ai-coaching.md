@@ -29,9 +29,19 @@ last_modified_at: 2026-11-03 14:05:00 +0000
     <div class="p-3 rounded bg-white border mb-3" style="font-family: monospace; font-size: 0.9rem; color: #222222; line-height: 1.6;">
       "Act as an experienced lawn bowls coach. I play <strong>[Lead / Second / Third / Skip]</strong> on an outdoor grass green running at around <strong>[13 seconds]</strong>. Right now, my biggest struggle is <strong>[dropping 2 feet short on forehand draws / losing my line on long jacks]</strong>. Design a 45-minute solo roll-up session using 4 bowls, a jack, and 2 markers, with a clear scoring target out of 20 so I can track my progress."
     </div>
-    <p class="small mb-0 text-dark">
-      <strong>Want 20 print-ready drills to pair with AI tracking?</strong> Explore our <a href="{{ '/lawn-bowls-downloadable-drill-pack' | relative_url }}" class="font-weight-bold" style="color: #0F3D1F;">Downloadable Lawn Bowls Drill Pack</a> or read our <a href="{{ '/ai/how-to-use-ai-and-chatgpt-for-lawn-bowls' | relative_url }}" class="font-weight-bold" style="color: #0F3D1F;">Complete Guide to AI for Lawn Bowlers</a>.
-    </p>
+    <div class="d-flex align-items-center justify-content-between flex-wrap">
+      <p class="small mb-2 mb-md-0 text-dark">
+        <strong>Want a prompt built automatically for your position &amp; green speed?</strong>
+      </p>
+      <div>
+        <a href="{{ '/ai-coaching/prompt-builder' | relative_url }}" class="btn btn-sm font-weight-bold mr-2" style="background-color: #0F3D1F; color: #F5F2EB; border-radius: 999px; padding: 0.45rem 1rem;">
+          <i class="fas fa-sliders-h mr-1" aria-hidden="true"></i>Launch Interactive Prompt Builder
+        </a>
+        <a href="{{ '/lawn-bowls-downloadable-drill-pack' | relative_url }}" class="btn btn-sm font-weight-bold" style="background-color: #C89B3C; color: #222222; border-radius: 999px; padding: 0.45rem 1rem;">
+          View 20-Drill Pack (£2.99)
+        </a>
+      </div>
+    </div>
   </div>
 </div>
 
@@ -52,6 +62,7 @@ last_modified_at: 2026-11-03 14:05:00 +0000
           </div>
           <p class="small text-muted mb-3">Replace aimless rolling with structured weekly routines tailored to your rink position, green speed, and weak hand.</p>
           <ul class="list-unstyled mb-0" style="font-size: 0.95rem; line-height: 1.8;">
+            <li><i class="fas fa-angle-right text-success mr-2" aria-hidden="true"></i><a href="{{ '/ai-coaching/prompt-builder' | relative_url }}" class="font-weight-bold text-dark">Interactive AI Coaching Prompt Builder</a></li>
             <li><i class="fas fa-angle-right text-success mr-2" aria-hidden="true"></i><a href="{{ '/ai/how-to-use-ai-and-chatgpt-for-lawn-bowls' | relative_url }}" class="font-weight-bold text-dark">How to Use AI &amp; ChatGPT for Lawn Bowls</a></li>
             <li><i class="fas fa-angle-right text-success mr-2" aria-hidden="true"></i><a href="{{ '/lawn-bowls-downloadable-drill-pack' | relative_url }}" class="text-dark">20 Structured Drills (Downloadable Pack)</a></li>
             <li><i class="fas fa-angle-right text-success mr-2" aria-hidden="true"></i><a href="{{ '/help/how-to-get-better-at-lawn-bowls' | relative_url }}" class="text-dark">Core Lawn Bowls Improvement Blueprint</a></li>

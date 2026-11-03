@@ -16,6 +16,19 @@ last_modified_at: 2026-11-03 14:05:00 +0000
 
 <p>Used properly, free AI tools like ChatGPT, Claude, or Google Gemini act like an on-demand coaching notebook. In this guide, I will show you five practical, zero-jargon ways to use AI to structure your roll-ups, test your tactical calls, and diagnose delivery faults—plus where AI falls short so you never get steered wrong.</p>
 
+<div class="card my-4 p-4 border-0 shadow-sm" style="background-color: #F5F2EB; border-left: 4px solid #0F3D1F !important; border-radius: 12px;">
+  <div class="d-flex align-items-center justify-content-between flex-wrap">
+    <div class="mb-2 mb-md-0">
+      <span class="badge badge-success px-2 py-1 mb-1" style="background-color: #0F3D1F; color: #F5F2EB;">Interactive Tool</span>
+      <h3 class="h6 font-weight-bold text-dark mb-1">Want a custom coaching prompt built for you in 10 seconds?</h3>
+      <p class="small text-muted mb-0">Select your rink position, green speed, and skill struggle in our interactive builder and launch straight into ChatGPT.</p>
+    </div>
+    <a href="{{ '/ai-coaching/prompt-builder' | relative_url }}" class="btn btn-sm font-weight-bold" style="background-color: #0F3D1F; color: #F5F2EB; border-radius: 999px; padding: 0.5rem 1.1rem;">
+      Open Prompt Builder &rarr;
+    </a>
+  </div>
+</div>
+
 <h2>1. Building Structured Solo Roll-Up Plans in 30 Seconds</h2>
 
 <p>When you practise alone or with a clubmate, having a scored routine keeps your mind engaged on every wood. Instead of guessing what to work on, you can tell an AI tool your exact playing position, your typical green speed, and the shot that let you down in your last league match.</p>

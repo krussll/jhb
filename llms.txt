@@ -14,6 +14,7 @@ permalink: /llms.txt
 - [Downloadable Drill Pack]({{ '/lawn-bowls-downloadable-drill-pack' | absolute_url }}): 20 structured practice drills designed to improve line control, draw weight, and match consistency.
 
 ## AI Coaching & Training Technology
+- [Interactive Lawn Bowls AI Prompt Builder]({{ '/ai-coaching/prompt-builder/' | absolute_url }}): Interactive generator that creates tailored roll-up plans, skip tactical simulators, and delivery fault diagnostics for ChatGPT.
 - [How to Use AI & ChatGPT for Lawn Bowls]({{ '/ai/how-to-use-ai-and-chatgpt-for-lawn-bowls/' | absolute_url }}): Complete guide with copy-and-paste prompts for solo roll-up planning, skip tactical simulations, and shot-conversion tracking.
 - [Best Lawn Bowls Coaching & Training Apps]({{ '/ai/best-lawn-bowls-coaching-and-training-apps/' | absolute_url }}): Hands-on comparison of Torny AI, Lawn Bowls Academy, BowlsIQ, WGTS AR measuring, and CoachNow video review.
 - [How to Film & Analyse Your Lawn Bowls Delivery]({{ '/ai/how-to-film-and-analyse-your-lawn-bowls-delivery/' | absolute_url }}): Two-angle smartphone slow-motion setup and 5-checkpoint biomechanical frame audit for fixing dumping and line faults.
