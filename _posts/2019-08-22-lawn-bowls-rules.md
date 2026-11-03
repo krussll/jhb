@@ -1,13 +1,14 @@
 ---
 layout: post
 title:  "Lawn Bowls Rules For Beginners - How To Play Bowls | A Helpful Illustrated Guide"
+subtitle: "A straightforward illustrated guide to the basic rules of lawn bowls so you can step onto the green and start playing."
 author: reece
 categories: [ help ]
 featured: false
 background: '/img/posts/learn-rules-of-lawn-bowls.png'
-description: ""
+description: "Learn the basic rules of lawn bowls for beginners in this illustrated guide covering equipment, mat placement, scoring, formats, and green dimensions."
 date: 2019-08-22 13:00:00 -0400
-last_modified_at: 2026-10-30 10:25:00 +0000
+last_modified_at: 2026-11-03 16:26:00 +0000
 ---
     
 
@@ -32,7 +33,7 @@ last_modified_at: 2026-10-30 10:25:00 +0000
 <!-- /wp:image -->
 
 <!-- wp:heading -->
-<h2><a href="#the-object"></a>The Object</h2>
+<h2 id="the-object">The Object</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -44,7 +45,7 @@ last_modified_at: 2026-10-30 10:25:00 +0000
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
-<h2><a href="#the-equipment"></a>The Equipment</h2>
+<h2 id="the-equipment">The Equipment</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -52,7 +53,7 @@ last_modified_at: 2026-10-30 10:25:00 +0000
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":3} -->
-<h3><a href="#the-jack"></a>The Jack</h3>
+<h3 id="the-jack">The Jack</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -60,7 +61,7 @@ last_modified_at: 2026-10-30 10:25:00 +0000
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":3} -->
-<h3><a href="#bowls"></a>Bowls</h3>
+<h3 id="bowls">Bowls</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -76,7 +77,7 @@ last_modified_at: 2026-10-30 10:25:00 +0000
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":3} -->
-<h3><a href="#mats"></a>Mats</h3>
+<h3 id="mats">Mats</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -84,7 +85,7 @@ last_modified_at: 2026-10-30 10:25:00 +0000
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
-<h2><a href="#playing-the-game"></a>Playing the Game</h2>
+<h2 id="playing-the-game">Playing the Game</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -96,7 +97,7 @@ last_modified_at: 2026-10-30 10:25:00 +0000
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>The only restrictions are that it must come to rest at least 23 metres from the mat line and stay within the rink rather than the ditch. There is usually a marker on the rink to show where the minimum distance is. (<a href="http://www.worldbowls.com/wp-content/uploads/2020/06/Laws_of_the_sport_v3.2.pdf#page=39">Law 19.1.1</a>)</p>
+<p>The only restrictions are that it must come to rest at least 23 metres from the mat line and stay within the rink rather than the ditch. There is usually a marker on the rink to show where the minimum distance is. (<a href="https://www.worldbowls.com/wp-content/uploads/2020/06/Laws_of_the_sport_v3.2.pdf#page=39">Law 19.1.1</a>)</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -104,11 +105,11 @@ last_modified_at: 2026-10-30 10:25:00 +0000
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Teams alternate taking shots. Each member of the team will take all of their shots before the next one takes over. When playing any shot the player bowling must always have one foot on or above the mat at the moment of delivery. (<a href="http://www.worldbowls.com/wp-content/uploads/2020/06/Laws_of_the_sport_v3.2.pdf#page=20">Law 7.1</a>)</p>
+<p>Teams alternate taking shots. Each member of the team will take all of their shots before the next one takes over. When playing any shot the player bowling must always have one foot on or above the mat at the moment of delivery. (<a href="https://www.worldbowls.com/wp-content/uploads/2020/06/Laws_of_the_sport_v3.2.pdf#page=20">Law 7.1</a>)</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Any bowls that are in play can be moved by another shot, and they stay active to where they finish. <a href="{{ '/help/can-you-hit-the-jack-in-lawn-bowls' | relative_url }}" data-type="post" data-id="1150">This includes the jack.</a> Any <a href="{{ '/help/lawn-bowls-rules-when-the-jack-is-in-the-ditch' | relative_url }}" data-type="post" data-id="499">bowl that finishes in the ditch</a> without having been marked as a toucher is considered out of play. (<a href="http://www.worldbowls.com/wp-content/uploads/2020/06/Laws_of_the_sport_v3.2.pdf#page=36">Law 17.1.1</a>)</p>
+<p>Any bowls that are in play can be moved by another shot, and they stay active to where they finish. <a href="{{ '/help/can-you-hit-the-jack-in-lawn-bowls' | relative_url }}" data-type="post" data-id="1150">This includes the jack.</a> Any <a href="{{ '/help/lawn-bowls-rules-when-the-jack-is-in-the-ditch' | relative_url }}" data-type="post" data-id="499">bowl that finishes in the ditch</a> without having been marked as a toucher is considered out of play. (<a href="https://www.worldbowls.com/wp-content/uploads/2020/06/Laws_of_the_sport_v3.2.pdf#page=36">Law 17.1.1</a>)</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -116,11 +117,11 @@ last_modified_at: 2026-10-30 10:25:00 +0000
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>The winning side gets one point for each bowl that is closer to the jack than their opponent's nearest bowl. (<a href="http://www.worldbowls.com/wp-content/uploads/2020/06/Laws_of_the_sport_v3.2.pdf#page=44">Law 23.1</a>)</p>
+<p>The winning side gets one point for each bowl that is closer to the jack than their opponent's nearest bowl. (<a href="https://www.worldbowls.com/wp-content/uploads/2020/06/Laws_of_the_sport_v3.2.pdf#page=44">Law 23.1</a>)</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>The winning team will get to go first on the next "end". (<a href="http://www.worldbowls.com/wp-content/uploads/2020/06/Laws_of_the_sport_v3.2.pdf#page=18">Law 5.3</a>)</p>
+<p>The winning team will get to go first on the next "end". (<a href="https://www.worldbowls.com/wp-content/uploads/2020/06/Laws_of_the_sport_v3.2.pdf#page=18">Law 5.3</a>)</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -128,7 +129,7 @@ last_modified_at: 2026-10-30 10:25:00 +0000
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
-<h2><a href="#placing-the-mat"></a>Placing the mat</h2>
+<h2 id="placing-the-mat">Placing the mat</h2>
 <!-- /wp:heading -->
 
 <!-- wp:image {"linkDestination":"custom"} -->
@@ -136,7 +137,7 @@ last_modified_at: 2026-10-30 10:25:00 +0000
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
-<p>What are the lawn bowls mat placement rules? <strong>The mat must be placed by the bowler about to roll the jack. The mat must be placed centrally and squarely in line with the rink markers, with the front edge of the mat being at least 2 metres (6ft 6in) from the front ditch and the back edge at least 2 metres (6ft 6in) from the rear ditch.</strong> (<a href="http://www.worldbowls.com/wp-content/uploads/2020/06/Laws_of_the_sport_v3.2.pdf#page=19">Law 6.1.1</a>)</p>
+<p>What are the lawn bowls mat placement rules? <strong>The mat must be placed by the bowler about to roll the jack. The mat must be placed centrally and squarely in line with the rink markers, with the front edge of the mat being at least 2 metres (6ft 6in) from the front ditch and the back edge at least 2 metres (6ft 6in) from the rear ditch.</strong> (<a href="https://www.worldbowls.com/wp-content/uploads/2020/06/Laws_of_the_sport_v3.2.pdf#page=19">Law 6.1.1</a>)</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:quote -->
@@ -145,12 +146,12 @@ last_modified_at: 2026-10-30 10:25:00 +0000
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><a href="http://www.worldbowls.com/wp-content/uploads/2020/06/Laws_of_the_sport_v3.2.pdf#page=19">World Bowls Rules – Law 6.1.1</a></p>
+<p><a href="https://www.worldbowls.com/wp-content/uploads/2020/06/Laws_of_the_sport_v3.2.pdf#page=19">World Bowls Rules - Law 6.1.1</a></p>
 <!-- /wp:paragraph --></blockquote>
 <!-- /wp:quote -->
 
 <!-- wp:heading -->
-<h2><a href="#scoring-the-game"></a>Scoring the Game</h2>
+<h2 id="scoring-the-game">Scoring the Game</h2>
 <!-- /wp:heading -->
 
 <!-- wp:image {"linkDestination":"custom"} -->
@@ -159,15 +160,15 @@ last_modified_at: 2026-10-30 10:25:00 +0000
 
 <!-- wp:list -->
 <ul><!-- wp:list-item -->
-<li>The winning person/team is determined by who got a bowl closest to the jack (<a href="http://www.worldbowls.com/wp-content/uploads/2020/06/Laws_of_the_sport_v3.2.pdf#page=44">Law 23.1</a>)</li>
+<li>The winning person/team is determined by who got a bowl closest to the jack (<a href="https://www.worldbowls.com/wp-content/uploads/2020/06/Laws_of_the_sport_v3.2.pdf#page=44">Law 23.1</a>)</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>One point (also known as "shots") is awarded for each bowl that is closer to the jack than the nearest bowl from the losing team (<a href="http://www.worldbowls.com/wp-content/uploads/2020/06/Laws_of_the_sport_v3.2.pdf#page=44">Law 23.1</a>)</li>
+<li>One point (also known as "shots") is awarded for each bowl that is closer to the jack than the nearest bowl from the losing team (<a href="https://www.worldbowls.com/wp-content/uploads/2020/06/Laws_of_the_sport_v3.2.pdf#page=44">Law 23.1</a>)</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>The winning player/team gets to roll the jack for the next end (<a href="http://www.worldbowls.com/wp-content/uploads/2020/06/Laws_of_the_sport_v3.2.pdf#page=18">Law 5.3</a>)</li>
+<li>The winning player/team gets to roll the jack for the next end (<a href="https://www.worldbowls.com/wp-content/uploads/2020/06/Laws_of_the_sport_v3.2.pdf#page=18">Law 5.3</a>)</li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
@@ -177,12 +178,12 @@ last_modified_at: 2026-10-30 10:25:00 +0000
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><a href="http://www.worldbowls.com/wp-content/uploads/2020/06/Laws_of_the_sport_v3.2.pdf#page=44">World Bowls Rules – Law 23.1</a></p>
+<p><a href="https://www.worldbowls.com/wp-content/uploads/2020/06/Laws_of_the_sport_v3.2.pdf#page=44">World Bowls Rules - Law 23.1</a></p>
 <!-- /wp:paragraph --></blockquote>
 <!-- /wp:quote -->
 
 <!-- wp:heading -->
-<h2><a href="#winning-the-game"></a>Winning the game</h2>
+<h2 id="winning-the-game">Winning the game</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -194,7 +195,7 @@ last_modified_at: 2026-10-30 10:25:00 +0000
 <!-- /wp:html -->
 
 <!-- wp:heading -->
-<h2><a href="#number-of-players-bowls-and-ends"></a>Number of players, bowls and ends</h2>
+<h2 id="number-of-players-bowls-and-ends">Number of players, bowls and ends</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -206,17 +207,15 @@ last_modified_at: 2026-10-30 10:25:00 +0000
 <!-- /wp:paragraph -->
 
 <!-- wp:table -->
-<figure class="wp-block-table"><table><tbody><tr><td>Number of players</td><td>Number of bowls (per player)</td><td>Number of ends played</td></tr><tr><td>1 (<a href="{{ '/help/ultimate-guide-to-lawn-bowls-singles-tactics' | relative_url }}" data-type="post" data-id="113">singles</a>)</td><td>4</td><td>21</td></tr><tr><td>2 (<a href="{{ '/help/lawn-bowls-pairs-tactics' | relative_url }}" data-type="post" data-id="19">doubles</a>)</td><td>4</td><td>21</td></tr><tr><td>3 (<a href="{{ '/help/lawn-bowls-triples-tactics' | relative_url }}" data-type="post" data-id="487">triples</a>)</td><td>3</td><td>18</td></tr><tr><td>4 (fours)</td><td>2</td><td>21</td></tr></tbody></table><figcaption class="table-caption">Format guidance drawn from the <a href="http://www.worldbowls.com/wp-content/uploads/2020/06/Laws_of_the_sport_v3.2.pdf">World Bowls Laws of the Sport (Crystal Mark Third Edition)</a>.</figcaption></figure>
+<figure class="wp-block-table"><table><thead><tr><th scope="col">Number of players</th><th scope="col">Number of bowls (per player)</th><th scope="col">Number of ends played</th></tr></thead><tbody><tr><td>1 (<a href="{{ '/help/ultimate-guide-to-lawn-bowls-singles-tactics' | relative_url }}" data-type="post" data-id="113">singles</a>)</td><td>4</td><td>21</td></tr><tr><td>2 (<a href="{{ '/help/lawn-bowls-pairs-tactics' | relative_url }}" data-type="post" data-id="19">doubles</a>)</td><td>4</td><td>21</td></tr><tr><td>3 (<a href="{{ '/help/lawn-bowls-triples-tactics' | relative_url }}" data-type="post" data-id="487">triples</a>)</td><td>3</td><td>18</td></tr><tr><td>4 (fours)</td><td>2</td><td>21</td></tr></tbody></table><figcaption class="table-caption">Format guidance drawn from the <a href="https://www.worldbowls.com/wp-content/uploads/2023/03/Crystal_Mark_Fourth_Edition.pdf">World Bowls Laws of the Sport (Crystal Mark Fourth Edition)</a>.</figcaption></figure>
 <!-- /wp:table -->
 
-<!-- wp:block {"ref":1320} /-->
-
 <!-- wp:heading -->
-<h2>Common variations</h2>
+<h2 id="common-variations">Common variations</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>There are some common variations to the stars game setup described above. We'll go over a few of these now.</p>
+<p>There are some common variations to the standard game setup described above. We'll go over a few of these now.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->
@@ -239,12 +238,12 @@ last_modified_at: 2026-10-30 10:25:00 +0000
 
 <!-- wp:quote -->
 <blockquote class="wp-block-quote"><!-- wp:paragraph -->
-<p><em>References</em> <a href="http://www.worldbowls.com/wp-content/uploads/2020/06/Laws_of_the_sport_v3.2.pdf">World Bowls Rules</a> <a href="https://www.bowlsengland.com/wp-content/uploads/2023/04/Crystal-Mark-Fourth-Edition-Laws-of-the-Sport-of-Bowls-with-Bowls-England-domestic-regulations.pdf">Bowls England Domestic Regulations</a> <a href="https://www.bowls.com.au/wp-content/uploads/2023/04/Laws-of-the-Sport-of-Bowls-Crystal-Mark-Fourth-Edition.pdf">Bowls Australia Laws of the Sport</a></p>
+<p><em>References</em> <a href="https://www.worldbowls.com/wp-content/uploads/2023/03/Crystal_Mark_Fourth_Edition.pdf">World Bowls Rules</a> <a href="https://www.bowlsengland.com/wp-content/uploads/2023/04/Crystal-Mark-Fourth-Edition-Laws-of-the-Sport-of-Bowls-with-Bowls-England-domestic-regulations.pdf">Bowls England Domestic Regulations</a> <a href="https://www.bowls.com.au/wp-content/uploads/2023/04/Laws-of-the-Sport-of-Bowls-Crystal-Mark-Fourth-Edition.pdf">Bowls Australia Laws of the Sport</a></p>
 <!-- /wp:paragraph --></blockquote>
 <!-- /wp:quote -->
 
 <!-- wp:heading -->
-<h2><a href="#how-long-is-a-game-of-lawn-bowls"></a>How long is a game of lawn bowls?</h2>
+<h2 id="how-long-is-a-game-of-lawn-bowls">How long is a game of lawn bowls?</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -252,7 +251,7 @@ last_modified_at: 2026-10-30 10:25:00 +0000
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
-<h2><a href="#how-many-ends-in-lawn-bowls-in-a-game-of-lawn-bowls"></a>How many ends in lawn bowls in a game of lawn bowls</h2>
+<h2 id="how-many-ends-in-a-game-of-lawn-bowls">How many ends in a game of lawn bowls?</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -260,11 +259,11 @@ last_modified_at: 2026-10-30 10:25:00 +0000
 <!-- /wp:paragraph -->
 
 <!-- wp:table -->
-<figure class="wp-block-table"><table><tbody><tr><td>Number of players</td><td>Number of ends played</td></tr><tr><td>1 (<a href="{{ '/help/ultimate-guide-to-lawn-bowls-singles-tactics' | relative_url }}" data-type="post" data-id="113">singles</a>)</td><td>21</td></tr><tr><td>2 (<a href="{{ '/help/lawn-bowls-pairs-tactics' | relative_url }}" data-type="post" data-id="19">doubles</a>)</td><td>21</td></tr><tr><td>3 (<a href="{{ '/help/lawn-bowls-triples-tactics' | relative_url }}" data-type="post" data-id="487">triples</a>)</td><td>18</td></tr><tr><td>4 (fours)</td><td>21</td></tr></tbody></table><figcaption class="table-caption">Typical end counts follow the <a href="https://www.bowlsengland.com/wp-content/uploads/2023/02/Competition-Regulations-2023-v1.0.pdf">Bowls England Domestic Competition Regulations</a>.</figcaption></figure>
+<figure class="wp-block-table"><table><thead><tr><th scope="col">Number of players</th><th scope="col">Number of ends played</th></tr></thead><tbody><tr><td>1 (<a href="{{ '/help/ultimate-guide-to-lawn-bowls-singles-tactics' | relative_url }}" data-type="post" data-id="113">singles</a>)</td><td>21</td></tr><tr><td>2 (<a href="{{ '/help/lawn-bowls-pairs-tactics' | relative_url }}" data-type="post" data-id="19">doubles</a>)</td><td>21</td></tr><tr><td>3 (<a href="{{ '/help/lawn-bowls-triples-tactics' | relative_url }}" data-type="post" data-id="487">triples</a>)</td><td>18</td></tr><tr><td>4 (fours)</td><td>21</td></tr></tbody></table><figcaption class="table-caption">Typical end counts follow the <a href="https://www.bowlsengland.com/wp-content/uploads/2023/02/Competition-Regulations-2023-v1.0.pdf">Bowls England Domestic Competition Regulations</a>.</figcaption></figure>
 <!-- /wp:table -->
 
 <!-- wp:paragraph -->
-<p>These are the common formats and the number of ends can vary depending on the competiton being played - so it's always worth a check! Other variations of the game exist. These include:</p>
+<p>These are the common formats and the number of ends can vary depending on the competition being played - so it's always worth a check! Other variations of the game exist. These include:</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->
@@ -278,7 +277,7 @@ last_modified_at: 2026-10-30 10:25:00 +0000
 <!-- /wp:list -->
 
 <!-- wp:heading -->
-<h2><a href="#lawn-bowls-green-dimensions"></a>Lawn Bowls Green Dimensions</h2>
+<h2 id="lawn-bowls-green-dimensions">Lawn Bowls Green Dimensions</h2>
 <!-- /wp:heading -->
 
 <!-- wp:image {"linkDestination":"custom"} -->
@@ -286,48 +285,88 @@ last_modified_at: 2026-10-30 10:25:00 +0000
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
-<p><strong>A <a href="{{ '/help/a-guide-to-lawn-bowls-green-markings' | relative_url }}" data-type="post" data-id="1354">lawn bowls green</a> must be between 31 meters and 40 meters long. Each rink on the green must be between 4.3 meters and 5.8 meters wide. This makes the average 6 rink bowls green between 25.8 meters and 34.8 meters wide.</strong> (<a href="http://www.worldbowls.com/wp-content/uploads/2020/06/Laws_of_the_sport_v3.2.pdf#page=74">Appendix B.1</a>)</p>
+<p><strong>A <a href="{{ '/help/a-guide-to-lawn-bowls-green-markings' | relative_url }}" data-type="post" data-id="1354">lawn bowls green</a> must be between 31 meters and 40 meters long. Each rink on the green must be between 4.3 meters and 5.8 meters wide. This makes the average 6 rink bowls green between 25.8 meters and 34.8 meters wide.</strong> (<a href="https://www.worldbowls.com/wp-content/uploads/2020/06/Laws_of_the_sport_v3.2.pdf#page=74">Appendix B.1</a>)</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:quote -->
 <blockquote class="wp-block-quote"><!-- wp:paragraph -->
 
-<p><em>References</em> <a href="http://www.worldbowls.com/wp-content/uploads/2020/06/Laws_of_the_sport_v3.2.pdf#page=74">World Bowls Rules – Appendix B.1</a></p>
-<p><a href="http://www.worldbowls.com/wp-content/uploads/2020/06/Laws_of_the_sport_v3.2.pdf">World Bowls Rules</a> <a href="https://www.bowlsengland.com/wp-content/uploads/2023/04/Crystal-Mark-Fourth-Edition-Laws-of-the-Sport-of-Bowls-with-Bowls-England-domestic-regulations.pdf">Bowls England Domestic Regulations</a> <a href="https://www.bowls.com.au/wp-content/uploads/2023/04/Laws-of-the-Sport-of-Bowls-Crystal-Mark-Fourth-Edition.pdf">Bowls Australia Laws of the Sport</a></p>
+<p><em>References</em> <a href="https://www.worldbowls.com/wp-content/uploads/2020/06/Laws_of_the_sport_v3.2.pdf#page=74">World Bowls Rules - Appendix B.1</a></p>
+<p><a href="https://www.worldbowls.com/wp-content/uploads/2023/03/Crystal_Mark_Fourth_Edition.pdf">World Bowls Rules</a> <a href="https://www.bowlsengland.com/wp-content/uploads/2023/04/Crystal-Mark-Fourth-Edition-Laws-of-the-Sport-of-Bowls-with-Bowls-England-domestic-regulations.pdf">Bowls England Domestic Regulations</a> <a href="https://www.bowls.com.au/wp-content/uploads/2023/04/Laws-of-the-Sport-of-Bowls-Crystal-Mark-Fourth-Edition.pdf">Bowls Australia Laws of the Sport</a></p>
 <!-- /wp:paragraph --></blockquote>
 <!-- /wp:quote -->
 
 <!-- wp:heading {"level":3} -->
-<h3><a href="#minimum-jack-length-in-bowls"></a>Minimum jack length in bowls</h3>
+<h3 id="minimum-jack-length-in-bowls">Minimum jack length in bowls</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p><strong>The minimum jack length is 23 meters.</strong> This is measured once the jack has come to rest, and is placed in the centre of the rink. (<a href="http://www.worldbowls.com/wp-content/uploads/2020/06/Laws_of_the_sport_v3.2.pdf#page=39">Law 19.1.1</a>)</p>
+<p><strong>The minimum jack length is 23 meters.</strong> This is measured once the jack has come to rest, and is placed in the centre of the rink. (<a href="https://www.worldbowls.com/wp-content/uploads/2020/06/Laws_of_the_sport_v3.2.pdf#page=39">Law 19.1.1</a>)</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>The measurement is taken in a straight line from the centre of the mat, to the nearest point of the jack. (<a href="http://www.worldbowls.com/wp-content/uploads/2020/06/Laws_of_the_sport_v3.2.pdf#page=39">Law 19.1.1</a>)</p>
+<p>The measurement is taken in a straight line from the centre of the mat, to the nearest point of the jack. (<a href="https://www.worldbowls.com/wp-content/uploads/2020/06/Laws_of_the_sport_v3.2.pdf#page=39">Law 19.1.1</a>)</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>If the jack is under 23 meters from the mat the jack is given to the opposition. They will then have the opportunity to re-place the mat and to deliver the jack. (<a href="http://www.worldbowls.com/wp-content/uploads/2020/06/Laws_of_the_sport_v3.2.pdf#page=39">Law 19.1.3</a>)</p>
+<p>If the jack is under 23 meters from the mat the jack is given to the opposition. They will then have the opportunity to re-place the mat and to deliver the jack. (<a href="https://www.worldbowls.com/wp-content/uploads/2020/06/Laws_of_the_sport_v3.2.pdf#page=39">Law 19.1.3</a>)</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:quote -->
 <blockquote class="wp-block-quote"><!-- wp:paragraph -->
 
-<p><em>References</em> <a href="http://www.worldbowls.com/wp-content/uploads/2020/06/Laws_of_the_sport_v3.2.pdf">World Bowls Rules</a> <a href="https://www.bowlsengland.com/wp-content/uploads/2023/04/Crystal-Mark-Fourth-Edition-Laws-of-the-Sport-of-Bowls-with-Bowls-England-domestic-regulations.pdf">Bowls England Domestic Regulations</a> <a href="https://www.bowls.com.au/wp-content/uploads/2023/04/Laws-of-the-Sport-of-Bowls-Crystal-Mark-Fourth-Edition.pdf">Bowls Australia Laws of the Sport</a></p>
+<p><em>References</em> <a href="https://www.worldbowls.com/wp-content/uploads/2023/03/Crystal_Mark_Fourth_Edition.pdf">World Bowls Rules</a> <a href="https://www.bowlsengland.com/wp-content/uploads/2023/04/Crystal-Mark-Fourth-Edition-Laws-of-the-Sport-of-Bowls-with-Bowls-England-domestic-regulations.pdf">Bowls England Domestic Regulations</a> <a href="https://www.bowls.com.au/wp-content/uploads/2023/04/Laws-of-the-Sport-of-Bowls-Crystal-Mark-Fourth-Edition.pdf">Bowls Australia Laws of the Sport</a></p>
 
 <!-- /wp:paragraph --></blockquote>
 <!-- /wp:quote -->
 
 <!-- wp:heading {"level":3} -->
-<h3><a href="#maximum-jack-length-in-bowls"></a>Maximum jack length in bowls</h3>
+<h3 id="maximum-jack-length-in-bowls">Maximum jack length in bowls</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p><strong>The maximum jack length in bowls is 36 meters.</strong> (<a href="http://www.worldbowls.com/wp-content/uploads/2020/06/Laws_of_the_sport_v3.2.pdf#page=39">Law 19.1.2</a>)</p>
+<p><strong>The maximum jack length in bowls is 36 meters.</strong> (<a href="https://www.worldbowls.com/wp-content/uploads/2020/06/Laws_of_the_sport_v3.2.pdf#page=39">Law 19.1.2</a>)</p>
 <!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 id="rules-for-visiting-the-head">Rules for visiting the head</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>When can you walk up the rink to inspect the bowls around the jack? <strong>The rules for visiting the head depend on the format of the game and which position you play. In general, players at the mat end cannot walk up to visit the head whenever they like, as the rules restrict head visits to prevent slow play.</strong> (<a href="https://www.worldbowls.com/wp-content/uploads/2023/03/Crystal_Mark_Fourth_Edition.pdf">Appendix A.4</a>)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Under the standard <a href="https://www.worldbowls.com/wp-content/uploads/2023/03/Crystal_Mark_Fourth_Edition.pdf">World Bowls Laws of the Sport</a> and <a href="https://www.bowlsengland.com/wp-content/uploads/2023/04/Crystal-Mark-Fourth-Edition-Laws-of-the-Sport-of-Bowls-with-Bowls-England-domestic-regulations.pdf">Bowls England regulations</a>, here is when each player is permitted to visit the head after delivering their bowls:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><!-- wp:list-item -->
+<li><strong>Singles:</strong> After both players have delivered their third bowls (so before delivering their fourth and final bowl). In exceptional circumstances, a player can ask the marker for permission to visit the head earlier.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Pairs (4 bowls per player):</strong> The Leads cannot visit the head until they have delivered all four of their bowls. The Skips can visit the head after delivering their third bowl.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Triples (3 bowls per player):</strong> The Leads and Seconds cannot visit the head until they have delivered all of their bowls. The Skips can visit the head after delivering their second bowl.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Fours (2 bowls per player):</strong> The Leads and Seconds cannot visit the head until they have delivered both of their bowls. The Thirds may be permitted to visit the head after delivering their first bowl, and the Skips can visit the head after delivering their first bowl.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Also remember the rule on tracking your bowl (<a href="https://www.worldbowls.com/wp-content/uploads/2023/03/Crystal_Mark_Fourth_Edition.pdf">Law 12.1</a>): if a player is eligible to go to the head and chooses to follow their bowl down the green after releasing it, they must already be at the head by the time their bowl comes to rest. Otherwise, they must remain behind the mat so possession of the rink can pass smoothly to the next bowler.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><!-- wp:paragraph -->
+<p><em>References</em> <a href="https://www.worldbowls.com/wp-content/uploads/2023/03/Crystal_Mark_Fourth_Edition.pdf">World Bowls Rules (Law 12 &amp; Appendix A.4)</a> <a href="https://www.bowlsengland.com/wp-content/uploads/2023/04/Crystal-Mark-Fourth-Edition-Laws-of-the-Sport-of-Bowls-with-Bowls-England-domestic-regulations.pdf">Bowls England Domestic Regulations</a> <a href="https://www.bowls.com.au/wp-content/uploads/2023/04/Laws-of-the-Sport-of-Bowls-Crystal-Mark-Fourth-Edition.pdf">Bowls Australia Laws of the Sport</a></p>
+<!-- /wp:paragraph --></blockquote>
+<!-- /wp:quote -->
 
 <!-- wp:paragraph -->
 <p>There you have it. All you need to know to get out and start <a href="{{ '/help/9-tips-for-how-to-play-bowls-well' | relative_url }}">playing bowls</a>. </p>
@@ -346,7 +385,7 @@ last_modified_at: 2026-10-30 10:25:00 +0000
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
-<h2><a href="#related-articles"></a>Related Articles</h2>
+<h2 id="related-articles">Related Articles</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -364,14 +403,13 @@ last_modified_at: 2026-10-30 10:25:00 +0000
 <!-- /wp:list -->
 
 <!-- wp:paragraph -->
-<p>All of the information in this guide can be found in the offical <a href="http://www.worldbowls.com/wp-content/uploads/2020/06/Laws_of_the_sport_v3.2.pdf">Laws of the Sport of Bowls</a>. This is the latest version (3.2) released in 2020.</p>
+<p>All of the information in this guide can be found in the official <a href="https://www.worldbowls.com/wp-content/uploads/2023/03/Crystal_Mark_Fourth_Edition.pdf">Laws of the Sport of Bowls (Crystal Mark Fourth Edition)</a>.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><strong>Verification note — 5 May 2024:</strong> Reece rechecked the rule summaries against World Bowls Laws v3.2 and logged the outcome through the site&rsquo;s fact-check plus peer review workflow.</p>
+<p><strong>Verification note - 5 May 2024:</strong> We rechecked the rule summaries against World Bowls Laws and logged the outcome through the site&rsquo;s fact-check plus peer review workflow.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>You can keep track of the latest changes and updates at <a href="http://www.worldbowls.com/laws-umpiring/laws-of-the-sport/">World Bowls "Laws Of The Sport"</a>.</p>
+<p>You can keep track of the latest changes and updates at <a href="https://www.worldbowls.com/laws-umpiring/laws-of-the-sport/">World Bowls "Laws Of The Sport"</a>.</p>
 <!-- /wp:paragraph -->
-    
