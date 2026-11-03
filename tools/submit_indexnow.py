@@ -11,7 +11,7 @@ import urllib.request
 import urllib.error
 import xml.etree.ElementTree as ET
 
-INDEXNOW_KEY = "e3d7a858cb5d4380a133c9475c4eb18c"
+INDEXNOW_KEY = "35a0d3118063498b9485b529131cacd8"
 HOST = "jackhighbowls.com"
 KEY_LOCATION = f"https://{HOST}/{INDEXNOW_KEY}.txt"
 API_ENDPOINT = "https://api.indexnow.org/indexnow"
