@@ -12,8 +12,8 @@ import urllib.error
 import xml.etree.ElementTree as ET
 
 INDEXNOW_KEY = "e3d7a858cb5d4380a133c9475c4eb18c"
-HOST = "krussll.github.io"
-KEY_LOCATION = f"https://{HOST}/jhb/{INDEXNOW_KEY}.txt"
+HOST = "jackhighbowls.com"
+KEY_LOCATION = f"https://{HOST}/{INDEXNOW_KEY}.txt"
 API_ENDPOINT = "https://api.indexnow.org/indexnow"
 
 def get_sitemap_urls(sitemap_path):

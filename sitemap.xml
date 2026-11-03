@@ -20,8 +20,8 @@ layout: null
       <loc>{{ page.url | replace:'index.html','' | absolute_url }}</loc>
       {% assign page_modified = page.last_modified_at | default: page.date | default: site.time %}
       <lastmod>{{ page_modified | date_to_xmlschema }}</lastmod>
-      <changefreq>{% if page.url contains 'guides' or page.url contains 'reviews' or page.url contains 'getting-started' %}weekly{% else %}monthly{% endif %}</changefreq>
-      <priority>{% if page.url contains 'getting-started' or page.url contains 'drill-pack' %}0.9{% else %}0.8{% endif %}</priority>
+      <changefreq>{% if page.url contains 'guides' or page.url contains 'reviews' or page.url contains 'getting-started' or page.url contains 'ai-coaching' %}weekly{% else %}monthly{% endif %}</changefreq>
+      <priority>{% if page.url contains 'getting-started' or page.url contains 'drill-pack' or page.url contains 'ai-coaching' %}0.9{% else %}0.8{% endif %}</priority>
     </url>
   {% endfor %}
   {% for post in site.posts %}

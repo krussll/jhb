@@ -2,13 +2,19 @@
 
   {% assign page_title = page.title | default: site.title %}
   {% assign raw_description = page.description %}
+  {% assign has_explicit_description = true %}
   {% if raw_description == nil or raw_description == "" %}
-  {% assign raw_description = page.excerpt %}
+    {% assign has_explicit_description = false %}
+    {% assign raw_description = page.excerpt %}
   {% endif %}
   {% if raw_description == nil or raw_description == "" %}
-  {% assign raw_description = site.description %}
+    {% assign raw_description = site.description %}
   {% endif %}
-  {% assign page_description = raw_description | strip_html | normalize_whitespace | truncatewords: 25 %}
+  {% if has_explicit_description %}
+    {% assign page_description = raw_description | strip_html | normalize_whitespace %}
+  {% else %}
+    {% assign page_description = raw_description | strip_html | normalize_whitespace | truncate: 160 %}
+  {% endif %}
 
   {% assign canonical_url = page.url | replace:'index.html','' | absolute_url %}
   {% if page.date %}{% assign article_published = page.date | date_to_xmlschema %}{% endif %}
@@ -41,6 +47,23 @@
   {% endif %}
 
   {% assign og_image = page.background | default: page.image | default: page.header_image %}
+  {% if og_image == nil or og_image == "" %}
+    {% if page.content contains '<img ' %}
+      {% assign img_tag_parts = page.content | split: '<img ' %}
+      {% assign first_img_tag = img_tag_parts[1] | split: '>' | first %}
+      {% if first_img_tag contains 'src="' %}
+        {% assign extracted_src = first_img_tag | split: 'src="' | last | split: '"' | first %}
+        {% unless extracted_src contains 'data:' or extracted_src == "" %}
+          {% assign og_image = extracted_src %}
+        {% endunless %}
+      {% elsif first_img_tag contains "src='" %}
+        {% assign extracted_src = first_img_tag | split: "src='" | last | split: "'" | first %}
+        {% unless extracted_src contains 'data:' or extracted_src == "" %}
+          {% assign og_image = extracted_src %}
+        {% endunless %}
+      {% endif %}
+    {% endif %}
+  {% endif %}
   {% if og_image %}
   {% if og_image contains '://' %}
   {% assign og_image_url = og_image %}
@@ -53,6 +76,11 @@
 
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  {% if page.noindex or page.sitemap == false %}
+  <meta name="robots" content="noindex, follow">
+  {% else %}
+  <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
+  {% endif %}
 
   <title>
     {% if page.title %}{{ page_title | escape }} - {{ site.title | escape }}
@@ -110,10 +138,9 @@
 
   <script src="https://use.fontawesome.com/releases/v5.15.3/js/all.js" crossorigin="anonymous" defer></script>
 
-  <link rel="stylesheet" href="{{" /assets/main.css" | relative_url }}">
+  <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
   <link rel="canonical" href="{{ canonical_url }}">
-  <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ " /feed.xml" |
-    relative_url }}">
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ '/feed.xml' | relative_url }}">
 
   <link rel="icon" href="{{ '/img/inverted_logo.ico' | relative_url }}" type="image/x-icon" />
 
