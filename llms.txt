@@ -9,8 +9,14 @@ permalink: /llms.txt
 ## Core Navigation & Hubs
 - [Getting Started Hub]({{ '/getting-started' | absolute_url }}): Guided pathway moving from complete beginner to confident club player, covering essentials, equipment choice, and skill roadmaps.
 - [All Guides Library]({{ '/guides' | absolute_url }}): In-depth educational guides covering bowling mechanics, delivery techniques, mat etiquette, and tactical match play.
+- [AI Lawn Bowls Coaching Hub]({{ '/ai-coaching' | absolute_url }}): Practical workflows for using ChatGPT, smartphone delivery video analysis, and dedicated bowls training apps to improve consistency.
 - [Bowls & Gear Reviews]({{ '/reviews' | absolute_url }}): Unbiased, side-by-side equipment comparisons and hands-on reviews of modern lawn bowls, shoes, bags, and grips.
 - [Downloadable Drill Pack]({{ '/lawn-bowls-downloadable-drill-pack' | absolute_url }}): 20 structured practice drills designed to improve line control, draw weight, and match consistency.
+
+## AI Coaching & Training Technology
+- [How to Use AI & ChatGPT for Lawn Bowls]({{ '/ai/how-to-use-ai-and-chatgpt-for-lawn-bowls/' | absolute_url }}): Complete guide with copy-and-paste prompts for solo roll-up planning, skip tactical simulations, and shot-conversion tracking.
+- [Best Lawn Bowls Coaching & Training Apps]({{ '/ai/best-lawn-bowls-coaching-and-training-apps/' | absolute_url }}): Hands-on comparison of Torny AI, Lawn Bowls Academy, BowlsIQ, WGTS AR measuring, and CoachNow video review.
+- [How to Film & Analyse Your Lawn Bowls Delivery]({{ '/ai/how-to-film-and-analyse-your-lawn-bowls-delivery/' | absolute_url }}): Two-angle smartphone slow-motion setup and 5-checkpoint biomechanical frame audit for fixing dumping and line faults.
 
 ## Authoritative Rules & Tactics
 - [Lawn Bowls Rules & Etiquette]({{ '/help/lawn-bowls-rules' | absolute_url }}): Complete breakdown of game formats, end scoring, ditch rules, measuring procedures, and rink etiquette.

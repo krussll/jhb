@@ -158,6 +158,10 @@ hide_page_hero: true
             <h3><a href="{{ '/lawn-bowls-downloadable-drill-pack' | relative_url }}">Download the practice drill pack</a></h3>
             <p>Print-ready sessions that turn casual roll-ups into structured training.</p>
           </article>
+          <article class="gs-resource" role="listitem">
+            <h3><a href="{{ '/ai-coaching' | relative_url }}">Explore AI Coaching &amp; Video Analysis</a></h3>
+            <p>Use free AI prompts, smartphone slow-motion audits, and bowls apps to accelerate your progress.</p>
+          </article>
         </div>
       </div>
     </div>
