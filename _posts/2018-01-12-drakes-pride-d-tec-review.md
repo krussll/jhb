@@ -2,7 +2,7 @@
 layout: post
 title:  "Drakes Pride D-Tec Lawn Bowls Review"
 author: reece
-categories: [ bowls, review ]
+categories: [ review, bowls ]
 featured: false
 description: "Drakes Pride D-Tec lawn bowls review: narrow bias profile, indoor specialist analysis, and direct comparisons."
 last_modified_at: 2026-10-30 09:30:00 +0000

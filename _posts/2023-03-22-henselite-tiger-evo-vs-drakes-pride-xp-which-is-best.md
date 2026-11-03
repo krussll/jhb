@@ -2,7 +2,7 @@
 layout: post
 title:  "Henselite Tiger EVO vs Drakes Pride XP | Which is Best?"
 author: reece
-categories: [ bowls, review ]
+categories: [ review, bowls ]
 featured: false
 description: ""
 date: 2023-03-22 13:00:00 -0400

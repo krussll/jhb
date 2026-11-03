@@ -2,7 +2,7 @@
 layout: post
 title:  "Taylor Ace vs Henselite Tiger II | Which is Best?"
 author: reece
-categories: [ bowls, review ]
+categories: [ review, bowls ]
 featured: false
 description: "Taylor Ace vs Henselite Tiger II lawn bowls comparison: bias profile differences, outdoor vs indoor suitability, grips, and verdict."
 last_modified_at: 2026-10-29 15:45:00 +0000

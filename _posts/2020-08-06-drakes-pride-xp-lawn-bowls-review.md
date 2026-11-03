@@ -2,7 +2,7 @@
 layout: post
 title:  "Drakes Pride XP Lawn Bowls Review"
 author: reece
-categories: [ bowls, review ]
+categories: [ review, bowls ]
 featured: false
 description: "Drakes Pride XP lawn bowls review: wide bias profile, heavy grass performance, Skip suitability, and verdict."
 last_modified_at: 2026-10-30 10:25:00 +0000

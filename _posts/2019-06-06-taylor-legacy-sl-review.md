@@ -2,7 +2,7 @@
 layout: post
 title:  "Taylor Legacy SL Lawn Bowls Review"
 author: reece
-categories: [ bowls, review ]
+categories: [ review, bowls ]
 featured: false
 description: ""
 last_modified_at: 2026-10-30 10:25:00 +0000

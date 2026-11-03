@@ -2,7 +2,7 @@
 layout: post
 title:  "Taylor Lignoid vs Aero GrooVe | Which is Best?"
 author: reece
-categories: [ bowls, review ]
+categories: [ review, bowls ]
 featured: false
 description: ""
 last_modified_at: 2026-10-29 15:45:00 +0000

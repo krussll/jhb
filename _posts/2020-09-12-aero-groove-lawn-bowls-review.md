@@ -2,7 +2,7 @@
 layout: post
 title:  "Aero GrooVe Lawn Bowls Review"
 author: reece
-categories: [ bowls, review ]
+categories: [ review, bowls ]
 featured: false
 description: "Aero Groove lawn bowls review: robotic precision manufacturing, mid-bias trajectory, Z-Scoop grip evaluation, and performance score."
 last_modified_at: 2026-10-30 10:25:00 +0000

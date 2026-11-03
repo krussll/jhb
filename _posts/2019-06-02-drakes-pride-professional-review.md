@@ -2,7 +2,7 @@
 layout: post
 title:  "Drakes Pride Professional Lawn Bowls Review"
 author: reece
-categories: [ bowls, review ]
+categories: [ review, bowls ]
 featured: false
 description: "In-depth Drakes Pride Professional review: trajectory analysis, grip variations, running surface versatility, and expert verdict."
 last_modified_at: 2026-10-30 10:25:00 +0000

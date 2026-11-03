@@ -2,7 +2,7 @@
 layout: post
 title:  "Taylor Lazer vs Drakes Pride PRO-50 | Which is Best?"
 author: reece
-categories: [ bowls, review ]
+categories: [ review, bowls ]
 featured: false
 description: ""
 last_modified_at: 2026-10-29 15:45:00 +0000

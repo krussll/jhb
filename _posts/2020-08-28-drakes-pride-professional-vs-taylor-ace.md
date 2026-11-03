@@ -2,7 +2,7 @@
 layout: post
 title:  "Drakes Pride Professional vs Taylor Ace - Which To Choose?"
 author: reece
-categories: [ bowls, review ]
+categories: [ review, bowls ]
 featured: false
 description: "Drakes Pride Professional vs Taylor Ace head-to-head comparison: bias arc differences, grip choices, surface versatility, and verdict."
 last_modified_at: 2026-10-30 10:25:00 +0000

@@ -2,7 +2,7 @@
 layout: post
 title:  "Drakes Pride PRO-50 Lawn Bowls Review"
 author: reece
-categories: [ bowls, review ]
+categories: [ review, bowls ]
 featured: false
 description: "Drakes Pride Pro-50 lawn bowls review: channel grip evaluation, wet weather handling, and comparison to the classic Professional."
 last_modified_at: 2026-10-30 10:25:00 +0000

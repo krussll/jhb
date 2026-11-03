@@ -2,7 +2,7 @@
 layout: post
 title:  "Taylor Blaze Lawn Bowls Review"
 author: reece
-categories: [ bowls, review ]
+categories: [ review, bowls ]
 featured: false
 description: "Taylor Blaze lawn bowls review: mid-narrow bias line, fast surface performance, and comparison to Ace and Vector VS."
 last_modified_at: 2026-10-30 09:15:00 +0000

@@ -2,7 +2,7 @@
 layout: post
 title:  "Taylor Lazer Lawn Bowls Review"
 author: reece
-categories: [ bowls, review ]
+categories: [ review, bowls ]
 featured: false
 description: ""
 last_modified_at: 2026-10-30 09:30:00 +0000

@@ -2,7 +2,7 @@
 layout: post
 title:  "Taylor Ace Lawn Bowls Review"
 author: reece
-categories: [ bowls, review ]
+categories: [ review, bowls ]
 featured: false
 description: "Comprehensive Taylor Ace lawn bowls review: bias profile analysis, grip options, indoor vs outdoor performance, and pros & cons for club bowlers."
 last_modified_at: 2026-10-30 10:25:00 +0000

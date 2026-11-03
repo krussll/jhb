@@ -2,7 +2,7 @@
 layout: post
 title:  "Taylor International vs Aero GrooVe | Which is Best?"
 author: reece
-categories: [ bowls, review ]
+categories: [ review, bowls ]
 featured: false
 description: ""
 date: 2023-03-20 13:00:00 -0400

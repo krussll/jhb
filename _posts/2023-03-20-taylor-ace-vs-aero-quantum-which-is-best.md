@@ -2,7 +2,7 @@
 layout: post
 title:  "Taylor Ace vs Aero Quantum | Which is Best?"
 author: reece
-categories: [ bowls, review ]
+categories: [ review, bowls ]
 featured: false
 description: "Taylor Ace vs Aero Quantum comparison: mid bias vs wide bias, green speed suitability, and tactical recommendations."
 last_modified_at: 2026-10-29 15:45:00 +0000

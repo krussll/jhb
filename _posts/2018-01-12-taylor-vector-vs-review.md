@@ -2,7 +2,7 @@
 layout: post
 title:  "Taylor Vector VS Lawn Bowls Review"
 author: reece
-categories: [ bowls, review ]
+categories: [ review, bowls ]
 featured: false
 description: "Taylor Vector VS lawn bowls review: narrow bias profile, indoor performance, suitability for leads, and comprehensive buyers guide."
 last_modified_at: 2026-10-30 09:30:00 +0000
