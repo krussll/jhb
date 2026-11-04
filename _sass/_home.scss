@@ -235,14 +235,47 @@ $site-hero-gradient: radial-gradient(circle at top right, rgba(29, 78, 216, 0.25
   color: #4b5563;
 }
 
-.core-guide-card__link {
+.core-guide-card__actions {
   margin-top: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.core-guide-card__link {
   display: inline-flex;
   align-items: center;
   gap: 0.4rem;
   font-weight: 600;
   color: $home-primary;
   text-decoration: none;
+}
+
+.core-guide-card__hub-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  font-size: 0.875rem;
+  font-weight: 600;
+  color: #6b7280;
+  text-decoration: none;
+  transition: color 0.2s ease;
+
+  &:hover,
+  &:focus {
+    color: $home-primary;
+    text-decoration: none;
+  }
+
+  i {
+    font-size: 0.75rem;
+    transition: transform 0.2s ease;
+  }
+
+  &:hover i,
+  &:focus i {
+    transform: translateX(3px);
+  }
 }
 
 .core-guide-card__link:hover,

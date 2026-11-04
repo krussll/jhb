@@ -477,9 +477,16 @@
     margin: 0;
   }
 
-  .core-guide-card__link {
+  .core-guide-card__actions {
     margin-top: auto;
-    padding-top: 0.25rem;
+    padding-top: 0.35rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.35rem;
+    align-items: center;
+  }
+
+  .core-guide-card__link {
     font-size: 0.85rem;
     font-weight: 600;
     color: $home-secondary;
@@ -488,6 +495,17 @@
     &:hover,
     &:focus {
       color: darken($home-secondary, 10%);
+    }
+  }
+
+  .core-guide-card__hub-link {
+    font-size: 0.8rem;
+    color: #6b7280;
+    justify-content: center;
+
+    &:hover,
+    &:focus {
+      color: $home-secondary;
     }
   }
 }

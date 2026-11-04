@@ -1,0 +1,40 @@
+- id: learn-the-essentials
+  title: "Learn the essentials"
+  icon: "/img/icons/learn-the-rules.png"
+  icon_alt: "Illustration for lawn bowls rules and essentials"
+  description: "Master fundamental rules, scoring, and etiquette before you step onto the green."
+  article_url: "/help/lawn-bowls-rules"
+  article_text: "Read the rules guide"
+  hub_url: "/getting-started/#step-1"
+  hub_text: "Getting Started hub"
+
+- id: choose-your-bowls
+  title: "Choose your bowls"
+  icon: "/img/icons/buy-the-right-bowls.png"
+  icon_alt: "Illustration of a lawn bowl for equipment selection"
+  description: "Compare models, bias profiles, and sizes to find equipment that suits your draw."
+  article_url: "/guide/how-to-choose-a-set-of-lawn-bowls"
+  article_text: "Choose your set"
+  hub_url: "/reviews/"
+  hub_text: "All gear reviews"
+
+- id: practice-smarter
+  title: "Practice smarter"
+  icon: "/img/icons/practice-with-confidence.png"
+  icon_alt: "Illustration of target rings for practice plans"
+  description: "Follow structured drills and AI coaching to develop consistent weight and line."
+  article_url: "/help/how-to-get-better-at-lawn-bowls"
+  article_text: "Start improving"
+  hub_url: "/ai-coaching/"
+  hub_text: "AI coaching hub"
+
+- id: compete-with-confidence
+  title: "Compete with confidence"
+  icon: "/img/icons/win-at-singles.png"
+  icon_alt: "Illustration of tactical board for singles play"
+  description: "Adopt match tactics that help you control the mat, jack, and momentum in singles play."
+  article_url: "/help/ultimate-guide-to-lawn-bowls-singles-tactics"
+  article_text: "Study singles tactics"
+  hub_url: "/help-and-support/"
+  hub_text: "Help & support hub"
+

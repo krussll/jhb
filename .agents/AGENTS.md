@@ -101,3 +101,4 @@ background: "/img/post-bg.jpg" # Optional hero background image
 - **Install Dependencies**: `bundle install`
 - **Serve Locally**: `jekyll serve` (or `bundle exec jekyll serve`) — test locally at [http://127.0.0.1:4000/jhb/](http://127.0.0.1:4000/jhb/)
 - **Build Production**: `bundle exec jekyll build`
+- **Execute Next Backlog Task**: Run `/next-task` or `python3 .agents/skills/next-task/scripts/get_next_task.py` to automatically identify the first backlog task owned by `Agent`.

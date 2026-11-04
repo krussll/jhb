@@ -46,3 +46,4 @@ This repository contains the source for the JHB lawn bowls information site, a J
 - To test locally, run `jekyll serve` and navigate to [http://127.0.0.1:4000/jhb/](http://127.0.0.1:4000/jhb/).
 - Before committing, build the site locally with `bundle exec jekyll build` to catch Liquid or Markdown issues.
 - If a post file is updated, set the "last_modified_at" value to the current datetime
+- To process the next pending agent backlog task, invoke the `/next-task` skill or run `python3 .agents/skills/next-task/scripts/get_next_task.py`.

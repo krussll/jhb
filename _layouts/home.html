@@ -49,60 +49,28 @@ layout: default
     <div class="container">
       <div class="home-section-heading text-center">
         <span class="home-section-eyebrow">Start with the essentials</span>
-        <h2>Core guides every bowler should read</h2>
-        <p>Build a rock-solid foundation with the resources we recommend to every new club member.</p>
+        <h2>Featured learning pathways</h2>
+        <p>Four proven pathways to master essentials, choose the right gear, practice smarter, and compete with confidence.</p>
       </div>
       <div class="row">
-        <div class="col-lg-3 col-md-6">
+        {% for pathway in site.data.pathways %}
+        <div class="col-lg-3 col-md-6 mb-4 mb-lg-0">
           <article class="core-guide-card">
             <div>
-              <img src="{{ '/img/icons/learn-the-rules.png' | relative_url }}"
-                alt="Illustration for lawn bowls rules guide" width="256" height="256" loading="lazy" />
+              <img src="{{ pathway.icon | relative_url }}"
+                alt="{{ pathway.icon_alt }}" width="256" height="256" loading="lazy" />
             </div>
-            <h3>Learn the rules</h3>
-            <p>Understand formats, scoring and etiquette before you step onto the green.</p>
-            <a class="core-guide-card__link" href="{{ '/help/lawn-bowls-rules' | relative_url }}">Read the rules guide
-              <i class="fas fa-arrow-right"></i></a>
+            <h3>{{ pathway.title }}</h3>
+            <p>{{ pathway.description }}</p>
+            <div class="core-guide-card__actions">
+              <a class="core-guide-card__link" href="{{ pathway.article_url | relative_url }}">{{ pathway.article_text }}
+                <i class="fas fa-arrow-right" aria-hidden="true"></i></a>
+              <a class="core-guide-card__hub-link" href="{{ pathway.hub_url | relative_url }}">{{ pathway.hub_text }}
+                <i class="fas fa-chevron-right" aria-hidden="true"></i></a>
+            </div>
           </article>
         </div>
-        <div class="col-lg-3 col-md-6">
-          <article class="core-guide-card">
-            <div>
-              <img src="{{ '/img/icons/buy-the-right-bowls.png' | relative_url }}"
-                alt="Illustration of a lawn bowl for equipment selection" width="256" height="256" loading="lazy" />
-            </div>
-            <h3>Pick the right bowls</h3>
-            <p>Compare models, bias profiles and sizes to find equipment that suits your draw.</p>
-            <a class="core-guide-card__link"
-              href="{{ '/guide/how-to-choose-a-set-of-lawn-bowls' | relative_url }}">Choose your set <i
-                class="fas fa-arrow-right"></i></a>
-          </article>
-        </div>
-        <div class="col-lg-3 col-md-6">
-          <article class="core-guide-card">
-            <div>
-              <img src="{{ '/img/icons/practice-with-confidence.png' | relative_url }}"
-                alt="Illustration of target rings for practice plans" width="256" height="256" loading="lazy" />
-            </div>
-            <h3>Practice with purpose</h3>
-            <p>Follow a structured improvement plan that develops draw weight, line and mindset.</p>
-            <a class="core-guide-card__link" href="{{ '/help/how-to-get-better-at-lawn-bowls' | relative_url }}">Start
-              improving <i class="fas fa-arrow-right"></i></a>
-          </article>
-        </div>
-        <div class="col-lg-3 col-md-6">
-          <article class="core-guide-card">
-            <div>
-              <img src="{{ '/img/icons/win-at-singles.png' | relative_url }}"
-                alt="Illustration of tactical board for singles play" width="256" height="256" loading="lazy" />
-            </div>
-            <h3>Win your singles</h3>
-            <p>Adopt match tactics that help you control the mat, jack and momentum end after end.</p>
-            <a class="core-guide-card__link"
-              href="{{ '/help/ultimate-guide-to-lawn-bowls-singles-tactics' | relative_url }}">Study singles tactics <i
-                class="fas fa-arrow-right"></i></a>
-          </article>
-        </div>
+        {% endfor %}
       </div>
     </div>
   </section>
