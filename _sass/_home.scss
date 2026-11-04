@@ -89,6 +89,67 @@ $site-hero-gradient: radial-gradient(circle at top right, rgba(29, 78, 216, 0.25
   color: #fff;
 }
 
+.home-hero__pathways {
+  margin-bottom: 2rem;
+}
+
+.home-hero__pathways-label {
+  display: block;
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  font-weight: 700;
+  color: rgba(255, 255, 255, 0.75);
+  margin-bottom: 0.65rem;
+}
+
+.home-hero__pills {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+}
+
+.home-hero__pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45rem;
+  padding: 0.45rem 0.95rem;
+  border-radius: 999px;
+  background-color: rgba(255, 255, 255, 0.1);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  color: #ffffff;
+  font-size: 0.875rem;
+  font-weight: 600;
+  text-decoration: none;
+  backdrop-filter: blur(4px);
+  transition: background-color 0.2s ease, border-color 0.2s ease, color 0.2s ease, transform 0.2s ease, box-shadow 0.2s ease;
+
+  i {
+    color: #8dd6ff;
+    font-size: 0.85rem;
+    transition: transform 0.2s ease;
+  }
+
+  &:hover,
+  &:focus {
+    background-color: rgba(255, 255, 255, 0.2);
+    border-color: rgba(255, 255, 255, 0.5);
+    color: #ffffff;
+    text-decoration: none;
+    transform: translateY(-2px);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+
+    i {
+      transform: scale(1.1);
+    }
+  }
+
+  &:focus-visible {
+    outline: 2px solid #8dd6ff;
+    outline-offset: 2px;
+  }
+}
+
 .home-hero__highlights {
   list-style: none;
   padding: 0;
@@ -810,7 +871,10 @@ $site-hero-gradient: radial-gradient(circle at top right, rgba(29, 78, 216, 0.25
   .service-card,
   .home-cta__inner,
   .metric-card,
-  .home-hero__cta .btn {
+  .home-hero__cta .btn,
+  .home-hero__pill,
+  .home-hero__pill i {
     transition: none !important;
+    transform: none !important;
   }
 }

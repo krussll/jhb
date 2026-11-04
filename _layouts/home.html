@@ -10,9 +10,26 @@ layout: default
         <h1 class="home-hero__title">Lead with confidence on the green.</h1>
         <p class="home-hero__subtitle">{{ site.description }}</p>
         <div class="home-hero__cta">
-          <!-- <a class="btn btn-primary btn-lg" href="{{ '/getting-started' | relative_url }}">Start your journey</a> -->
-          <a class="btn btn-primary btn-lg" href="{{ '/reviews' | relative_url }}">Explore reviews</a>
+          <a class="btn btn-primary btn-lg" href="{{ '/getting-started/' | relative_url }}">Start your journey</a>
+          <a class="btn btn-outline-light btn-lg" href="{{ '/getting-started/#step-1' | relative_url }}">Learn the essentials</a>
         </div>
+        <nav class="home-hero__pathways" aria-label="Bowls newcomer pathways">
+          <span class="home-hero__pathways-label">Explore pathways:</span>
+          <div class="home-hero__pills">
+            <a class="home-hero__pill" href="{{ '/getting-started/#step-1' | relative_url }}">
+              <i class="fas fa-book-open" aria-hidden="true"></i> Learn the essentials
+            </a>
+            <a class="home-hero__pill" href="{{ '/getting-started/#step-2' | relative_url }}">
+              <i class="fas fa-bullseye" aria-hidden="true"></i> Choose your bowls
+            </a>
+            <a class="home-hero__pill" href="{{ '/getting-started/#step-3' | relative_url }}">
+              <i class="fas fa-dumbbell" aria-hidden="true"></i> Practice smarter
+            </a>
+            <a class="home-hero__pill" href="{{ '/getting-started/#step-4' | relative_url }}">
+              <i class="fas fa-trophy" aria-hidden="true"></i> Compete with confidence
+            </a>
+          </div>
+        </nav>
         <ul class="home-hero__highlights">
           <li><i class="fas fa-check"></i> Actionable drills, guides and expert gear tests.</li>
           <li><i class="fas fa-check"></i> Trusted advice from the Jack High Bowls team.</li>
