@@ -5,7 +5,7 @@ author: reece
 categories: [ review, bowls ]
 featured: false
 description: "Aero Quantum lawn bowls review: wide bias profile for slow grass greens, heavy surface performance, and buyers guide."
-last_modified_at: 2026-10-30 10:25:00 +0000
+last_modified_at: 2026-11-04 13:25:00 +0000
 date: 2021-05-18 13:00:00 -0400
 review:
   name: "Aero Quantum Lawn Bowls"
@@ -147,7 +147,12 @@ review:
 <!-- wp:block {"ref":2826} /-->
 
 <!-- wp:image {"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/aero-indoor-uk-trajectory-guide-2020.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="Trajectory guide/bias guide for Aero lawn bowl indoor models"/></a></figure>
+<figure class="wp-block-image size-large">
+  <picture>
+    <source srcset="{{ '/img/posts/aero-bowls-trajectory-guide.webp' | prepend: site.baseurl | replace: '//', '/' }}" type="image/webp">
+    <img src="{{ '/img/posts/aero-bowls-trajectory-guide.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Trajectory guide for Aero lawn bowls (Quantum, GrooVe, Sonic)" width="1400" height="1077" loading="lazy" decoding="async"/>
+  </picture>
+</figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

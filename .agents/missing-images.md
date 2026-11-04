@@ -241,14 +241,7 @@ This document provides an inventory of all images across the Jack High Bowls web
 - **Published URL:** [https://krussll.github.io/jhb/guide/lawn-bowls-bias-guide-and-trajectory-charts-2020](https://krussll.github.io/jhb/guide/lawn-bowls-bias-guide-and-trajectory-charts-2020)
 - **Local Dev URL:** [http://127.0.0.1:4000/jhb/guide/lawn-bowls-bias-guide-and-trajectory-charts-2020](http://127.0.0.1:4000/jhb/guide/lawn-bowls-bias-guide-and-trajectory-charts-2020)
 - **Source File:** [`_posts/2020-05-20-lawn-bowls-bias-guide-and-trajectory-charts-2020.md`](file:///home/reecewilliams8/dev work/jhb/_posts/2020-05-20-lawn-bowls-bias-guide-and-trajectory-charts-2020.md)
-- **Missing Images Count:** 4
-
-| # | Image Filename | Referenced Path | Source Line |
-| :--- | :--- | :--- | :--- |
-| 1 | `aero-outdoor-uk-trajectory-guide-2020.png` | `/img/posts/aero-outdoor-uk-trajectory-guide-2020.png` | Line 66 |
-| 2 | `aero-indoor-uk-trajectory-guide-2020.png` | `/img/posts/aero-indoor-uk-trajectory-guide-2020.png` | Line 70 |
-| 3 | `drakes-pride-trajectory-guide-2020.png` | `/img/posts/drakes-pride-trajectory-guide-2020.png` | Line 100 |
-| 4 | `thomas-taylor-trajectory-guide-2020.png` | `/img/posts/thomas-taylor-trajectory-guide-2020.png` | Line 152 |
+- **Status:** Resolved ✅ (All trajectory guide assets supplied, optimized for PageSpeed as progressive JPEG/quantized PNG with modern WebP fallbacks, and linked in post).
 
 
 ### 14. Lawn Bowls Rules And Etiquette
