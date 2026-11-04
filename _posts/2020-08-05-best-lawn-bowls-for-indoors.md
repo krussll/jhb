@@ -6,8 +6,8 @@ categories: [ guide ]
 featured: false
 description: "The best lawn bowls for indoor play reviewed. Compare narrow-bias lines, flat finishes, and top indoor models like Taylor Vector VS, Lazer, and Drakes Pride D-Tec."
 date: 2020-08-05 13:00:00 -0400
-
-last_modified_at: 2026-11-02 17:19:00 +0000---
+last_modified_at: 2026-11-04 14:56:00 +0000
+---
     
 
 <!-- wp:paragraph -->
