@@ -1,11 +1,12 @@
 ---
 layout: post
 title:  "Lawn bowls Bias Explained | A Guide On Lawn Bowls Bias"
+seo_title: "Lawn Bowls Bias Explained: How Bowls Curve"
 author: reece
 categories: [ help ]
 featured: false
 description: ""
-last_modified_at: 2026-10-30 10:25:00 +0000
+last_modified_at: 2026-11-04 15:05:00 +0000
 date: 2022-05-15 13:00:00 -0400
 ---
     

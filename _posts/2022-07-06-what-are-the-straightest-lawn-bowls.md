@@ -1,11 +1,12 @@
 ---
 layout: post
 title:  "What Are The Straightest Lawn Bowls | A Guide To Straight Lawn Bowls"
+seo_title: "What Are the Straightest Lawn Bowls?"
 author: reece
 categories: [ guide ]
 featured: false
 description: ""
-last_modified_at: 2026-10-30 10:25:00 +0000
+last_modified_at: 2026-11-04 15:05:00 +0000
 date: 2022-07-06 13:00:00 -0400
 ---
     

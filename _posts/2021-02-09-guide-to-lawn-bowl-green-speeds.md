@@ -1,12 +1,13 @@
 ---
 layout: post
 title:  "Guide to Lawn Bowl Green Speed | What Is It? And How Is It Measured?"
+seo_title: "Lawn Bowls Green Speed: What It Is & How to Measure"
 author: reece
 categories: [ help ]
 featured: false
 description: ""
 date: 2021-02-09 13:00:00 -0400
-last_modified_at: 2026-10-30 10:25:00 +0000
+last_modified_at: 2026-11-04 15:05:00 +0000
 ---
     
 

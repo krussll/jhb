@@ -27,6 +27,19 @@ background: "/img/bg-post.jpg" # Optional: header background image path
 ---
 ```
 
+### SEO Title Tag (`seo_title`)
+
+`_includes/head.html` builds the `<title>`, `og:title` and `twitter:title` from `seo_title` (optional) or `title`, then adds ` - Jack High Bowls` **only if the full string stays under 70 characters**. If it would go over, the brand suffix is left off. This follows Bing Webmaster Tools' "Title too long" guidance.
+
+- Add `seo_title` straight after `title` whenever `title` (the on-page H1) is longer than about 51 characters. It changes only the title tag; the H1, listings and schema headline keep using `title`.
+- Keep it unique, front-load the main keyword, and drop filler such as "| A Complete Guide" or "| A Helpful Illustrated Guide".
+- 51 characters or fewer keeps the brand suffix (51 + 18 = 69).
+
+```yaml
+title: "Can You Hit The Jack In Lawn Bowls? | A Complete Guide To What Happens When The Jack Is Hit"
+seo_title: "Can You Hit the Jack in Lawn Bowls? Rules Explained"
+```
+
 ---
 
 ## 2. Blog Post Features & Utilities

@@ -1,12 +1,13 @@
 ---
 layout: post
 title:  "Price Of Aero Lawn Bowls | A Buyers Guide On Prices Of Aero Bowls"
+seo_title: "Price of Aero Lawn Bowls: Aero Bowls Buyer's Guide"
 author: reece
 categories: [ help ]
 featured: false
 description: ""
 date: 2022-05-21 13:00:00 -0400
-last_modified_at: 2026-10-30 10:25:00 +0000
+last_modified_at: 2026-11-04 15:05:00 +0000
 ---
     
 

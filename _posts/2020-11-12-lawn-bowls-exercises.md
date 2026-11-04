@@ -1,11 +1,12 @@
 ---
 layout: post
 title:  "Lawn Bowls Exercises: Improve Your Technical, Physical, and Tactical Skills"
+seo_title: "Lawn Bowls Exercises to Improve Skill and Fitness"
 author: reece
 categories: [ help ]
 featured: false
 description: "Recommended exercises, warm-ups, and stretching drills for lawn bowls, combining skill development with clinical guidance from the NHS and Chartered Society of Physiotherapy."
-last_modified_at: 2026-10-30 09:35:00 +0000
+last_modified_at: 2026-11-04 15:05:00 +0000
 date: 2020-11-12 13:00:00 -0400
 medical_disclaimer: true
 ---

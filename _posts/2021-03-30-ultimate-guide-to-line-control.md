@@ -1,12 +1,13 @@
 ---
 layout: post
 title:  "The Ultimate Guide To Line Control In Lawn Bowls | A Helpful Illustrated Guide"
+seo_title: "Ultimate Guide to Line Control in Lawn Bowls"
 author: reece
 categories: [ help ]
 featured: false
 description: ""
 date: 2021-03-30 13:00:00 -0400
-last_modified_at: 2026-10-30 10:25:00 +0000
+last_modified_at: 2026-11-04 15:05:00 +0000
 ---
     
 

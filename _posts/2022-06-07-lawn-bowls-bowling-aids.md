@@ -1,11 +1,12 @@
 ---
 layout: post
 title:  "Lawn Bowls Bowling Aids | A Complete Guide To Equipment For Disabled Players"
+seo_title: "Lawn Bowls Bowling Aids for Disabled Players"
 author: reece
 categories: [ guide ]
 featured: false
 description: ""
-last_modified_at: 2026-10-30 10:25:00 +0000
+last_modified_at: 2026-11-04 15:05:00 +0000
 date: 2022-06-07 13:00:00 -0400
 ---
     

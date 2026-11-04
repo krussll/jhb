@@ -1,12 +1,13 @@
 ---
 layout: post
 title:  "Who is the Best Lawn Bowler Of All Time? | A Full Guide and WINNER"
+seo_title: "Who Is the Best Lawn Bowler of All Time?"
 author: reece
 categories: [ help ]
 featured: false
 description: "Who is the greatest lawn bowler in history? We analyze the records, world championships, Commonwealth medals, and legacy of Alex Marshall, David Bryant, and legends."
 date: 2021-02-12 13:00:00 -0400
-last_modified_at: 2026-11-02 17:19:00 +0000
+last_modified_at: 2026-11-04 15:05:00 +0000
 ---
     
 

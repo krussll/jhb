@@ -1,12 +1,13 @@
 ---
 layout: post
 title:  "How Do You Judge The Length Of A Jack In Lawn Bowls? | A Complete Guide"
+seo_title: "How to Judge the Length of a Jack in Lawn Bowls"
 author: reece
 categories: [ help ]
 featured: false
 description: ""
 date: 2022-03-06 13:00:00 -0400
-last_modified_at: 2026-10-30 10:25:00 +0000
+last_modified_at: 2026-11-04 15:05:00 +0000
 ---
     
 

@@ -1,12 +1,13 @@
 ---
 layout: post
 title:  "Lawn Bowls vs Bocce (9 Similarities and Differences) | A Simple Illustrated Guide"
+seo_title: "Lawn Bowls vs Bocce: 9 Similarities and Differences"
 author: reece
 categories: [ help ]
 featured: false
 description: ""
 date: 2019-02-19 13:00:00 -0400
-last_modified_at: 2026-10-30 10:25:00 +0000
+last_modified_at: 2026-11-04 15:05:00 +0000
 ---
     
 

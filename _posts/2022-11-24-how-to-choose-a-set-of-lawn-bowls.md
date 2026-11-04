@@ -1,13 +1,14 @@
 ---
 layout: post
 title:  "How To Choose A Set Of Lawn Bowls? | A Complete Guide"
+seo_title: "How to Choose a Set of Lawn Bowls"
 author: reece
 categories: [ guide ]
 featured: false
 description: ""
 background: "/img/posts/pick-the-right-bowls.png"
 date: 2022-11-24 13:00:00 -0400
-last_modified_at: 2026-10-30 10:25:00 +0000
+last_modified_at: 2026-11-04 15:05:00 +0000
 ---
     
 

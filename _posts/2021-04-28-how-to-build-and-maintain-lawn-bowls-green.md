@@ -1,12 +1,13 @@
 ---
 layout: post
 title:  "How To Build And Maintain A Lawn Bowls Green | A Simple Guide"
+seo_title: "How to Build and Maintain a Lawn Bowls Green"
 author: reece
 categories: [ help ]
 featured: false
 description: ""
 date: 2021-04-28 13:00:00 -0400
-last_modified_at: 2026-10-30 10:25:00 +0000
+last_modified_at: 2026-11-04 15:05:00 +0000
 ---
     
 

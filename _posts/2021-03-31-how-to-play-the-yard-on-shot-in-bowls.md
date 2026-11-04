@@ -1,12 +1,13 @@
 ---
 layout: post
 title:  "How To Play A Yard-On Shot In Lawn Bowls | A Helpful Illustrated Guide"
+seo_title: "How to Play a Yard-On Shot in Lawn Bowls"
 author: reece
 categories: [ help ]
 featured: false
 description: ""
 date: 2021-03-31 13:00:00 -0400
-last_modified_at: 2026-10-30 10:25:00 +0000
+last_modified_at: 2026-11-04 15:05:00 +0000
 ---
     
 

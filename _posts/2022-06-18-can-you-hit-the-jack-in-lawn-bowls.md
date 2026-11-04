@@ -1,11 +1,12 @@
 ---
 layout: post
 title:  "Can You Hit The Jack In Lawn Bowls? | A Complete Guide To What Happens When The Jack Is Hit"
+seo_title: "Can You Hit the Jack in Lawn Bowls? Rules Explained"
 author: reece
 categories: [ help ]
 featured: false
 description: ""
-last_modified_at: 2026-10-30 10:25:00 +0000
+last_modified_at: 2026-11-04 15:05:00 +0000
 date: 2022-06-18 13:00:00 -0400
 ---
     

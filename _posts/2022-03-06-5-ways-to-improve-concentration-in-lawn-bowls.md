@@ -1,11 +1,13 @@
 ---
 layout: post
 title:  "5 Ways To Improve Concentration In Lawn Bowls | A Complete Guide"
+seo_title: "5 Ways to Improve Concentration in Lawn Bowls"
 author: reece
 categories: [ help ]
 featured: false
 description: ""
 date: 2022-03-06 13:00:00 -0400
+last_modified_at: 2026-11-04 15:05:00 +0000
 ---
     
 

@@ -1,11 +1,12 @@
 ---
 layout: post
 title:  "Taylor Xtreme Grip Review | Is The Taylor Xtreme Grip Any Good?"
+seo_title: "Taylor Xtreme Grip Review: Is It Any Good?"
 author: reece
 categories: [ guide ]
 featured: false
 description: ""
-last_modified_at: 2026-10-29 15:45:00 +0000
+last_modified_at: 2026-11-04 15:05:00 +0000
 date: 2023-02-23 13:00:00 -0400
 ---
     

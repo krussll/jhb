@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Lawn Bowls Rules For Beginners - How To Play Bowls | A Helpful Illustrated Guide"
+seo_title: "Lawn Bowls Rules for Beginners: How to Play Bowls"
 subtitle: "A straightforward illustrated guide to the basic rules of lawn bowls so you can step onto the green and start playing."
 author: reece
 categories: [ help ]
@@ -8,7 +9,7 @@ featured: false
 background: '/img/posts/learn-rules-of-lawn-bowls.png'
 description: "Learn the basic rules of lawn bowls for beginners in this illustrated guide covering equipment, mat placement, scoring, formats, and green dimensions."
 date: 2019-08-22 13:00:00 -0400
-last_modified_at: 2026-11-03 16:26:00 +0000
+last_modified_at: 2026-11-04 15:05:00 +0000
 ---
     
 

@@ -1,11 +1,12 @@
 ---
 layout: post
 title:  "A Complete Guide To Building The Head In Lawn Bowls | A Guide For Beginners"
+seo_title: "Building the Head in Lawn Bowls: Beginner's Guide"
 author: reece
 categories: [ help ]
 featured: false
 description: ""
-last_modified_at: 2026-10-30 10:25:00 +0000
+last_modified_at: 2026-11-04 15:05:00 +0000
 date: 2022-04-05 13:00:00 -0400
 ---
     

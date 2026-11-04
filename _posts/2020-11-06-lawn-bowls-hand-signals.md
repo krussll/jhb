@@ -1,11 +1,12 @@
 ---
 layout: post
 title:  "Lawn Bowls Hand Signals | A Helpful Illustrated Guide"
+seo_title: "Lawn Bowls Hand Signals: Illustrated Guide"
 author: reece
 categories: [ help ]
 featured: false
 description: ""
-last_modified_at: 2026-10-30 10:25:00 +0000
+last_modified_at: 2026-11-04 15:05:00 +0000
 date: 2020-11-06 13:00:00 -0400
 ---
     

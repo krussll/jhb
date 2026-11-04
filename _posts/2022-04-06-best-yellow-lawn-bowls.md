@@ -1,11 +1,12 @@
 ---
 layout: post
 title:  "Best Yellow Lawn Bowls | Yellow Bowls Options From All Major Brands | A Complete Guide"
+seo_title: "Best Yellow Lawn Bowls From All the Major Brands"
 author: reece
 categories: [ guide ]
 featured: false
 description: "Explore the best yellow and high-visibility lawn bowls. Compare yellow coloured options from Taylor, Henselite, Drakes Pride, and Aero for overcast conditions."
-last_modified_at: 2026-11-02 17:19:00 +0000
+last_modified_at: 2026-11-04 15:05:00 +0000
 date: 2022-04-06 13:00:00 -0400
 ---
     

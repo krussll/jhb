@@ -1,11 +1,12 @@
 ---
 layout: post
 title:  "How To Get Better At Lawn Bowls | A Complete Guide To Improving Your Game"
+seo_title: "How to Get Better at Lawn Bowls: Complete Guide"
 author: reece
 categories: [ help ]
 featured: false
 description: ""
-last_modified_at: 2026-10-30 10:25:00 +0000
+last_modified_at: 2026-11-04 15:05:00 +0000
 date: 2022-06-20 13:00:00 -0400
 ---
     

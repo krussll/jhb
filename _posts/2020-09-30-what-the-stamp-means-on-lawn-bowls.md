@@ -1,11 +1,12 @@
 ---
 layout: post
 title:  "What The Stamp Means On Lawn Bowls | A Helpful Illustrated Guide"
+seo_title: "What the Stamp Means on Lawn Bowls"
 author: reece
 categories: [ help ]
 featured: false
 description: ""
-last_modified_at: 2026-10-29 15:45:00 +0000
+last_modified_at: 2026-11-04 15:05:00 +0000
 date: 2020-09-30 13:00:00 -0400
 ---
     

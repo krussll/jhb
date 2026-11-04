@@ -43,6 +43,7 @@ last_modified_at: 2026-10-29 17:08:00
       <p>Drop ready-made practice sessions straight into your next roll-up. The Jack High Bowls drill pack gives you proven routines to master draw shots, weight control and pressure conversions without spending hours planning what to work on.</p>
       <a
         class="btn btn-primary btn-lg mb-4"
+        target="_blank" 
         href="https://jack-high-bowls.lemonsqueezy.com/checkout/buy/6515ca0b-b861-4530-8142-0bb075d71bb8"
         data-ls-modal="true"
       >Buy Now</a>
@@ -64,6 +65,7 @@ last_modified_at: 2026-10-29 17:08:00
 <div>
 <a
   class="btn btn-success btn-lg"
+  target="_blank"
   href="https://jack-high-bowls.lemonsqueezy.com/checkout/buy/6515ca0b-b861-4530-8142-0bb075d71bb8"
   data-ls-modal="true"
 >Get it now</a>

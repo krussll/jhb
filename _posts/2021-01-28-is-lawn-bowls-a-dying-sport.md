@@ -1,11 +1,13 @@
 ---
 layout: post
 title:  "Is Lawn Bowls Is A Dying Sport? Or Does It Just Need Reviving? | A Complete Guide"
+seo_title: "Is Lawn Bowls a Dying Sport? How to Revive It"
 author: reece
 categories: [ help ]
 featured: false
 description: ""
 date: 2021-01-28 13:00:00 -0400
+last_modified_at: 2026-11-04 15:05:00 +0000
 ---
     
 

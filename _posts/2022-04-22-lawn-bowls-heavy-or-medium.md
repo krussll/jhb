@@ -1,11 +1,13 @@
 ---
 layout: post
 title:  "Lawn Bowls Heavy Or Medium? Which One To Get? | ANSWERED"
+seo_title: "Heavy or Medium Lawn Bowls: Which Should You Get?"
 author: reece
 categories: [ help ]
 featured: false
 description: ""
 date: 2022-04-22 13:00:00 -0400
+last_modified_at: 2026-11-04 15:05:00 +0000
 ---
     
 

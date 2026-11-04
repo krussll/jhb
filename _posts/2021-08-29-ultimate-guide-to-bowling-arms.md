@@ -1,12 +1,13 @@
 ---
 layout: post
 title:  "The Ultimate Guide To Lawn Bowling Arms | A Helpful Guide"
+seo_title: "The Ultimate Guide to Lawn Bowling Arms"
 author: reece
 categories: [ help ]
 featured: false
 description: ""
 date: 2021-08-29 13:00:00 -0400
-last_modified_at: 2026-10-30 10:25:00 +0000
+last_modified_at: 2026-11-04 15:05:00 +0000
 ---
     
 

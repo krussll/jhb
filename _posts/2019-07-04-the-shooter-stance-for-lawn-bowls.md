@@ -1,11 +1,12 @@
 ---
 layout: post
 title:  "'The Shooter Stance' For Lawn Bowls | A Complete Guide"
+seo_title: "The Shooter Stance in Lawn Bowls Explained"
 author: reece
 categories: [ help ]
 featured: false
 description: ""
-last_modified_at: 2026-10-30 10:25:00 +0000
+last_modified_at: 2026-11-04 15:05:00 +0000
 date: 2019-07-04 13:00:00 -0400
 ---
     

@@ -1,11 +1,12 @@
 ---
 layout: post
 title:  "How Much Does A Set Of Lawn Bowls Cost? | A Complete Guide"
+seo_title: "How Much Does a Set of Lawn Bowls Cost?"
 author: reece
 categories: [ help ]
 featured: false
 description: ""
-last_modified_at: 2026-10-30 10:25:00 +0000
+last_modified_at: 2026-11-04 15:05:00 +0000
 date: 2022-09-27 13:00:00 -0400
 ---
     

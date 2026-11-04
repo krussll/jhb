@@ -1,12 +1,13 @@
 ---
 layout: post
 title:  "A Beginner's Guide To Indoor Bowls Tactics | A Helpful Guide"
+seo_title: "Indoor Bowls Tactics: A Beginner's Guide"
 author: reece
 categories: [ help ]
 featured: false
 description: ""
 date: 2022-04-01 13:00:00 -0400
-last_modified_at: 2026-10-30 10:25:00 +0000
+last_modified_at: 2026-11-04 15:05:00 +0000
 ---
     
 

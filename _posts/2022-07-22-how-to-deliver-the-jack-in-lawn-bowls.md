@@ -1,11 +1,12 @@
 ---
 layout: post
 title:  "How To Deliver The Jack In Lawn Bowls | A Beginner's Guide"
+seo_title: "How to Deliver the Jack in Lawn Bowls"
 author: reece
 categories: [ help ]
 featured: false
 description: ""
-last_modified_at: 2026-10-30 10:25:00 +0000
+last_modified_at: 2026-11-04 15:05:00 +0000
 date: 2022-07-22 13:00:00 -0400
 ---
     

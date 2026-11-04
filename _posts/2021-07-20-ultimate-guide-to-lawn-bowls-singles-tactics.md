@@ -1,12 +1,13 @@
 ---
 layout: post
 title:  "The Ultimate Guide To Lawn Bowls Singles Tactics | A Helpful Guide"
+seo_title: "Ultimate Guide to Lawn Bowls Singles Tactics"
 author: reece
 categories: [ help ]
 featured: false
 description: ""
 date: 2021-07-20 13:00:00 -0400
-last_modified_at: 2026-10-30 10:25:00 +0000
+last_modified_at: 2026-11-04 15:05:00 +0000
 ---
     
 

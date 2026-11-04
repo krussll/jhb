@@ -1,11 +1,12 @@
 ---
 layout: post
 title:  "Lawn Bowls Bias Guide And Trajectory Charts | A Helpful Illustrated Guide"
+seo_title: "Lawn Bowls Bias Guide and Trajectory Charts"
 author: reece
 categories: [ guide ]
 featured: false
 description: ""
-last_modified_at: 2026-11-04 13:25:00 +0000
+last_modified_at: 2026-11-04 15:05:00 +0000
 date: 2020-05-20 13:00:00 -0400
 ---
     

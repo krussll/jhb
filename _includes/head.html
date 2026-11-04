@@ -82,17 +82,30 @@
   <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
   {% endif %}
 
-  <title>
-    {% if page.title %}{{ page_title | escape }} - {{ site.title | escape }}
-    {% else %}{{ site.title | escape }}{% endif %}
-  </title>
+  {% comment %}
+    Title tag: prefer an explicit `seo_title` (keeps the on-page H1 untouched),
+    otherwise fall back to `page.title`. The " - Jack High Bowls" brand suffix is
+    only appended when the full title stays under 70 characters (Bing guidance).
+  {% endcomment %}
+  {% assign title_tag_base = page.seo_title | default: page.title %}
+  {% if title_tag_base %}
+    {% assign title_tag_branded = title_tag_base | append: ' - ' | append: site.title %}
+    {% if title_tag_branded.size < 70 %}
+      {% assign title_tag = title_tag_branded %}
+    {% else %}
+      {% assign title_tag = title_tag_base %}
+    {% endif %}
+  {% else %}
+    {% assign title_tag = site.title %}
+  {% endif %}
+
+  <title>{{ title_tag | escape }}</title>
 
   <meta name="description" content="{{ page_description | escape }}">
 
   <!-- Open Graph / Facebook / LinkedIn / Bing / AI Crawlers -->
   <meta property="og:site_name" content="{{ site.title | escape }}">
-  <meta property="og:title"
-    content="{% if page.title %}{{ page_title | escape }} - {{ site.title | escape }}{% else %}{{ site.title | escape }}{% endif %}">
+  <meta property="og:title" content="{{ title_tag | escape }}">
   <meta property="og:description" content="{{ page_description | escape }}">
   <meta property="og:url" content="{{ canonical_url }}">
   <meta property="og:type" content="{% if is_article %}article{% else %}website{% endif %}">
@@ -118,8 +131,7 @@
 
   <!-- Twitter / X Cards -->
   <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:title"
-    content="{% if page.title %}{{ page_title | escape }} - {{ site.title | escape }}{% else %}{{ site.title | escape }}{% endif %}">
+  <meta name="twitter:title" content="{{ title_tag | escape }}">
   <meta name="twitter:description" content="{{ page_description | escape }}">
   <meta name="twitter:image" content="{{ og_image_url }}">
   {% if site.twitter_username %}

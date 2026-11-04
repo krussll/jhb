@@ -1,11 +1,12 @@
 ---
 layout: post
 title:  "Is Lawn Bowling Like Curling | A Guide To Similarities And Differences"
+seo_title: "Is Lawn Bowling Like Curling? Key Differences"
 author: reece
 categories: [ help ]
 featured: false
 description: ""
-last_modified_at: 2026-10-29 15:45:00 +0000
+last_modified_at: 2026-11-04 15:05:00 +0000
 date: 2023-02-20 13:00:00 -0400
 ---
     

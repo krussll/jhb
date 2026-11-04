@@ -1,11 +1,12 @@
 ---
 layout: post
 title:  "4 Common Injuries In Lawn Bowls - And How To Prevent Them"
+seo_title: "4 Common Lawn Bowls Injuries and How to Avoid Them"
 author: reece
 categories: [ help ]
 featured: false
 description: "An evidence-based overview of the most common injuries in lawn bowls, clinical recovery protocols from Sports Medicine Australia and the NHS, and injury prevention advice."
-last_modified_at: 2026-10-30 09:35:00 +0000
+last_modified_at: 2026-11-04 15:05:00 +0000
 date: 2021-07-13 13:00:00 -0400
 medical_disclaimer: true
 ---

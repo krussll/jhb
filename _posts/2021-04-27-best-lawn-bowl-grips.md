@@ -1,11 +1,12 @@
 ---
 layout: post
 title:  "The Best Lawn Bowl Grips  | A Helpful Illustrated Guide"
+seo_title: "The Best Lawn Bowl Grips: Illustrated Guide"
 author: reece
 categories: [ guide ]
 featured: false
 description: "Compare the best lawn bowl grips: classic dimples, deep embedded channels, and Aero Z-Scoop. Learn how factory grip styles impact release consistency and wet weather control."
-last_modified_at: 2026-11-02 17:19:00 +0000
+last_modified_at: 2026-11-04 15:05:00 +0000
 date: 2021-04-27 13:00:00 -0400
 ---
     

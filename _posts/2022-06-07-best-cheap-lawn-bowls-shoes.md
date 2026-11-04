@@ -1,11 +1,12 @@
 ---
 layout: post
 title:  "Best Cheap Lawn Bowls Shoes | A Complete Buyers Guide"
+seo_title: "Best Cheap Lawn Bowls Shoes: Buyer's Guide"
 author: reece
 categories: [ guide ]
 featured: false
 description: "Looking for affordable flat-sole bowls shoes? Discover the best cheap lawn bowls shoes from Dek and major brands that meet club regulations without breaking the bank."
-last_modified_at: 2026-11-02 17:19:00 +0000
+last_modified_at: 2026-11-04 15:05:00 +0000
 date: 2022-06-07 13:00:00 -0400
 ---
     

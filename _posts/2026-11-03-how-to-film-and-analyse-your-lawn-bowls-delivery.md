@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "How to Film & Analyse Your Lawn Bowls Delivery With Your Smartphone"
+seo_title: "How to Film & Analyse Your Lawn Bowls Delivery"
 subtitle: "A step-by-step 5-point video audit and AI diagnostic workflow to fix dumping, narrow lines, and inconsistent draw weight."
 author: reece
 categories: [ ai ]
 featured: false
 description: "Learn the two exact camera angles, slow-motion settings, and 5-checkpoint biomechanical audit to analyse your lawn bowls delivery using your smartphone and AI."
 date: 2026-11-03 11:00:00 +0000
-last_modified_at: 2026-11-03 14:14:00 +0000
+last_modified_at: 2026-11-04 15:05:00 +0000
 ---
 
 <p><strong>What you <em>feel</em> you are doing on the mat and what your body is <em>actually</em> doing are rarely the same thing. Over years of coaching club bowlers, I have lost count of how many players swore they were stepping straight down their aiming line—until a 10-second smartphone clip showed their lead foot stepping four inches across their body.</strong></p>

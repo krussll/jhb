@@ -1,12 +1,13 @@
 ---
 layout: post
 title:  "How To Prepare For A New Lawn Bowls Season | A Helpful Guide"
+seo_title: "How to Prepare for a New Lawn Bowls Season"
 author: reece
 categories: [ help ]
 featured: false
 description: ""
 date: 2020-11-07 13:00:00 -0400
-last_modified_at: 2026-10-30 10:25:00 +0000
+last_modified_at: 2026-11-04 15:05:00 +0000
 ---
     
 

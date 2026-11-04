@@ -1,11 +1,12 @@
 ---
 layout: post
 title:  "Do You Have To Be Fit To Play Bowls? | A Complete Guide"
+seo_title: "Do You Have to Be Fit to Play Lawn Bowls?"
 author: reece
 categories: [ help ]
 featured: false
 description: ""
-last_modified_at: 2026-10-30 10:25:00 +0000
+last_modified_at: 2026-11-04 15:05:00 +0000
 date: 2022-10-08 13:00:00 -0400
 ---
     
