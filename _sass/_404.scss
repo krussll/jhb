@@ -1,0 +1,297 @@
+// 404 Error Page Styles
+.page-404 {
+  background-color: #f7f8fd;
+  color: #222222;
+  min-height: calc(100vh - 200px);
+
+  &__hero {
+    position: relative;
+    padding: 7.5rem 0 5rem;
+    color: #ffffff;
+    background: radial-gradient(circle at top right, rgba(200, 155, 60, 0.22), transparent 55%),
+      linear-gradient(135deg, #0f3d1f 0%, #092613 100%);
+    overflow: hidden;
+
+    &::after {
+      content: "";
+      position: absolute;
+      inset: 0;
+      background: radial-gradient(circle at 20% 20%, rgba(255, 255, 255, 0.06), transparent 60%);
+      pointer-events: none;
+    }
+
+    .container {
+      position: relative;
+      z-index: 2;
+    }
+  }
+
+  &__hero-inner {
+    max-width: 720px;
+    margin: 0 auto;
+  }
+
+  &__badge {
+    display: inline-block;
+    padding: 0.35rem 1rem;
+    border-radius: 999px;
+    background-color: rgba(200, 155, 60, 0.2);
+    border: 1px solid rgba(200, 155, 60, 0.55);
+    color: #f5f2eb;
+    font-size: 0.85rem;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    font-weight: 700;
+    margin-bottom: 1.25rem;
+  }
+
+  &__title {
+    font-family: "Gabarito", "Open Sans", sans-serif;
+    font-size: clamp(2.25rem, 5vw, 3.5rem);
+    font-weight: 700;
+    line-height: 1.15;
+    margin-bottom: 1.25rem;
+    color: #ffffff;
+  }
+
+  &__lede {
+    font-size: 1.2rem;
+    line-height: 1.6;
+    color: rgba(255, 255, 255, 0.9);
+    margin-bottom: 2rem;
+  }
+
+  &__actions {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 1rem;
+  }
+
+  &__custom-content {
+    padding: 3rem 0 1rem;
+  }
+
+  &__pathways {
+    padding: 5rem 0;
+    background-color: #f5f2eb;
+  }
+
+  &__section-header {
+    max-width: 680px;
+    margin: 0 auto 3rem;
+  }
+
+  &__section-eyebrow {
+    display: inline-block;
+    color: #0f3d1f;
+    font-size: 0.85rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    margin-bottom: 0.5rem;
+  }
+
+  &__section-title {
+    font-size: clamp(1.75rem, 3.5vw, 2.35rem);
+    font-weight: 700;
+    color: #0f3d1f;
+    margin-bottom: 0.75rem;
+  }
+
+  &__section-subtitle {
+    font-size: 1.05rem;
+    color: #4b5563;
+    margin-bottom: 0;
+  }
+
+  &__card {
+    background: #ffffff;
+    border-radius: 1.25rem;
+    padding: 2rem 1.75rem;
+    box-shadow: 0 12px 30px rgba(15, 61, 31, 0.06);
+    border: 1px solid rgba(15, 61, 31, 0.08);
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    transition: transform 0.2s ease, box-shadow 0.2s ease, border-color 0.2s ease;
+
+    &:hover,
+    &:focus-within {
+      transform: translateY(-4px);
+      box-shadow: 0 20px 40px rgba(15, 61, 31, 0.12);
+      border-color: rgba(200, 155, 60, 0.45);
+    }
+
+    h3 {
+      font-size: 1.25rem;
+      font-weight: 700;
+      color: #0f3d1f;
+      margin: 1.25rem 0 0.5rem;
+    }
+
+    p {
+      color: #4b5563;
+      font-size: 0.95rem;
+      line-height: 1.5;
+      margin-bottom: 1.25rem;
+    }
+  }
+
+  &__card-icon {
+    width: 64px;
+    height: 64px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #f5f2eb;
+    border-radius: 1rem;
+    padding: 0.5rem;
+
+    img {
+      max-width: 100%;
+      height: auto;
+      object-fit: contain;
+    }
+  }
+
+  &__quicklinks {
+    padding: 3.5rem 0 5rem;
+    background-color: #ffffff;
+  }
+
+  &__quicklinks-box {
+    max-width: 760px;
+    margin: 0 auto;
+
+    h3 {
+      font-size: 1.35rem;
+      font-weight: 700;
+      color: #0f3d1f;
+      margin-bottom: 0.5rem;
+    }
+
+    p {
+      color: #595959;
+      margin-bottom: 1.5rem;
+    }
+  }
+
+  &__quicklinks-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 0.75rem 1.25rem;
+
+    li a {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.45rem;
+      padding: 0.65rem 1.2rem;
+      border-radius: 999px;
+      background: #f5f2eb;
+      color: #0f3d1f;
+      font-weight: 600;
+      font-size: 0.925rem;
+      text-decoration: none;
+      transition: background-color 0.2s ease, color 0.2s ease, transform 0.2s ease;
+
+      i {
+        color: #c89b3c;
+      }
+
+      &:hover,
+      &:focus {
+        background-color: #0f3d1f;
+        color: #ffffff;
+        text-decoration: none;
+        transform: translateY(-2px);
+
+        i {
+          color: #c89b3c;
+        }
+      }
+    }
+  }
+}
+
+.btn-404 {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  font-family: $headings-font-family;
+  font-weight: 600;
+  font-size: 1rem;
+  padding: 0.85rem 1.75rem;
+  border-radius: 0.75rem;
+  text-decoration: none;
+  min-height: 48px;
+  min-width: 48px;
+  box-sizing: border-box;
+  transition: transform 0.2s ease, box-shadow 0.2s ease, background-color 0.2s ease,
+    color 0.2s ease, border-color 0.2s ease;
+
+  &--primary {
+    background-color: #c89b3c;
+    border: 1px solid #c89b3c;
+    color: #0f3d1f;
+    font-weight: 700;
+    box-shadow: 0 10px 25px rgba(200, 155, 60, 0.35);
+
+    &:hover,
+    &:focus {
+      background-color: lighten(#c89b3c, 7%);
+      border-color: lighten(#c89b3c, 7%);
+      color: #0f3d1f;
+      transform: translateY(-2px);
+      box-shadow: 0 14px 30px rgba(200, 155, 60, 0.45);
+      text-decoration: none;
+    }
+  }
+
+  &--secondary {
+    background-color: rgba(255, 255, 255, 0.12);
+    border: 1px solid rgba(255, 255, 255, 0.45);
+    color: #ffffff;
+
+    &:hover,
+    &:focus {
+      background-color: rgba(255, 255, 255, 0.25);
+      border-color: #ffffff;
+      color: #ffffff;
+      transform: translateY(-2px);
+      text-decoration: none;
+    }
+  }
+}
+
+@media (max-width: 767.98px) {
+  .page-404__hero {
+    padding: 6rem 0 3.5rem;
+  }
+
+  .page-404__actions {
+    flex-direction: column;
+
+    .btn-404 {
+      width: 100%;
+    }
+  }
+
+  .page-404__pathways {
+    padding: 3.5rem 0;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .btn-404,
+  .page-404__card,
+  .page-404__quicklinks-list li a {
+    transition: none;
+  }
+}
+

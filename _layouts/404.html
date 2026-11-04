@@ -1,0 +1,90 @@
+---
+layout: default
+---
+
+<main id="main-content" class="page-404" role="main">
+  <!-- 404 Hero Section -->
+  <section class="page-404__hero">
+    <div class="container">
+      <div class="page-404__hero-inner text-center">
+        <span class="page-404__badge">Error 404 &bull; Off the Green</span>
+        <h1 class="page-404__title">{{ page.title | default: "Bowl in the Ditch!" }}</h1>
+        <p class="page-404__lede">
+          {{ page.description | default: "Looks like that shot was delivered on the wrong bias. The page you were looking for doesn't exist, has been moved, or rolled out of bounds." }}
+        </p>
+        <div class="page-404__actions">
+          <a class="btn-404 btn-404--primary" href="{{ '/' | relative_url }}">
+            <i class="fas fa-home" aria-hidden="true"></i> Return to Homepage
+          </a>
+          <a class="btn-404 btn-404--secondary" href="{{ '/getting-started/' | relative_url }}">
+            <i class="fas fa-compass" aria-hidden="true"></i> Getting Started Hub
+          </a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  {% if content and content != "" %}
+  <!-- Page Custom Content -->
+  <section class="page-404__custom-content">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8 mx-auto">
+          {{ content }}
+        </div>
+      </div>
+    </div>
+  </section>
+  {% endif %}
+
+  <!-- Recommended Pathways Section -->
+  <section class="page-404__pathways" aria-labelledby="pathways-heading">
+    <div class="container">
+      <div class="page-404__section-header text-center">
+        <span class="page-404__section-eyebrow">Find Your Line</span>
+        <h2 id="pathways-heading" class="page-404__section-title">Featured Learning Pathways</h2>
+        <p class="page-404__section-subtitle">Pick a curated pathway below to get back on track and sharpen your bowls game:</p>
+      </div>
+
+      <div class="row">
+        {% for pathway in site.data.pathways %}
+        <div class="col-lg-3 col-md-6 mb-4">
+          <article class="core-guide-card page-404__card h-100">
+            <div class="page-404__card-icon">
+              <img src="{{ pathway.icon | relative_url }}" alt="{{ pathway.icon_alt }}" width="48" height="48" loading="lazy" />
+            </div>
+            <h3>{{ pathway.title }}</h3>
+            <p>{{ pathway.description }}</p>
+            <div class="core-guide-card__actions">
+              <a class="core-guide-card__link" href="{{ pathway.article_url | relative_url }}">
+                {{ pathway.article_text }} <i class="fas fa-arrow-right" aria-hidden="true"></i>
+              </a>
+              <a class="core-guide-card__hub-link" href="{{ pathway.hub_url | relative_url }}">
+                {{ pathway.hub_text }} <i class="fas fa-chevron-right" aria-hidden="true"></i>
+              </a>
+            </div>
+          </article>
+        </div>
+        {% endfor %}
+      </div>
+    </div>
+  </section>
+
+  <!-- Helpful Quick Links Section -->
+  <section class="page-404__quicklinks" aria-label="Helpful links">
+    <div class="container">
+      <div class="page-404__quicklinks-box text-center">
+        <h3>Looking for something specific?</h3>
+        <p>Explore popular sections of Jack High Bowls:</p>
+        <ul class="page-404__quicklinks-list">
+          <li><a href="{{ '/guides/' | relative_url }}"><i class="fas fa-book-open" aria-hidden="true"></i> Guides Library</a></li>
+          <li><a href="{{ '/reviews/' | relative_url }}"><i class="fas fa-award" aria-hidden="true"></i> Gear Reviews</a></li>
+          <li><a href="{{ '/ai-coaching/' | relative_url }}"><i class="fas fa-robot" aria-hidden="true"></i> AI Coaching</a></li>
+          <li><a href="{{ '/lawn-bowls-downloadable-drill-pack/' | relative_url }}"><i class="fas fa-bullseye" aria-hidden="true"></i> Downloadable Drill Pack</a></li>
+          <li><a href="{{ '/contact/' | relative_url }}"><i class="fas fa-envelope" aria-hidden="true"></i> Contact Us</a></li>
+        </ul>
+      </div>
+    </div>
+  </section>
+</main>
+
