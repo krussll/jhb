@@ -211,13 +211,12 @@
 
 // Respect user reduced-motion preferences
 @media (prefers-reduced-motion: reduce) {
-
   .promo-strip__cta i,
   .promo-strip__cta svg {
     transition: none !important;
   }
-
   .promo-strip__control-btn {
     transition: none !important;
   }
 }
+
