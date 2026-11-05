@@ -1,0 +1,290 @@
+// Mega-menu and dropdown styles for Jack High Bowls navigation
+// Brand tokens: Deep green (#0F3D1F), Warm gold (#C89B3C), Neutral light (#F5F2EB), Dark charcoal (#222222)
+
+$nav-brand-green: #0F3D1F;
+$nav-warm-gold: #C89B3C;
+$nav-neutral-light: #F5F2EB;
+$nav-charcoal: #222222;
+$nav-border-subtle: rgba(15, 61, 31, 0.12);
+
+.choose-bowls-nav {
+  position: relative;
+
+  .dropdown-toggle {
+    display: inline-flex;
+    align-items: center;
+    cursor: pointer;
+
+    &::after {
+      display: inline-block;
+      margin-left: 0.4rem;
+      vertical-align: 0.15em;
+      content: "";
+      border-top: 0.3em solid currentColor;
+      border-right: 0.3em solid transparent;
+      border-bottom: 0;
+      border-left: 0.3em solid transparent;
+      transition: transform 0.2s ease;
+    }
+  }
+
+  &.show .dropdown-toggle::after {
+    transform: rotate(180deg);
+  }
+}
+
+// Mega-menu panel container
+.choose-bowls-menu {
+  background: #ffffff;
+  border: 1px solid $nav-border-subtle;
+  border-radius: 12px;
+  box-shadow: 0 16px 36px -4px rgba(15, 61, 31, 0.14), 0 4px 14px rgba(0, 0, 0, 0.06);
+  padding: 1.1rem 1.1rem 0.65rem;
+  margin: 0;
+  z-index: 1050;
+
+  // Grid layout for mega-menu columns
+  .choose-bowls-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1.25rem;
+  }
+
+  .choose-bowls-col {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .choose-bowls-col-title {
+    display: block;
+    font-family: $headings-font-family;
+    font-size: 0.72rem;
+    font-weight: 800;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: $nav-brand-green;
+    padding-bottom: 0.45rem;
+    margin-bottom: 0.5rem;
+    border-bottom: 2px solid rgba(200, 155, 60, 0.35);
+  }
+
+  // Interactive menu items
+  .choose-bowls-item {
+    display: flex;
+    align-items: flex-start;
+    padding: 0.6rem 0.65rem;
+    border-radius: 8px;
+    color: $nav-charcoal;
+    text-decoration: none;
+    white-space: normal; // Override Bootstrap dropdown-item nowrap
+    transition: background-color 0.18s ease, transform 0.18s ease;
+    margin-bottom: 0.3rem;
+
+    &:hover,
+    &:focus {
+      background-color: rgba(200, 155, 60, 0.14);
+      color: $nav-brand-green;
+      text-decoration: none;
+
+      .choose-bowls-icon {
+        background-color: $nav-brand-green;
+        color: $nav-warm-gold;
+        transform: scale(1.06);
+      }
+
+      .choose-bowls-item-title {
+        color: $nav-brand-green;
+      }
+    }
+
+    &:focus-visible {
+      outline: 2px solid $nav-warm-gold;
+      outline-offset: 2px;
+    }
+  }
+
+  .choose-bowls-icon {
+    width: 34px;
+    height: 34px;
+    min-width: 34px;
+    border-radius: 8px;
+    background-color: rgba(15, 61, 31, 0.08);
+    color: $nav-brand-green;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 0.9rem;
+    margin-right: 0.7rem;
+    margin-top: 0.1rem;
+    transition: background-color 0.18s ease, color 0.18s ease, transform 0.18s ease;
+  }
+
+  .choose-bowls-text {
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+  }
+
+  .choose-bowls-item-title {
+    font-family: $headings-font-family;
+    font-size: 0.85rem;
+    font-weight: 700;
+    line-height: 1.25;
+    color: #1a1a1a;
+    transition: color 0.18s ease;
+  }
+
+  .choose-bowls-item-desc {
+    font-family: $font-family-base;
+    font-size: 0.735rem;
+    line-height: 1.35;
+    color: #555555;
+    margin-top: 0.2rem;
+  }
+
+  // Footer banner link
+  .choose-bowls-footer {
+    margin-top: 0.75rem;
+    padding-top: 0.6rem;
+    border-top: 1px solid rgba(15, 61, 31, 0.08);
+
+    .choose-bowls-footer-link {
+      display: block;
+      padding: 0.55rem 0.75rem;
+      border-radius: 6px;
+      background-color: $nav-neutral-light;
+      border: 1px solid rgba(15, 61, 31, 0.08);
+      color: $nav-brand-green;
+      font-size: 0.8rem;
+      font-family: $headings-font-family;
+      font-weight: 600;
+      white-space: normal;
+      transition: background-color 0.18s ease, border-color 0.18s ease, color 0.18s ease;
+
+      strong {
+        color: $nav-brand-green;
+      }
+
+      &:hover,
+      &:focus {
+        background-color: rgba(200, 155, 60, 0.22);
+        border-color: rgba(200, 155, 60, 0.4);
+        color: darken($nav-brand-green, 5%);
+        text-decoration: none;
+      }
+
+      &:focus-visible {
+        outline: 2px solid $nav-warm-gold;
+        outline-offset: 2px;
+      }
+    }
+  }
+}
+
+// Desktop presentation (>= 992px)
+@media (min-width: 992px) {
+  .choose-bowls-menu {
+    position: absolute;
+    top: calc(100% + 8px);
+    left: 50%;
+    transform: translateX(-35%);
+    width: 540px;
+    max-width: calc(100vw - 32px);
+    display: none;
+
+    &.show {
+      display: block;
+    }
+
+    // Pointer arrow anchored to trigger button
+    &::before {
+      content: "";
+      position: absolute;
+      top: -6px;
+      left: 35%;
+      width: 12px;
+      height: 12px;
+      background: #ffffff;
+      border-left: 1px solid $nav-border-subtle;
+      border-top: 1px solid $nav-border-subtle;
+      transform: rotate(45deg);
+      z-index: 1;
+    }
+  }
+
+  @media (prefers-reduced-motion: no-preference) {
+    .choose-bowls-menu.show {
+      animation: chooseBowlsSlideDown 0.18s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+    }
+  }
+
+  @keyframes chooseBowlsSlideDown {
+    from {
+      opacity: 0;
+      transform: translateX(-35%) translateY(-6px);
+    }
+
+    to {
+      opacity: 1;
+      transform: translateX(-35%) translateY(0);
+    }
+  }
+}
+
+// Mobile collapsed presentation (< 992px)
+@media (max-width: 991.98px) {
+  .choose-bowls-menu {
+    position: static;
+    float: none;
+    width: 100%;
+    max-width: 100%;
+    background-color: #fbf9f5;
+    border: 1px solid rgba(15, 61, 31, 0.12);
+    border-radius: 8px;
+    box-shadow: none;
+    padding: 0.85rem 0.65rem 0.65rem;
+    margin-top: 0.5rem;
+    margin-bottom: 0.75rem;
+
+    .choose-bowls-grid {
+      grid-template-columns: 1fr;
+      gap: 0.85rem;
+    }
+
+    .choose-bowls-col-title {
+      font-size: 0.7rem;
+      padding-bottom: 0.35rem;
+    }
+
+    .choose-bowls-item {
+      padding: 0.5rem 0.55rem;
+      margin-bottom: 0.2rem;
+    }
+
+    .choose-bowls-icon {
+      width: 30px;
+      height: 30px;
+      min-width: 30px;
+      font-size: 0.825rem;
+      margin-right: 0.6rem;
+    }
+
+    .choose-bowls-item-title {
+      font-size: 0.825rem;
+    }
+
+    .choose-bowls-item-desc {
+      font-size: 0.71rem;
+    }
+
+    .choose-bowls-footer {
+      margin-top: 0.6rem;
+      padding-top: 0.5rem;
+
+      .choose-bowls-footer-link {
+        font-size: 0.78rem;
+        padding: 0.5rem 0.65rem;
+      }
+    }
+  }
+}
