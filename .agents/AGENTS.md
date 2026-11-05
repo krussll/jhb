@@ -25,6 +25,7 @@ This directory contains key documentation and architectural context for AI agent
 ```
 ├── .agents/                    # Workspace agent guidelines & context documentation
 │   ├── AGENTS.md               # Primary agent entry point and guidelines
+│   ├── brand-colours.md        # Definitive brand colour palette, design tokens & WCAG matrix
 │   ├── codebase_structure.md   # Architectural breakdown of layouts, includes, and config
 │   ├── styles_and_ui.md        # Sass, design tokens, typography, and UI component details
 │   └── content_and_posts.md    # Post schema, frontmatter spec, and page templates
@@ -90,7 +91,7 @@ background: "/img/post-bg.jpg" # Optional hero background image
 ```
 
 ### 3.3 Style & UI Design Rules
-- Primary brand color is Teal (`#0085A1`).
+- Brand palette: Deep Green (`#0F3D1F`), Warm Gold (`#C89B3C`), Neutral Light (`#F5F2EB`), Dark Charcoal (`#222222`). See [`.agents/brand-colours.md`](brand-colours.md) for full specs and accessibility rules.
 - Custom styles should be added in `_sass/` or integrated via `assets/vendor/startbootstrap-clean-blog/scss/`.
 - Maintain clean contrast over image banners using `.overlay` dark backdrop filters (`rgba(33, 37, 41, 0.5)`).
 

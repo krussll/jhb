@@ -23,14 +23,17 @@ assets/main.scss (Front matter wrapper)
 
 ## 2. Color Palette & Design Tokens
 
+> **Full Specification**: Refer to [`.agents/brand-colours.md`](brand-colours.md) for full color definitions, WCAG 2.1 contrast matrix, and UI component usage patterns.
+
 | Token | Hex Value / CSS Definition | Purpose |
 | :--- | :--- | :--- |
-| `$teal` | `#0085A1` | Primary Accent & Brand Color |
-| `$primary` | `$teal` (`#0085A1`) | Buttons, link hover states, active indicators |
-| `$gray-900` | `#212529` | Dark headings, body text overlay |
-| `$gray-600` | `#6c757d` | Muted metadata, subheadings, dates |
+| **Deep Green** (`$brand-green`) | `#0F3D1F` | Primary brand accent, primary CTA buttons, hero banner gradients, headers, key borders |
+| **Warm Gold** (`$brand-gold`) | `#C89B3C` | Secondary accent, badges, highlight borders, focus rings, CTA accents |
+| **Neutral Light / Cream** (`$brand-cream`) | `#F5F2EB` | Card backgrounds, callout containers, soft surface fills, light text on dark backgrounds |
+| **Dark Charcoal** (`$brand-charcoal`) | `#222222` | Primary body typography, high-contrast headings, announcement strip background |
 | `$white` | `#ffffff` | Page background, masthead text color |
 | Overlay Dark | `rgba(33, 37, 41, 0.5)` | Hero image backdrop filter for text legibility |
+| Accessible Muted Text | `#595959` | Meta dates, author lines, subtitles (meets WCAG AA on white) |
 
 ---
 
