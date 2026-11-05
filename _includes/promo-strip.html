@@ -1,70 +1,61 @@
 {% assign current_time = site.time | date: "%s" | plus: 0 %}
 {% assign active_promos = "" | split: "" %}
 {% if site.data.promos %}
-  {% for promo in site.data.promos %}
-    {% assign is_active = true %}
-    {% if promo.start_date %}
-      {% assign promo_start = promo.start_date | date: "%s" | plus: 0 %}
-      {% if promo_start > current_time %}
-        {% assign is_active = false %}
-      {% endif %}
-    {% endif %}
-    {% if promo.end_date %}
-      {% assign promo_end = promo.end_date | date: "%s" | plus: 0 %}
-      {% if promo_end < current_time %}
-        {% assign is_active = false %}
-      {% endif %}
-    {% endif %}
-    {% if is_active %}
-      {% assign active_promos = active_promos | push: promo %}
-    {% endif %}
-  {% endfor %}
+{% for promo in site.data.promos %}
+{% assign is_active = true %}
+{% if promo.start_date %}
+{% assign promo_start = promo.start_date | date: "%s" | plus: 0 %}
+{% if promo_start > current_time %}
+{% assign is_active = false %}
 {% endif %}
-
-{% if active_promos.size > 0 %}
-<aside class="promo-strip" id="promo-strip" role="region" aria-label="Featured announcements">
-  <div class="container promo-strip__container">
-    <div class="promo-strip__slider" aria-roledescription="carousel" aria-label="Announcements">
-      <div class="promo-strip__live" id="promo-strip-live" aria-live="off" aria-atomic="true">
-        {% for promo in active_promos %}
-        <div class="promo-strip__item{% if forloop.first %} is-active{% endif %}"
-             id="promo-item-{{ forloop.index0 }}"
-             role="group"
-             aria-roledescription="slide"
-             aria-label="{{ forloop.index }} of {{ active_promos.size }}"
-             data-promo-index="{{ forloop.index0 }}"
-             {% unless forloop.first %}aria-hidden="true" hidden{% endunless %}>
-          {% if promo.badge %}
-          <span class="promo-strip__badge">{{ promo.badge }}</span>
-          {% endif %}
-          <span class="promo-strip__message">{{ promo.message }}</span>
-          <a href="{{ promo.url | relative_url }}" class="promo-strip__cta">
-            <span class="promo-strip__cta-text">{{ promo.link_text }}</span>
-            <i class="fas fa-arrow-right promo-strip__cta-icon" aria-hidden="true"></i>
-          </a>
+{% endif %}
+{% if promo.end_date %}
+{% assign promo_end = promo.end_date | date: "%s" | plus: 0 %}
+{% if promo_end < current_time %} {% assign is_active=false %} {% endif %} {% endif %} {% if is_active %} {% assign
+  active_promos=active_promos | push: promo %} {% endif %} {% endfor %} {% endif %} {% if active_promos.size> 0 %}
+  <aside class="promo-strip" id="promo-strip" role="region" aria-label="Featured announcements">
+    <div class="container promo-strip__container">
+      <div class="promo-strip__slider" aria-roledescription="carousel" aria-label="Announcements">
+        <div class="promo-strip__live" id="promo-strip-live" aria-live="off" aria-atomic="true">
+          {% for promo in active_promos %}
+          <div class="promo-strip__item{% if forloop.first %} is-active{% endif %}" id="promo-item-{{ forloop.index0 }}"
+            role="group" aria-roledescription="slide" aria-label="{{ forloop.index }} of {{ active_promos.size }}"
+            data-promo-index="{{ forloop.index0 }}" {% unless forloop.first %}aria-hidden="true" hidden{% endunless %}>
+            {% if promo.badge %}
+            <span class="promo-strip__badge">{{ promo.badge }}</span>
+            {% endif %}
+            <span class="promo-strip__message">{{ promo.message }}</span>
+            <a href="{{ promo.url | relative_url }}" class="promo-strip__cta">
+              <span class="promo-strip__cta-text">{{ promo.link_text }}</span>
+              <i class="fas fa-arrow-right promo-strip__cta-icon" aria-hidden="true"></i>
+            </a>
+          </div>
+          {% endfor %}
         </div>
-        {% endfor %}
       </div>
-    </div>
 
-    <div class="promo-strip__controls" aria-label="Announcement controls">
-      {% if active_promos.size > 1 %}
-      <button type="button" class="promo-strip__control-btn promo-strip__btn--prev" aria-label="Previous announcement" data-promo-action="prev" title="Previous announcement">
-        <i class="fas fa-chevron-left" aria-hidden="true"></i>
-      </button>
+      <div class="promo-strip__controls" aria-label="Announcement controls">
+        {% if active_promos.size > 1 %}
+        <button type="button" class="promo-strip__control-btn promo-strip__btn--prev" aria-label="Previous announcement"
+          data-promo-action="prev" title="Previous announcement">
+          <i class="fas fa-chevron-left" aria-hidden="true"></i>
+        </button>
+        <!--
       <button type="button" class="promo-strip__control-btn promo-strip__btn--pause" aria-label="Pause announcement rotation" data-promo-action="pause" title="Pause announcement rotation">
         <span class="promo-strip__icon-pause"><i class="fas fa-pause" aria-hidden="true"></i></span>
         <span class="promo-strip__icon-play" style="display: none;"><i class="fas fa-play" aria-hidden="true"></i></span>
       </button>
-      <button type="button" class="promo-strip__control-btn promo-strip__btn--next" aria-label="Next announcement" data-promo-action="next" title="Next announcement">
-        <i class="fas fa-chevron-right" aria-hidden="true"></i>
-      </button>
-      {% endif %}
-      <button type="button" class="promo-strip__control-btn promo-strip__btn--close" aria-label="Dismiss announcement banner" data-promo-action="dismiss" title="Dismiss banner">
-        <i class="fas fa-times" aria-hidden="true"></i>
-      </button>
+    -->
+        <button type="button" class="promo-strip__control-btn promo-strip__btn--next" aria-label="Next announcement"
+          data-promo-action="next" title="Next announcement">
+          <i class="fas fa-chevron-right" aria-hidden="true"></i>
+        </button>
+        {% endif %}
+        <button type="button" class="promo-strip__control-btn promo-strip__btn--close"
+          aria-label="Dismiss announcement banner" data-promo-action="dismiss" title="Dismiss banner">
+          <i class="fas fa-times" aria-hidden="true"></i>
+        </button>
+      </div>
     </div>
-  </div>
-</aside>
-{% endif %}
-
+  </aside>
+  {% endif %}
