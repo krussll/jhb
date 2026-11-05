@@ -1,5 +1,6 @@
 - id: learn-the-essentials
   title: "Learn the essentials"
+  about_name: "Learn the essentials of lawn bowls"
   icon: "/img/icons/learn-the-rules.png"
   icon_alt: "Illustration for lawn bowls rules and essentials"
   description: "Master fundamental rules, scoring, and etiquette before you step onto the green."
@@ -10,6 +11,7 @@
 
 - id: choose-your-bowls
   title: "Choose your bowls"
+  about_name: "Choose your lawn bowls"
   icon: "/img/icons/buy-the-right-bowls.png"
   icon_alt: "Illustration of a lawn bowl for equipment selection"
   description: "Compare models, bias profiles, and sizes to find equipment that suits your draw."
@@ -20,6 +22,7 @@
 
 - id: practice-smarter
   title: "Practice smarter"
+  about_name: "Practice smarter lawn bowls"
   icon: "/img/icons/practice-with-confidence.png"
   icon_alt: "Illustration of target rings for practice plans"
   description: "Follow structured drills and AI coaching to develop consistent weight and line."
@@ -30,6 +33,7 @@
 
 - id: compete-with-confidence
   title: "Compete with confidence"
+  about_name: "Compete with confidence in lawn bowls"
   icon: "/img/icons/win-at-singles.png"
   icon_alt: "Illustration of tactical board for singles play"
   description: "Adopt match tactics that help you control the mat, jack, and momentum in singles play."
