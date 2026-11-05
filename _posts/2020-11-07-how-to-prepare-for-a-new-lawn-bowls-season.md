@@ -7,7 +7,7 @@ categories: [ help ]
 featured: false
 description: ""
 date: 2020-11-07 13:00:00 -0400
-last_modified_at: 2026-11-04 15:05:00 +0000
+last_modified_at: 2026-11-05 15:30:00 +0000
 ---
     
 
@@ -82,6 +82,9 @@ last_modified_at: 2026-11-04 15:05:00 +0000
 <!-- wp:paragraph -->
 <p>Expect your first few roll-ups to be pretty rough. If you haven’t played since the end of the previous season, then you have likely spent 6-7 months doing no bowling at all. You will certainly be out of practice, so it’s important not to beat yourself up if those first few sessions go badly.</p>
 <!-- /wp:paragraph -->
+
+{% include callout.html type="drill-pack" title="Kickstart Your Pre-Season Practice Plan" text="Get match-ready before opening day with 20 printable practice drills, scorecards, and session blueprints designed for solo roll-ups." %}
+
 
 <!-- wp:heading -->
 <h2><a href="#what-your-goals-should-be"></a>What your goals should be</h2>

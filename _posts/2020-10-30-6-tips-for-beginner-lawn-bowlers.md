@@ -9,7 +9,7 @@ pathway: learn-the-essentials
 next_step: /help/lawn-bowls-rules/
 featured: false
 date: 2020-10-30 13:00:00 -0400
-last_modified_at: 2026-11-05 14:45:00 +0000
+last_modified_at: 2026-11-05 15:30:00 +0000
 ---
     
 
@@ -64,6 +64,9 @@ last_modified_at: 2026-11-05 14:45:00 +0000
 <!-- wp:paragraph -->
 <p>Roll the jack to a weight that is comfortable for you. This will help with your confidence and your consistency. It’s very difficult to develop a good technique when you are trying to force extra weight - or trying hard to remove it. A consistent weight will develop your “feel” for the game.</p>
 <!-- /wp:paragraph -->
+
+{% include callout.html type="drill-pack" title="Turn Practice Sessions Into Measurable Progress" text="Stop rolling up aimlessly. Our downloadable drill pack provides 20 structured practice routines to speed up your improvement on the green." %}
+
 
 <!-- wp:paragraph -->
 <p>If you do find yourself struggling to adjust to a weight, try one shot at a comfortable weight FOR YOU. This will then act as a reference point to adjust for your next shot.</p>

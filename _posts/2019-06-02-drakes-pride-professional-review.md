@@ -5,7 +5,7 @@ author: reece
 categories: [ review, bowls ]
 featured: false
 description: "In-depth Drakes Pride Professional review: trajectory analysis, grip variations, running surface versatility, and expert verdict."
-last_modified_at: 2026-10-30 10:25:00 +0000
+last_modified_at: 2026-11-05 15:30:00 +0000
 date: 2019-06-02 13:00:00 -0400
 review:
   name: "Drakes Pride Professional Lawn Bowls"
@@ -117,6 +117,9 @@ review:
 <!-- wp:paragraph -->
 <p>The Professional model is a “Mid biased” bowl, sitting between the d-tec and XP models. This bias characteristic allows it to be equally playable on indoor and outdoor surfaces. The bias will mean your line will be on the narrow side on outdoor greens, but should allow for a decent swing on indoor surfaces.</p>
 <!-- /wp:paragraph -->
+
+{% include callout.html type="buying-guide" title="Considering the Drakes Pride Professional?" text="Make sure you choose the right size and weight for your hand with our comprehensive buyer's guide to choosing a set of bowls." %}
+
 
 <!-- wp:paragraph -->
 <p>This will need to be taken into account if you usually play as a skip, as this may limit your shot options.However, the slightly narrow line, coupled with its gradual and consistent finish makes them ideal for players in early-to-mid positions in a team.</p>

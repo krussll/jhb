@@ -5,7 +5,7 @@ author: reece
 categories: [ review, bowls ]
 featured: false
 description: "Drakes Pride D-Tec lawn bowls review: narrow bias profile, indoor specialist analysis, and direct comparisons."
-last_modified_at: 2026-10-30 09:30:00 +0000
+last_modified_at: 2026-11-05 15:30:00 +0000
 date: 2018-01-12 13:00:00 -0400
 review:
   name: "Drakes Pride D-Tec Lawn Bowls"
@@ -110,6 +110,9 @@ review:
 <!-- wp:paragraph -->
 <p>Drakes Pride introduced the d-tec to replace their existing Fineline and Advantage models, in doing so the gave the d-tec a bias somewhere in between the two previous ones. It is therefore the narrowest of all current drakes pride ranges, cutting inside the line of the popular Professional range.</p>
 <!-- /wp:paragraph -->
+
+{% include callout.html type="buying-guide" title="Comparing Bias Profiles and Models?" text="See how narrow models like the D-Tec compare with all-round club bowls in our step-by-step buyer's guide to choosing a set of bowls." %}
+
 
 <!-- wp:paragraph -->
 <p>Unlike the Professional range however, it has less as less of a “hook” on the line, providing a much smoother, flatter finish. The added benefit of the cleaner flatter finish as this really helps with “punching” shots as only an extra yard is required, as opposed to 2 or 3 required with the Professional.</p>

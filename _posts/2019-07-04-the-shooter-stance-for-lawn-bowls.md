@@ -6,7 +6,7 @@ author: reece
 categories: [ help ]
 featured: false
 description: ""
-last_modified_at: 2026-11-04 15:05:00 +0000
+last_modified_at: 2026-11-05 15:30:00 +0000
 date: 2019-07-04 13:00:00 -0400
 ---
     
@@ -78,6 +78,9 @@ date: 2019-07-04 13:00:00 -0400
 <!-- wp:paragraph -->
 <p>Traditionally we are taught to point your feet directly out towards that target, and aim with your right foot (if your right handed).</p>
 <!-- /wp:paragraph -->
+
+{% include callout.html type="drill-pack" title="Put Your Stance into Practice" text="Turn stance adjustments into lasting muscle memory with 20 structured on-green routines from our downloadable practice pack." %}
+
 
 <!-- wp:paragraph -->
 <p>When you prepare for your delivery in The Shooter Stance we stop aiming with your right foot and we turn that foot completely to a right angle, so it points perpendicular from our body. In doing so we completely eliminate your right foot from aiming and its focus is all about balance.</p>

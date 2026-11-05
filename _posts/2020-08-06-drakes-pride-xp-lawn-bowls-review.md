@@ -5,7 +5,7 @@ author: reece
 categories: [ review, bowls ]
 featured: false
 description: "Drakes Pride XP lawn bowls review: wide bias profile, heavy grass performance, Skip suitability, and verdict."
-last_modified_at: 2026-10-30 10:25:00 +0000
+last_modified_at: 2026-11-05 15:30:00 +0000
 date: 2020-08-06 13:00:00 -0400
 review:
   name: "Drakes Pride XP Lawn Bowls"
@@ -139,6 +139,9 @@ review:
 <!-- wp:paragraph -->
 <p>The XP has a mid-to-wide bias on outdoor greens. It was designed alongside top players including World Indoor champions Rob Paxton and Simon Skelton, as well as numerous Commonwealth gold medal winners, so you’ll be in good company.</p>
 <!-- /wp:paragraph -->
+
+{% include callout.html type="buying-guide" title="Looking for Maximum Turn on the Green?" text="Compare wider swing models with mid-bias alternatives in our step-by-step guide to choosing a set of lawn bowls." %}
+
 
 <!-- wp:paragraph -->
 <p>The line was designed specifically for outdoor play, so should offer a variety of shot options when playing as skips, or for singles play. The XP is more than capable of playing around short bowls, or playing running shots to add/remove woods from the head.</p>

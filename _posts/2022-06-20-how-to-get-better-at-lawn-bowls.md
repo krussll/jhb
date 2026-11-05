@@ -10,7 +10,7 @@ pathway: practice-smarter
 next_step: /help/ultimate-guide-to-lawn-bowls-singles-tactics/
 featured: false
 date: 2022-06-20 13:00:00 -0400
-last_modified_at: 2026-11-05 14:45:00 +0000
+last_modified_at: 2026-11-05 15:30:00 +0000
 ---
     
 
@@ -101,6 +101,9 @@ last_modified_at: 2026-11-05 14:45:00 +0000
 <!-- wp:paragraph -->
 <p>A pet hate of mine is how most bowlers practice aimlessly. How often have you seen someone go for a roll-up and they just roll a jack and try to draw to it. End after end.</p>
 <!-- /wp:paragraph -->
+
+{% include callout.html type="drill-pack" title="Upgrade From Casual Roll-Ups" text="The fastest way to improve is structured practice. Download 20 proven drills with printable target scorecards to measure your gains." %}
+
 
 <!-- wp:paragraph -->
 <p>This is unhelpful for a couple of reasons:</p>

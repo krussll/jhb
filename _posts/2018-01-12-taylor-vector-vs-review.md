@@ -5,7 +5,7 @@ author: reece
 categories: [ review, bowls ]
 featured: false
 description: "Taylor Vector VS lawn bowls review: narrow bias profile, indoor performance, suitability for leads, and comprehensive buyers guide."
-last_modified_at: 2026-10-30 09:30:00 +0000
+last_modified_at: 2026-11-05 15:30:00 +0000
 date: 2018-01-12 13:00:00 -0400
 review:
   name: "Taylor Vector VS Lawn Bowls"
@@ -106,6 +106,9 @@ review:
 <!-- wp:paragraph -->
 <p>The Vector VS is Taylor's main narrow line bowl, so as we'd expect it has a consistent, gentle draw. It also as a smooth “hook free” finish, designed to aide a lead or front-end bowler.</p>
 <!-- /wp:paragraph -->
+
+{% include callout.html type="buying-guide" title="Is a Narrow-Bias Bowl Right for Your Greens?" text="Find out which running line and bias profile suits your position and club surfaces in our complete guide to choosing lawn bowls." %}
+
 
 <!-- wp:paragraph -->
 <p>Because of the bias characteristics this model is also suited to your indoor bowling, or when you play fast outdoor greens. Play on anything slow or heavy could affect your game due to the narrow line not being able to navigate around other bowls in the head.</p>

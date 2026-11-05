@@ -6,7 +6,7 @@ author: reece
 categories: [ help ]
 featured: false
 description: ""
-last_modified_at: 2026-11-04 15:05:00 +0000
+last_modified_at: 2026-11-05 15:30:00 +0000
 date: 2022-07-22 13:00:00 -0400
 ---
     
@@ -34,6 +34,9 @@ date: 2022-07-22 13:00:00 -0400
 <!-- wp:paragraph -->
 <p id="E406">There are a few reasons you might be bowling short in lawn bowls:</p>
 <!-- /wp:paragraph -->
+
+{% include callout.html type="drill-pack" title="Dial In Your Draw Weight and Length" text="Overcome short bowling with targeted distance-control routines and printable scorecards from our downloadable drill pack." %}
+
 
 <!-- wp:list -->
 <ul><li>Wrong size bowl</li><li>Poor weight transfer</li><li>Inconstant rhythm speed</li><li>Poor release</li><li>Lack of follow-through</li></ul>

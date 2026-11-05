@@ -5,7 +5,7 @@ author: reece
 categories: [ review, bowls ]
 featured: false
 description: ""
-last_modified_at: 2026-10-30 09:15:00 +0000
+last_modified_at: 2026-11-05 15:30:00 +0000
 date: 2021-04-30 13:00:00 -0400
 review:
   name: "Taylor GTR Lawn Bowls"
@@ -159,6 +159,9 @@ review:
 <!-- wp:paragraph -->
 <p>The GTR is suitable for all grass and artificial greens with speeds ranging from 12-20 seconds. It will work fine on slower greens too, but the 12-20 second range is optimal.</p>
 <!-- /wp:paragraph -->
+
+{% include callout.html type="buying-guide" title="Choosing Between Modern Tight-Line Models?" text="Understand how narrow-line models affect your draw play with our step-by-step buyer's guide to choosing a set of lawn bowls." %}
+
 
 <!-- wp:paragraph -->
 <p>It travels slightly wider than the hugely popular SR model, but a touch narrower than the Vector VS.</p>

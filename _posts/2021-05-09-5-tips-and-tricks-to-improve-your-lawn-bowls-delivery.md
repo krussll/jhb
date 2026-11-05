@@ -6,7 +6,7 @@ categories: [ review ]
 featured: false
 description: ""
 date: 2021-05-09 13:00:00 -0400
-last_modified_at: 2026-10-30 10:25:00 +0000
+last_modified_at: 2026-11-05 15:30:00 +0000
 ---
     
 
@@ -81,6 +81,9 @@ last_modified_at: 2026-10-30 10:25:00 +0000
 <!-- wp:paragraph -->
 <p>When you don't get low in the delivery you can cause any of the following:</p>
 <!-- /wp:paragraph -->
+
+{% include callout.html type="drill-pack" title="Lock In Your Delivery Rhythm" text="Prevent delivery flaws from creeping in. Use our structured 20-drill pack to measure and refine your delivery arc during every roll-up." %}
+
 
 <!-- wp:list -->
 <ul><li>Bowls bouncing down the green</li><li>Releasing too early and "dropping" the bowl</li><li>The bowl wobbling down the line</li></ul>

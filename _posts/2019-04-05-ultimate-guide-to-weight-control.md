@@ -7,7 +7,7 @@ categories: [ help ]
 featured: false
 description: ""
 date: 2019-04-05 13:00:00 -0400
-last_modified_at: 2026-11-04 15:05:00 +0000
+last_modified_at: 2026-11-05 15:30:00 +0000
 ---
     
 
@@ -228,6 +228,9 @@ last_modified_at: 2026-11-04 15:05:00 +0000
 <!-- wp:paragraph -->
 <p>Here are the main drills we recommend for improving you weight control. We have seen many bowlers make quick improvements by using these drills, and I'm sure that you will to.</p>
 <!-- /wp:paragraph -->
+
+{% include callout.html type="drill-pack" title="Looking for More Weight Control Drills?" text="Download our printable 20-drill practice pack with scorecards and focused routines designed to build pinpoint length control on any green." %}
+
 
 <!-- wp:paragraph -->
 <p>As with all of our drills, we outline three things: Outcome goal - what do we want to get from the drill The method - how to perform the drill Success measure - how do we record improvements over time?</p>

@@ -6,7 +6,7 @@ author: reece
 categories: [ help ]
 featured: false
 description: ""
-last_modified_at: 2026-11-04 15:05:00 +0000
+last_modified_at: 2026-11-05 15:30:00 +0000
 date: 2022-06-29 13:00:00 -0400
 ---
     
@@ -34,6 +34,9 @@ date: 2022-06-29 13:00:00 -0400
 <!-- wp:paragraph -->
 <p>In lawn bowls "dumping" refers to when you release the bowl too soon and it bounces into the ground at force.</p>
 <!-- /wp:paragraph -->
+
+{% include callout.html type="drill-pack" title="Smooth Out Your Delivery Arc" text="Eliminate dumping with purposeful practice. Work through 20 structured drills and trackable scorecards with our downloadable drill pack." %}
+
 
 <!-- wp:quote -->
 <blockquote class="wp-block-quote"><p>Ideally a bowl should roll out of the hand in a smooth motion, however a dumped bowl will hit the ground before it begins it's journey up the rink.  </p></blockquote>

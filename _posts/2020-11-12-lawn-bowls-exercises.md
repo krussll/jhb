@@ -6,7 +6,7 @@ author: reece
 categories: [ help ]
 featured: false
 description: "Recommended exercises, warm-ups, and stretching drills for lawn bowls, combining skill development with clinical guidance from the NHS and Chartered Society of Physiotherapy."
-last_modified_at: 2026-11-04 15:05:00 +0000
+last_modified_at: 2026-11-05 15:30:00 +0000
 date: 2020-11-12 13:00:00 -0400
 medical_disclaimer: true
 ---
@@ -132,6 +132,9 @@ medical_disclaimer: true
 <!-- wp:paragraph -->
 <p>Bowling practice is much more than practising line and weight - although that is a big part of it!</p>
 <!-- /wp:paragraph -->
+
+{% include callout.html type="drill-pack" title="Want a Complete On-Green Practice System?" text="Take structured training to the green with our 20-session downloadable drill pack, including printable targets and score tracking sheets." %}
+
 
 <!-- wp:paragraph -->
 <p>Whilst grouping drills, and drawing to open jacks are the basics, I won’t be covering them here, you can read more about weight control drills here.</p>

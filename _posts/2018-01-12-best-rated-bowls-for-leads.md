@@ -9,7 +9,7 @@ skill_level: Intermediate
 pathway: choose-your-bowls
 next_step: /help/9-tips-for-how-to-play-bowls-well/
 date: 2018-01-12 13:00:00 -0400
-last_modified_at: 2026-11-05 14:45:00 +0000
+last_modified_at: 2026-11-05 15:30:00 +0000
 items:
   - name: "Taylor Vector VS"
     award: "Best Overall Lead Bowl"
@@ -111,6 +111,9 @@ items:
 <!-- wp:paragraph -->
 <p>There are multiple things to consider when selecting a set of bowls as a lead.</p>
 <!-- /wp:paragraph -->
+
+{% include callout.html type="buying-guide" title="Unsure Which Lead Bowl Fits Your Delivery?" text="Choosing the right set requires matching bias, hand size, and grip to your home greens. Explore our complete guide to choosing lawn bowls." %}
+
 
 <!-- wp:paragraph -->
 <p>Firstly, what is the bias characteristic of the model? As a lead it is generally considered better to buy bowls with a narrow line. The reasoning being that less movement on the swing will lead to a smaller difference between shots. Also, as a lead there is unlikely to be many other bowls blocking your chosen hand, this leaves you free to find the model with the best line for you. Whilst a narrow bowl isn’t a guarantee for consistency it is usually a safe bet.</p>

@@ -6,6 +6,7 @@ categories: [ guide ]
 featured: false
 description: ""
 date: 2018-01-12 13:00:00 -0400
+last_modified_at: 2026-11-05 15:30:00 +0000
 ---
     
 
@@ -44,6 +45,9 @@ date: 2018-01-12 13:00:00 -0400
 <!-- wp:paragraph -->
 <p>Buying woods online is a safe, and simple process, once you have your list of answers. Most posts on the sites listed below should have enough information within them to check off your list, however if something is missing there is always a way to contact the seller.</p>
 <!-- /wp:paragraph -->
+
+{% include callout.html type="buying-guide" title="New vs. Second-Hand Bowls: How to Decide" text="Learn how to inspect date stamps, select the correct grip, and pick the ideal bowl size in our complete buyer's guide." %}
+
 
 <!-- wp:paragraph -->
 <p>Woods can be HEAVY and this can make postage quite expensive. You will find rates can vary a lot, so do be sure to include the P &amp; P in your costs.</p>

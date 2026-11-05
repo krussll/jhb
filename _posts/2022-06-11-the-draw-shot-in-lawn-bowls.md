@@ -6,7 +6,7 @@ author: reece
 categories: [ help ]
 featured: false
 description: ""
-last_modified_at: 2026-11-04 15:05:00 +0000
+last_modified_at: 2026-11-05 15:30:00 +0000
 date: 2022-06-11 13:00:00 -0400
 ---
     
@@ -122,6 +122,9 @@ date: 2022-06-11 13:00:00 -0400
 <!-- wp:paragraph -->
 <p>Now we understand what the draw shot is, as well as when to play it, its time to look at how to play it.</p>
 <!-- /wp:paragraph -->
+
+{% include callout.html type="drill-pack" title="Master the Draw Shot Every Time" text="Draw shot consistency is the foundation of winning bowls. Build reliable muscle memory with 20 printable drills and scorecards." %}
+
 
 <!-- wp:heading {"level":3} -->
 <h3>Choose which hand to play</h3>

@@ -6,7 +6,7 @@ categories: [ guide ]
 featured: false
 description: "The best lawn bowls for fast greens and indoor carpets: compare narrow-running profiles from Aero, Taylor, and Henselite designed for touch, wind stability, and line control."
 date: 2019-07-25 13:00:00 -0400
-last_modified_at: 2026-11-05 12:12:00 +0000
+last_modified_at: 2026-11-05 15:30:00 +0000
 items:
   - name: "Aero GrooVe"
     award: "Best All-Round Fast Green Bowl"
@@ -149,6 +149,9 @@ items:
 <!-- wp:paragraph -->
 <p>The main characteristic of a bowl that is good for fast greens is the narrower line. Almost to the point of an indoor bowl.</p>
 <!-- /wp:paragraph -->
+
+{% include callout.html type="buying-guide" title="Selecting Bowls for Different Green Speeds" text="Learn how green speeds impact trajectory and which model fits your club greens in our complete lawn bowls buyer's guide." %}
+
 
 <!-- wp:paragraph -->
 <p>As <a href="{{ '/help/playing-lawn-bowls-in-windy-conditions' | relative_url }}">bowls can also be affected by windy conditions</a> more on fast greens you could also consider looking at models that have specialist grips that aim to reduce those affects.</p>

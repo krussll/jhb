@@ -1,0 +1,55 @@
+{% assign callout_type = include.type | default: 'drill-pack' %}
+
+{% if callout_type == 'drill-pack' %}
+  {% assign default_title = "Level Up Your Practice Sessions" %}
+  {% assign default_text = "Looking for structured drills to sharpen your consistency? Download our printable 20-drill practice pack with scorecards and focused routines." %}
+  {% assign default_url = "/lawn-bowls-downloadable-drill-pack/" %}
+  {% assign default_cta = "Get the Drill Pack" %}
+  {% assign default_aria = "Recommended practice resource: Downloadable Lawn Bowls Drill Pack" %}
+  {% assign default_badge = "Practice System" %}
+  {% assign default_icon = "fas fa-bullseye" %}
+{% elsif callout_type == 'buying-guide' %}
+  {% assign default_title = "Choosing Your Next Set of Lawn Bowls?" %}
+  {% assign default_text = "Unsure which bias, size, or grip suits your style? Read our step-by-step buyer's guide to finding the perfect set for your position and home greens." %}
+  {% assign default_url = "/guide/how-to-choose-a-set-of-lawn-bowls/" %}
+  {% assign default_cta = "Read Buyer's Guide" %}
+  {% assign default_aria = "Recommended equipment guide: How to Choose a Set of Lawn Bowls" %}
+  {% assign default_badge = "Buyer's Guide" %}
+  {% assign default_icon = "fas fa-compass" %}
+{% else %}
+  {% assign default_title = "Featured Resource" %}
+  {% assign default_text = "" %}
+  {% assign default_url = "/" %}
+  {% assign default_cta = "Learn More" %}
+  {% assign default_aria = "Featured resource" %}
+  {% assign default_badge = "Resource" %}
+  {% assign default_icon = "fas fa-arrow-circle-right" %}
+{% endif %}
+
+{% assign callout_title = include.title | default: default_title %}
+{% assign callout_text = include.text | default: default_text %}
+{% assign callout_url = include.url | default: default_url %}
+{% assign callout_cta = include.cta_text | default: default_cta %}
+{% assign callout_aria = include.aria_label | default: default_aria %}
+{% assign callout_badge = include.badge | default: default_badge %}
+{% assign callout_icon = include.icon | default: default_icon %}
+
+<aside class="brand-callout-card brand-callout-card--{{ callout_type }}" aria-label="{{ callout_aria }}">
+  <div class="brand-callout-card__body">
+    <div class="brand-callout-card__header">
+      {% if callout_badge and callout_badge != "" %}
+      <span class="brand-callout-card__badge"><i class="{{ callout_icon }}" aria-hidden="true"></i> {{ callout_badge }}</span>
+      {% endif %}
+      <h3 class="brand-callout-card__title">{{ callout_title }}</h3>
+    </div>
+    {% if callout_text and callout_text != "" %}
+    <p class="brand-callout-card__text">{{ callout_text }}</p>
+    {% endif %}
+  </div>
+  <div class="brand-callout-card__action">
+    <a href="{{ callout_url | relative_url }}" class="btn brand-callout-card__btn">
+      <span>{{ callout_cta }}</span> <i class="fas fa-arrow-right" aria-hidden="true"></i>
+    </a>
+  </div>
+</aside>
+

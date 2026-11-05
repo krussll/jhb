@@ -7,7 +7,7 @@ categories: [ help ]
 featured: false
 description: ""
 date: 2022-02-19 13:00:00 -0400
-last_modified_at: 2026-11-04 15:05:00 +0000
+last_modified_at: 2026-11-05 15:30:00 +0000
 ---
     
 
@@ -34,6 +34,9 @@ last_modified_at: 2026-11-04 15:05:00 +0000
 <!-- wp:paragraph -->
 <p>If you are new to the sport of bowls, then you may not have a pre-mat routine. The pre-mat routine is incredibly important at getting yourself in the correct mindset and alignment to deliver your bowl correctly.</p>
 <!-- /wp:paragraph -->
+
+{% include callout.html type="drill-pack" title="Ready to Take Practice to the Green?" text="Complement your home training with 20 structured on-green routines and printable scorecards in our downloadable drill pack." %}
+
 
 <!-- wp:paragraph -->
 <p>This will usually involve aligning yourself to your chosen line, stepping onto the mat, aligning your feet, hips and shoulders to the line and focusing on your aiming point.</p>

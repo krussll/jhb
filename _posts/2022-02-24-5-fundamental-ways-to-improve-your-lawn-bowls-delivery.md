@@ -7,7 +7,7 @@ categories: [ help ]
 featured: false
 description: ""
 date: 2022-02-24 13:00:00 -0400
-last_modified_at: 2026-11-04 15:05:00 +0000
+last_modified_at: 2026-11-05 15:30:00 +0000
 ---
     
 
@@ -38,6 +38,9 @@ last_modified_at: 2026-11-04 15:05:00 +0000
 <!-- wp:paragraph -->
 <p>Having a consistent planned out pre-delivery routine is a great place to start. A pre-delivery routine not only makes sure you are in the right mental state to take your shot, but also gives you a better chance that you will be in the correct alignment for your shot.</p>
 <!-- /wp:paragraph -->
+
+{% include callout.html type="drill-pack" title="Test Your Delivery Consistency" text="Put your delivery fundamentals under pressure with 20 scored practice drills and printable scorecards from our downloadable pack." %}
+
 
 <!-- wp:paragraph -->
 <p>A pre-delivery routine could include:</p>

@@ -6,7 +6,7 @@ categories: [ help ]
 featured: false
 description: ""
 date: 2019-04-30 13:00:00 -0400
-last_modified_at: 2026-10-30 10:25:00 +0000
+last_modified_at: 2026-11-05 15:30:00 +0000
 ---
     
 
@@ -93,6 +93,9 @@ last_modified_at: 2026-10-30 10:25:00 +0000
 <!-- wp:paragraph -->
 <p>Practice makes perfect, but smart practice is better!</p>
 <!-- /wp:paragraph -->
+
+{% include callout.html type="drill-pack" title="Sharpen Your Lead Draw Consistency" text="Leads win games by mastering draw weight. Download our 20-routine printable practice pack with dedicated scorecards to track your progress." %}
+
 
 <!-- wp:heading {"level":3} -->
 <h3><a href="#land-the-mat"></a>Land the mat</h3>

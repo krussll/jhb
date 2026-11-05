@@ -7,7 +7,7 @@ categories: [ help ]
 featured: false
 description: ""
 date: 2021-04-30 13:00:00 -0400
-last_modified_at: 2026-11-04 15:05:00 +0000
+last_modified_at: 2026-11-05 15:30:00 +0000
 ---
     
 
@@ -54,6 +54,9 @@ last_modified_at: 2026-11-04 15:05:00 +0000
 <!-- wp:paragraph -->
 <p>It’s been said a thousand times, bowls is 80% mental. We have all seen it happen at club level. Players who show great talent and promise, but they just can’t quite win the big games or they wither under the slightest bit of pressure.</p>
 <!-- /wp:paragraph -->
+
+{% include callout.html type="drill-pack" title="Build Pressure Resistance in Practice" text="Recreate match tension during solo roll-ups with scored routines from our 20-session downloadable lawn bowls practice pack." %}
+
 
 <!-- wp:paragraph -->
 <p>This is especially true when playing singles, as you will have no one else to guide you. You need to find a <a href="{{ '/help/5-ways-to-improve-concentration-in-lawn-bowls' | relative_url }}">way to prepare yourself to bowl</a> and to maintain your best levels.</p>

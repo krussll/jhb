@@ -5,7 +5,7 @@ author: reece
 categories: [ review, bowls ]
 featured: false
 description: "Comprehensive Taylor Ace lawn bowls review: bias profile analysis, grip options, indoor vs outdoor performance, and pros & cons for club bowlers."
-last_modified_at: 2026-10-30 10:25:00 +0000
+last_modified_at: 2026-11-05 15:30:00 +0000
 date: 2019-06-20 13:00:00 -0400
 review:
   name: "Taylor Ace Lawn Bowls"
@@ -148,6 +148,9 @@ review:
 <!-- wp:paragraph -->
 <p>The Taylor Ace is a Mid biased bowl. It has been designed to have a slightly wider drawing line then Taylor Vector VS - which is Taylor's main narrow biased outdoor bowl - so it will stay on the narrow side.</p>
 <!-- /wp:paragraph -->
+
+{% include callout.html type="buying-guide" title="Is the Taylor Ace the Right Bowl for You?" text="Selecting the ideal set depends on your position, hand size, and green conditions. Read our step-by-step guide to choosing lawn bowls." %}
+
 
 <!-- wp:paragraph -->
 <p>It will be perfectly playable from any team position. It has a clean "hook free" finish so it will help your draw shot as a lead, but also has a wide enough line to play skip.</p>

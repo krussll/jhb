@@ -5,7 +5,7 @@ author: reece
 categories: [ review, bowls ]
 featured: false
 description: ""
-last_modified_at: 2026-10-30 09:15:00 +0000
+last_modified_at: 2026-11-05 15:30:00 +0000
 date: 2021-04-27 13:00:00 -0400
 review:
   name: "Taylor International Lawn Bowls"
@@ -110,6 +110,9 @@ review:
 <!-- wp:paragraph -->
 <p>Taylor advertise the International model as running slightly wider than the Ace, with a stronger finish.</p>
 <!-- /wp:paragraph -->
+
+{% include callout.html type="buying-guide" title="Finding Your Optimal Bias Profile" text="From traditional wider swings to modern tighter lines, learn what works best on your greens in our complete bowls buyer's guide." %}
+
 
 <!-- wp:paragraph -->
 <p>I would recommend this bias for those playing any position outdoors. The International might run a tad wide for those used to narrow lead bowls, but if you play multiple positions throughout the year then the International is adaptable enough to cover you.</p>

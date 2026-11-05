@@ -5,7 +5,7 @@ author: reece
 categories: [ review, bowls ]
 featured: false
 description: ""
-last_modified_at: 2026-10-30 10:25:00 +0000
+last_modified_at: 2026-11-05 15:30:00 +0000
 date: 2019-06-06 13:00:00 -0400
 review:
   name: "Taylor Legacy SL Lawn Bowls"
@@ -129,6 +129,9 @@ review:
 <!-- wp:paragraph -->
 <p>The Taylor Legacy SL has a mid-to-wide bias. This produces a wider arch to the jack compared to the Lazer and Ace models. This makes it ideal for outdoor play in order to handle heavy unresponsive greens.</p>
 <!-- /wp:paragraph -->
+
+{% include callout.html type="buying-guide" title="Wide Bias or Mid Bias: Which Suits Your Style?" text="Understand how running surfaces and bias trajectories affect your game in our in-depth guide to choosing lawn bowls." %}
+
 
 <!-- wp:paragraph -->
 <p>The wider bias means that you can play skip and other late positions. Also, the smooth draw line means that the Legacy model could be ideal for singles play.</p>

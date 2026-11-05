@@ -5,7 +5,7 @@ author: reece
 categories: [ review, bowls ]
 featured: false
 description: ""
-last_modified_at: 2026-10-30 09:30:00 +0000
+last_modified_at: 2026-11-05 15:30:00 +0000
 date: 2020-07-07 13:00:00 -0400
 review:
   name: "Taylor Lazer Lawn Bowls"
@@ -115,6 +115,9 @@ review:
 <!-- wp:paragraph -->
 <p>The Taylor Lazer Bowl has the narrowest running bias in the Taylor range, this makes them ideal for indoor play. They can be played outdoors but only on particularly fast greens. We wouldn’t recommend playing with Lazer bowls if you regularly play outdoors in the UK.</p>
 <!-- /wp:paragraph -->
+
+{% include callout.html type="buying-guide" title="Are Narrow-Line Bowls Right for Your Greens?" text="Discover how tight-line models perform on grass vs. carpet in our comprehensive guide to choosing a set of lawn bowls." %}
+
 
 <!-- wp:paragraph -->
 <p>The line profile is on the narrow side, even in indoor rinks, so lends itself more towards lead play, but is perfectly playable in any team position.</p>

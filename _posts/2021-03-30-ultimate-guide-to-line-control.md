@@ -7,7 +7,7 @@ categories: [ help ]
 featured: false
 description: ""
 date: 2021-03-30 13:00:00 -0400
-last_modified_at: 2026-11-04 15:05:00 +0000
+last_modified_at: 2026-11-05 15:30:00 +0000
 ---
     
 
@@ -78,6 +78,9 @@ last_modified_at: 2026-11-04 15:05:00 +0000
 <!-- wp:paragraph -->
 <p>Before we can understand what we can do to improve I find it's helpful to understand what not to do. The two are often linked.</p>
 <!-- /wp:paragraph -->
+
+{% include callout.html type="drill-pack" title="Build Pinpoint Line Consistency" text="Pair these line control techniques with 20 focused, printable drills designed to tighten your delivery arc and reduce stray bowls." %}
+
 
 <!-- wp:heading {"level":3} -->
 <h3><a href="#delivery-position"></a>Delivery position</h3>

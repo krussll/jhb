@@ -7,7 +7,7 @@ categories: [ help ]
 featured: false
 description: ""
 date: 2021-03-31 13:00:00 -0400
-last_modified_at: 2026-11-04 15:05:00 +0000
+last_modified_at: 2026-11-05 15:30:00 +0000
 ---
     
 
@@ -98,6 +98,9 @@ last_modified_at: 2026-11-04 15:05:00 +0000
 <!-- wp:paragraph -->
 <p>As with any shot in bowls, it comes down to line, and weight. You need to select the correct line, to account for the bias, and with the correct “yard-on” weight. Not enough weight and you could end up short of the head (i.e., not make it to the target) and look rather silly.</p>
 <!-- /wp:paragraph -->
+
+{% include callout.html type="drill-pack" title="Practice Controlled Weight Variations" text="Mastering weighted shots takes deliberate repetition. Work through target routines and scoring drills in our downloadable drill pack." %}
+
 
 <!-- wp:heading {"level":3} -->
 <h3><a href="#aiming-points-and-line-control"></a>Aiming points and line control</h3>

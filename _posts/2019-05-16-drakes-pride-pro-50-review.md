@@ -5,7 +5,7 @@ author: reece
 categories: [ review, bowls ]
 featured: false
 description: "Drakes Pride Pro-50 lawn bowls review: channel grip evaluation, wet weather handling, and comparison to the classic Professional."
-last_modified_at: 2026-10-30 10:25:00 +0000
+last_modified_at: 2026-11-05 15:30:00 +0000
 date: 2019-05-16 13:00:00 -0400
 review:
   name: "Drakes Pride PRO-50 Lawn Bowls"
@@ -154,6 +154,9 @@ review:
 <!-- wp:paragraph -->
 <p>The PRO-50 is based off of the Professional model with it's “Mid biased” profile, sitting between the d-tec and XP models. Because of the bias used, the PRO-50 can be played equally on indoor and outdoor rinks. The bias will mean your line will be slightly narrow compared to other models in this price bracket, but will allow for a decent swing on indoor surfaces.</p>
 <!-- /wp:paragraph -->
+
+{% include callout.html type="buying-guide" title="Finding the Right Grip and Bias Profile" text="Learn how channel grips and mid-bias lines perform across different green speeds in our complete guide to choosing lawn bowls." %}
+
 
 <!-- wp:paragraph -->
 <p>This model is ideal for any bowler who plays lead, or even a 2 in a four rink. This is due to the narrow line, and the clean even finish. A gradual draw is the PRO-50's bread and butter!</p>

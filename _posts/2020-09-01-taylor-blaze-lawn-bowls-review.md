@@ -5,7 +5,7 @@ author: reece
 categories: [ review, bowls ]
 featured: false
 description: "Taylor Blaze lawn bowls review: mid-narrow bias line, fast surface performance, and comparison to Ace and Vector VS."
-last_modified_at: 2026-10-30 09:15:00 +0000
+last_modified_at: 2026-11-05 15:30:00 +0000
 date: 2020-09-01 13:00:00 -0400
 review:
   name: "Taylor Blaze Lawn Bowls"
@@ -136,6 +136,9 @@ review:
 <!-- wp:paragraph -->
 <p>The Taylor Blaze sits in between the Vector VS and Ace. It’s designed with the indoor game in mind, however it can easily be played outdoors - especially on faster summer surfaces.</p>
 <!-- /wp:paragraph -->
+
+{% include callout.html type="buying-guide" title="Evaluating Mid-Bias All-Round Bowls?" text="See how versatile models match up across different rink positions and green speeds in our complete guide to choosing lawn bowls." %}
+
 
 <!-- wp:block {"ref":2819} /-->
 

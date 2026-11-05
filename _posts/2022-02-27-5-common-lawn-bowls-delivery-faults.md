@@ -7,7 +7,7 @@ categories: [ help ]
 featured: false
 description: ""
 date: 2022-02-27 13:00:00 -0400
-last_modified_at: 2026-11-04 15:05:00 +0000
+last_modified_at: 2026-11-05 15:30:00 +0000
 ---
     
 
@@ -42,6 +42,9 @@ last_modified_at: 2026-11-04 15:05:00 +0000
 <!-- wp:paragraph -->
 <p>This is one of the most common issues for beginner bowlers who are finding their feet.</p>
 <!-- /wp:paragraph -->
+
+{% include callout.html type="drill-pack" title="Cure Delivery Faults With Scored Drills" text="Replace erratic habits with reliable muscle memory using 20 focused practice routines from our downloadable drill pack." %}
+
 
 <!-- wp:paragraph -->
 <p>The issue is immediately after the release the bowl appears to “wobble” - the best place to see this is on the grips of the bowl. The bowl will then straighten slightly and then continue on it’s way.</p>

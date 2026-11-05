@@ -5,7 +5,7 @@ author: reece
 categories: [ guide ]
 featured: false
 description: "The best lawn bowls for skips compared: wider-bias and mid-bias models engineered to navigate busy heads, play weighted trail shots, and hold line on drives."
-last_modified_at: 2026-11-05 12:12:00 +0000
+last_modified_at: 2026-11-05 15:30:00 +0000
 date: 2022-04-01 13:00:00 -0400
 items:
   - name: "Taylor International"
@@ -109,6 +109,9 @@ items:
 <!-- wp:paragraph -->
 <p>As I suggested above, choosing a model of bowl as a skip is tricky as there aren't any particular strong shot tendencies. The best way to approach it is to look at how you play bowls and find a model that suits that, rather than the role.</p>
 <!-- /wp:paragraph -->
+
+{% include callout.html type="buying-guide" title="Choosing the Best Model for Skips" text="Skips need versatility for conversion shots and tight draws. Learn how to pick the right set in our complete lawn bowls buyer's guide." %}
+
 
 <!-- wp:paragraph -->
 <p>Lets take a look at a couple of examples.</p>

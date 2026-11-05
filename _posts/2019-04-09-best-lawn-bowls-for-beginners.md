@@ -9,7 +9,7 @@ skill_level: Beginner
 pathway: choose-your-bowls
 next_step: /guide/how-to-choose-a-set-of-lawn-bowls/
 date: 2019-04-09 13:00:00 -0400
-last_modified_at: 2026-11-05 14:45:00 +0000
+last_modified_at: 2026-11-05 15:30:00 +0000
 items:
   - name: "Taylor Ace"
     award: "Best All-Rounder & Club Standard"
@@ -133,6 +133,9 @@ items:
 <!-- wp:paragraph -->
 <p>Bowls come in a set one of eight standard sizes (00 - 6). As a general rule of thumb, the gentlemen will often use a size between 3 and 5 - with 3 being the smaller size - and the ladies using 00 and 2, however the only way to find what works for you is to see how the different sizes feel in your hands.</p>
 <!-- /wp:paragraph -->
+
+{% include callout.html type="buying-guide" title="Need More Help Finding Your Ideal Set?" text="Check out our complete step-by-step buyer's guide covering hand measurements, grip options, and bias lines for every surface." %}
+
 
 <!-- wp:paragraph -->
 <p>This is the most important element of selecting your bowls, too large and you won’t be able to hold it properly, too small and you’ll see them flying all over the green.</p>

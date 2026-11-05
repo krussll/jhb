@@ -10,7 +10,7 @@ pathway: compete-with-confidence
 next_step: /help/lawn-bowls-pairs-tactics/
 featured: false
 date: 2021-07-20 13:00:00 -0400
-last_modified_at: 2026-11-05 14:45:00 +0000
+last_modified_at: 2026-11-05 15:30:00 +0000
 ---
     
 
@@ -33,6 +33,9 @@ last_modified_at: 2026-11-05 14:45:00 +0000
 <!-- wp:paragraph -->
 <p>Normally you will play a few trial ends before the start of a game, there will be several unknown factors that you need to inform your strategy. This information has to be acquired in the trial ends as far as possible. While you understand your own strengths and weaknesses, you won't know those of your opponent if you haven't been matched with them before.</p>
 <!-- /wp:paragraph -->
+
+{% include callout.html type="drill-pack" title="Practice Singles Scenarios on the Green" text="Sharpen your drawing accuracy and recovery shots with targeted solo routines from our downloadable lawn bowls drill pack." %}
+
 
 <!-- wp:heading {"level":3} -->
 <h3><a href="#assessing-the-conditions"></a>Assessing The Conditions</h3>

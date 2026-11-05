@@ -5,7 +5,7 @@ author: reece
 categories: [ review, bowls ]
 featured: false
 description: "Aero Groove lawn bowls review: robotic precision manufacturing, mid-bias trajectory, Z-Scoop grip evaluation, and performance score."
-last_modified_at: 2026-10-30 10:25:00 +0000
+last_modified_at: 2026-11-05 15:30:00 +0000
 date: 2020-09-12 13:00:00 -0400
 review:
   name: "Aero GrooVe Lawn Bowls"
@@ -140,6 +140,9 @@ review:
 <!-- wp:paragraph -->
 <p>For comparison for those in the UK, the Groove has a line profile similar to the Taylor Ace.</p>
 <!-- /wp:paragraph -->
+
+{% include callout.html type="buying-guide" title="Considering an Aero Model for Your Game?" text="Learn about trajectory shapes, proprietary grips, and sizing tips before buying in our complete guide to choosing lawn bowls." %}
+
 
 <!-- wp:block {"ref":2822} /-->
 

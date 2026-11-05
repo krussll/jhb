@@ -6,7 +6,7 @@ categories: [ guide ]
 featured: false
 description: ""
 date: 2019-07-14 13:00:00 -0400
-last_modified_at: 2026-10-30 10:25:00 +0000
+last_modified_at: 2026-11-05 15:30:00 +0000
 ---
     
 
@@ -29,6 +29,9 @@ last_modified_at: 2026-10-30 10:25:00 +0000
 <!-- wp:paragraph -->
 <p>The best bit about aiming points are they remain static. Other methods, such as using the mat like a clock face, rely on everything being set up the same (such as the mat being laid straight).</p>
 <!-- /wp:paragraph -->
+
+{% include callout.html type="drill-pack" title="Master Line Control With Structured Drills" text="Reinforce your aiming points with target routines and trackable scorecards from our downloadable lawn bowls drill pack." %}
+
 
 <!-- wp:paragraph -->
 <p>Aiming points are also pretty resilient to minor changes to the environment, playing conditions, and the <a href="{{ '/help/how-do-you-judge-the-length-of-a-jack-in-lawn-bowls-a-complete-guide' | relative_url }}">jack length</a>. There are downsides, which we will cover later, but for the most part aiming points are fairly reliable.</p>
