@@ -8,7 +8,7 @@ categories: [ ai ]
 featured: false
 description: "Learn the two exact camera angles, slow-motion settings, and 5-checkpoint biomechanical audit to analyse your lawn bowls delivery using your smartphone and AI."
 date: 2026-11-03 11:00:00 +0000
-last_modified_at: 2026-11-04 15:05:00 +0000
+last_modified_at: 2026-11-05 12:12:00 +0000
 ---
 
 <p><strong>What you <em>feel</em> you are doing on the mat and what your body is <em>actually</em> doing are rarely the same thing. Over years of coaching club bowlers, I have lost count of how many players swore they were stepping straight down their aiming line—until a 10-second smartphone clip showed their lead foot stepping four inches across their body.</strong></p>
@@ -47,7 +47,7 @@ last_modified_at: 2026-11-04 15:05:00 +0000
 
 <p>Once you spot which of the five checkpoints looks off—or if you upload two still screenshots from your Side-On and Down-the-Line clips directly into ChatGPT—use the prompt below to build a corrective drill routine:</p>
 
-<div class="card my-4 p-4 bg-light" style="border-left: 4px solid #0F3D1F;">
+<div class="card my-4 p-4 bg-light" style="border-left: 4px solid #1F2B5F;">
   <h3 class="h6 font-weight-bold text-dark mb-2">Copy &amp; Paste Prompt: Video Audit Action Plan</h3>
   <p class="small text-muted mb-2">Copy this into ChatGPT (and attach screenshots of your Top of Backswing and Release Point if you like):</p>
   <p class="mb-0" style="font-family: monospace; font-size: 0.9rem;">

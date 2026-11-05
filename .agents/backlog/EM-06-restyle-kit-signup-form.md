@@ -20,7 +20,7 @@ Rework `_includes/mailchimp-form.html` so the Kit form uses the site's existing 
 - The embed has `data-format="modal"`, and its `data-options` include a 5-second timer trigger. Check whether Kit's `ck.5.js` turns it into a **second popup** on top of the site's own `newsletter-modal`. If it does, switch to an inline format or a plain HTML POST.
 - Simplest robust approach: a plain `<form action="https://app.kit.com/forms/10138357/subscriptions" method="post">` with `name="email_address"` and optional `name="fields[first_name]"`, using the existing `.home-lead__form`, `.form-group` and `.form-control` classes, and honouring `include.button_text`. Drop `ck.5.js` if it isn't needed, or load it once, deferred, from `assets/js` per AGENTS.md.
 - Optionally rename the include to `newsletter-form.html` and update the three includes that use it.
-- Brand palette: `#0F3D1F`, `#C89B3C`, `#F5F2EB`, `#222222`. Make sure inputs have proper `<label>`s (not just `aria-label` or a placeholder).
+- Brand palette: `#1F2B5F`, `#C89B3C`, `#F5F2EB`, `#222222`. Make sure inputs have proper `<label>`s (not just `aria-label` or a placeholder).
 
 ## Completion criteria
 - [ ] The inline lead block and the modal look on-brand and identical to each other; the button text comes from `include.button_text`.

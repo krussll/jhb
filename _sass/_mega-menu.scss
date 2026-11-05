@@ -1,11 +1,11 @@
 // Mega-menu and dropdown styles for Jack High Bowls navigation
-// Brand tokens: Deep green (#0F3D1F), Warm gold (#C89B3C), Neutral light (#F5F2EB), Dark charcoal (#222222)
+// Brand tokens: Deep blue (#1F2B5F), Warm gold (#C89B3C), Neutral light (#F5F2EB), Dark charcoal (#222222)
 
-$nav-brand-green: #0F3D1F;
+$nav-brand-blue: #1F2B5F;
 $nav-warm-gold: #C89B3C;
 $nav-neutral-light: #F5F2EB;
 $nav-charcoal: #222222;
-$nav-border-subtle: rgba(15, 61, 31, 0.12);
+$nav-border-subtle: rgba(31, 43, 95, 0.12);
 
 .choose-bowls-nav {
   position: relative;
@@ -62,7 +62,7 @@ $nav-border-subtle: rgba(15, 61, 31, 0.12);
     font-weight: 800;
     letter-spacing: 0.08em;
     text-transform: uppercase;
-    color: $nav-brand-green;
+    color: $nav-brand-blue;
     padding-bottom: 0.45rem;
     margin-bottom: 0.5rem;
     border-bottom: 2px solid rgba(200, 155, 60, 0.35);
@@ -83,17 +83,17 @@ $nav-border-subtle: rgba(15, 61, 31, 0.12);
     &:hover,
     &:focus {
       background-color: rgba(200, 155, 60, 0.14);
-      color: $nav-brand-green;
+      color: $nav-brand-blue;
       text-decoration: none;
 
       .choose-bowls-icon {
-        background-color: $nav-brand-green;
+        background-color: $nav-brand-blue;
         color: $nav-warm-gold;
         transform: scale(1.06);
       }
 
       .choose-bowls-item-title {
-        color: $nav-brand-green;
+        color: $nav-brand-blue;
       }
     }
 
@@ -109,7 +109,7 @@ $nav-border-subtle: rgba(15, 61, 31, 0.12);
     min-width: 34px;
     border-radius: 8px;
     background-color: rgba(15, 61, 31, 0.08);
-    color: $nav-brand-green;
+    color: $nav-brand-blue;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -154,7 +154,7 @@ $nav-border-subtle: rgba(15, 61, 31, 0.12);
       border-radius: 6px;
       background-color: $nav-neutral-light;
       border: 1px solid rgba(15, 61, 31, 0.08);
-      color: $nav-brand-green;
+      color: $nav-brand-blue;
       font-size: 0.8rem;
       font-family: $headings-font-family;
       font-weight: 600;
@@ -162,14 +162,14 @@ $nav-border-subtle: rgba(15, 61, 31, 0.12);
       transition: background-color 0.18s ease, border-color 0.18s ease, color 0.18s ease;
 
       strong {
-        color: $nav-brand-green;
+        color: $nav-brand-blue;
       }
 
       &:hover,
       &:focus {
         background-color: rgba(200, 155, 60, 0.22);
         border-color: rgba(200, 155, 60, 0.4);
-        color: darken($nav-brand-green, 5%);
+        color: darken($nav-brand-blue, 5%);
         text-decoration: none;
       }
 

@@ -5,7 +5,7 @@ author: reece
 categories: [ guide ]
 featured: false
 description: "The best lawn bowls for skips compared: wider-bias and mid-bias models engineered to navigate busy heads, play weighted trail shots, and hold line on drives."
-last_modified_at: 2026-11-02 17:19:00 +0000
+last_modified_at: 2026-11-05 12:12:00 +0000
 date: 2022-04-01 13:00:00 -0400
 items:
   - name: "Taylor International"
@@ -32,7 +32,7 @@ items:
 
 <figure class="wp-block-image size-full"><img src="{{ '/img/posts/Best-lawn-bowls-for-skips.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Best lawn bowls for skips - Best Lawn Bowls For Skips | A Complete Guide" class="wp-image-680"/></figure>
 
-<div class="alert alert-success border-success my-4 p-3 rounded" style="border-left: 4px solid #0F3D1F;">
+<div class="alert alert-success border-success my-4 p-3 rounded" style="border-left: 4px solid #1F2B5F;">
   <h3 class="h5 font-weight-bold text-success mb-2"><i class="fas fa-crown mr-1"></i> Quick Verdict: Best Bowls for Skips</h3>
   <p class="mb-2">For outdoor skips navigating congested heads on natural turf, the <strong>Taylor International</strong> and <strong>Aero Sonic</strong> provide the generous swing required to bend around short guards. For indoor skips or fast summer greens, the <strong>Taylor Ace</strong> offers the perfect balance of draw and weight control.</p>
 </div>

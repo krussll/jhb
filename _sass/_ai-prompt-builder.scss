@@ -2,11 +2,11 @@
 .ai-prompt-builder {
   &__card {
     background-color: #f5f2eb;
-    border: 1px solid rgba(15, 61, 31, 0.16);
-    border-left: 5px solid #0f3d1f;
+    border: 1px solid rgba(31, 43, 95, 0.16);
+    border-left: 5px solid #1f2b5f;
     border-radius: 14px;
     padding: 1.5rem;
-    box-shadow: 0 6px 20px rgba(15, 61, 31, 0.06);
+    box-shadow: 0 6px 20px rgba(31, 43, 95, 0.06);
 
     @media (min-width: 768px) {
       padding: 2rem;
@@ -19,7 +19,7 @@
 
   &__badge {
     display: inline-block;
-    background-color: #0f3d1f;
+    background-color: #1f2b5f;
     color: #f5f2eb;
     font-size: 0.8rem;
     font-weight: 700;
@@ -58,7 +58,7 @@
   &__legend {
     font-size: 1.05rem;
     font-weight: 700;
-    color: #0f3d1f;
+    color: #1f2b5f;
     margin-bottom: 0.75rem;
   }
 
@@ -88,10 +88,10 @@
     white-space: nowrap;
 
     &:checked + .ai-prompt-builder__mode-label {
-      background-color: #0f3d1f;
+      background-color: #1f2b5f;
       color: #f5f2eb;
-      border-color: #0f3d1f;
-      box-shadow: 0 4px 12px rgba(15, 61, 31, 0.18);
+      border-color: #1f2b5f;
+      box-shadow: 0 4px 12px rgba(31, 43, 95, 0.18);
     }
 
     &:focus-visible + .ai-prompt-builder__mode-label {
@@ -118,7 +118,7 @@
     transition: background-color 0.15s ease, color 0.15s ease, border-color 0.15s ease;
 
     &:hover {
-      border-color: #0f3d1f;
+      border-color: #1f2b5f;
     }
   }
 
@@ -139,8 +139,8 @@
     background-color: #ffffff;
 
     &:focus {
-      border-color: #0f3d1f;
-      box-shadow: 0 0 0 3px rgba(15, 61, 31, 0.2);
+      border-color: #1f2b5f;
+      box-shadow: 0 0 0 3px rgba(31, 43, 95, 0.2);
     }
   }
 
@@ -150,12 +150,12 @@
     line-height: 1.55;
     color: #222222;
     background-color: #ffffff;
-    border: 2px solid #0f3d1f;
+    border: 2px solid #1f2b5f;
     border-radius: 10px;
     padding: 0.85rem;
 
     &:focus {
-      border-color: #0f3d1f;
+      border-color: #1f2b5f;
       box-shadow: 0 0 0 3px rgba(200, 155, 60, 0.35);
     }
   }
@@ -163,7 +163,7 @@
   &__status {
     font-size: 0.9rem;
     font-weight: 700;
-    color: #0f3d1f;
+    color: #1f2b5f;
   }
 
   &__actions {
@@ -175,17 +175,17 @@
   &__btn-primary {
     min-height: 48px;
     padding: 0.65rem 1.4rem;
-    background-color: #0f3d1f;
+    background-color: #1f2b5f;
     color: #f5f2eb;
-    border: 2px solid #0f3d1f;
+    border: 2px solid #1f2b5f;
     border-radius: 999px;
     font-size: 1rem;
     font-weight: 700;
 
     &:hover,
     &:focus {
-      background-color: #17522c;
-      border-color: #17522c;
+      background-color: #161f44;
+      border-color: #161f44;
       color: #ffffff;
     }
   }
@@ -196,8 +196,8 @@
     align-items: center;
     padding: 0.65rem 1.4rem;
     background-color: #ffffff;
-    color: #0f3d1f;
-    border: 2px solid #0f3d1f;
+    color: #1f2b5f;
+    border: 2px solid #1f2b5f;
     border-radius: 999px;
     font-size: 1rem;
     font-weight: 700;
@@ -205,7 +205,7 @@
 
     &:hover,
     &:focus {
-      background-color: #0f3d1f;
+      background-color: #1f2b5f;
       color: #f5f2eb;
       text-decoration: none;
     }
@@ -217,7 +217,7 @@
     font-weight: 700;
     text-transform: uppercase;
     letter-spacing: 0.05em;
-    color: #0f3d1f;
+    color: #1f2b5f;
     margin-bottom: 0.15rem;
   }
 

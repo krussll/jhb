@@ -21,10 +21,10 @@ permalink: /help-and-support/
 
     <!-- Category 1: Rules & Scoring -->
     <div class="col-md-6 mb-4">
-      <div class="card h-100 border-0 shadow-sm" style="background-color: #F5F2EB; border-left: 4px solid #0F3D1F !important; border-radius: 12px;">
+      <div class="card h-100 border-0 shadow-sm" style="background-color: #F5F2EB; border-left: 4px solid #1F2B5F !important; border-radius: 12px;">
         <div class="card-body p-4">
           <div class="d-flex align-items-center mb-3">
-            <span class="rounded-circle d-inline-flex align-items-center justify-content-center mr-3" style="width: 40px; height: 40px; background-color: #0F3D1F; color: #F5F2EB;">
+            <span class="rounded-circle d-inline-flex align-items-center justify-content-center mr-3" style="width: 40px; height: 40px; background-color: #1F2B5F; color: #F5F2EB;">
               <i class="fas fa-book" aria-hidden="true"></i>
             </span>
             <h3 class="h5 font-weight-bold text-dark mb-0">Rules, Scoring &amp; Etiquette</h3>
@@ -67,10 +67,10 @@ permalink: /help-and-support/
 
     <!-- Category 3: Tactics & Match Strategy -->
     <div class="col-md-6 mb-4">
-      <div class="card h-100 border-0 shadow-sm" style="background-color: #F5F2EB; border-left: 4px solid #0F3D1F !important; border-radius: 12px;">
+      <div class="card h-100 border-0 shadow-sm" style="background-color: #F5F2EB; border-left: 4px solid #1F2B5F !important; border-radius: 12px;">
         <div class="card-body p-4">
           <div class="d-flex align-items-center mb-3">
-            <span class="rounded-circle d-inline-flex align-items-center justify-content-center mr-3" style="width: 40px; height: 40px; background-color: #0F3D1F; color: #F5F2EB;">
+            <span class="rounded-circle d-inline-flex align-items-center justify-content-center mr-3" style="width: 40px; height: 40px; background-color: #1F2B5F; color: #F5F2EB;">
               <i class="fas fa-chess" aria-hidden="true"></i>
             </span>
             <h3 class="h5 font-weight-bold text-dark mb-0">Tactics, Roles &amp; Match Play</h3>
@@ -115,7 +115,7 @@ permalink: /help-and-support/
 </section>
 
 <!-- Direct Support Callout -->
-<div class="card border-0 shadow-sm mb-5" style="background: linear-gradient(135deg, #0F3D1F 0%, #17522c 100%); color: #F5F2EB; border-radius: 14px;">
+<div class="card border-0 shadow-sm mb-5" style="background: linear-gradient(135deg, #1F2B5F 0%, #19204B 100%); color: #F5F2EB; border-radius: 14px;">
   <div class="card-body p-4 p-md-5">
     <div class="row align-items-center">
       <div class="col-lg-8 mb-3 mb-lg-0">
@@ -126,7 +126,7 @@ permalink: /help-and-support/
         </p>
       </div>
       <div class="col-lg-4 text-lg-right">
-        <a href="mailto:reece@jackhighbowls.com" class="btn btn-light btn-lg font-weight-bold mr-2 mb-2" style="color: #0F3D1F; border-radius: 999px;">Email Reece</a>
+        <a href="mailto:reece@jackhighbowls.com" class="btn btn-light btn-lg font-weight-bold mr-2 mb-2" style="color: #1F2B5F; border-radius: 999px;">Email Reece</a>
         <a href="{{ '/contact' | relative_url }}" class="btn btn-outline-light btn-lg font-weight-bold mb-2" style="border-radius: 999px;">Contact Form</a>
       </div>
     </div>

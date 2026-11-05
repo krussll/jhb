@@ -6,7 +6,7 @@ categories: [ guide ]
 featured: false
 description: "The best lawn bowls for leads reviewed: compare narrow-bias running lines, flat finish models, and surface performance on outdoor grass and indoor rinks."
 date: 2018-01-12 13:00:00 -0400
-last_modified_at: 2026-11-02 17:19:00 +0000
+last_modified_at: 2026-11-05 12:12:00 +0000
 items:
   - name: "Taylor Vector VS"
     award: "Best Overall Lead Bowl"
@@ -32,7 +32,7 @@ items:
 
 <figure class="wp-block-image size-full"><img src="{{ '/img/posts/best-bowls-for-leads.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Best Rated Lawn Bowls For Leads" class="wp-image-389"/></figure>
 
-<div class="alert alert-success border-success my-4 p-3 rounded" style="border-left: 4px solid #0F3D1F;">
+<div class="alert alert-success border-success my-4 p-3 rounded" style="border-left: 4px solid #1F2B5F;">
   <h3 class="h5 font-weight-bold text-success mb-2"><i class="fas fa-bullseye mr-1"></i> Quick Verdict: Best Bowls for Leads</h3>
   <p class="mb-2">For competitive leads, the <strong>Taylor Vector VS</strong> remains the gold standard on 14+ second grass and indoor greens thanks to its clean holding finish. If you play on heavier outdoor turf (11–13s), the <strong>Drakes Pride Professional</strong> gives you enough turn to hold line without running wide.</p>
 </div>

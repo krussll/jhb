@@ -6,7 +6,7 @@ categories: [ guide ]
 featured: false
 description: "The best lawn bowls for fast greens and indoor carpets: compare narrow-running profiles from Aero, Taylor, and Henselite designed for touch, wind stability, and line control."
 date: 2019-07-25 13:00:00 -0400
-last_modified_at: 2026-11-02 17:19:00 +0000
+last_modified_at: 2026-11-05 12:12:00 +0000
 items:
   - name: "Aero GrooVe"
     award: "Best All-Round Fast Green Bowl"
@@ -31,7 +31,7 @@ items:
 
 <figure class="wp-block-image size-full"><img src="{{ '/img/posts/best-lawn-bowls-for-fast-greens.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Best Lawn Bowls For Fast Greens" class="wp-image-314"/></figure>
 
-<div class="alert alert-success border-success my-4 p-3 rounded" style="border-left: 4px solid #0F3D1F;">
+<div class="alert alert-success border-success my-4 p-3 rounded" style="border-left: 4px solid #1F2B5F;">
   <h3 class="h5 font-weight-bold text-success mb-2"><i class="fas fa-bolt mr-1"></i> Quick Verdict: Best Bowls for Fast Greens</h3>
   <p class="mb-2">When green speeds reach 15 to 18 seconds, standard mid-bias bowls swing uncontrollably wide. We recommend the <strong>Aero GrooVe</strong> or <strong>Taylor Vector VS</strong> to keep your aiming point close to the rink center while maintaining a flat, predictable finish.</p>
 </div>

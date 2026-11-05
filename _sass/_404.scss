@@ -9,7 +9,7 @@
     padding: 7.5rem 0 5rem;
     color: #ffffff;
     background: radial-gradient(circle at top right, rgba(200, 155, 60, 0.22), transparent 55%),
-      linear-gradient(135deg, #0f3d1f 0%, #092613 100%);
+      linear-gradient(135deg, #1f2b5f 0%, #19204b 100%);
     overflow: hidden;
 
     &::after {
@@ -84,7 +84,7 @@
 
   &__section-eyebrow {
     display: inline-block;
-    color: #0f3d1f;
+    color: #1f2b5f;
     font-size: 0.85rem;
     font-weight: 700;
     text-transform: uppercase;
@@ -95,7 +95,7 @@
   &__section-title {
     font-size: clamp(1.75rem, 3.5vw, 2.35rem);
     font-weight: 700;
-    color: #0f3d1f;
+    color: #1f2b5f;
     margin-bottom: 0.75rem;
   }
 
@@ -126,7 +126,7 @@
     h3 {
       font-size: 1.25rem;
       font-weight: 700;
-      color: #0f3d1f;
+      color: #1f2b5f;
       margin: 1.25rem 0 0.5rem;
     }
 
@@ -167,7 +167,7 @@
     h3 {
       font-size: 1.35rem;
       font-weight: 700;
-      color: #0f3d1f;
+      color: #1f2b5f;
       margin-bottom: 0.5rem;
     }
 
@@ -193,7 +193,7 @@
       padding: 0.65rem 1.2rem;
       border-radius: 999px;
       background: #f5f2eb;
-      color: #0f3d1f;
+      color: #1f2b5f;
       font-weight: 600;
       font-size: 0.925rem;
       text-decoration: none;
@@ -205,7 +205,7 @@
 
       &:hover,
       &:focus {
-        background-color: #0f3d1f;
+        background-color: #1f2b5f;
         color: #ffffff;
         text-decoration: none;
         transform: translateY(-2px);
@@ -238,7 +238,7 @@
   &--primary {
     background-color: #c89b3c;
     border: 1px solid #c89b3c;
-    color: #0f3d1f;
+    color: #1f2b5f;
     font-weight: 700;
     box-shadow: 0 10px 25px rgba(200, 155, 60, 0.35);
 
@@ -246,7 +246,7 @@
     &:focus {
       background-color: lighten(#c89b3c, 7%);
       border-color: lighten(#c89b3c, 7%);
-      color: #0f3d1f;
+      color: #1f2b5f;
       transform: translateY(-2px);
       box-shadow: 0 14px 30px rgba(200, 155, 60, 0.45);
       text-decoration: none;

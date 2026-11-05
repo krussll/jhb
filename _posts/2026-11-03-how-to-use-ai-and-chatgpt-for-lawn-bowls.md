@@ -8,7 +8,7 @@ categories: [ ai ]
 featured: true
 description: "Learn how to use ChatGPT and free AI tools to build custom lawn bowls practice routines, simulate match tactics for leads and skips, and diagnose delivery faults."
 date: 2026-11-03 09:00:00 +0000
-last_modified_at: 2026-11-04 15:05:00 +0000
+last_modified_at: 2026-11-05 12:12:00 +0000
 ---
 
 <p><strong>Can artificial intelligence actually help you draw closer to the jack? While ChatGPT cannot step onto the mat and feel a gusty crosswind on a 15-second grass green, it has quietly become one of the most useful off-green training companions a club bowler can use.</strong></p>
@@ -17,14 +17,14 @@ last_modified_at: 2026-11-04 15:05:00 +0000
 
 <p>Used properly, free AI tools like ChatGPT, Claude, or Google Gemini act like an on-demand coaching notebook. In this guide, I will show you five practical, zero-jargon ways to use AI to structure your roll-ups, test your tactical calls, and diagnose delivery faults—plus where AI falls short so you never get steered wrong.</p>
 
-<div class="card my-4 p-4 border-0 shadow-sm" style="background-color: #F5F2EB; border-left: 4px solid #0F3D1F !important; border-radius: 12px;">
+<div class="card my-4 p-4 border-0 shadow-sm" style="background-color: #F5F2EB; border-left: 4px solid #1F2B5F !important; border-radius: 12px;">
   <div class="d-flex align-items-center justify-content-between flex-wrap">
     <div class="mb-2 mb-md-0">
-      <span class="badge badge-success px-2 py-1 mb-1" style="background-color: #0F3D1F; color: #F5F2EB;">Interactive Tool</span>
+      <span class="badge badge-success px-2 py-1 mb-1" style="background-color: #1F2B5F; color: #F5F2EB;">Interactive Tool</span>
       <h3 class="h6 font-weight-bold text-dark mb-1">Want a custom coaching prompt built for you in 10 seconds?</h3>
       <p class="small text-muted mb-0">Select your rink position, green speed, and skill struggle in our interactive builder and launch straight into ChatGPT.</p>
     </div>
-    <a href="{{ '/ai-coaching/prompt-builder' | relative_url }}" class="btn btn-sm font-weight-bold" style="background-color: #0F3D1F; color: #F5F2EB; border-radius: 999px; padding: 0.5rem 1.1rem;">
+    <a href="{{ '/ai-coaching/prompt-builder' | relative_url }}" class="btn btn-sm font-weight-bold" style="background-color: #1F2B5F; color: #F5F2EB; border-radius: 999px; padding: 0.5rem 1.1rem;">
       Open Prompt Builder &rarr;
     </a>
   </div>
@@ -34,7 +34,7 @@ last_modified_at: 2026-11-04 15:05:00 +0000
 
 <p>When you practise alone or with a clubmate, having a scored routine keeps your mind engaged on every wood. Instead of guessing what to work on, you can tell an AI tool your exact playing position, your typical green speed, and the shot that let you down in your last league match.</p>
 
-<div class="card my-4 p-4 bg-light" style="border-left: 4px solid #0F3D1F;">
+<div class="card my-4 p-4 bg-light" style="border-left: 4px solid #1F2B5F;">
   <h3 class="h6 font-weight-bold text-dark mb-2">Copy &amp; Paste Prompt: The 45-Minute Roll-Up Architect</h3>
   <p class="small text-muted mb-2">Paste this into ChatGPT and replace the bracketed details with your own:</p>
   <p class="mb-0" style="font-family: monospace; font-size: 0.9rem;">
@@ -63,7 +63,7 @@ last_modified_at: 2026-11-04 15:05:00 +0000
 
 <p>By pairing our <a href="{{ '/ai/how-to-film-and-analyse-your-lawn-bowls-delivery' | relative_url }}">Smartphone Delivery Video Analysis Guide</a> with an AI diagnostic prompt, you can systematically check your setup against the fundamentals of a clean pendulum swing and low release.</p>
 
-<div class="card my-4 p-4 bg-light" style="border-left: 4px solid #0F3D1F;">
+<div class="card my-4 p-4 bg-light" style="border-left: 4px solid #1F2B5F;">
   <h3 class="h6 font-weight-bold text-dark mb-2">Copy &amp; Paste Prompt: Delivery Fault Troubleshooter</h3>
   <p class="mb-0" style="font-family: monospace; font-size: 0.9rem;">
     "I am troubleshooting a fault in my lawn bowls delivery. Here is what is happening on the green: [my bowl bounces/dumps loudly on release and loses 3 yards of weight, especially on longer jacks]. Ask me 5 specific diagnostic questions about my grip pressure, anchor foot alignment, knee bend, step timing, and release point height so we can isolate the mechanical cause and pick 2 corrective drills."

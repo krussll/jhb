@@ -59,7 +59,7 @@ flowchart LR
 
 ## 3. High-Converting Page Architecture Plan (`lawn-bowls-downloadable-drill-pack.md`)
 
-We will redesign [`lawn-bowls-downloadable-drill-pack.md`](../lawn-bowls-downloadable-drill-pack.md) and create a dedicated SCSS partial (`_sass/_drill-pack.scss`) using the Jack High Bowls brand palette (`#0F3D1F` deep green, `#C89B3C` warm gold, `#F5F2EB` cream, `#222222` charcoal):
+We will redesign [`lawn-bowls-downloadable-drill-pack.md`](../lawn-bowls-downloadable-drill-pack.md) and create a dedicated SCSS partial (`_sass/_drill-pack.scss`) using the Jack High Bowls brand palette (`#1F2B5F` deep blue, `#C89B3C` warm gold, `#F5F2EB` cream, `#222222` charcoal):
 
 ### Section-by-Section Wireframe & Copy Flow
 

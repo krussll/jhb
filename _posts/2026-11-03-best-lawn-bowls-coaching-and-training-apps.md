@@ -8,7 +8,7 @@ categories: [ ai ]
 featured: false
 description: "Compare the best lawn bowls coaching, training, and measuring apps in 2026, including Torny AI, Lawn Bowls Academy, BowlsIQ, WGTS, CoachNow, and ChatGPT."
 date: 2026-11-03 10:00:00 +0000
-last_modified_at: 2026-11-04 15:05:00 +0000
+last_modified_at: 2026-11-05 12:12:00 +0000
 ---
 
 <p><strong>For decades, the only technology you would find inside a lawn bowler's bag was a string measure and a set of callipers. Today, a new generation of AI-powered training apps, augmented-reality (AR) head measurers, and slow-motion video platforms are helping club players practise with real data.</strong></p>
@@ -19,7 +19,7 @@ last_modified_at: 2026-11-04 15:05:00 +0000
 
 <div class="table-responsive my-4">
   <table class="table table-bordered table-striped">
-    <thead style="background-color: #0F3D1F; color: #F5F2EB;">
+    <thead style="background-color: #1F2B5F; color: #F5F2EB;">
       <tr>
         <th>App / Tool</th>
         <th>Best For</th>

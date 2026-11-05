@@ -32,7 +32,7 @@ Replace the minimal `lawn-bowls-downloadable-drill-pack.md` with a full sales pa
   7. **Author credentials block.** Use `/img/reece-williams-jack-high-bowls.jpg`, 15+ years' experience, Club Singles Finalist / County Quarter-Finalist, and the club coach quote from the homepage (`_layouts/home.html`, `.home-quote` section). Reuse wording from `_data/authors` / `_includes/author-bio.html` where possible.
   8. **Guarantee callout and FAQ accordion.** Six FAQs using native `<details>`/`<summary>`: equipment, solo use, indoor/outdoor/short mat, delivery and printing, skill level, refunds.
   9. **Final conversion banner.**
-- Brand palette: `#0F3D1F`, `#C89B3C`, `#F5F2EB`, `#222222`. Don't add new web fonts. Use the existing breakpoints and mixins.
+- Brand palette: `#1F2B5F`, `#C89B3C`, `#F5F2EB`, `#222222`. Don't add new web fonts. Use the existing breakpoints and mixins.
 - Create `_sass/_drill-pack.scss` and add `@import "drill-pack";` to `_sass/styles.scss`.
 - Every CTA must keep the checkout URL (`https://jack-high-bowls.lemonsqueezy.com/checkout/buy/6515ca0b-b861-4530-8142-0bb075d71bb8`, or a new one from DP-01), keep `data-ls-modal="true"`, and the page must still load `https://assets.lemonsqueezy.com/lemon.js`. Move the inline `<script>` to a front-matter flag or include if that's practical (AGENTS.md says to avoid inline scripts).
 - Update `last_modified_at` in front matter.
