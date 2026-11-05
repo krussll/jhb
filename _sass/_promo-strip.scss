@@ -1,0 +1,215 @@
+// Styling for the persistent promotional announcement strip
+
+.promo-strip {
+  position: relative;
+  z-index: 1025;
+  width: 100%;
+  min-height: var(--promo-strip-height);
+  background: linear-gradient(90deg, #092613 0%, #0f3d1f 40%, #154c27 70%, #0f3d1f 100%);
+  color: #f5f2eb;
+  border-bottom: 1px solid rgba(200, 155, 60, 0.45);
+  font-family: $headings-font-family;
+  font-size: 0.875rem;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.18);
+  box-sizing: border-box;
+
+  html.promo-dismissed & {
+    display: none !important;
+  }
+
+  &__container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    min-height: var(--promo-strip-height);
+    padding-top: 4px;
+    padding-bottom: 4px;
+    gap: 0.75rem;
+  }
+
+  &__slider {
+    flex: 1 1 auto;
+    min-width: 0;
+    overflow: hidden;
+  }
+
+  &__live {
+    position: relative;
+    width: 100%;
+  }
+
+  &__item {
+    display: none;
+    align-items: center;
+    gap: 0.65rem;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+
+    &.is-active {
+      display: inline-flex;
+    }
+  }
+
+  &__badge {
+    display: inline-block;
+    padding: 0.15rem 0.55rem;
+    font-size: 0.72rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: #222222;
+    background-color: #c89b3c;
+    border-radius: 999px;
+    flex-shrink: 0;
+    line-height: 1.3;
+  }
+
+  &__message {
+    font-weight: 500;
+    color: #f5f2eb;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
+  &__cta {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.35rem;
+    font-weight: 700;
+    color: #c89b3c;
+    text-decoration: underline;
+    text-underline-offset: 3px;
+    flex-shrink: 0;
+    transition: color 0.15s ease, text-decoration-color 0.15s ease;
+
+    &:hover,
+    &:focus {
+      color: lighten(#c89b3c, 15%);
+      text-decoration: underline;
+      outline: 2px solid #c89b3c;
+      outline-offset: 2px;
+      border-radius: 2px;
+    }
+
+    i,
+    svg {
+      font-size: 0.75rem;
+      transition: transform 0.15s ease;
+    }
+
+    &:hover i,
+    &:hover svg,
+    &:focus i,
+    &:focus svg {
+      transform: translateX(3px);
+    }
+  }
+
+  &__controls {
+    display: flex;
+    align-items: center;
+    gap: 0.25rem;
+    flex-shrink: 0;
+  }
+
+  &__control-btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 28px;
+    height: 28px;
+    padding: 0;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    background: transparent;
+    color: rgba(245, 242, 235, 0.88);
+    font-size: 0.75rem;
+    cursor: pointer;
+    transition: background-color 0.15s ease, color 0.15s ease, border-color 0.15s ease;
+
+    &:hover {
+      background-color: rgba(255, 255, 255, 0.15);
+      color: #ffffff;
+    }
+
+    &:focus-visible,
+    &:focus {
+      outline: 2px solid #c89b3c;
+      outline-offset: 1px;
+      color: #ffffff;
+    }
+
+    &--close {
+      margin-left: 0.25rem;
+      border-left: 1px solid rgba(255, 255, 255, 0.25);
+      border-radius: 0 4px 4px 0;
+      padding-left: 0.35rem;
+
+      &:hover {
+        background-color: rgba(200, 155, 60, 0.3);
+        color: #ffffff;
+      }
+    }
+  }
+}
+
+// Media queries for mobile / tablet screens
+@media (max-width: 991.98px) {
+  .promo-strip {
+    font-size: 0.8125rem;
+
+    &__item {
+      gap: 0.45rem;
+    }
+
+    &__badge {
+      font-size: 0.68rem;
+      padding: 0.12rem 0.45rem;
+    }
+  }
+}
+
+@media (max-width: 767.98px) {
+  .promo-strip {
+    &__badge {
+      font-size: 0.65rem;
+      padding: 0.1rem 0.4rem;
+    }
+
+    &__control-btn {
+      width: 26px;
+      height: 26px;
+      font-size: 0.7rem;
+    }
+  }
+}
+
+@media (max-width: 575.98px) {
+  .promo-strip {
+    &__badge {
+      display: none; // Free up space for the message and link on narrow mobile
+    }
+
+    &__item {
+      font-size: 0.78rem;
+    }
+
+    &__btn--prev,
+    &__btn--next {
+      display: none; // Rely on pause + dismiss on extra-small mobile devices
+    }
+  }
+}
+
+// Respect user reduced-motion preferences
+@media (prefers-reduced-motion: reduce) {
+  .promo-strip__cta i,
+  .promo-strip__cta svg {
+    transition: none !important;
+  }
+  .promo-strip__control-btn {
+    transition: none !important;
+  }
+}
+

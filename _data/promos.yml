@@ -1,0 +1,26 @@
+# Persistent promotional banner items displayed in the promo strip above the navbar.
+# Each item can define:
+# - id: Unique promo identifier
+# - badge: Short label tag (e.g., "Free Drill Pack", "Buyer's Guide")
+# - message: Core announcement statement
+# - link_text: CTA link text
+# - url: Destination URL
+# - start_date: (Optional) ISO date string YYYY-MM-DD
+# - end_date: (Optional) ISO date string YYYY-MM-DD
+
+- id: drill-pack
+  badge: "Free Drill Pack"
+  message: "Sharpen your draw shot and weight control with 20 structured practice drills."
+  link_text: "Download Free Drills"
+  url: "/lawn-bowls-downloadable-drill-pack"
+  start_date: "2024-01-01"
+  end_date: "2030-12-31"
+
+- id: bowls-buying-guide
+  badge: "Buyer's Guide"
+  message: "Unsure about bias, grip, or size? Find the best bowls for your draw line."
+  link_text: "Read Buying Guide"
+  url: "/guide/how-to-choose-a-set-of-lawn-bowls/"
+  start_date: "2024-01-01"
+  end_date: "2030-12-31"
+
