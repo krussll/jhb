@@ -4,12 +4,14 @@ title:  "How To Choose A Set Of Lawn Bowls? | A Complete Guide"
 seo_title: "How to Choose a Set of Lawn Bowls"
 author: reece
 categories: [ guide ]
-featured: false
-description: ""
-background: "/img/posts/pick-the-right-bowls.png"
+description: "A comprehensive buyer's guide on how to choose lawn bowls: bias profiles, green speeds, grips, weight, and new vs second-hand models."
+skill_level: Beginner
 pathway: choose-your-bowls
+next_step: /help/what-size-lawn-bowl-should-i-use/
+featured: false
+background: "/img/posts/pick-the-right-bowls.png"
 date: 2022-11-24 13:00:00 -0400
-last_modified_at: 2026-11-05 13:42:00 +0000
+last_modified_at: 2026-11-05 14:45:00 +0000
 ---
     
 

@@ -3,9 +3,13 @@ layout: post
 title:  "6 Tips For Beginner Lawn Bowlers"
 author: reece
 categories: [ help ]
+description: "Six practical tips for new lawn bowlers to develop confidence, avoid common beginner mistakes, and enjoy your first club sessions."
+skill_level: Beginner
+pathway: learn-the-essentials
+next_step: /help/lawn-bowls-rules/
 featured: false
-description: ""
 date: 2020-10-30 13:00:00 -0400
+last_modified_at: 2026-11-05 14:45:00 +0000
 ---
     
 

@@ -5,9 +5,11 @@ author: reece
 categories: [ guide ]
 featured: false
 description: "The best lawn bowls for leads reviewed: compare narrow-bias running lines, flat finish models, and surface performance on outdoor grass and indoor rinks."
+skill_level: Intermediate
 pathway: choose-your-bowls
+next_step: /help/9-tips-for-how-to-play-bowls-well/
 date: 2018-01-12 13:00:00 -0400
-last_modified_at: 2026-11-05 13:42:00 +0000
+last_modified_at: 2026-11-05 14:45:00 +0000
 items:
   - name: "Taylor Vector VS"
     award: "Best Overall Lead Bowl"

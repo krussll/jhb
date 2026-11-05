@@ -1,0 +1,137 @@
+{% comment %}
+  Action Card Include
+  Renders a core article card with title, excerpt, estimated reading time, skill level, and next recommended step.
+  Parameters:
+    - url (optional): post URL (e.g. "/help/lawn-bowls-rules") or page URL
+    - slug (optional): post slug (e.g. "lawn-bowls-rules")
+    - post (optional): direct post object
+    - title (optional): card title override
+    - description (optional): card description/excerpt override
+    - skill_level (optional): Beginner | Intermediate | Advanced | All Levels override
+    - next_step (optional): URL to recommended next step override
+    - next_step_label (optional): Text for next step link override
+    - read_time (optional): Text for read time override (e.g. "8 mins read")
+    - class (optional): Additional CSS classes
+{% endcomment %}
+
+{% assign target_post = nil %}
+
+{% if include.post %}
+  {% assign target_post = include.post %}
+{% elsif include.url %}
+  {% assign req_url = include.url | strip %}
+  {% assign req_url_clean = req_url | remove: "/" %}
+  {% for p in site.posts %}
+    {% assign p_url_clean = p.url | remove: "/" %}
+    {% if p.url == req_url or p_url_clean == req_url_clean %}
+      {% assign target_post = p %}
+      {% break %}
+    {% endif %}
+  {% endfor %}
+  {% if target_post == nil %}
+    {% for page in site.pages %}
+      {% assign page_url_clean = page.url | remove: "/" %}
+      {% if page.url == req_url or page_url_clean == req_url_clean %}
+        {% assign target_post = page %}
+        {% break %}
+      {% endif %}
+    {% endfor %}
+  {% endif %}
+{% elsif include.slug %}
+  {% for p in site.posts %}
+    {% if p.slug == include.slug %}
+      {% assign target_post = p %}
+      {% break %}
+    {% endif %}
+  {% endfor %}
+{% endif %}
+
+{% assign card_url = include.url | default: target_post.url %}
+{% assign card_title = include.title | default: target_post.title %}
+
+{% assign card_desc = include.description %}
+{% if card_desc == blank or card_desc == "" %}
+  {% if target_post.description and target_post.description != "" %}
+    {% assign card_desc = target_post.description %}
+  {% elsif target_post.excerpt %}
+    {% assign card_desc = target_post.excerpt | strip_html | strip_newlines | truncatewords: 25 %}
+  {% endif %}
+{% endif %}
+
+{% assign card_skill = include.skill_level | default: target_post.skill_level %}
+{% assign next_step_url = include.next_step | default: target_post.next_step %}
+{% assign next_step_label = include.next_step_label %}
+
+{% if next_step_url and next_step_url != "" %}
+  {% if next_step_label == nil or next_step_label == "" %}
+    {% assign next_url_clean = next_step_url | remove: "/" %}
+    {% for p in site.posts %}
+      {% assign p_url_clean = p.url | remove: "/" %}
+      {% if p.url == next_step_url or p_url_clean == next_url_clean %}
+        {% assign next_step_label = p.title | split: " | " | first | split: " - " | first | strip %}
+        {% break %}
+      {% endif %}
+    {% endfor %}
+    {% if next_step_label == nil or next_step_label == "" %}
+      {% if next_step_url contains "review" %}
+        {% assign next_step_label = "Compare bowls & equipment reviews" %}
+      {% elsif next_step_url contains "drill-pack" %}
+        {% assign next_step_label = "Download practice drill pack" %}
+      {% elsif next_step_url contains "prompt-builder" %}
+        {% assign next_step_label = "Launch prompt generator" %}
+      {% elsif next_step_url contains "ai-coaching" %}
+        {% assign next_step_label = "Explore AI coaching hub" %}
+      {% elsif next_step_url contains "help-and-support" %}
+        {% assign next_step_label = "Visit Help & Support hub" %}
+      {% elsif next_step_url contains "guides" %}
+        {% assign next_step_label = "Browse beginner guides hub" %}
+      {% else %}
+        {% assign next_step_label = "Continue to next guide" %}
+      {% endif %}
+    {% endif %}
+  {% endif %}
+{% endif %}
+
+<article class="action-card gs-resource{% if include.class %} {{ include.class }}{% endif %}" role="listitem">
+  {% if card_skill or target_post.content or include.read_time %}
+  <div class="action-card__meta">
+    {% if card_skill %}
+      {% assign skill_slug = card_skill | downcase | replace: " ", "-" %}
+      <span class="action-card__badge action-card__badge--{{ skill_slug }}">
+        <i class="fas fa-layer-group" aria-hidden="true"></i> {{ card_skill }}
+      </span>
+    {% endif %}
+    {% if target_post.content %}
+      <span class="action-card__read-time">
+        <i class="far fa-clock" aria-hidden="true"></i>
+        {% include read_time.html content=target_post.content %}
+      </span>
+    {% elsif include.read_time %}
+      <span class="action-card__read-time">
+        <i class="far fa-clock" aria-hidden="true"></i>
+        {{ include.read_time }}
+      </span>
+    {% endif %}
+  </div>
+  {% endif %}
+
+  <h3 class="action-card__title">
+    <a href="{{ card_url | relative_url }}">{{ card_title }}</a>
+  </h3>
+
+  {% if card_desc and card_desc != "" %}
+    <p class="action-card__excerpt">{{ card_desc }}</p>
+  {% endif %}
+
+  {% if next_step_url and next_step_url != "" %}
+  <div class="action-card__footer">
+    <div class="action-card__next-step">
+      <span class="action-card__next-label">Next step:</span>
+      <a href="{{ next_step_url | relative_url }}" class="action-card__next-link">
+        <span>{{ next_step_label }}</span>
+        <i class="fas fa-arrow-right" aria-hidden="true"></i>
+      </a>
+    </div>
+  </div>
+  {% endif %}
+</article>

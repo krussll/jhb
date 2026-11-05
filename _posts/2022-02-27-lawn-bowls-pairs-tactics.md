@@ -3,10 +3,13 @@ layout: post
 title:  "Lawn Bowls Pairs Tactics | A Complete Guide"
 author: reece
 categories: [ help ]
+description: "A complete guide to lawn bowls pairs tactics: lead and skip roles, shot strategy, tactical communication, and controlling each end."
+skill_level: Intermediate
+pathway: compete-with-confidence
+next_step: /help/lawn-bowls-triples-tactics/
 featured: false
-description: ""
 date: 2022-02-27 13:00:00 -0400
-last_modified_at: 2026-10-30 10:25:00 +0000
+last_modified_at: 2026-11-05 14:45:00 +0000
 ---
     
 

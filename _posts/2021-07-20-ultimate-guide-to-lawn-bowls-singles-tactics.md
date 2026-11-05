@@ -4,11 +4,13 @@ title:  "The Ultimate Guide To Lawn Bowls Singles Tactics | A Helpful Guide"
 seo_title: "Ultimate Guide to Lawn Bowls Singles Tactics"
 author: reece
 categories: [ help ]
-featured: false
-description: ""
+description: "Master singles lawn bowls tactics: mat placement, jack length management, shot selection, building the head, and playing the scoreboard."
+skill_level: Intermediate
 pathway: compete-with-confidence
+next_step: /help/lawn-bowls-pairs-tactics/
+featured: false
 date: 2021-07-20 13:00:00 -0400
-last_modified_at: 2026-11-05 13:42:00 +0000
+last_modified_at: 2026-11-05 14:45:00 +0000
 ---
     
 

@@ -8,9 +8,13 @@ categories: [ help ]
 featured: false
 background: '/img/posts/learn-rules-of-lawn-bowls.png'
 description: "Learn the basic rules of lawn bowls for beginners in this illustrated guide covering equipment, mat placement, scoring, formats, and green dimensions."
+skill_level: Beginner
 pathway: learn-the-essentials
+next_step: /help/lawn-bowls-rules-and-etiquette/
+featured: false
+background: '/img/posts/learn-rules-of-lawn-bowls.png'
 date: 2019-08-22 13:00:00 -0400
-last_modified_at: 2026-11-05 13:42:00 +0000
+last_modified_at: 2026-11-05 14:45:00 +0000
 ---
     
 

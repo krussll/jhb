@@ -3,11 +3,13 @@ layout: post
 title:  "What Size Lawn Bowl Should I Use? | A Helpful Guide"
 author: reece
 categories: [ help ]
-featured: false
-description: ""
+description: "Find your ideal lawn bowl size with simple hand measurements, grip tests, and size charts to ensure comfort and control on the green."
+skill_level: Beginner
 pathway: choose-your-bowls
+next_step: /guide/best-rated-bowls-for-leads/
+featured: false
 date: 2021-05-07 13:00:00 -0400
-last_modified_at: 2026-11-05 13:42:00 +0000
+last_modified_at: 2026-11-05 14:45:00 +0000
 ---
     
 

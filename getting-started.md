@@ -52,14 +52,8 @@ hide_page_hero: true
           </p>
         </div>
         <div class="gs-step__resources" role="list">
-          <article class="gs-resource" role="listitem">
-            <h3><a href="{{ '/help/lawn-bowls-rules' | relative_url }}">Lawn bowls rules for beginners</a></h3>
-            <p>Everything you need to know about ends, shots and scoring.</p>
-          </article>
-          <article class="gs-resource" role="listitem">
-            <h3><a href="{{ '/help/lawn-bowls-rules-and-etiquette' | relative_url }}">Etiquette explained</a></h3>
-            <p>Learn the do's and don'ts that keep club play friendly and fair.</p>
-          </article>
+          {% include action-card.html url="/help/lawn-bowls-rules" title="Lawn bowls rules for beginners" description="Everything you need to know about ends, shots and scoring." %}
+          {% include action-card.html url="/help/lawn-bowls-rules-and-etiquette" title="Etiquette explained" description="Learn the do's and don'ts that keep club play friendly and fair." %}
           <article class="gs-resource" role="listitem">
             <h3><a href="{{ '/guides' | relative_url }}">Browse the beginner guides hub</a></h3>
             <p>See every fundamentals article in one place when you need a refresher.</p>
@@ -95,22 +89,10 @@ hide_page_hero: true
           </p>
         </div>
         <div class="gs-step__resources" role="list">
-          <article class="gs-resource" role="listitem">
-            <h3><a href="{{ '/guide/best-lawn-bowls-for-beginners' | relative_url }}">Best lawn bowls for beginners</a></h3>
-            <p>Our top-rated forgiving all-round models for newcomers entering club play.</p>
-          </article>
-          <article class="gs-resource" role="listitem">
-            <h3><a href="{{ '/guide/how-to-choose-a-set-of-lawn-bowls' | relative_url }}">How to choose a set of lawn bowls</a></h3>
-            <p>Work through bias charts, green speeds and budgets before you buy.</p>
-          </article>
-          <article class="gs-resource" role="listitem">
-            <h3><a href="{{ '/help/what-size-lawn-bowl-should-i-use' | relative_url }}">Find your perfect bowl size</a></h3>
-            <p>Use proven grip checks to lock in the right size for your hand.</p>
-          </article>
-          <article class="gs-resource" role="listitem">
-            <h3><a href="{{ '/guide/best-rated-bowls-for-leads' | relative_url }}">Best rated bowls for leads</a></h3>
-            <p>Narrow-bias models built for drawing precision in front-end positions.</p>
-          </article>
+          {% include action-card.html url="/guide/best-lawn-bowls-for-beginners" title="Best lawn bowls for beginners" description="Our top-rated forgiving all-round models for newcomers entering club play." %}
+          {% include action-card.html url="/guide/how-to-choose-a-set-of-lawn-bowls" title="How to choose a set of lawn bowls" description="Work through bias charts, green speeds and budgets before you buy." %}
+          {% include action-card.html url="/help/what-size-lawn-bowl-should-i-use" title="Find your perfect bowl size" description="Use proven grip checks to lock in the right size for your hand." %}
+          {% include action-card.html url="/guide/best-rated-bowls-for-leads" title="Best rated bowls for leads" description="Narrow-bias models built for drawing precision in front-end positions." %}
           <article class="gs-resource" role="listitem">
             <h3><a href="{{ '/reviews' | relative_url }}">Compare bowls &amp; equipment reviews</a></h3>
             <p>See how leading models stack up before stepping into the shop.</p>
@@ -146,14 +128,8 @@ hide_page_hero: true
           </p>
         </div>
         <div class="gs-step__resources" role="list">
-          <article class="gs-resource" role="listitem">
-            <h3><a href="{{ '/help/9-tips-for-how-to-play-bowls-well' | relative_url }}">9 quick wins for new bowlers</a></h3>
-            <p>Focus on the habits that build confidence every time you roll up.</p>
-          </article>
-          <article class="gs-resource" role="listitem">
-            <h3><a href="{{ '/help/line-and-length-in-lawn-bowls-how-to-win-at-bowls' | relative_url }}">Master line and length</a></h3>
-            <p>Use targeted drills to lock in draw weight and green reading.</p>
-          </article>
+          {% include action-card.html url="/help/9-tips-for-how-to-play-bowls-well" title="9 quick wins for new bowlers" description="Focus on the habits that build confidence every time you roll up." %}
+          {% include action-card.html url="/help/line-and-length-in-lawn-bowls-how-to-win-at-bowls" title="Master line and length" description="Use targeted drills to lock in draw weight and green reading." %}
           <article class="gs-resource" role="listitem">
             <h3><a href="{{ '/lawn-bowls-downloadable-drill-pack' | relative_url }}">Download the practice drill pack</a></h3>
             <p>Print-ready sessions that turn casual roll-ups into structured training.</p>
@@ -193,14 +169,8 @@ hide_page_hero: true
           </p>
         </div>
         <div class="gs-step__resources" role="list">
-          <article class="gs-resource" role="listitem">
-            <h3><a href="{{ '/help/ultimate-guide-to-lawn-bowls-singles-tactics' | relative_url }}">Singles tactics playbook</a></h3>
-            <p>Plan heads ahead and build pressure on every end.</p>
-          </article>
-          <article class="gs-resource" role="listitem">
-            <h3><a href="{{ '/help/lawn-bowls-triples-tactics' | relative_url }}">Triples teamwork essentials</a></h3>
-            <p>Find your voice within a rink and support skips with useful calls.</p>
-          </article>
+          {% include action-card.html url="/help/ultimate-guide-to-lawn-bowls-singles-tactics" title="Singles tactics playbook" description="Plan heads ahead and build pressure on every end." %}
+          {% include action-card.html url="/help/lawn-bowls-triples-tactics" title="Triples teamwork essentials" description="Find your voice within a rink and support skips with useful calls." %}
           <article class="gs-resource" role="listitem">
             <h3><a href="{{ '/help-and-support' | relative_url }}">Visit the Help &amp; Support hub</a></h3>
             <p>Browse answers to the questions new bowlers ask most often.</p>

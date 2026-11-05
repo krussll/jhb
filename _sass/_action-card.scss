@@ -1,0 +1,181 @@
+// =============================================================================
+// Action Card Styles
+// Reusable action card component for core articles across pathways & hubs
+// =============================================================================
+
+.action-card {
+  background: #f8fafd;
+  border-radius: 1.25rem;
+  padding: 1.75rem 1.5rem;
+  border: 1px solid rgba(79, 124, 255, 0.12);
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+  box-sizing: border-box;
+  height: 100%;
+  transition: transform 0.25s ease, box-shadow 0.25s ease, border-color 0.25s ease, background 0.25s ease;
+
+  &:hover,
+  &:focus-within {
+    transform: translateY(-4px);
+    background: #ffffff;
+    box-shadow: 0 20px 45px rgba(31, 43, 95, 0.12);
+    border-color: rgba(79, 124, 255, 0.35);
+  }
+
+  &__meta {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    margin-bottom: 0.25rem;
+  }
+
+  &__badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.35rem;
+    font-size: 0.75rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    padding: 0.25rem 0.65rem;
+    border-radius: 999px;
+    line-height: 1.2;
+
+    i {
+      font-size: 0.7rem;
+    }
+
+    &--beginner {
+      background: rgba(31, 43, 95, 0.08);
+      color: #1F2B5F;
+      border: 1px solid rgba(31, 43, 95, 0.18);
+    }
+
+    &--intermediate {
+      background: rgba(200, 155, 60, 0.16);
+      color: #875c0c;
+      border: 1px solid rgba(200, 155, 60, 0.38);
+    }
+
+    &--advanced {
+      background: #1F2B5F;
+      color: #ffffff;
+      border: 1px solid #1F2B5F;
+    }
+
+    &--all-levels {
+      background: rgba(16, 185, 129, 0.12);
+      color: #065f46;
+      border: 1px solid rgba(16, 185, 129, 0.28);
+    }
+  }
+
+  &__read-time {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.35rem;
+    font-size: 0.825rem;
+    color: #595959;
+    font-weight: 500;
+    margin-left: auto;
+
+    i {
+      color: #718096;
+    }
+
+    .reading-time {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.2rem;
+    }
+  }
+
+  &__title {
+    margin: 0;
+    font-size: 1.15rem;
+    line-height: 1.4;
+    font-weight: 700;
+
+    a {
+      color: #1F2B5F;
+      text-decoration: none;
+      transition: color 0.2s ease;
+
+      &:hover,
+      &:focus {
+        color: #1D4ED8;
+        text-decoration: none;
+      }
+    }
+  }
+
+  &__excerpt {
+    margin: 0;
+    color: #4a5468;
+    font-size: 0.95rem;
+    line-height: 1.55;
+    flex-grow: 1;
+  }
+
+  &__footer {
+    margin-top: auto;
+    padding-top: 0.85rem;
+    border-top: 1px solid rgba(31, 43, 95, 0.08);
+  }
+
+  &__next-step {
+    display: flex;
+    flex-direction: column;
+    gap: 0.25rem;
+  }
+
+  &__next-label {
+    display: block;
+    font-size: 0.72rem;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    font-weight: 700;
+    color: #6b7280;
+  }
+
+  &__next-link {
+    display: inline-flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 0.5rem;
+    width: 100%;
+    font-size: 0.875rem;
+    font-weight: 600;
+    color: #1F2B5F;
+    text-decoration: none;
+    transition: color 0.2s ease;
+
+    i {
+      font-size: 0.78rem;
+      transition: transform 0.2s ease;
+      color: #C89B3C;
+    }
+
+    &:hover,
+    &:focus {
+      color: #1D4ED8;
+      text-decoration: none;
+
+      i {
+        transform: translateX(3px);
+        color: #1D4ED8;
+      }
+    }
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .action-card,
+  .action-card__next-link i {
+    transition: none;
+  }
+}
+

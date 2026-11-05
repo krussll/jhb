@@ -4,11 +4,13 @@ title:  "How To Get Better At Lawn Bowls | A Complete Guide To Improving Your Ga
 seo_title: "How to Get Better at Lawn Bowls: Complete Guide"
 author: reece
 categories: [ help ]
-featured: false
-description: ""
+description: "A structured improvement roadmap for lawn bowlers covering deliberate practice, delivery mechanics, mental game, and match preparation."
+skill_level: Intermediate
 pathway: practice-smarter
-last_modified_at: 2026-11-05 13:42:00 +0000
+next_step: /help/ultimate-guide-to-lawn-bowls-singles-tactics/
+featured: false
 date: 2022-06-20 13:00:00 -0400
+last_modified_at: 2026-11-05 14:45:00 +0000
 ---
     
 

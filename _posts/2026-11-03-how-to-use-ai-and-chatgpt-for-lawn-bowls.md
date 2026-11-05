@@ -7,8 +7,11 @@ author: reece
 categories: [ ai ]
 featured: true
 description: "Learn how to use ChatGPT and free AI tools to build custom lawn bowls practice routines, simulate match tactics for leads and skips, and diagnose delivery faults."
+skill_level: All Levels
+pathway: practice-smarter
+next_step: /ai-coaching/prompt-builder/
 date: 2026-11-03 09:00:00 +0000
-last_modified_at: 2026-11-05 14:14:00 +0000
+last_modified_at: 2026-11-05 14:45:00 +0000
 ---
 
 <p><strong>Can artificial intelligence actually help you draw closer to the jack? While ChatGPT cannot step onto the mat and feel a gusty crosswind on a 15-second grass green, it has quietly become one of the most useful off-green training companions a club bowler can use.</strong></p>

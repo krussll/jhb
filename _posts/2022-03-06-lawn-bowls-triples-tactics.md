@@ -3,11 +3,13 @@ layout: post
 title:  "Lawn Bowls Triples Tactics | A Complete Guide"
 author: reece
 categories: [ help ]
-featured: false
-description: ""
+description: "Learn winning triples lawn bowls tactics: responsibilities for leads, seconds, and skips, team communication, and head-building strategies."
+skill_level: Intermediate
 pathway: compete-with-confidence
+next_step: /help-and-support/
+featured: false
 date: 2022-03-06 13:00:00 -0400
-last_modified_at: 2026-11-05 13:42:00 +0000
+last_modified_at: 2026-11-05 14:45:00 +0000
 ---
     
 

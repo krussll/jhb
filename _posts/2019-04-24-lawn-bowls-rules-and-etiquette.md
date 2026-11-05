@@ -3,11 +3,13 @@ layout: post
 title:  "Lawn Bowls Rules And Etiquette"
 author: reece
 categories: [ help ]
-featured: false
-description: ""
+description: "Learn the essential lawn bowls etiquette and unwritten rules that keep club roll-ups and matches friendly, respectful, and fair."
+skill_level: Beginner
 pathway: learn-the-essentials
-last_modified_at: 2026-11-05 13:42:00 +0000
+next_step: /guide/best-lawn-bowls-for-beginners/
+featured: false
 date: 2019-04-24 13:00:00 -0400
+last_modified_at: 2026-11-05 14:45:00 +0000
 ---
     
 
