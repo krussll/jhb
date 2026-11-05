@@ -9,9 +9,9 @@
 # - end_date: (Optional) ISO date string YYYY-MM-DD
 
 - id: drill-pack
-  badge: "Free Drill Pack"
+  badge: "Drill Pack"
   message: "Sharpen your draw shot and weight control with 20 structured practice drills."
-  link_text: "Download Free Drills"
+  link_text: "Download Drills"
   url: "/lawn-bowls-downloadable-drill-pack"
   start_date: "2024-01-01"
   end_date: "2030-12-31"

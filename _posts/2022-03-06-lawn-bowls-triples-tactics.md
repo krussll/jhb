@@ -5,8 +5,9 @@ author: reece
 categories: [ help ]
 featured: false
 description: ""
+pathway: compete-with-confidence
 date: 2022-03-06 13:00:00 -0400
-last_modified_at: 2026-10-30 10:25:00 +0000
+last_modified_at: 2026-11-05 13:42:00 +0000
 ---
     
 

@@ -4,7 +4,8 @@ layout: default
 
 <header class="masthead post-hero">
   <div class="container">
-      <div class="post-hero__inner">
+    {% include breadcrumbs.html %}
+    <div class="post-hero__inner">
         <div class="post-hero__content page-titles">
           <div class="post-heading post-hero__heading">
           {% assign category = page.categories | sort | first %}

@@ -5,8 +5,9 @@ author: reece
 categories: [ guide ]
 featured: false
 description: "Discover the best lawn bowls for beginners in 2026. Compare forgiving mid-bias models, hand sizing tests, grip options, and budget-friendly club choices."
+pathway: choose-your-bowls
 date: 2019-04-09 13:00:00 -0400
-last_modified_at: 2026-11-05 12:12:00 +0000
+last_modified_at: 2026-11-05 13:42:00 +0000
 items:
   - name: "Taylor Ace"
     award: "Best All-Rounder & Club Standard"

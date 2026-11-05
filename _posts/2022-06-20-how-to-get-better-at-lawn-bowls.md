@@ -6,7 +6,8 @@ author: reece
 categories: [ help ]
 featured: false
 description: ""
-last_modified_at: 2026-11-04 15:05:00 +0000
+pathway: practice-smarter
+last_modified_at: 2026-11-05 13:42:00 +0000
 date: 2022-06-20 13:00:00 -0400
 ---
     

@@ -5,7 +5,8 @@ author: reece
 categories: [ help ]
 featured: false
 description: ""
-last_modified_at: 2026-10-30 10:25:00 +0000
+pathway: learn-the-essentials
+last_modified_at: 2026-11-05 13:42:00 +0000
 date: 2019-04-24 13:00:00 -0400
 ---
     

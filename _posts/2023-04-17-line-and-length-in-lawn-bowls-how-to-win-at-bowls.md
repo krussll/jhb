@@ -5,7 +5,8 @@ author: reece
 categories: [ help ]
 featured: false
 description: "The foundation of bowls is line and length. If you have control over these two factors then you will be able to play any shot in the book - but just how do you control your line and length? In this guide I'll run through everything you need to know."
-last_modified_at: 2026-10-30 10:25:00 +0000
+pathway: practice-smarter
+last_modified_at: 2026-11-05 13:42:00 +0000
 date: 2023-04-17 13:00:00 -0400
 ---
     

@@ -1,0 +1,47 @@
+{% assign pathway_obj = nil %}
+{% if page.pathway %}
+  {% for p in site.data.pathways %}
+    {% if p.id == page.pathway %}
+      {% assign pathway_obj = p %}
+      {% break %}
+    {% endif %}
+  {% endfor %}
+{% endif %}
+
+{% if pathway_obj %}
+  {% assign parent_name = pathway_obj.title %}
+  {% assign parent_url = pathway_obj.hub_url %}
+{% else %}
+  {% assign cat_slug = page.categories | first %}
+  {% if cat_slug == 'review' or cat_slug == 'reviews' %}
+    {% assign parent_name = 'Reviews' %}
+    {% assign parent_url = '/reviews/' %}
+  {% elsif cat_slug == 'guide' or cat_slug == 'guides' %}
+    {% assign parent_name = 'Guides' %}
+    {% assign parent_url = '/guides/' %}
+  {% elsif cat_slug == 'help' %}
+    {% assign parent_name = 'Help & Support' %}
+    {% assign parent_url = '/help-and-support/' %}
+  {% elsif cat_slug == 'ai' %}
+    {% assign parent_name = 'AI Coaching' %}
+    {% assign parent_url = '/ai-coaching/' %}
+  {% else %}
+    {% assign parent_name = cat_slug | replace: '-', ' ' | capitalize | default: 'All Posts' %}
+    {% assign parent_url = '/all-posts/' %}
+  {% endif %}
+{% endif %}
+
+<nav class="post-breadcrumbs" aria-label="Breadcrumb">
+  <ol class="post-breadcrumbs__list">
+    <li class="post-breadcrumbs__item">
+      <a href="{{ '/' | relative_url }}" class="post-breadcrumbs__link">Home</a>
+    </li>
+    <li class="post-breadcrumbs__item">
+      <a href="{{ parent_url | relative_url }}" class="post-breadcrumbs__link">{{ parent_name }}</a>
+    </li>
+    <li class="post-breadcrumbs__item post-breadcrumbs__item--current" aria-current="page">
+      <span>{{ page.title }}</span>
+    </li>
+  </ol>
+</nav>
+

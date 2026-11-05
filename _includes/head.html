@@ -196,16 +196,37 @@
 
   {% comment %} 2. BreadcrumbList Schema {% endcomment %}
   {% if is_article and page_title %}
-  {% assign cat_slug = page.categories | first %}
-  {% assign cat_name = cat_slug | replace: '-', ' ' | capitalize | default: 'Guides' %}
-  {% if cat_slug == 'review' or cat_slug == 'reviews' %}
-  {% assign cat_url = '/reviews' | absolute_url %}
-  {% elsif cat_slug == 'guide' or cat_slug == 'guides' %}
-  {% assign cat_url = '/guides' | absolute_url %}
-  {% elsif cat_slug == 'help' %}
-  {% assign cat_url = '/help-and-support' | absolute_url %}
+  {% assign pathway_obj = nil %}
+  {% if page.pathway %}
+    {% for p in site.data.pathways %}
+      {% if p.id == page.pathway %}
+        {% assign pathway_obj = p %}
+        {% break %}
+      {% endif %}
+    {% endfor %}
+  {% endif %}
+
+  {% if pathway_obj %}
+    {% assign cat_name = pathway_obj.title %}
+    {% assign cat_url = pathway_obj.hub_url | absolute_url %}
   {% else %}
-  {% assign cat_url = '/all-posts' | absolute_url %}
+    {% assign cat_slug = page.categories | first %}
+    {% if cat_slug == 'review' or cat_slug == 'reviews' %}
+      {% assign cat_name = 'Reviews' %}
+      {% assign cat_url = '/reviews/' | absolute_url %}
+    {% elsif cat_slug == 'guide' or cat_slug == 'guides' %}
+      {% assign cat_name = 'Guides' %}
+      {% assign cat_url = '/guides/' | absolute_url %}
+    {% elsif cat_slug == 'help' %}
+      {% assign cat_name = 'Help & Support' %}
+      {% assign cat_url = '/help-and-support/' | absolute_url %}
+    {% elsif cat_slug == 'ai' %}
+      {% assign cat_name = 'AI Coaching' %}
+      {% assign cat_url = '/ai-coaching/' | absolute_url %}
+    {% else %}
+      {% assign cat_name = cat_slug | replace: '-', ' ' | capitalize | default: 'All Posts' %}
+      {% assign cat_url = '/all-posts/' | absolute_url %}
+    {% endif %}
   {% endif %}
   {% capture breadcrumbs_json_ld -%}
   {
