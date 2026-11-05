@@ -47,7 +47,7 @@
     {% endif %}
   </div>
   <div class="brand-callout-card__action">
-    <a href="{{ callout_url | relative_url }}" class="btn brand-callout-card__btn">
+    <a href="{{ callout_url | relative_url }}" class="btn brand-callout-card__btn" data-track="{% if callout_type == 'drill-pack' %}drill-pack-callout{% else %}inline-callout{% endif %}">
       <span>{{ callout_cta }}</span> <i class="fas fa-arrow-right" aria-hidden="true"></i>
     </a>
   </div>

@@ -70,6 +70,7 @@ faqs:
         target="_blank" 
         href="https://jack-high-bowls.lemonsqueezy.com/checkout/buy/6515ca0b-b861-4530-8142-0bb075d71bb8"
         data-ls-modal="true"
+        data-track="drill-pack-checkout"
       >Buy Now</a>
       <ul class="list-unstyled">
         <li class="mb-2"><strong>Pay safely and securely</strong> &mdash; checkout with confidence via the Lemon Squeezy payment gateway.</li>
@@ -112,6 +113,7 @@ faqs:
   target="_blank" 
   href="https://jack-high-bowls.lemonsqueezy.com/checkout/buy/6515ca0b-b861-4530-8142-0bb075d71bb8"
   data-ls-modal="true"
+  data-track="drill-pack-checkout"
 >Get it now</a>
 </div>
 

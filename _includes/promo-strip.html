@@ -25,7 +25,7 @@
             <span class="promo-strip__badge">{{ promo.badge }}</span>
             {% endif %}
             <span class="promo-strip__message">{{ promo.message }}</span>
-            <a href="{{ promo.url | relative_url }}" class="promo-strip__cta">
+            <a href="{{ promo.url | relative_url }}" class="promo-strip__cta" data-track="promo-strip">
               <span class="promo-strip__cta-text">{{ promo.link_text }}</span>
               <i class="fas fa-arrow-right promo-strip__cta-icon" aria-hidden="true"></i>
             </a>

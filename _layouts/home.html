@@ -10,22 +10,22 @@ layout: default
         <h1 class="home-hero__title">Lead with confidence on the green.</h1>
         <p class="home-hero__subtitle">{{ site.description }}</p>
         <div class="home-hero__cta">
-          <a class="btn btn-primary btn-lg" href="{{ '/getting-started/' | relative_url }}">Start your journey</a>
-          <a class="btn btn-outline-light btn-lg" href="{{ '/getting-started/#step-1' | relative_url }}">Learn the essentials</a>
+          <a class="btn btn-primary btn-lg" href="{{ '/getting-started/' | relative_url }}" data-track="hero-cta">Start your journey</a>
+          <a class="btn btn-outline-light btn-lg" href="{{ '/getting-started/#step-1' | relative_url }}" data-track="hero-cta">Learn the essentials</a>
         </div>
         <nav class="home-hero__pathways" aria-label="Bowls newcomer pathways">
           <span class="home-hero__pathways-label">Explore pathways:</span>
           <div class="home-hero__pills">
-            <a class="home-hero__pill" href="{{ '/getting-started/#step-1' | relative_url }}">
+            <a class="home-hero__pill" href="{{ '/getting-started/#step-1' | relative_url }}" data-track="hero-pathways">
               <i class="fas fa-book-open" aria-hidden="true"></i> Learn the essentials
             </a>
-            <a class="home-hero__pill" href="{{ '/getting-started/#step-2' | relative_url }}">
+            <a class="home-hero__pill" href="{{ '/getting-started/#step-2' | relative_url }}" data-track="hero-pathways">
               <i class="fas fa-bullseye" aria-hidden="true"></i> Choose your bowls
             </a>
-            <a class="home-hero__pill" href="{{ '/getting-started/#step-3' | relative_url }}">
+            <a class="home-hero__pill" href="{{ '/getting-started/#step-3' | relative_url }}" data-track="hero-pathways">
               <i class="fas fa-dumbbell" aria-hidden="true"></i> Practice smarter
             </a>
-            <a class="home-hero__pill" href="{{ '/getting-started/#step-4' | relative_url }}">
+            <a class="home-hero__pill" href="{{ '/getting-started/#step-4' | relative_url }}" data-track="hero-pathways">
               <i class="fas fa-trophy" aria-hidden="true"></i> Compete with confidence
             </a>
           </div>
@@ -63,9 +63,9 @@ layout: default
             <h3>{{ pathway.title }}</h3>
             <p>{{ pathway.description }}</p>
             <div class="core-guide-card__actions">
-              <a class="core-guide-card__link" href="{{ pathway.article_url | relative_url }}">{{ pathway.article_text }}
+              <a class="core-guide-card__link" href="{{ pathway.article_url | relative_url }}" data-track="pathway-card">{{ pathway.article_text }}
                 <i class="fas fa-arrow-right" aria-hidden="true"></i></a>
-              <a class="core-guide-card__hub-link" href="{{ pathway.hub_url | relative_url }}">{{ pathway.hub_text }}
+              <a class="core-guide-card__hub-link" href="{{ pathway.hub_url | relative_url }}" data-track="pathway-card">{{ pathway.hub_text }}
                 <i class="fas fa-chevron-right" aria-hidden="true"></i></a>
             </div>
           </article>
@@ -153,7 +153,7 @@ layout: default
             <h3>Find the right bowls</h3>
             <p>Dive into our side-by-side comparisons to uncover the model that complements your draw, line and playing
               surface.</p>
-            <a class="service-card__link" href="{{ '/reviews' | relative_url }}">Browse reviews</a>
+            <a class="service-card__link" href="{{ '/reviews' | relative_url }}" data-track="home-services">Browse reviews</a>
           </div>
         </div>
         <div class="col-lg-4">
@@ -165,7 +165,7 @@ layout: default
             <h3>Master core skills</h3>
             <p>From delivery drills to tactical shot selection, our guides show you how to practice with intention and
               play with confidence.</p>
-            <a class="service-card__link" href="{{ '/guides' | relative_url }}">Read guides</a>
+            <a class="service-card__link" href="{{ '/guides' | relative_url }}" data-track="home-services">Read guides</a>
           </div>
         </div>
         <div class="col-lg-4">
@@ -176,7 +176,7 @@ layout: default
             </div>
             <h3>Train with purpose</h3>
             <p>Download structured practice plans that keep you motivated and improving between matches.</p>
-            <a class="service-card__link" href="{{ '/lawn-bowls-downloadable-drill-pack' | relative_url }}">Get the
+            <a class="service-card__link" href="{{ '/lawn-bowls-downloadable-drill-pack' | relative_url }}" data-track="drill-pack-service-card">Get the
               drill pack</a>
           </div>
         </div>
@@ -238,8 +238,8 @@ layout: default
           <p>Join thousands of bowlers who start their improvement journey with Jack High Bowls each month.</p>
         </div>
         <div class="home-cta__actions">
-          <a class="btn btn-light btn-lg" href="{{ '/getting-started' | relative_url }}">Start here</a>
-          <a class="btn btn-outline-light btn-lg" href="mailto:{{ site.email }}">Talk to us</a>
+          <a class="btn btn-light btn-lg" href="{{ '/getting-started' | relative_url }}" data-track="home-cta">Start here</a>
+          <a class="btn btn-outline-light btn-lg" href="mailto:{{ site.email }}" data-track="home-cta">Talk to us</a>
         </div>
       </div>
     </div>

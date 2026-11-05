@@ -135,8 +135,8 @@ layout: default
                   <h3>{{ pathway.title }}</h3>
                   <p>{{ pathway.description }}</p>
                   <div class="core-guide-card__actions">
-                    <a class="core-guide-card__link" href="{{ pathway.article_url | relative_url }}">{{ pathway.article_text }} <i class="fas fa-arrow-right" aria-hidden="true"></i></a>
-                    <a class="core-guide-card__hub-link" href="{{ pathway.hub_url | relative_url }}">{{ pathway.hub_text }} <i class="fas fa-chevron-right" aria-hidden="true"></i></a>
+                    <a class="core-guide-card__link" href="{{ pathway.article_url | relative_url }}" data-track="pathway-card">{{ pathway.article_text }} <i class="fas fa-arrow-right" aria-hidden="true"></i></a>
+                    <a class="core-guide-card__hub-link" href="{{ pathway.hub_url | relative_url }}" data-track="pathway-card">{{ pathway.hub_text }} <i class="fas fa-chevron-right" aria-hidden="true"></i></a>
                   </div>
                 </article>
               </div>

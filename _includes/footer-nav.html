@@ -7,7 +7,7 @@
         <ul class="footer-nav__list list-unstyled">
           {% for pathway in site.data.pathways %}
           <li class="footer-nav__item">
-            <a class="footer-nav__link" href="{{ pathway.article_url | relative_url }}">
+            <a class="footer-nav__link" href="{{ pathway.article_url | relative_url }}" data-track="footer-core-guides">
               {{ pathway.title }}
             </a>
           </li>
