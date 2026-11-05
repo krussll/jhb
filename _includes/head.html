@@ -465,4 +465,77 @@
   <script type="application/ld+json">{{ itemlist_json_ld | strip }}</script>
   {% endif %}
 
+  {% comment %} 6. Product Schema {% endcomment %}
+  {% if page.product %}
+  {% assign product_name = page.product.name | default: page_title %}
+  {% assign product_desc = page.product.description | default: page_description %}
+  {% if page.product.image %}
+    {% if page.product.image contains '://' %}
+      {% assign product_image_url = page.product.image %}
+    {% else %}
+      {% assign product_image_url = page.product.image | absolute_url %}
+    {% endif %}
+  {% else %}
+    {% assign product_image_url = og_image_url %}
+  {% endif %}
+  {% assign product_price = page.product.price | default: '0.00' %}
+  {% assign product_currency = page.product.price_currency | default: 'GBP' %}
+  {% assign product_avail = page.product.availability | default: 'https://schema.org/InStock' %}
+  {% assign product_checkout = page.product.checkout_url | default: canonical_url %}
+  {% assign product_sku = page.product.sku | default: 'JHB-DRILL-PACK-01' %}
+  {% assign product_brand = page.product.brand | default: site.title %}
+  {% capture product_json_ld -%}
+  {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "@id": {{ canonical_url | append: '#product' | jsonify }},
+  "name": {{ product_name | jsonify }},
+  "description": {{ product_desc | jsonify }},
+  "image": {{ product_image_url | jsonify }},
+  "sku": {{ product_sku | jsonify }},
+  "brand": {
+  "@type": "Brand",
+  "name": {{ product_brand | jsonify }}
+  },
+  "offers": {
+  "@type": "Offer",
+  "@id": {{ canonical_url | append: '#offer' | jsonify }},
+  "url": {{ product_checkout | jsonify }},
+  "priceCurrency": {{ product_currency | jsonify }},
+  "price": {{ product_price | jsonify }},
+  "availability": {{ product_avail | jsonify }},
+  "seller": {
+  "@type": "Organization",
+  "name": {{ site.title | jsonify }}
+  }
+  }
+  }
+  {%- endcapture %}
+  <script type="application/ld+json">{{ product_json_ld | strip }}</script>
+  {% endif %}
+
+  {% comment %} 7. FAQPage Schema {% endcomment %}
+  {% if page.faqs and page.faqs.size > 0 %}
+  {% capture faq_json_ld -%}
+  {
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "@id": {{ canonical_url | append: '#faq' | jsonify }},
+  "mainEntity": [
+  {% for faq in page.faqs %}
+  {
+  "@type": "Question",
+  "name": {{ faq.question | jsonify }},
+  "acceptedAnswer": {
+  "@type": "Answer",
+  "text": {{ faq.answer | jsonify }}
+  }
+  }{% unless forloop.last %},{% endunless %}
+  {% endfor %}
+  ]
+  }
+  {%- endcapture %}
+  <script type="application/ld+json">{{ faq_json_ld | strip }}</script>
+  {% endif %}
+
 </head>

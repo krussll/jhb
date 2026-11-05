@@ -1,0 +1,100 @@
+// =============================================================================
+// Lawn Bowls Drill Pack Landing Page & FAQ Styles
+// Brand Palette:
+//   Primary Deep Blue: #1F2B5F
+//   Accent Warm Gold:  #C89B3C
+//   Neutral Light:     #f8f9fa
+//   Dark Charcoal:     #222222
+// =============================================================================
+
+.drill-pack-faq {
+  .card {
+    background-color: #f8f9fa;
+    border: 1px solid #e9ecef;
+  }
+
+  .faq-accordion {
+    width: 100%;
+  }
+
+  .faq-item {
+    background-color: #ffffff;
+    border: 1px solid #e2e8f0;
+    border-radius: 8px;
+    margin-bottom: 1rem;
+    padding: 1.15rem 1.25rem;
+    transition: border-color 0.2s ease, box-shadow 0.2s ease;
+
+    &:last-child {
+      margin-bottom: 0;
+    }
+
+    &:hover {
+      border-color: #cbd5e1;
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+    }
+
+    &[open] {
+      border-color: #1f2b5f;
+      box-shadow: 0 4px 16px rgba(31, 43, 95, 0.08);
+
+      .faq-question {
+        color: #1f2b5f;
+        margin-bottom: 0.75rem;
+
+        &::after {
+          content: "−";
+          color: #1f2b5f;
+          font-weight: 700;
+        }
+      }
+    }
+  }
+
+  .faq-question {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 1.05rem;
+    font-weight: 700;
+    color: #1f2b5f;
+    cursor: pointer;
+    list-style: none;
+    outline: none;
+    margin: 0;
+
+    &::-webkit-details-marker {
+      display: none;
+    }
+
+    &::after {
+      content: "+";
+      font-size: 1.35rem;
+      font-weight: 600;
+      line-height: 1;
+      color: #c89b3c;
+      margin-left: 1rem;
+      flex-shrink: 0;
+      transition: transform 0.2s ease;
+    }
+
+    &:focus-visible {
+      outline: 2px solid #c89b3c;
+      outline-offset: 3px;
+      border-radius: 4px;
+    }
+  }
+
+  .faq-answer {
+    padding-top: 0.75rem;
+    border-top: 1px solid #edf2f7;
+    color: #4a5568;
+    font-size: 0.975rem;
+    line-height: 1.65;
+
+    p:last-child {
+      margin-bottom: 0;
+    }
+  }
+}
+
