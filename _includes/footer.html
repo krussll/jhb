@@ -1,81 +1,105 @@
 <!-- Footer -->
 
-<hr>
+<hr class="footer-divider">
 
 <footer>
   <div class="container">
     <div class="row">
-      <div class="col-lg-8 col-md-10 mx-auto">
+      <div class="col-12 col-lg-11 mx-auto">
+        <!-- Persistent Drill Pack CTA -->
+        <aside class="footer-cta" aria-labelledby="footer-cta-title">
+          <div class="footer-cta__body">
+            <span class="footer-cta__badge">Structured Practice System</span>
+            <h2 id="footer-cta-title" class="footer-cta__title">Level Up Your Lawn Bowls Consistency</h2>
+            <p class="footer-cta__description">
+              Master draw weight and line control with 20 structured practice routines, printable rink diagrams, and
+              target scorecards.
+            </p>
+          </div>
+          <div class="footer-cta__action">
+            <a href="{{ '/lawn-bowls-downloadable-drill-pack' | relative_url }}" class="drill-pack-cta footer-cta__btn">
+              Get the Drill Pack
+              <i class="fas fa-arrow-right" aria-hidden="true"></i>
+            </a>
+          </div>
+        </aside>
+
         {% include footer-nav.html %}
-        <ul class="list-inline text-center">
-          {% if site.email %}
-          <li class="list-inline-item">
-            <a href="mailto:{{ site.email | encode_email }}" aria-label="Send email to Jack High Bowls">
-              <span class="fa-stack fa-lg">
-                <i class="fas fa-circle fa-stack-2x"></i>
-                <i class="far fa-envelope fa-stack-1x fa-inverse"></i>
-              </span>
-              <span class="sr-only">Email</span>
-            </a>
-          </li>
-          {% endif %}
-          {% if site.twitter_username %}
-          <li class="list-inline-item">
-            <a href="https://twitter.com/{{ site.twitter_username }}" aria-label="Follow Jack High Bowls on Twitter">
-              <span class="fa-stack fa-lg">
-                <i class="fas fa-circle fa-stack-2x"></i>
-                <i class="fab fa-twitter fa-stack-1x fa-inverse"></i>
-              </span>
-              <span class="sr-only">Twitter</span>
-            </a>
-          </li>
-          {% endif %}
-          {% if site.facebook_username %}
-          <li class="list-inline-item">
-            <a href="https://www.facebook.com/{{ site.facebook_username }}" aria-label="Follow Jack High Bowls on Facebook">
-              <span class="fa-stack fa-lg">
-                <i class="fas fa-circle fa-stack-2x"></i>
-                <i class="fab fa-facebook-f fa-stack-1x fa-inverse"></i>
-              </span>
-              <span class="sr-only">Facebook</span>
-            </a>
-          </li>
-          {% endif %}
-          {% if site.linkedin_username %}
-          <li class="list-inline-item">
-            <a href="https://www.linkedin.com/in/{{ site.linkedin_username }}" aria-label="Follow Jack High Bowls on LinkedIn">
-              <span class="fa-stack fa-lg">
-                <i class="fas fa-circle fa-stack-2x"></i>
-                <i class="fab fa-linkedin fa-stack-1x fa-inverse"></i>
-              </span>
-              <span class="sr-only">LinkedIn</span>
-            </a>
-          </li>
-          {% endif %}
-          {% if site.github_username %}
-          <li class="list-inline-item">
-            <a href="https://github.com/{{ site.github_username }}" aria-label="Jack High Bowls on GitHub">
-              <span class="fa-stack fa-lg">
-                <i class="fas fa-circle fa-stack-2x"></i>
-                <i class="fab fa-github fa-stack-1x fa-inverse"></i>
-              </span>
-              <span class="sr-only">GitHub</span>
-            </a>
-          </li>
-          {% endif %}
-          {% if site.instagram_username %}
-          <li class="list-inline-item">
-            <a href="https://instagram.com/{{ site.instagram_username }}" aria-label="Follow Jack High Bowls on Instagram">
-              <span class="fa-stack fa-lg">
-                <i class="fas fa-circle fa-stack-2x"></i>
-                <i class="fab fa-instagram fa-stack-1x fa-inverse"></i>
-              </span>
-              <span class="sr-only">Instagram</span>
-            </a>
-          </li>
-          {% endif %}
-        </ul>
-        <p class="copyright text-muted">Copyright &copy; {{ site.author }} {{ 'now' | date: "%Y" }}</p>
+
+        <div class="footer-bottom text-center">
+          <ul class="list-inline text-center footer-social">
+            {% if site.email %}
+            <li class="list-inline-item">
+              <a href="mailto:{{ site.email | encode_email }}" aria-label="Send email to Jack High Bowls">
+                <span class="fa-stack fa-lg">
+                  <i class="fas fa-circle fa-stack-2x"></i>
+                  <i class="far fa-envelope fa-stack-1x fa-inverse"></i>
+                </span>
+                <span class="sr-only">Email</span>
+              </a>
+            </li>
+            {% endif %}
+            {% if site.twitter_username %}
+            <li class="list-inline-item">
+              <a href="https://twitter.com/{{ site.twitter_username }}" aria-label="Follow Jack High Bowls on Twitter">
+                <span class="fa-stack fa-lg">
+                  <i class="fas fa-circle fa-stack-2x"></i>
+                  <i class="fab fa-twitter fa-stack-1x fa-inverse"></i>
+                </span>
+                <span class="sr-only">Twitter</span>
+              </a>
+            </li>
+            {% endif %}
+            {% if site.facebook_username %}
+            <li class="list-inline-item">
+              <a href="https://www.facebook.com/{{ site.facebook_username }}"
+                aria-label="Follow Jack High Bowls on Facebook">
+                <span class="fa-stack fa-lg">
+                  <i class="fas fa-circle fa-stack-2x"></i>
+                  <i class="fab fa-facebook-f fa-stack-1x fa-inverse"></i>
+                </span>
+                <span class="sr-only">Facebook</span>
+              </a>
+            </li>
+            {% endif %}
+            {% if site.linkedin_username %}
+            <li class="list-inline-item">
+              <a href="https://www.linkedin.com/in/{{ site.linkedin_username }}"
+                aria-label="Follow Jack High Bowls on LinkedIn">
+                <span class="fa-stack fa-lg">
+                  <i class="fas fa-circle fa-stack-2x"></i>
+                  <i class="fab fa-linkedin fa-stack-1x fa-inverse"></i>
+                </span>
+                <span class="sr-only">LinkedIn</span>
+              </a>
+            </li>
+            {% endif %}
+            {% if site.github_username %}
+            <li class="list-inline-item">
+              <a href="https://github.com/{{ site.github_username }}" aria-label="Jack High Bowls on GitHub">
+                <span class="fa-stack fa-lg">
+                  <i class="fas fa-circle fa-stack-2x"></i>
+                  <i class="fab fa-github fa-stack-1x fa-inverse"></i>
+                </span>
+                <span class="sr-only">GitHub</span>
+              </a>
+            </li>
+            {% endif %}
+            {% if site.instagram_username %}
+            <li class="list-inline-item">
+              <a href="https://instagram.com/{{ site.instagram_username }}"
+                aria-label="Follow Jack High Bowls on Instagram">
+                <span class="fa-stack fa-lg">
+                  <i class="fas fa-circle fa-stack-2x"></i>
+                  <i class="fab fa-instagram fa-stack-1x fa-inverse"></i>
+                </span>
+                <span class="sr-only">Instagram</span>
+              </a>
+            </li>
+            {% endif %}
+          </ul>
+          <p class="copyright text-muted">Copyright &copy; {{ site.author }} {{ 'now' | date: "%Y" }}</p>
+        </div>
       </div>
     </div>
   </div>

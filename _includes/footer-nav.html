@@ -1,25 +1,70 @@
-<nav class="footer-nav" aria-label="Footer navigation">
-  <ul class="footer-nav__list list-inline text-center">
-    <li class="list-inline-item">
-      <a class="footer-nav__link" href="{{ "/review-methodology" | relative_url }}">How We Test</a>
-    </li>
-    <li class="list-inline-item">
-      <a class="footer-nav__link" href="{{ "/help-and-support" | relative_url }}">Help &amp; Support</a>
-    </li>
-    <li class="list-inline-item">
-      <a class="footer-nav__link" href="{{ "/ai-coaching" | relative_url }}">AI Coaching</a>
-    </li>
-    <li class="list-inline-item">
-      <a class="footer-nav__link" href="{{ "/lawn-bowls-downloadable-drill-pack" | relative_url }}">Downloadable Drill Pack</a>
-    </li>
-    <li class="list-inline-item">
-      <a class="footer-nav__link" href="{{ "/affiliate-disclaimer" | relative_url }}">Affiliate Disclaimer</a>
-    </li>
-    <li class="list-inline-item">
-      <a class="footer-nav__link" href="{{ "/privacy" | relative_url }}">Privacy Policy</a>
-    </li>
-    <li class="list-inline-item">
-      <a class="footer-nav__link" href="{{ "/terms" | relative_url }}">Terms</a>
-    </li>
-  </ul>
-</nav>
+<div class="footer-nav">
+  <div class="row">
+    <!-- Core Guides Column -->
+    <div class="col-12 col-md-4 footer-nav__col mb-4 mb-md-0">
+      <nav aria-label="Core guides">
+        <h3 class="footer-nav__heading">Core Guides</h3>
+        <ul class="footer-nav__list list-unstyled">
+          {% for pathway in site.data.pathways %}
+          <li class="footer-nav__item">
+            <a class="footer-nav__link" href="{{ pathway.article_url | relative_url }}">
+              {{ pathway.title }}
+            </a>
+          </li>
+          {% endfor %}
+        </ul>
+      </nav>
+    </div>
+
+    <!-- Resources Column -->
+    <div class="col-12 col-md-4 footer-nav__col mb-4 mb-md-0">
+      <nav aria-label="Resources">
+        <h3 class="footer-nav__heading">Resources</h3>
+        <ul class="footer-nav__list list-unstyled">
+          <li class="footer-nav__item">
+            <a class="footer-nav__link" href="{{ '/getting-started' | relative_url }}">Start Here Roadmap</a>
+          </li>
+          <li class="footer-nav__item">
+            <a class="footer-nav__link" href="{{ '/guides' | relative_url }}">Guides Library</a>
+          </li>
+          <li class="footer-nav__item">
+            <a class="footer-nav__link" href="{{ '/reviews' | relative_url }}">Gear Reviews</a>
+          </li>
+          <li class="footer-nav__item">
+            <a class="footer-nav__link" href="{{ '/ai-coaching' | relative_url }}">AI Bowls Coaching</a>
+          </li>
+          <li class="footer-nav__item">
+            <a class="footer-nav__link" href="{{ '/review-methodology' | relative_url }}">How We Test</a>
+          </li>
+          <li class="footer-nav__item">
+            <a class="footer-nav__link" href="{{ '/help-and-support' | relative_url }}">Help &amp; Support</a>
+          </li>
+        </ul>
+      </nav>
+    </div>
+
+    <!-- Legal & About Column -->
+    <div class="col-12 col-md-4 footer-nav__col">
+      <nav aria-label="About and legal">
+        <h3 class="footer-nav__heading">About &amp; Legal</h3>
+        <ul class="footer-nav__list list-unstyled">
+          <li class="footer-nav__item">
+            <a class="footer-nav__link" href="{{ '/about-us' | relative_url }}">About Jack High Bowls</a>
+          </li>
+          <li class="footer-nav__item">
+            <a class="footer-nav__link" href="{{ '/contact' | relative_url }}">Contact Us</a>
+          </li>
+          <li class="footer-nav__item">
+            <a class="footer-nav__link" href="{{ '/affiliate-disclaimer' | relative_url }}">Affiliate Disclaimer</a>
+          </li>
+          <li class="footer-nav__item">
+            <a class="footer-nav__link" href="{{ '/privacy' | relative_url }}">Privacy Policy</a>
+          </li>
+          <li class="footer-nav__item">
+            <a class="footer-nav__link" href="{{ '/terms' | relative_url }}">Terms of Use</a>
+          </li>
+        </ul>
+      </nav>
+    </div>
+  </div>
+</div>
