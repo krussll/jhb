@@ -16,7 +16,7 @@ Produce a one-page printable **Pocket Scorecard & 6-Week Benchmark Tracker** tha
 - Each drill already uses a "Goals (Out of 40 / 48): Good / Better / Best" scoring system. Drill #1 "Find The Gap" scores Good 30 / Better 35 / Best 40.
 - Format options: a print-optimised HTML page in the repo (e.g., an unlisted page with `@media print` styles that the user prints to PDF), or a designed PDF. A4, works in black and white, and readable on a phone.
 - Should include: drill name, max score, Good/Better/Best targets, six weekly score columns, date and green-speed notes.
-- Brand palette: `#1F2B5F`, `#C89B3C`, `#F5F2EB`, `#222222`.
+- Brand palette: `#1F2B5F`, `#C89B3C`, `#f8f9fa`, `#222222`.
 - If it's built as a site page, keep it out of the sitemap and search (`sitemap: false` / `noindex: true`; `head.html` already supports both) so the paid bonus doesn't leak.
 
 ## Completion criteria

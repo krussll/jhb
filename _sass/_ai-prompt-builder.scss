@@ -1,7 +1,7 @@
 // Styles for the Interactive Lawn Bowls AI Coaching Prompt Builder
 .ai-prompt-builder {
   &__card {
-    background-color: #f5f2eb;
+    background-color: #f8f9fa;
     border: 1px solid rgba(31, 43, 95, 0.16);
     border-left: 5px solid #1f2b5f;
     border-radius: 14px;
@@ -20,7 +20,7 @@
   &__badge {
     display: inline-block;
     background-color: #1f2b5f;
-    color: #f5f2eb;
+    color: #f8f9fa;
     font-size: 0.8rem;
     font-weight: 700;
     text-transform: uppercase;
@@ -89,7 +89,7 @@
 
     &:checked + .ai-prompt-builder__mode-label {
       background-color: #1f2b5f;
-      color: #f5f2eb;
+      color: #f8f9fa;
       border-color: #1f2b5f;
       box-shadow: 0 4px 12px rgba(31, 43, 95, 0.18);
     }
@@ -176,7 +176,7 @@
     min-height: 48px;
     padding: 0.65rem 1.4rem;
     background-color: #1f2b5f;
-    color: #f5f2eb;
+    color: #f8f9fa;
     border: 2px solid #1f2b5f;
     border-radius: 999px;
     font-size: 1rem;
@@ -206,7 +206,7 @@
     &:hover,
     &:focus {
       background-color: #1f2b5f;
-      color: #f5f2eb;
+      color: #f8f9fa;
       text-decoration: none;
     }
   }

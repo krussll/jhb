@@ -8,7 +8,7 @@ categories: [ ai ]
 featured: true
 description: "Learn how to use ChatGPT and free AI tools to build custom lawn bowls practice routines, simulate match tactics for leads and skips, and diagnose delivery faults."
 date: 2026-11-03 09:00:00 +0000
-last_modified_at: 2026-11-05 12:12:00 +0000
+last_modified_at: 2026-11-05 14:14:00 +0000
 ---
 
 <p><strong>Can artificial intelligence actually help you draw closer to the jack? While ChatGPT cannot step onto the mat and feel a gusty crosswind on a 15-second grass green, it has quietly become one of the most useful off-green training companions a club bowler can use.</strong></p>
@@ -17,14 +17,14 @@ last_modified_at: 2026-11-05 12:12:00 +0000
 
 <p>Used properly, free AI tools like ChatGPT, Claude, or Google Gemini act like an on-demand coaching notebook. In this guide, I will show you five practical, zero-jargon ways to use AI to structure your roll-ups, test your tactical calls, and diagnose delivery faults—plus where AI falls short so you never get steered wrong.</p>
 
-<div class="card my-4 p-4 border-0 shadow-sm" style="background-color: #F5F2EB; border-left: 4px solid #1F2B5F !important; border-radius: 12px;">
+<div class="card my-4 p-4 border-0 shadow-sm" style="background-color: #f8f9fa; border-left: 4px solid #1F2B5F !important; border-radius: 12px;">
   <div class="d-flex align-items-center justify-content-between flex-wrap">
     <div class="mb-2 mb-md-0">
-      <span class="badge badge-success px-2 py-1 mb-1" style="background-color: #1F2B5F; color: #F5F2EB;">Interactive Tool</span>
+      <span class="badge badge-success px-2 py-1 mb-1" style="background-color: #1F2B5F; color: #f8f9fa;">Interactive Tool</span>
       <h3 class="h6 font-weight-bold text-dark mb-1">Want a custom coaching prompt built for you in 10 seconds?</h3>
       <p class="small text-muted mb-0">Select your rink position, green speed, and skill struggle in our interactive builder and launch straight into ChatGPT.</p>
     </div>
-    <a href="{{ '/ai-coaching/prompt-builder' | relative_url }}" class="btn btn-sm font-weight-bold" style="background-color: #1F2B5F; color: #F5F2EB; border-radius: 999px; padding: 0.5rem 1.1rem;">
+    <a href="{{ '/ai-coaching/prompt-builder' | relative_url }}" class="btn btn-sm font-weight-bold" style="background-color: #1F2B5F; color: #f8f9fa; border-radius: 999px; padding: 0.5rem 1.1rem;">
       Open Prompt Builder &rarr;
     </a>
   </div>

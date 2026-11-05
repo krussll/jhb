@@ -13,7 +13,7 @@ This repository contains the source for the JHB lawn bowls information site, a J
 
 # Style guide
 - **Fonts**: Use the configured site typography—primary font family is the theme default (Merriweather/Helvetica stack). Do not introduce new web fonts without approval.
-- **Brand colours**: Retain the existing palette of deep blue (#1F2B5F), warm gold (#C89B3C), neutral light (#F5F2EB), and dark charcoal (#222222). See [`.agents/brand-colours.md`](.agents/brand-colours.md) for complete specifications, contrast ratios, and SCSS patterns. New UI elements should harmonise with these hues.
+- **Brand colours**: Retain the existing palette of deep blue (#1F2B5F), warm gold (#C89B3C), neutral light (#f8f9fa), and dark charcoal (#222222). See [`.agents/brand-colours.md`](.agents/brand-colours.md) for complete specifications, contrast ratios, and SCSS patterns. New UI elements should harmonise with these hues.
 - **Imagery**: Use high-quality lawn-bowls-related imagery. Optimise images for web (compressed, responsive sizes) and include descriptive alt text.
 
 # Coding conventions

@@ -18,7 +18,7 @@ last_modified_at: 2026-11-03 15:15:00 +0000
   <h2 id="how-to-use-heading" class="h4 font-weight-bold text-dark mb-3">How to Get the Best Results From Your Prompt</h2>
   <div class="row">
     <div class="col-md-4 mb-3">
-      <div class="card h-100 border-0 shadow-sm p-3" style="background-color: #F5F2EB; border-top: 3px solid #1F2B5F !important; border-radius: 10px;">
+      <div class="card h-100 border-0 shadow-sm p-3" style="background-color: #f8f9fa; border-top: 3px solid #1F2B5F !important; border-radius: 10px;">
         <h3 class="h6 font-weight-bold text-dark">1. Pick Your Mode</h3>
         <p class="small text-muted mb-0">
           Choose <strong>Solo Roll-Up Planner</strong> before heading to the club, <strong>Match Tactics Simulator</strong> to practice calling shots from home, or <strong>Delivery Fault Fixer</strong> to troubleshoot a mechanical hitch.
@@ -26,7 +26,7 @@ last_modified_at: 2026-11-03 15:15:00 +0000
       </div>
     </div>
     <div class="col-md-4 mb-3">
-      <div class="card h-100 border-0 shadow-sm p-3" style="background-color: #F5F2EB; border-top: 3px solid #C89B3C !important; border-radius: 10px;">
+      <div class="card h-100 border-0 shadow-sm p-3" style="background-color: #f8f9fa; border-top: 3px solid #C89B3C !important; border-radius: 10px;">
         <h3 class="h6 font-weight-bold text-dark">2. Add Your Bowls Model</h3>
         <p class="small text-muted mb-0">
           You can type directly inside the prompt box to add your bowl model (e.g., <em>Taylor Ace Size 3 Heavy</em>) or wind conditions before clicking <strong>Copy Prompt</strong> or <strong>Open in ChatGPT</strong>.
@@ -34,7 +34,7 @@ last_modified_at: 2026-11-03 15:15:00 +0000
       </div>
     </div>
     <div class="col-md-4 mb-3">
-      <div class="card h-100 border-0 shadow-sm p-3" style="background-color: #F5F2EB; border-top: 3px solid #1F2B5F !important; border-radius: 10px;">
+      <div class="card h-100 border-0 shadow-sm p-3" style="background-color: #f8f9fa; border-top: 3px solid #1F2B5F !important; border-radius: 10px;">
         <h3 class="h6 font-weight-bold text-dark">3. Log Your Drill Scores</h3>
         <p class="small text-muted mb-0">
           After your roll-up, reply in the same AI chat with your score out of 20 (or your scores from our <a href="{{ '/lawn-bowls-downloadable-drill-pack' | relative_url }}" class="font-weight-bold" style="color: #1F2B5F;">Downloadable Drill Pack</a>) to track your consistency week by week.

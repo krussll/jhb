@@ -12,7 +12,7 @@ The Jack High Bowls visual identity is built upon four foundational colours, anc
 | :--- | :--- | :--- | :--- | :--- |
 | **Deep Blue** | `#1F2B5F` | `rgb(31, 43, 95)` | `hsl(229, 51%, 25%)` | Primary brand accent, primary CTA buttons, masthead/page hero gradient base, section headers, key borders |
 | **Warm Gold** | `#C89B3C` | `rgb(200, 155, 60)` | `hsl(41, 56%, 51%)` | Secondary accent, badges, highlight borders, active indicators, focus rings, CTA accents |
-| **Neutral Light (Cream)** | `#F5F2EB` | `rgb(245, 242, 235)` | `hsl(42, 33%, 94%)` | Card backgrounds, callout containers, soft surface fills, light text on dark backgrounds |
+| **Neutral Light (Cream)** | `#f8f9fa` | `rgb(248, 249, 250)` | `hsl(210, 17%, 98%)` | Card backgrounds, callout containers, soft surface fills, light text on dark backgrounds |
 | **Dark Charcoal** | `#222222` | `rgb(34, 34, 34)` | `hsl(0, 0%, 13%)` | Primary body typography, high-contrast headings, announcement strip typography, footer |
 
 ---
@@ -27,9 +27,9 @@ The Jack High Bowls visual identity is built upon four foundational colours, anc
   - Distinctive left callout borders (`border-left: 4px solid #1F2B5F`).
   - Active navigation indicators, icons, and section titles.
 - **Pairing & Text Contrast**:
-  - Always pair with **Neutral Light (`#F5F2EB`)** or **Pure White (`#FFFFFF`)** for text.
+  - Always pair with **Neutral Light (`#f8f9fa`)** or **Pure White (`#FFFFFF`)** for text.
   - Contrast ratio against `#FFFFFF`: **13.0:1** (Exceeds WCAG AAA requirement).
-  - Contrast ratio against `#F5F2EB`: **11.5:1** (Exceeds WCAG AAA requirement).
+  - Contrast ratio against `#f8f9fa`: **12.6:1** (Exceeds WCAG AAA requirement).
 - **Hover / Active State**:
   - Hover: `darken(#1F2B5F, 7.5%)` / `#161F44`
   - Active: `darken(#1F2B5F, 12%)` / `#101734`
@@ -43,21 +43,21 @@ The Jack High Bowls visual identity is built upon four foundational colours, anc
   - Focus outlines on dark backgrounds (`outline: 3px solid #C89B3C`).
   - Star ratings, trophy/award icons, and special announcement highlights.
 - **Pairing & Text Contrast**:
-  - **IMPORTANT**: Never use Warm Gold as body text or small text on white or cream backgrounds (contrast is only ~1.8:1, failing accessibility).
+  - **IMPORTANT**: Never use Warm Gold as body text or small text on white or light surfaces (contrast is only ~2.4:1, failing accessibility).
   - When Warm Gold is used as a background fill, set text color to **Dark Charcoal (`#222222`)** or **Deep Blue (`#1F2B5F`)**.
   - Contrast ratio of `#222222` on `#C89B3C`: **5.6:1** (Passes WCAG AA for all text).
 - **Hover / Active State**:
   - Hover: `lighten(#C89B3C, 7%)` / `#D4AB54` or `darken(#C89B3C, 5%)` / `#BA8D2E`
 
-### 2.3 Neutral Light / Cream (`#F5F2EB`)
-- **Role**: Warm Surface & Card Background.
+### 2.3 Neutral Light / Cream (`#f8f9fa`)
+- **Role**: Clean Light Surface & Card Background.
 - **Where to use**:
   - Background fill for feature cards, AI prompt tool builder card, drill cards, and review containers.
   - Background for quote blocks and callout panels.
   - Foreground text color when overlaid on Deep Blue (`#1F2B5F`) or Dark Charcoal (`#222222`).
 - **Pairing & Text Contrast**:
-  - Dark Charcoal (`#222222`) text on `#F5F2EB`: **13.8:1** (Exceeds WCAG AAA).
-  - Deep Blue (`#1F2B5F`) text/links on `#F5F2EB`: **11.5:1** (Exceeds WCAG AAA).
+  - Dark Charcoal (`#222222`) text on `#f8f9fa`: **15.1:1** (Exceeds WCAG AAA).
+  - Deep Blue (`#1F2B5F`) text/links on `#f8f9fa`: **12.6:1** (Exceeds WCAG AAA).
 
 ### 2.4 Dark Charcoal (`#222222`)
 - **Role**: High-Legibility Typography & Neutral Base.
@@ -67,7 +67,7 @@ The Jack High Bowls visual identity is built upon four foundational colours, anc
   - Typography and icon buttons for the top persistent announcement strip (`.promo-strip`).
   - Neutral dark elements and icon buttons.
 - **Pairing & Text Contrast**:
-  - Provides maximum contrast and readability across `#FFFFFF` and `#F5F2EB`.
+  - Provides maximum contrast and readability across `#FFFFFF` and `#f8f9fa`.
 
 ---
 
@@ -94,18 +94,18 @@ All UI components must meet or exceed **WCAG 2.1 AA** standards (4.5:1 for norma
 
 | Foreground | Background | Contrast Ratio | WCAG 2.1 Rating | Permitted Usage |
 | :--- | :--- | :--- | :--- | :--- |
-| `#F5F2EB` (Cream) | `#1F2B5F` (Blue) | **11.5:1** | **AAA** (Pass) | Buttons, badges, hero text, navigation |
+| `#f8f9fa` (Neutral Light) | `#1F2B5F` (Blue) | **12.6:1** | **AAA** (Pass) | Buttons, badges, hero text, navigation |
 | `#FFFFFF` (White) | `#1F2B5F` (Blue) | **13.0:1** | **AAA** (Pass) | Hero headings, button labels |
-| `#1F2B5F` (Blue) | `#F5F2EB` (Cream) | **11.5:1** | **AAA** (Pass) | Text links, card headings, icons |
+| `#1F2B5F` (Blue) | `#f8f9fa` (Neutral Light) | **12.6:1** | **AAA** (Pass) | Text links, card headings, icons |
 | `#1F2B5F` (Blue) | `#FFFFFF` (White) | **13.0:1** | **AAA** (Pass) | Text links, section titles on white |
-| `#222222` (Charcoal) | `#F5F2EB` (Cream) | **13.8:1** | **AAA** (Pass) | Body copy inside cards, prompt builder |
+| `#222222` (Charcoal) | `#f8f9fa` (Neutral Light) | **15.1:1** | **AAA** (Pass) | Body copy inside cards, prompt builder |
 | `#222222` (Charcoal) | `#C89B3C` (Gold) | **5.6:1** | **AA** (Pass) | Badge text, button text on gold CTA |
 | `#1F2B5F` (Blue) | `#C89B3C` (Gold) | **4.2:1** | **AA Large** (Pass) | Large headings / bold buttons |
 | `#C89B3C` (Gold) | `#FFFFFF` (White) | **1.9:1** | **Fail** | **Do NOT use as text on white** |
-| `#C89B3C` (Gold) | `#F5F2EB` (Cream) | **1.8:1** | **Fail** | **Do NOT use as text on cream** |
+| `#C89B3C` (Gold) | `#f8f9fa` (Neutral Light) | **2.4:1** | **Fail** | **Do NOT use as text on light surfaces** |
 
 > [!CAUTION]
-> **Never use Warm Gold (`#C89B3C`) as text on white or light cream surfaces**. Use gold exclusively for filled backgrounds (with dark charcoal text), border accents, focus outlines, or graphical icons.
+> **Never use Warm Gold (`#C89B3C`) as text on white or light surfaces (`#f8f9fa`)**. Use gold exclusively for filled backgrounds (with dark charcoal text), border accents, focus outlines, or graphical icons.
 
 ---
 
@@ -117,7 +117,7 @@ When writing or editing SCSS in `_sass/`, use standard variable tokens matching 
 // Brand tokens
 $brand-blue: #1F2B5F;
 $brand-gold: #C89B3C;
-$brand-cream: #F5F2EB;
+$brand-cream: #f8f9fa;
 $brand-charcoal: #222222;
 
 // Derived hero masthead gradient stops
@@ -153,7 +153,7 @@ header.masthead.page-hero {
 .btn-brand-primary {
   background-color: #1F2B5F;
   border: 1px solid #1F2B5F;
-  color: #F5F2EB;
+  color: #f8f9fa;
   border-radius: 999px; // Pill style
   font-weight: 700;
 
@@ -197,7 +197,7 @@ header.masthead.page-hero {
 ### 6.4 Callout Box / Card
 ```scss
 .brand-callout-card {
-  background-color: #F5F2EB;
+  background-color: #f8f9fa;
   border: 1px solid rgba(31, 43, 95, 0.14);
   border-left: 4px solid #1F2B5F; // or #C89B3C for tips/drills
   border-radius: 10px;

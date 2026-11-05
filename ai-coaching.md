@@ -16,10 +16,10 @@ last_modified_at: 2026-11-03 14:05:00 +0000
 </div>
 
 <!-- Try This Coaching Prompt Callout -->
-<div class="card border-0 shadow-sm mb-5" style="background-color: #F5F2EB; border-left: 4px solid #1F2B5F !important; border-radius: 12px;">
+<div class="card border-0 shadow-sm mb-5" style="background-color: #f8f9fa; border-left: 4px solid #1F2B5F !important; border-radius: 12px;">
   <div class="card-body p-4">
     <div class="d-flex align-items-center justify-content-between flex-wrap mb-2">
-      <span class="badge badge-success px-3 py-1 mb-2" style="background-color: #1F2B5F; color: #F5F2EB;">Try This Today (Free)</span>
+      <span class="badge badge-success px-3 py-1 mb-2" style="background-color: #1F2B5F; color: #f8f9fa;">Try This Today (Free)</span>
       <small class="text-muted mb-2"><i class="fas fa-mobile-alt mr-1" aria-hidden="true"></i> Works in ChatGPT, Claude, or Gemini</small>
     </div>
     <h2 class="h5 font-weight-bold text-dark mb-2">Copy &amp; Paste Your First AI Roll-Up Planner</h2>
@@ -34,7 +34,7 @@ last_modified_at: 2026-11-03 14:05:00 +0000
         <strong>Want a prompt built automatically for your position &amp; green speed?</strong>
       </p>
       <div>
-        <a href="{{ '/ai-coaching/prompt-builder' | relative_url }}" class="btn btn-sm font-weight-bold mr-2" style="background-color: #1F2B5F; color: #F5F2EB; border-radius: 999px; padding: 0.45rem 1rem;">
+        <a href="{{ '/ai-coaching/prompt-builder' | relative_url }}" class="btn btn-sm font-weight-bold mr-2" style="background-color: #1F2B5F; color: #f8f9fa; border-radius: 999px; padding: 0.45rem 1rem;">
           <i class="fas fa-sliders-h mr-1" aria-hidden="true"></i>Launch Interactive Prompt Builder
         </a>
         <a href="{{ '/lawn-bowls-downloadable-drill-pack' | relative_url }}" class="btn btn-sm font-weight-bold" style="background-color: #C89B3C; color: #222222; border-radius: 999px; padding: 0.45rem 1rem;">
@@ -52,10 +52,10 @@ last_modified_at: 2026-11-03 14:05:00 +0000
 
     <!-- Pillar 1: AI Practice & Roll-Up Planning -->
     <div class="col-md-6 mb-4">
-      <div class="card h-100 border-0 shadow-sm" style="background-color: #F5F2EB; border-left: 4px solid #1F2B5F !important; border-radius: 12px;">
+      <div class="card h-100 border-0 shadow-sm" style="background-color: #f8f9fa; border-left: 4px solid #1F2B5F !important; border-radius: 12px;">
         <div class="card-body p-4">
           <div class="d-flex align-items-center mb-3">
-            <span class="rounded-circle d-inline-flex align-items-center justify-content-center mr-3" style="width: 40px; height: 40px; background-color: #1F2B5F; color: #F5F2EB;">
+            <span class="rounded-circle d-inline-flex align-items-center justify-content-center mr-3" style="width: 40px; height: 40px; background-color: #1F2B5F; color: #f8f9fa;">
               <i class="fas fa-clipboard-list" aria-hidden="true"></i>
             </span>
             <h3 class="h5 font-weight-bold text-dark mb-0">Practice &amp; Roll-Up Planning</h3>
@@ -74,7 +74,7 @@ last_modified_at: 2026-11-03 14:05:00 +0000
 
     <!-- Pillar 2: Smartphone Video & Delivery Analysis -->
     <div class="col-md-6 mb-4">
-      <div class="card h-100 border-0 shadow-sm" style="background-color: #F5F2EB; border-left: 4px solid #C89B3C !important; border-radius: 12px;">
+      <div class="card h-100 border-0 shadow-sm" style="background-color: #f8f9fa; border-left: 4px solid #C89B3C !important; border-radius: 12px;">
         <div class="card-body p-4">
           <div class="d-flex align-items-center mb-3">
             <span class="rounded-circle d-inline-flex align-items-center justify-content-center mr-3" style="width: 40px; height: 40px; background-color: #C89B3C; color: #222222;">
@@ -95,10 +95,10 @@ last_modified_at: 2026-11-03 14:05:00 +0000
 
     <!-- Pillar 3: Bowls Apps & Shot-Tracking Tech -->
     <div class="col-md-6 mb-4">
-      <div class="card h-100 border-0 shadow-sm" style="background-color: #F5F2EB; border-left: 4px solid #1F2B5F !important; border-radius: 12px;">
+      <div class="card h-100 border-0 shadow-sm" style="background-color: #f8f9fa; border-left: 4px solid #1F2B5F !important; border-radius: 12px;">
         <div class="card-body p-4">
           <div class="d-flex align-items-center mb-3">
-            <span class="rounded-circle d-inline-flex align-items-center justify-content-center mr-3" style="width: 40px; height: 40px; background-color: #1F2B5F; color: #F5F2EB;">
+            <span class="rounded-circle d-inline-flex align-items-center justify-content-center mr-3" style="width: 40px; height: 40px; background-color: #1F2B5F; color: #f8f9fa;">
               <i class="fas fa-chart-line" aria-hidden="true"></i>
             </span>
             <h3 class="h5 font-weight-bold text-dark mb-0">Apps, AR Measuring &amp; Shot Tracking</h3>
@@ -115,7 +115,7 @@ last_modified_at: 2026-11-03 14:05:00 +0000
 
     <!-- Pillar 4: Tactical Scenario Simulation -->
     <div class="col-md-6 mb-4">
-      <div class="card h-100 border-0 shadow-sm" style="background-color: #F5F2EB; border-left: 4px solid #C89B3C !important; border-radius: 12px;">
+      <div class="card h-100 border-0 shadow-sm" style="background-color: #f8f9fa; border-left: 4px solid #C89B3C !important; border-radius: 12px;">
         <div class="card-body p-4">
           <div class="d-flex align-items-center mb-3">
             <span class="rounded-circle d-inline-flex align-items-center justify-content-center mr-3" style="width: 40px; height: 40px; background-color: #C89B3C; color: #222222;">
@@ -138,7 +138,7 @@ last_modified_at: 2026-11-03 14:05:00 +0000
 </section>
 
 <!-- Drill Pack + AI Coaching Banner -->
-<div class="card border-0 shadow-sm mb-5" style="background: linear-gradient(135deg, #1F2B5F 0%, #19204B 100%); color: #F5F2EB; border-radius: 14px;">
+<div class="card border-0 shadow-sm mb-5" style="background: linear-gradient(135deg, #1F2B5F 0%, #19204B 100%); color: #f8f9fa; border-radius: 14px;">
   <div class="card-body p-4 p-md-5">
     <div class="row align-items-center">
       <div class="col-lg-8 mb-3 mb-lg-0">

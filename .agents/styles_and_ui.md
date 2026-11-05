@@ -29,7 +29,7 @@ assets/main.scss (Front matter wrapper)
 | :--- | :--- | :--- |
 | **Deep Blue** (`$brand-blue`) | `#1F2B5F` | Primary brand accent, primary CTA buttons, hero banner gradients, headers, key borders |
 | **Warm Gold** (`$brand-gold`) | `#C89B3C` | Secondary accent, badges, highlight borders, focus rings, CTA accents |
-| **Neutral Light / Cream** (`$brand-cream`) | `#F5F2EB` | Card backgrounds, callout containers, soft surface fills, light text on dark backgrounds |
+| **Neutral Light / Cream** (`$brand-cream`) | `#f8f9fa` | Card backgrounds, callout containers, soft surface fills, light text on dark backgrounds |
 | **Dark Charcoal** (`$brand-charcoal`) | `#222222` | Primary body typography, high-contrast headings, announcement strip background |
 | `$white` | `#ffffff` | Page background, masthead text color |
 | Overlay Dark | `rgba(33, 37, 41, 0.5)` | Hero image backdrop filter for text legibility |

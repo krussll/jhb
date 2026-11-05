@@ -91,7 +91,7 @@ background: "/img/post-bg.jpg" # Optional hero background image
 ```
 
 ### 3.3 Style & UI Design Rules
-- Brand palette: Deep Blue (`#1F2B5F`), Warm Gold (`#C89B3C`), Neutral Light (`#F5F2EB`), Dark Charcoal (`#222222`). See [`.agents/brand-colours.md`](brand-colours.md) for full specs and accessibility rules.
+- Brand palette: Deep Blue (`#1F2B5F`), Warm Gold (`#C89B3C`), Neutral Light (`#f8f9fa`), Dark Charcoal (`#222222`). See [`.agents/brand-colours.md`](brand-colours.md) for full specs and accessibility rules.
 - Custom styles should be added in `_sass/` or integrated via `assets/vendor/startbootstrap-clean-blog/scss/`.
 - Maintain clean contrast over image banners using `.overlay` dark backdrop filters (`rgba(33, 37, 41, 0.5)`).
 
