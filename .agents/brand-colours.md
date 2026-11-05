@@ -13,7 +13,7 @@ The Jack High Bowls visual identity is built upon four foundational colours, anc
 | **Deep Blue** | `#1F2B5F` | `rgb(31, 43, 95)` | `hsl(229, 51%, 25%)` | Primary brand accent, primary CTA buttons, masthead/page hero gradient base, section headers, key borders |
 | **Warm Gold** | `#C89B3C` | `rgb(200, 155, 60)` | `hsl(41, 56%, 51%)` | Secondary accent, badges, highlight borders, active indicators, focus rings, CTA accents |
 | **Neutral Light (Cream)** | `#F5F2EB` | `rgb(245, 242, 235)` | `hsl(42, 33%, 94%)` | Card backgrounds, callout containers, soft surface fills, light text on dark backgrounds |
-| **Dark Charcoal** | `#222222` | `rgb(34, 34, 34)` | `hsl(0, 0%, 13%)` | Primary body typography, high-contrast headings, announcement strip background, footer |
+| **Dark Charcoal** | `#222222` | `rgb(34, 34, 34)` | `hsl(0, 0%, 13%)` | Primary body typography, high-contrast headings, announcement strip typography, footer |
 
 ---
 
@@ -64,7 +64,7 @@ The Jack High Bowls visual identity is built upon four foundational colours, anc
 - **Where to use**:
   - Site body text, paragraphs, and list items.
   - Article headings and card titles.
-  - Background for the top persistent announcement strip (`.promo-strip`).
+  - Typography and icon buttons for the top persistent announcement strip (`.promo-strip`).
   - Neutral dark elements and icon buttons.
 - **Pairing & Text Contrast**:
   - Provides maximum contrast and readability across `#FFFFFF` and `#F5F2EB`.
@@ -219,9 +219,9 @@ header.masthead.page-hero {
 ### 6.5 Announcement / Promo Strip
 ```scss
 .promo-strip {
-  background-color: #222222;
-  color: #F5F2EB;
-  border-bottom: 1px solid rgba(200, 155, 60, 0.45);
+  background-color: #f0fa81;
+  color: #222222;
+  border-bottom: 1px solid rgba(34, 34, 34, 0.15);
 }
 ```
 
