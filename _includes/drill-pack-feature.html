@@ -1,13 +1,71 @@
-<div class="row pack-feature">
-  <div class="col-lg-6 col-md-12">
-    <h2>Get The Complete Lawn Bowls Drill Pack</h2>
-    <p>The Jack High Bowls Drill Pack is available now for instant download.</p>
-    <p>Perfect for beginners and improving players looking to be more consistent and win more games!</p>
-    <a class="btn pack-feature__cta mt-3" href="{{ site.baseurl }}/lawn-bowls-downloadable-drill-pack" data-track="drill-pack-banner">
-      Win More Games Today >>
-    </a>
+{% assign dp = site.data.drill_pack %}
+{% assign dp_url = dp.url | default: '/lawn-bowls-downloadable-drill-pack/' | relative_url %}
+{% assign dp_img = dp.image | default: '/img/drill-pack.png' | relative_url %}
+
+<aside class="pack-feature" aria-labelledby="drill-pack-banner-heading">
+  <div class="row align-items-center">
+    <div class="col-lg-7 col-md-12 pack-feature__content">
+      <div class="pack-feature__badge">
+        <i class="fas fa-bullseye" aria-hidden="true"></i>
+        <span>20 Scored Practice Routines</span>
+      </div>
+      <h2 id="drill-pack-banner-heading" class="pack-feature__title">
+        Get The Complete Lawn Bowls Drill Pack
+      </h2>
+      <p class="pack-feature__lead">
+        Turn aimless roll-ups into match-winning consistency. Lock in your draw weight and line with print-ready, scored routines built for every skill level.
+      </p>
+
+      <ul class="pack-feature__bullets">
+        <li>
+          <i class="fas fa-check-circle" aria-hidden="true"></i>
+          <span><strong>20 Scored Practice Drills:</strong> Structured routines for draw weight, line control, target zones, and weighted shots.</span>
+        </li>
+        <li>
+          <i class="fas fa-check-circle" aria-hidden="true"></i>
+          <span><strong>Good / Better / Best Targets:</strong> Benchmark your score out of 40 on every 10-end drill.</span>
+        </li>
+        <li>
+          <i class="fas fa-check-circle" aria-hidden="true"></i>
+          <span><strong>Solo &amp; Pairs Friendly:</strong> Designed for focused individual roll-ups or competitive head-to-head practice.</span>
+        </li>
+        <li>
+          <i class="fas fa-check-circle" aria-hidden="true"></i>
+          <span><strong>Club-Shed Equipment Only:</strong> Works with standard club mats, chalk, and rink markers—no expensive kit.</span>
+        </li>
+      </ul>
+
+      <div class="pack-feature__actions">
+        <a class="drill-pack-cta pack-feature__cta" href="{{ dp_url }}" data-track="drill-pack-banner">
+          <span>Get The 20-Drill Pack</span>
+          {% if dp.price %}
+            <span class="pack-feature__price-tag">&bull; £{{ dp.price }}</span>
+          {% endif %}
+          <i class="fas fa-arrow-right" aria-hidden="true"></i>
+        </a>
+        <div class="pack-feature__reassurance">
+          {% if dp.price_original %}
+            <span class="pack-feature__anchor">Regularly <s>£{{ dp.price_original }}</s></span>
+            <span class="pack-feature__sep" aria-hidden="true">&bull;</span>
+          {% endif %}
+          <span>Instant PDF Download</span>
+          <span class="pack-feature__sep" aria-hidden="true">&bull;</span>
+          <span>30-Day Money-Back Guarantee</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="col-lg-5 col-md-12 pack-feature__visual text-center">
+      <a href="{{ dp_url }}" tabindex="-1" aria-hidden="true" class="pack-feature__image-link">
+        <img
+          src="{{ dp_img }}"
+          alt="Preview of the Jack High Bowls 20-Drill Practice Pack"
+          width="800"
+          height="600"
+          loading="lazy"
+          class="img-fluid pack-feature__image"
+        >
+      </a>
+    </div>
   </div>
-  <div class="col-lg-6 col-md-12">
-    <img src="{{ '/img/drill-pack.png' | prepend: site.baseurl | replace: '//', '/' }}" />
-  </div>
-</div>
+</aside>

@@ -1,0 +1,16 @@
+# Lawn Bowls Drill Pack canonical product data
+# Central source of truth for pricing, URLs, and deliverables across the site
+name: "Downloadable Lawn Bowls Drill Pack"
+short_name: "20 Scored Drills Pack"
+description: "20 structured, scored practice drills to sharpen line, length and weighted shots for lawn and indoor bowlers."
+price: "2.99"
+price_original: "24.99"
+currency_symbol: "£"
+price_formatted: "£2.99"
+price_original_formatted: "£24.99"
+discount_percentage: "88%"
+url: "/lawn-bowls-downloadable-drill-pack/"
+checkout_url: "https://jack-high-bowls.lemonsqueezy.com/checkout/buy/6515ca0b-b861-4530-8142-0bb075d71bb8"
+image: "/img/drill-pack.png"
+cover_image: "/img/drill-pack/cover.png"
+
