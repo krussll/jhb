@@ -144,7 +144,7 @@ last_modified_at: 2026-11-06 10:48:00 +0000
       <div class="col-lg-8 mb-3 mb-lg-0">
         <span class="badge badge-warning text-dark font-weight-bold px-3 py-1 mb-2" style="background-color: #C89B3C;">Structured Practice System</span>
         <h3 class="h4 font-weight-bold mb-2 text-white">Pair AI Shot Tracking With Proven Green Drills</h3>
-        <p class="mb-0 text-white-50">
+        <p class="mb-0 text-white">
           AI is most effective when you feed it real scores from structured practice. Grab our 20-session <strong>Downloadable Lawn Bowls Drill Pack</strong> ({{ site.data.drill_pack.price_formatted }}), log your points on the green, and let AI pinpoint whether your forehand draw, backhand draw, or weighted conversion needs attention next week.
         </p>
       </div>

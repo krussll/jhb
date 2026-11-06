@@ -121,7 +121,7 @@ permalink: /help-and-support/
       <div class="col-lg-8 mb-3 mb-lg-0">
         <span class="badge badge-warning text-dark font-weight-bold px-3 py-1 mb-2" style="background-color: #C89B3C;">Direct Bowler Support</span>
         <h3 class="h4 font-weight-bold mb-2 text-white">Can&rsquo;t find what you&rsquo;re looking for?</h3>
-        <p class="mb-0 text-white-50">
+        <p class="mb-0 text-white">
           Have an unusual green situation, an obscure local rule question, or need personal equipment advice? Reece Williams personally answers questions from club bowlers and readers.
         </p>
       </div>
