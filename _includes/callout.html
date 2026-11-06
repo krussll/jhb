@@ -3,7 +3,7 @@
 {% if callout_type == 'drill-pack' %}
   {% assign default_title = "Level Up Your Practice Sessions" %}
   {% assign default_text = "Looking for structured drills to sharpen your consistency? Download our printable 20-drill practice pack with scorecards and focused routines." %}
-  {% assign default_url = "/lawn-bowls-downloadable-drill-pack/" %}
+  {% assign default_url = site.data.drill_pack.url | default: "/lawn-bowls-downloadable-drill-pack/" %}
   {% assign default_cta = "Get the Drill Pack" %}
   {% assign default_aria = "Recommended practice resource: Downloadable Lawn Bowls Drill Pack" %}
   {% assign default_badge = "Practice System" %}

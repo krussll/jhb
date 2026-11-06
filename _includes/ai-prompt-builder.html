@@ -129,9 +129,9 @@
           </p>
         </div>
         <div class="col-lg-4 text-lg-right">
-          <a href="{{ '/lawn-bowls-downloadable-drill-pack' | relative_url }}"
+          <a href="{{ site.data.drill_pack.url | default: '/lawn-bowls-downloadable-drill-pack' | relative_url }}"
             class="btn btn-sm ai-prompt-builder__btn-drill">
-            <i class="fas fa-file-pdf mr-1" aria-hidden="true"></i>Get the 20-Drill Pack (£2.99)
+            <i class="fas fa-file-pdf mr-1" aria-hidden="true"></i>Get the 20-Drill Pack ({{ site.data.drill_pack.price_formatted }})
           </a>
         </div>
       </div>

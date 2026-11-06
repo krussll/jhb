@@ -3,7 +3,7 @@ layout: page
 title: AI Lawn Bowls Coaching & Training Hub
 description: Practical, zero-jargon guides on using ChatGPT, smartphone video analysis, and modern bowls apps to sharpen your delivery, plan roll-ups, and master match tactics.
 permalink: /ai-coaching/
-last_modified_at: 2026-11-03 14:05:00 +0000
+last_modified_at: 2026-11-06 10:48:00 +0000
 ---
 
 <div class="ai-hub-intro mb-5">
@@ -37,8 +37,8 @@ last_modified_at: 2026-11-03 14:05:00 +0000
         <a href="{{ '/ai-coaching/prompt-builder' | relative_url }}" class="btn btn-sm font-weight-bold mr-2" style="background-color: #1F2B5F; color: #f8f9fa; border-radius: 999px; padding: 0.45rem 1rem;">
           <i class="fas fa-sliders-h mr-1" aria-hidden="true"></i>Launch Interactive Prompt Builder
         </a>
-        <a href="{{ '/lawn-bowls-downloadable-drill-pack' | relative_url }}" class="btn btn-sm font-weight-bold" style="background-color: #C89B3C; color: #222222; border-radius: 999px; padding: 0.45rem 1rem;">
-          View 20-Drill Pack (£2.99)
+        <a href="{{ site.data.drill_pack.url | default: '/lawn-bowls-downloadable-drill-pack' | relative_url }}" class="btn btn-sm font-weight-bold" style="background-color: #C89B3C; color: #222222; border-radius: 999px; padding: 0.45rem 1rem;">
+          View 20-Drill Pack ({{ site.data.drill_pack.price_formatted }})
         </a>
       </div>
     </div>
@@ -145,11 +145,11 @@ last_modified_at: 2026-11-03 14:05:00 +0000
         <span class="badge badge-warning text-dark font-weight-bold px-3 py-1 mb-2" style="background-color: #C89B3C;">Structured Practice System</span>
         <h3 class="h4 font-weight-bold mb-2 text-white">Pair AI Shot Tracking With Proven Green Drills</h3>
         <p class="mb-0 text-white-50">
-          AI is most effective when you feed it real scores from structured practice. Grab our 20-session <strong>Downloadable Lawn Bowls Drill Pack</strong> (£2.99), log your points on the green, and let AI pinpoint whether your forehand draw, backhand draw, or weighted conversion needs attention next week.
+          AI is most effective when you feed it real scores from structured practice. Grab our 20-session <strong>Downloadable Lawn Bowls Drill Pack</strong> ({{ site.data.drill_pack.price_formatted }}), log your points on the green, and let AI pinpoint whether your forehand draw, backhand draw, or weighted conversion needs attention next week.
         </p>
       </div>
       <div class="col-lg-4 text-lg-right">
-        <a href="{{ '/lawn-bowls-downloadable-drill-pack' | relative_url }}" class="btn btn-light btn-lg font-weight-bold mb-2" style="color: #1F2B5F; border-radius: 999px;">View the Drill Pack</a>
+        <a href="{{ site.data.drill_pack.url | default: '/lawn-bowls-downloadable-drill-pack' | relative_url }}" class="btn btn-light btn-lg font-weight-bold mb-2" style="color: #1F2B5F; border-radius: 999px;">View the Drill Pack</a>
       </div>
     </div>
   </div>

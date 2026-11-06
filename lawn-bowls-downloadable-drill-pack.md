@@ -4,18 +4,8 @@ title: "Lawn Bowls Downloadable Drill Pack | 20 Scored On-Green Drills"
 description: "Turn aimless roll-ups into match-winning consistency. 20 scored lawn bowls practice drills to sharpen line control, master draw weight, and build head-building confidence."
 permalink: /lawn-bowls-downloadable-drill-pack/
 hide_page_hero: true
-last_modified_at: 2026-11-06 10:02:00
-product:
-  name: "Downloadable Lawn Bowls Drill Pack"
-  description: "20 structured, scored practice drills to sharpen line, length and weighted shots for lawn and indoor bowlers."
-  image: "/img/drill-pack/cover.png"
-  price: "2.99"
-  price_currency: "GBP"
-  price_original: "24.99"
-  availability: "https://schema.org/InStock"
-  checkout_url: "https://jack-high-bowls.lemonsqueezy.com/checkout/buy/6515ca0b-b861-4530-8142-0bb075d71bb8"
-  sku: "JHB-DRILL-PACK-01"
-  brand: "Jack High Bowls"
+last_modified_at: 2026-11-06 10:49:00
+product: true
 faqs:
   - question: "What equipment do I need to run these drills?"
     answer: "You only need standard bowls equipment: your set of bowls, a mat, a jack, and everyday items found in any bowls club shed (such as club chalk, rink markers, or extra mats). No expensive gadgets or proprietary training aids are required."
@@ -31,6 +21,7 @@ faqs:
     answer: "We offer a 100% no-questions-asked 30-day refund guarantee. If you're not completely satisfied with your purchase, simply reply to your receipt email and you'll receive a full refund."
 ---
 
+{% assign dp = site.data.drill_pack %}
 <div class="dp-page">
 
   <!-- =========================================================================
@@ -53,9 +44,9 @@ faqs:
         <!-- Price Anchoring & Perceived Value Box -->
         <div class="dp-price-box">
           <div class="dp-price-box__header">
-            <span class="dp-price-box__current">£{{ page.product.price }}</span>
-            <span class="dp-price-box__anchor">Regular Price: <s>£{{ page.product.price_original }}</s></span>
-            <span class="dp-price-box__badge">Save 88% Today</span>
+            <span class="dp-price-box__current">{{ dp.price_formatted }}</span>
+            <span class="dp-price-box__anchor">Regular Price: <s>{{ dp.price_original_formatted }}</s></span>
+            <span class="dp-price-box__badge">Save {{ dp.discount_percentage }} Today</span>
           </div>
           <p class="dp-price-box__note">
             <strong>Limited-Time Special Offer:</strong> Instant digital access to the complete 20-drill master playbook for less than a pint at the clubhouse.
@@ -64,14 +55,14 @@ faqs:
 
         <div class="dp-hero-cta-wrapper">
           <a
-            href="{{ page.product.checkout_url }}"
+            href="{{ dp.checkout_url }}"
             class="drill-pack-cta dp-btn-pulse"
             target="_blank"
             rel="noopener noreferrer"
             data-ls-modal="true"
             data-track="drill-pack-checkout"
           >
-            <span>Get Instant Access Now &mdash; Only £{{ page.product.price }}</span>
+            <span>Get Instant Access Now &mdash; Only {{ dp.price_formatted }}</span>
             <i class="fas fa-arrow-right" aria-hidden="true"></i>
           </a>
         </div>
@@ -86,7 +77,7 @@ faqs:
       <div class="dp-hero-visual">
         <div class="dp-hero-visual__card">
           <img
-            src="{{ page.product.image | relative_url }}"
+            src="{{ dp.cover_image | default: dp.image | relative_url }}"
             alt="Jack High Bowls 20-Drill Practice Pack Cover"
             width="600"
             height="450"
@@ -238,14 +229,14 @@ faqs:
 
           <div class="text-center mt-3">
             <a
-              href="{{ page.product.checkout_url }}"
+              href="{{ dp.checkout_url }}"
               class="drill-pack-cta"
               target="_blank"
               rel="noopener noreferrer"
               data-ls-modal="true"
               data-track="drill-pack-checkout"
             >
-              <span>Get All 20 Drills for Only £{{ page.product.price }}</span>
+              <span>Get All 20 Drills for Only {{ dp.price_formatted }}</span>
               <i class="fas fa-arrow-right" aria-hidden="true"></i>
             </a>
           </div>
@@ -503,7 +494,7 @@ faqs:
             <h4><i class="fas fa-book-open text-primary" aria-hidden="true"></i> The 20-Drill Master Playbook (PDF)</h4>
             <p>Full 22-page print-ready manual with 20 illustrated drill setups, equipment checklists, execution rules, and easier/harder variations.</p>
           </div>
-          <span class="dp-stack-val">£24.99 Value</span>
+          <span class="dp-stack-val">£{{ dp.price_original }} Value</span>
         </div>
 
         <div class="dp-stack-item">
@@ -534,19 +525,19 @@ faqs:
       <div class="dp-total-val-box">
         <div class="dp-total-val-text">
           <div class="dp-val-strike">Total Value: £39.96</div>
-          <div class="dp-val-current">Today's Special Price: Only £{{ page.product.price }}</div>
+          <div class="dp-val-current">Today's Special Price: Only £{{ dp.price }}</div>
           <small class="text-white-50">One-time payment &bull; Lifetime digital access &bull; Free updates</small>
         </div>
         <div>
           <a
-            href="{{ page.product.checkout_url }}"
+            href="{{ dp.checkout_url }}"
             class="drill-pack-cta"
             target="_blank"
             rel="noopener noreferrer"
             data-ls-modal="true"
             data-track="drill-pack-checkout"
           >
-            <span>Claim System for £{{ page.product.price }}</span>
+            <span>Claim System for £{{ dp.price }}</span>
             <i class="fas fa-arrow-right" aria-hidden="true"></i>
           </a>
         </div>
@@ -656,21 +647,21 @@ faqs:
     </p>
 
     <div class="dp-final-cta__price">
-      <span class="dp-final-price-anchor">Was £{{ page.product.price_original }}</span>
-      <span class="dp-final-price-now">£{{ page.product.price }}</span>
-      <span class="dp-final-price-badge">Save 88% Instantly</span>
+      <span class="dp-final-price-anchor">Was {{ dp.price_original_formatted }}</span>
+      <span class="dp-final-price-now">{{ dp.price_formatted }}</span>
+      <span class="dp-final-price-badge">Save {{ dp.discount_percentage }} Instantly</span>
     </div>
 
     <div>
       <a
-        href="{{ page.product.checkout_url }}"
+        href="{{ dp.checkout_url }}"
         class="drill-pack-cta"
         target="_blank"
         rel="noopener noreferrer"
         data-ls-modal="true"
         data-track="drill-pack-checkout"
       >
-        <span>Get Instant Access Now &mdash; Only £{{ page.product.price }}</span>
+        <span>Get Instant Access Now &mdash; Only {{ dp.price_formatted }}</span>
         <i class="fas fa-arrow-right" aria-hidden="true"></i>
       </a>
     </div>

@@ -466,24 +466,26 @@
   {% endif %}
 
   {% comment %} 6. Product Schema {% endcomment %}
-  {% if page.product %}
-  {% assign product_name = page.product.name | default: page_title %}
-  {% assign product_desc = page.product.description | default: page_description %}
-  {% if page.product.image %}
-    {% if page.product.image contains '://' %}
-      {% assign product_image_url = page.product.image %}
+  {% if page.product or page.layout == 'product' %}
+  {% assign dp = site.data.drill_pack %}
+  {% assign product_name = page.product.name | default: dp.name | default: page_title %}
+  {% assign product_desc = page.product.description | default: dp.description | default: page_description %}
+  {% assign prod_img = page.product.image | default: dp.cover_image | default: dp.image %}
+  {% if prod_img %}
+    {% if prod_img contains '://' %}
+      {% assign product_image_url = prod_img %}
     {% else %}
-      {% assign product_image_url = page.product.image | absolute_url %}
+      {% assign product_image_url = prod_img | absolute_url %}
     {% endif %}
   {% else %}
     {% assign product_image_url = og_image_url %}
   {% endif %}
-  {% assign product_price = page.product.price | default: '0.00' %}
-  {% assign product_currency = page.product.price_currency | default: 'GBP' %}
-  {% assign product_avail = page.product.availability | default: 'https://schema.org/InStock' %}
-  {% assign product_checkout = page.product.checkout_url | default: canonical_url %}
-  {% assign product_sku = page.product.sku | default: 'JHB-DRILL-PACK-01' %}
-  {% assign product_brand = page.product.brand | default: site.title %}
+  {% assign product_price = page.product.price | default: dp.price | default: '0.00' %}
+  {% assign product_currency = page.product.price_currency | default: dp.price_currency | default: 'GBP' %}
+  {% assign product_avail = page.product.availability | default: dp.availability | default: 'https://schema.org/InStock' %}
+  {% assign product_checkout = page.product.checkout_url | default: dp.checkout_url | default: canonical_url %}
+  {% assign product_sku = page.product.sku | default: dp.sku | default: 'JHB-DRILL-PACK-01' %}
+  {% assign product_brand = page.product.brand | default: dp.brand | default: site.title %}
   {% capture product_json_ld -%}
   {
   "@context": "https://schema.org",
