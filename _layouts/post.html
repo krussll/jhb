@@ -92,6 +92,23 @@ layout: default
               {% include medical-disclaimer.html %}
             {% endif %}
             {{ content }}
+            {% if page.faqs and page.faqs.size > 0 %}
+            <section id="faq" class="post-faq my-4" aria-labelledby="faq-heading">
+              <h3 id="faq-heading" class="h4 font-weight-bold mb-3 text-dark">Frequently Asked Questions</h3>
+              <div class="faq-accordion">
+                {% for faq in page.faqs %}
+                <details class="card mb-3 p-3 bg-light border-0 shadow-sm" style="border-left: 4px solid #1F2B5F !important;">
+                  <summary class="font-weight-bold text-dark" style="cursor: pointer;">
+                    {{ faq.question }}
+                  </summary>
+                  <div class="mt-2 text-muted">
+                    {{ faq.answer | markdownify }}
+                  </div>
+                </details>
+                {% endfor %}
+              </div>
+            </section>
+            {% endif %}
             {% if page.title contains ' vs ' %}
             <div class="card my-4 p-3 bg-light" style="border-left: 4px solid #1F2B5F;">
               <h4 class="h6 font-weight-bold mb-1 text-dark"><i class="fas fa-compass text-success mr-1"></i> Looking for the best bowls for your game?</h4>

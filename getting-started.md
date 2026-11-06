@@ -4,6 +4,7 @@ title: Getting Started
 description: Follow this roadmap to learn the rules, choose your first bowls and practise with confidence.
 permalink: /getting-started/
 hide_page_hero: true
+last_modified_at: 2026-11-06T13:55:13Z
 ---
 
 <main class="getting-started">
@@ -111,7 +112,7 @@ hide_page_hero: true
           Dive into our head-to-head reviews to see how popular bowls behave on fast and
           slow greens and which roles they suit best.
         </p>
-        <a class="gs-link" href="{{ '/bowls/review/taylor-lignoid-vs-henselite-tiger-which-is-best' | relative_url }}">Start with a real-world comparison</a>
+        <a class="gs-link" href="{{ '/review/bowls/taylor-lignoid-vs-henselite-tiger-which-is-best/' | relative_url }}">Start with a real-world comparison</a>
       </div>
     </div>
   </section>

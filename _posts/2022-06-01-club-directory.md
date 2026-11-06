@@ -10,63 +10,42 @@ date: 2022-06-01 13:00:00 -0400
 ---
     
 
-<!-- wp:image {"id":1620,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large" xmlns="http://www.w3.org/1999/xhtml"><img src="{{ '/img/posts/Club-Directory-1024x576.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Club directory - Indoor and Lawn Bowls Club Directory | Find A Club Near You" class="wp-image-1620"/></figure>
-<!-- /wp:image -->
+<figure class="wp-block-image size-large"><img src="{{ '/img/posts/Club-Directory-1024x576.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Club directory - Indoor and Lawn Bowls Club Directory | Find A Club Near You" class="wp-image-1620"/></figure>
 
-<!-- wp:heading -->
 <h2>Scotland</h2>
-<!-- /wp:heading -->
 
-<!-- wp:columns -->
-<div class="wp-block-columns"><!-- wp:column -->
-<div class="wp-block-column"><!-- wp:paragraph -->
+<div class="wp-block-columns">
+<div class="wp-block-column">
 <p><a href="{{ '/bowls-clubs/bowls-clubs-in-edinburgh' | relative_url }}" data-type="post" data-id="886">Bowls Clubs In Edinburgh</a></p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:column -->
 
-<!-- wp:column -->
+</div>
+
 <div class="wp-block-column"></div>
-<!-- /wp:column -->
 
-<!-- wp:column -->
 <div class="wp-block-column"></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns -->
 
-<!-- wp:heading -->
+</div>
+
 <h2>England</h2>
-<!-- /wp:heading -->
 
-<!-- wp:heading -->
 <h2>Wales</h2>
-<!-- /wp:heading -->
 
-<!-- wp:heading -->
 <h2>Ireland</h2>
-<!-- /wp:heading -->
 
-<!-- wp:heading -->
 <h2>Australia</h2>
-<!-- /wp:heading -->
 
-<!-- wp:columns -->
-<div class="wp-block-columns"><!-- wp:column -->
-<div class="wp-block-column"><!-- wp:paragraph -->
+<div class="wp-block-columns">
+<div class="wp-block-column">
 <p><a href="{{ '/bowls-clubs/bowls-clubs-in-adelaide-south-australia' | relative_url }}" data-type="post" data-id="919">Bowls Clubs In Adelaide</a></p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:column -->
 
-<!-- wp:column -->
+</div>
+
 <div class="wp-block-column"></div>
-<!-- /wp:column -->
 
-<!-- wp:column -->
 <div class="wp-block-column"></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns -->
 
-<!-- wp:heading -->
+</div>
+
 <h2>New Zealand</h2>
-<!-- /wp:heading -->
+
     

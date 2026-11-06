@@ -9,24 +9,31 @@ skill_level: Intermediate
 pathway: choose-your-bowls
 next_step: /help/9-tips-for-how-to-play-bowls-well/
 date: 2018-01-12 13:00:00 -0400
-last_modified_at: 2026-11-05 15:30:00 +0000
+last_modified_at: 2026-11-06 13:55:13 +0000
 items:
   - name: "Taylor Vector VS"
     award: "Best Overall Lead Bowl"
     verdict: "Taylor's premier narrow-bias model. Flat finish and predictable line make it ideal for repeated draw shots on fast turf and indoor carpet."
-    url: "/bowls/review/taylor-vector-vs-review"
+    url: "/review/bowls/taylor-vector-vs-review/"
   - name: "Drakes Pride D-Tec"
     award: "Best Indoor & Fast Surface Specialist"
     verdict: "Extremely narrow, smooth trajectory that allows leads to bowl tight without fighting a hooking finish."
-    url: "/bowls/review/drakes-pride-d-tec-review"
+    url: "/review/bowls/drakes-pride-d-tec-review/"
   - name: "Aero Quantum"
     award: "Best Wind Resistance & Ergonomics"
     verdict: "Flatter finish with proprietary Z-Scoop grip, providing exceptional control in challenging outdoor conditions."
-    url: "/bowls/review/aero-quantum-review"
+    url: "/review/bowls/aero-quantum-review/"
   - name: "Drakes Pride Professional"
     award: "Best for Slower Outdoor Greens"
     verdict: "Classic mid-narrow model that holds its draw line through damp or heavy grass heads."
-    url: "/bowls/review/drakes-pride-professional-review"
+    url: "/review/bowls/drakes-pride-professional-review/"
+faqs:
+  - question: "Why do leads prefer narrow-to-mid bias bowls?"
+    answer: "Leads bowl when the rink is open and free of obstacles, meaning their primary job is drawing repeatedly to within inches of the jack. Narrow-to-mid bias bowls have a tighter, flatter finish that minimises ditch drift and allows tight line discipline."
+  - question: "Which lawn bowl is best for leads on indoor carpet vs outdoor grass?"
+    answer: "On fast indoor carpet and artificial greens (14+ seconds), ultra-narrow models like the Taylor Vector VS or Drakes Pride D-Tec excel. On standard UK outdoor grass (11–13 seconds), a mid-narrow bowl like the Drakes Pride Professional or Aero Quantum provides better clearance."
+  - question: "Do leads need gripped bowls?"
+    answer: "Yes, many leads choose deep-grooved grips (like Taylor's Progrip or Aero's Z-Scoop) to maintain identical fingertip placement end after end, which is critical for consistent draw weight control."
 ---
 
 <p class="lead">
@@ -63,7 +70,7 @@ items:
         <td>Flat / Holding</td>
         <td>Fast Grass (14s+) &amp; Indoors</td>
         <td>£390 / £90–£140</td>
-        <td><a href="{{ '/bowls/review/taylor-vector-vs-review' | relative_url }}">Read Review &rarr;</a></td>
+        <td><a href="{{ '/review/bowls/taylor-vector-vs-review/' | relative_url }}">Read Review &rarr;</a></td>
       </tr>
       <tr>
         <td><strong>Drakes Pride D-Tec</strong></td>
@@ -72,7 +79,7 @@ items:
         <td>Smooth Holding</td>
         <td>Indoor Carpets &amp; Quick Synthetic</td>
         <td>£375 / £80–£130</td>
-        <td><a href="{{ '/bowls/review/drakes-pride-d-tec-review' | relative_url }}">Read Review &rarr;</a></td>
+        <td><a href="{{ '/review/bowls/drakes-pride-d-tec-review/' | relative_url }}">Read Review &rarr;</a></td>
       </tr>
       <tr>
         <td><strong>Aero Quantum</strong></td>
@@ -81,7 +88,7 @@ items:
         <td>Even Arc</td>
         <td>All-Weather &amp; Fast Greens</td>
         <td>£440 / £140–£200</td>
-        <td><a href="{{ '/bowls/review/aero-quantum-review' | relative_url }}">Read Review &rarr;</a></td>
+        <td><a href="{{ '/review/bowls/aero-quantum-review/' | relative_url }}">Read Review &rarr;</a></td>
       </tr>
       <tr>
         <td><strong>Drakes Pride Professional</strong></td>
@@ -90,46 +97,29 @@ items:
         <td>Gradual Arc</td>
         <td>Holding Outdoor Grass</td>
         <td>£365 / £70–£120</td>
-        <td><a href="{{ '/bowls/review/drakes-pride-professional-review' | relative_url }}">Read Review &rarr;</a></td>
+        <td><a href="{{ '/review/bowls/drakes-pride-professional-review/' | relative_url }}">Read Review &rarr;</a></td>
       </tr>
     </tbody>
   </table>
 </div>
 
-<!-- wp:paragraph -->
 <p>Whether you are an experienced bowler, or a beginner buying your first set of bowls, it's important to get the right woods with the characteristics you need. Being lead comes with a very specific requirements, make sure you have the right model of bowls to perform at your best! The right choice can make your game a whole lot easier!</p>
-<!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
 <p>Here we will be looking at the top 4 models for the biggest brands in bowls, with a variety of styles, and prices to suit any bowler.</p>
-<!-- /wp:paragraph -->
 
-<!-- wp:heading -->
 <h2><a href="#how-to-choose-a-set-of-bowls"></a>How to choose a set of bowls</h2>
-<!-- /wp:heading -->
 
-<!-- wp:paragraph -->
 <p>There are multiple things to consider when selecting a set of bowls as a lead.</p>
-<!-- /wp:paragraph -->
 
 {% include callout.html type="buying-guide" title="Unsure Which Lead Bowl Fits Your Delivery?" text="Choosing the right set requires matching bias, hand size, and grip to your home greens. Explore our complete guide to choosing lawn bowls." %}
 
-
-<!-- wp:paragraph -->
 <p>Firstly, what is the bias characteristic of the model? As a lead it is generally considered better to buy bowls with a narrow line. The reasoning being that less movement on the swing will lead to a smaller difference between shots. Also, as a lead there is unlikely to be many other bowls blocking your chosen hand, this leaves you free to find the model with the best line for you. Whilst a narrow bowl isn’t a guarantee for consistency it is usually a safe bet.</p>
-<!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
 <p>A strong draw shot required for lead is built on consistency. This is also true for the bowls you use. All major brands use computer controlled machines to manufacture their woods, which makes variation between individual bowls undetectable. For this reason we recommend new, or near new bowls.</p>
-<!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
 <p>The final part of a bowl’s line characteristics is it’s “finish”. This describes how bowl acts as it slows down and finishes its movement towards the jack (hopefully!). A lead will require a bowl that has a “flat” finish, that is to say it follows a consistent path from its normal arc of travel. A model with a hooking finish can add extra movement, which in turn adds extra variability, which we are looking to remove.</p>
-<!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
 <p>Finally, where are you planning on playing? Some models focus either on indoor, or outdoor play whereas others try to be multi-purpose. Make sure you get the most on your purchase, especially if you play year round.</p>
-<!-- /wp:paragraph -->
 
 {% include testing-snapshot.html 
    location="Victoria Bowls Club, Outdoor Green & Indoor Needlefelt" 
@@ -151,7 +141,7 @@ items:
   <li><strong>Optimal Playing Speed:</strong> 14+ seconds grass, artificial rinks, and indoor carpet.</li>
   <li><strong>Grip Options:</strong> Taylor Progrip and Half-Pipe grip.</li>
   <li><strong>Where to Buy:</strong> <a href="https://www.taylorbowls.com" target="_blank" rel="noopener noreferrer">Taylor Bowls</a>, specialist stores, and pre-owned on <a href="https://www.ebay.co.uk/sch/i.html?_nkw=taylor+vector+vs+lawn+bowls" target="_blank" rel="sponsored nofollow noopener noreferrer">eBay</a> (£90–£140).</li>
-  <li><strong>Full Review:</strong> <a href="{{ '/bowls/review/taylor-vector-vs-review' | relative_url }}">Read our in-depth Taylor Vector VS review</a></li>
+  <li><strong>Full Review:</strong> <a href="{{ '/review/bowls/taylor-vector-vs-review/' | relative_url }}">Read our in-depth Taylor Vector VS review</a></li>
 </ul>
 
 <h3>2. Drakes Pride D-Tec &mdash; <span class="badge badge-primary">Indoor &amp; Fast Surface Specialist</span></h3>
@@ -165,7 +155,7 @@ items:
   <li><strong>Finish Characteristic:</strong> Gentle, flat finish with no dramatic turn.</li>
   <li><strong>Optimal Playing Speed:</strong> 15+ seconds indoor rinks and dry summer turf.</li>
   <li><strong>Where to Buy:</strong> Direct from <a href="https://www.drakespride.co.uk" target="_blank" rel="noopener noreferrer">Drakes Pride</a>, bowls retailers, and on <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drakes+pride+d-tec+lawn+bowls" target="_blank" rel="sponsored nofollow noopener noreferrer">eBay</a> (£80–£130).</li>
-  <li><strong>Full Review:</strong> <a href="{{ '/bowls/review/drakes-pride-d-tec-review' | relative_url }}">Read our in-depth Drakes Pride D-Tec review</a></li>
+  <li><strong>Full Review:</strong> <a href="{{ '/review/bowls/drakes-pride-d-tec-review/' | relative_url }}">Read our in-depth Drakes Pride D-Tec review</a></li>
 </ul>
 
 <h3>3. Aero Quantum &mdash; <span class="badge badge-warning text-dark">Best Grip &amp; Wind Resistance</span></h3>
@@ -179,7 +169,7 @@ items:
   <li><strong>Finish Characteristic:</strong> Predictable, smooth finish without wobbles.</li>
   <li><strong>Optimal Playing Speed:</strong> 13–18 seconds (versatile outdoor and indoor).</li>
   <li><strong>Where to Buy:</strong> <a href="https://aerobowls.co.uk" target="_blank" rel="noopener noreferrer">Aero Bowls UK</a> and pre-loved on <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aero+quantum+lawn+bowls" target="_blank" rel="sponsored nofollow noopener noreferrer">eBay</a> (£140–£200).</li>
-  <li><strong>Full Review:</strong> <a href="{{ '/bowls/review/aero-quantum-review' | relative_url }}">Read our in-depth Aero Quantum review</a></li>
+  <li><strong>Full Review:</strong> <a href="{{ '/review/bowls/aero-quantum-review/' | relative_url }}">Read our in-depth Aero Quantum review</a></li>
 </ul>
 
 <h3>4. Drakes Pride Professional &mdash; <span class="badge badge-info">Best for Heavier Outdoor Greens</span></h3>
@@ -193,7 +183,7 @@ items:
   <li><strong>Finish Characteristic:</strong> Gradual, steady draw with slight finish turn.</li>
   <li><strong>Optimal Playing Speed:</strong> 11–15 seconds outdoor grass.</li>
   <li><strong>Where to Buy:</strong> Widely available new and second-hand (£70–£120).</li>
-  <li><strong>Full Review:</strong> <a href="{{ '/bowls/review/drakes-pride-professional-review' | relative_url }}">Read our in-depth Drakes Pride Professional review</a></li>
+  <li><strong>Full Review:</strong> <a href="{{ '/review/bowls/drakes-pride-professional-review/' | relative_url }}">Read our in-depth Drakes Pride Professional review</a></li>
 </ul>
 
 <h2>3 Golden Rules for Lead Bowlers</h2>

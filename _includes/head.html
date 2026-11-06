@@ -90,7 +90,8 @@
   {% assign title_tag_base = page.seo_title | default: page.title %}
   {% if title_tag_base %}
   {% assign title_tag_branded = title_tag_base | append: ' - ' | append: site.title %}
-  {% if title_tag_branded.size < 70 %} {% assign title_tag=title_tag_branded %} {% else %} {% assign
+  {% assign title_tag_branded_check = title_tag_branded | escape %}
+  {% if title_tag_branded_check.size <= 65 %} {% assign title_tag=title_tag_branded %} {% else %} {% assign
     title_tag=title_tag_base %} {% endif %} {% else %} {% assign title_tag=site.title %} {% endif %} <title>{{ title_tag
     | escape }}</title>
 

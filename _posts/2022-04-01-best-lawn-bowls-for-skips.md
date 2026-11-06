@@ -5,25 +5,32 @@ author: reece
 categories: [ guide ]
 featured: false
 description: "The best lawn bowls for skips compared: wider-bias and mid-bias models engineered to navigate busy heads, play weighted trail shots, and hold line on drives."
-last_modified_at: 2026-11-05 15:30:00 +0000
+last_modified_at: 2026-11-06 13:55:13 +0000
 date: 2022-04-01 13:00:00 -0400
 items:
   - name: "Taylor International"
     award: "Best for Heavy Traffic & Outdoor Heads"
     verdict: "Wide-bias workhorse that swings gracefully around short bowls while holding its line when playing trail weight."
-    url: "/bowls/review/taylor-international-lawn-bowls-review"
+    url: "/review/bowls/taylor-international-lawn-bowls-review/"
   - name: "Aero Sonic"
     award: "Best All-Surface Skip Model"
     verdict: "Wider drawing trajectory with pinpoint predictability on uneven club greens and windy afternoons."
-    url: "/bowls/review/aero-sonic-lawn-bowl-review"
+    url: "/guide/aero-sonic-lawn-bowl-review/"
   - name: "Henselite Tiger"
     award: "Best for Weighted Drives & Controlled Running Shots"
     verdict: "Flatter shoulder arc that holds true under firm weight, allowing skips to disturb the head with surgical accuracy."
-    url: "/bowls/review/henselite-tiger-lawn-bowls-review"
+    url: "/guide/henselite-tiger-lawn-bowls-review/"
   - name: "Taylor Ace"
     award: "Best Indoor & Mid-Bias Skip Bowl"
     verdict: "The ideal balance of draw and weight control for skips playing indoors or on true summer greens."
-    url: "/bowls/review/taylor-ace-review"
+    url: "/review/bowls/taylor-ace-review/"
+faqs:
+  - question: "Why do skips generally prefer wider-bias lawn bowls?"
+    answer: "Skips bowl last when the head is congested with short woods and blockers. Wider-bias models (like the Taylor International or Aero Sonic) allow skips to swing around short bowls and still reach the jack, while holding line under added weight for trail and conversion shots."
+  - question: "Can a skip use narrow-bias bowls?"
+    answer: "Narrow-bias bowls make it difficult for skips to draw around blockers on slower outdoor greens. However, on true indoor carpet (15–17 seconds) or exceptionally fast summer greens, experienced skips often succeed with mid-narrow models like the Taylor Ace."
+  - question: "Which bowl is best for driving and weighted shots?"
+    answer: "Bowls with a strong shoulder that hold their trajectory under pace—such as the Henselite Tiger and Taylor Ace—are favoured for running shots and drives because they do not whip unexpectedly across the rink when delivered with firm weight."
 ---
 
 <p class="lead">
@@ -60,7 +67,7 @@ items:
         <td>Generous, swinging arc</td>
         <td>Holds line under positive weight</td>
         <td>£395 / £120–£180</td>
-        <td><a href="{{ '/bowls/review/taylor-international-lawn-bowls-review' | relative_url }}">Read Review &rarr;</a></td>
+        <td><a href="{{ '/review/bowls/taylor-international-lawn-bowls-review/' | relative_url }}">Read Review &rarr;</a></td>
       </tr>
       <tr>
         <td><strong>Aero Sonic</strong></td>
@@ -69,7 +76,7 @@ items:
         <td>Smooth, predictable hook</td>
         <td>Excellent stability in wind</td>
         <td>£445 / £160–£220</td>
-        <td><a href="{{ '/bowls/review/aero-sonic-lawn-bowl-review' | relative_url }}">Read Review &rarr;</a></td>
+        <td><a href="{{ '/guide/aero-sonic-lawn-bowl-review/' | relative_url }}">Read Review &rarr;</a></td>
       </tr>
       <tr>
         <td><strong>Henselite Tiger</strong></td>
@@ -78,7 +85,7 @@ items:
         <td>Consistent banana arc</td>
         <td>Flattens predictably on fast drives</td>
         <td>£410 / £110–£170</td>
-        <td><a href="{{ '/bowls/review/henselite-tiger-lawn-bowls-review' | relative_url }}">Read Review &rarr;</a></td>
+        <td><a href="{{ '/guide/henselite-tiger-lawn-bowls-review/' | relative_url }}">Read Review &rarr;</a></td>
       </tr>
       <tr>
         <td><strong>Taylor Ace</strong></td>
@@ -87,7 +94,7 @@ items:
         <td>Standard progressive arc</td>
         <td>Versatile all-position control</td>
         <td>£395 / £110–£160</td>
-        <td><a href="{{ '/bowls/review/taylor-ace-review' | relative_url }}">Read Review &rarr;</a></td>
+        <td><a href="{{ '/review/bowls/taylor-ace-review/' | relative_url }}">Read Review &rarr;</a></td>
       </tr>
       <tr>
         <td><strong>Drakes Pride Professional</strong></td>
@@ -96,154 +103,78 @@ items:
         <td>Gradual, continuous curve</td>
         <td>Forgiving on weight adjustments</td>
         <td>£365 / £70–£120</td>
-        <td><a href="{{ '/bowls/review/drakes-pride-professional-review' | relative_url }}">Read Review &rarr;</a></td>
+        <td><a href="{{ '/review/bowls/drakes-pride-professional-review/' | relative_url }}">Read Review &rarr;</a></td>
       </tr>
     </tbody>
   </table>
 </div>
 
-<!-- wp:heading -->
 <h2>How to choose a model as a skip</h2>
-<!-- /wp:heading -->
 
-<!-- wp:paragraph -->
 <p>As I suggested above, choosing a model of bowl as a skip is tricky as there aren't any particular strong shot tendencies. The best way to approach it is to look at how you play bowls and find a model that suits that, rather than the role.</p>
-<!-- /wp:paragraph -->
 
 {% include callout.html type="buying-guide" title="Choosing the Best Model for Skips" text="Skips need versatility for conversion shots and tight draws. Learn how to pick the right set in our complete lawn bowls buyer's guide." %}
 
-
-<!-- wp:paragraph -->
 <p>Lets take a look at a couple of examples.</p>
-<!-- /wp:paragraph -->
 
-<!-- wp:heading {"level":3} -->
 <h3>What surface you play on</h3>
-<!-- /wp:heading -->
 
-<!-- wp:paragraph -->
 <p>This is the most common factor - do you play indoor, outdoor or both?</p>
-<!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
 <p>If you play indoor, then you'll want a model that swings less, as you won't need the extra swing that is needed for slower outdoor greens. On the other hand if you play outdoor, you open up the options of the higher biases.</p>
-<!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
 <p>The tricky bit comes when you play both. The vast majority of bowlers can only afford one set for all year round, so a reliable mid bias bowl is need.</p>
-<!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
 <p>Once you remove all the models that aren't suited to where you play, you'll be left with your short list.</p>
-<!-- /wp:paragraph -->
 
-<!-- wp:heading {"level":3} -->
 <h3>What bias to choose</h3>
-<!-- /wp:heading -->
 
-<!-- wp:paragraph -->
 <p>The general rule for skips is "the more bias the better". The logic here is that narrower biased bowls have trouble getting around short bowls.</p>
-<!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
 <p>Whilst this is true, it's not always necessary to have a massively swingy bowl. You simply need "enough". Bowling with less bias is always easier, especially for those who have taken up the game in the last 10 years - as bowls don't bend as much as they used to!</p>
-<!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
 <p>In the end how much bias is "enough" will depend on your own personal preference.</p>
-<!-- /wp:paragraph -->
 
-<!-- wp:heading -->
 <h2><a href="#recommended-models"></a>Recommended Models</h2>
-<!-- /wp:heading -->
 
-<!-- wp:paragraph -->
 <p>Here is a run down of the 5 models I would recommend.</p>
-<!-- /wp:paragraph -->
 
-<!-- wp:heading {"level":3} -->
 <h3>Best lawn bowls for skips (Indoor) -Taylor Ace</h3>
-<!-- /wp:heading -->
 
-<!-- wp:block {"ref":2690} /-->
-
-<!-- wp:paragraph -->
 <p>The Taylor Ace is one of the most popular models on the market - and for good reason. The Ace is a mid-biased bowl which performs well on indoor and outdoor surfaces so is great for those who play all year round.</p>
-<!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
 <p>You can pick up 2nd hand sets quite easily, so you don't need to break the bank either.</p>
-<!-- /wp:paragraph -->
 
-<!-- wp:heading {"level":3} -->
 <h3>Best lawn bowls for skips (Outdoor) -Aero Sonic</h3>
-<!-- /wp:heading -->
 
-<!-- wp:block {"ref":2735} /-->
-
-<!-- wp:paragraph -->
 <p>The Sonic is at the top of Aero's biases - you won't find a stronger biased Aero bowl out there!</p>
-<!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
 <p>I've always been a huge fan of Aero bowls, so adding the Sonic in this list was a no-brainer for me. I could have quiet easily gone for the GrooVe, but the bit extra bias of the Sonic sold it to me.</p>
-<!-- /wp:paragraph -->
 
-<!-- wp:heading {"level":3} -->
 <h3>Taylor International</h3>
-<!-- /wp:heading -->
 
-<!-- wp:block {"ref":2706} /-->
+<p>The <a href="{{ '/review/bowls/taylor-international-lawn-bowls-review/' | relative_url }}">International is the second Taylor</a> model on my list. The International has more bias than the Ace, so is perfect for outdoor greens. </p>
 
-<!-- wp:paragraph -->
-<p>The <a href="{{ '/bowls/review/taylor-international-lawn-bowls-review' | relative_url }}">International is the second Taylor</a> model on my list. The International has more bias than the Ace, so is perfect for outdoor greens. </p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
 <p>The extra bias will help get around those annoying short bowls, and also plays well when playing with weight. For me, the International is a greatly underrated bowl.</p>
-<!-- /wp:paragraph -->
 
-<!-- wp:heading {"level":3} -->
 <h3>Drakes Pride Professional</h3>
-<!-- /wp:heading -->
 
-<!-- wp:block {"ref":2685} /-->
-
-<!-- wp:paragraph -->
 <p>Much like the Ace, the Drakes Pride Professional is incredibly popular all over the world. </p>
-<!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
 <p>The Professional is a mid-biased bowl popular with some of the best <a href="{{ '/help/world-bowls-player-profiles' | relative_url }}">bowlers in the world</a>, so you'd be in good company!</p>
-<!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
 <p>Much like the Ace, the Professional is duel-purpose, so you can easily use it on Indoor and outdoor surfaces.</p>
-<!-- /wp:paragraph -->
 
-<!-- wp:heading {"level":3} -->
 <h3>Henselite Tiger</h3>
-<!-- /wp:heading -->
 
-<!-- wp:block {"ref":2719} /-->
-
-<!-- wp:paragraph -->
 <p>The Tiger model is one of Henselite's biggest sellers.</p>
-<!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
 <p>It is one of the highest biased bowls in their range, so will suit those who prefer a swingier bowl. Due to the amount of swing it produces this is likely one that you will want to keep for the outdoor greens.</p>
-<!-- /wp:paragraph -->
 
-<!-- wp:heading -->
 <h2>Conclusion</h2>
-<!-- /wp:heading -->
 
-<!-- wp:paragraph -->
 <p>At the end of the day, a good skip can play with any set of bowls. Your own personal preference is more important than the bells and whistles added to these models!</p>
-<!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
 <p>Find what feels comfortable, and you'll be well on your way.<a href="#best-lawn-bowls-for-indoors"></a></p>
-<!-- /wp:paragraph -->
+
     
