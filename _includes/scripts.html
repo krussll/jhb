@@ -7,6 +7,9 @@
 <script src="{{"/assets/js/ai-prompt-builder.js" | relative_url }}" defer></script>
 <script src="{{"/assets/js/promo-strip.js" | relative_url }}" defer></script>
 <script src="{{"/assets/js/analytics-events.js" | relative_url }}" defer></script>
+{% if page.layout == 'product' or page.url contains 'lawn-bowls-downloadable-drill-pack' or page.enable_lemon_squeezy %}
+<script src="https://assets.lemonsqueezy.com/lemon.js" defer></script>
+{% endif %}
 
 {% if page.url contains 'contact' %}
   <!-- Form Validation -->

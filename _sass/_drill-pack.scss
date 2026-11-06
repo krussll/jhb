@@ -1,11 +1,1061 @@
 // =============================================================================
-// Lawn Bowls Drill Pack Landing Page & FAQ Styles
+// Lawn Bowls Drill Pack Landing Page Styles
 // Brand Palette:
 //   Primary Deep Blue: #1F2B5F
 //   Accent Warm Gold:  #C89B3C
 //   Neutral Light:     #f8f9fa
 //   Dark Charcoal:     #222222
 // =============================================================================
+
+.dp-page {
+  font-family: inherit;
+  color: #222222;
+  line-height: 1.65;
+  padding-bottom: 2rem;
+}
+
+// -----------------------------------------------------------------------------
+// Layout & Section Utility
+// -----------------------------------------------------------------------------
+.dp-section {
+  margin-bottom: clamp(3rem, 6vw, 4.5rem);
+}
+
+.dp-section-header {
+  text-align: center;
+  max-width: 820px;
+  margin: 0 auto clamp(2rem, 4vw, 3rem);
+
+  .dp-section-eyebrow {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+    padding: 0.35rem 0.9rem;
+    border-radius: 999px;
+    background-color: rgba(31, 43, 95, 0.08);
+    color: #1f2b5f;
+    font-size: 0.8rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    margin-bottom: 0.75rem;
+  }
+
+  h2 {
+    font-family: "Gabarito", "Open Sans", sans-serif;
+    color: #1f2b5f;
+    font-size: clamp(1.85rem, 3.5vw, 2.5rem);
+    font-weight: 700;
+    line-height: 1.22;
+    margin-bottom: 0.75rem;
+  }
+
+  p {
+    color: #4a5568;
+    font-size: clamp(1rem, 1.8vw, 1.15rem);
+    margin: 0;
+  }
+}
+
+// -----------------------------------------------------------------------------
+// 1. Above-The-Fold Split Hero
+// -----------------------------------------------------------------------------
+.dp-hero {
+  background: linear-gradient(180deg, #ffffff 0%, #f8f9fa 100%);
+  border: 1px solid #e2e8f0;
+  border-radius: 16px;
+  padding: clamp(2rem, 4vw, 3rem);
+  box-shadow: 0 10px 30px rgba(31, 43, 95, 0.06);
+  margin-top: 1rem;
+}
+
+.dp-hero__grid {
+  display: flex;
+  flex-direction: column;
+  gap: 2.5rem;
+
+  @media (min-width: 992px) {
+    display: grid;
+    grid-template-columns: 1.15fr 0.85fr;
+    gap: 3rem;
+    align-items: center;
+  }
+}
+
+.dp-hero__eyebrow {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.4rem 1rem;
+  border-radius: 999px;
+  background-color: rgba(31, 43, 95, 0.08);
+  border: 1px solid rgba(31, 43, 95, 0.15);
+  color: #1f2b5f;
+  font-size: 0.8rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.07em;
+  margin-bottom: 1rem;
+
+  i {
+    color: #c89b3c;
+  }
+}
+
+.dp-hero__title {
+  font-family: "Gabarito", "Open Sans", sans-serif;
+  color: #1f2b5f;
+  font-size: clamp(2rem, 4vw, 2.85rem);
+  font-weight: 800;
+  line-height: 1.18;
+  margin: 0 0 1.25rem;
+}
+
+.dp-hero__subtitle {
+  font-size: clamp(1.05rem, 1.8vw, 1.2rem);
+  color: #4a5568;
+  line-height: 1.6;
+  margin-bottom: 1.75rem;
+}
+
+.dp-price-box {
+  background: #ffffff;
+  border: 2px solid #e2e8f0;
+  border-left: 5px solid #c89b3c;
+  border-radius: 12px;
+  padding: 1.25rem 1.5rem;
+  margin-bottom: 1.5rem;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.04);
+}
+
+.dp-price-box__header {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 0.85rem;
+  margin-bottom: 0.4rem;
+}
+
+.dp-price-box__current {
+  font-size: clamp(2rem, 3.5vw, 2.5rem);
+  font-weight: 800;
+  color: #1f2b5f;
+  line-height: 1;
+}
+
+.dp-price-box__anchor {
+  font-size: 1.15rem;
+  color: #718096;
+  text-decoration: line-through;
+}
+
+.dp-price-box__badge {
+  background-color: #ecfdf5;
+  color: #166534;
+  border: 1px solid #bbf7d0;
+  font-size: 0.85rem;
+  font-weight: 700;
+  padding: 0.2rem 0.65rem;
+  border-radius: 999px;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
+.dp-price-box__note {
+  margin: 0;
+  font-size: 0.925rem;
+  color: #4a5568;
+
+  strong {
+    color: #1f2b5f;
+  }
+}
+
+.dp-hero-cta-wrapper {
+  margin-bottom: 1.5rem;
+
+  .drill-pack-cta {
+    display: inline-flex;
+    width: 100%;
+    max-width: 440px;
+    font-size: 1.1rem;
+    padding: 1.05rem 2rem;
+    justify-content: center;
+    text-align: center;
+  }
+}
+
+.dp-btn-pulse {
+  animation: dpPulse 2.4s infinite;
+}
+
+@keyframes dpPulse {
+  0% {
+    box-shadow: 0 0 0 0 rgba(31, 43, 95, 0.45);
+  }
+  70% {
+    box-shadow: 0 0 0 14px rgba(31, 43, 95, 0);
+  }
+  100% {
+    box-shadow: 0 0 0 0 rgba(31, 43, 95, 0);
+  }
+}
+
+.dp-trust-bar {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem 1.5rem;
+  font-size: 0.875rem;
+  color: #555555;
+  padding-top: 0.5rem;
+
+  span {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+  }
+
+  i {
+    color: #c89b3c;
+    font-size: 0.95rem;
+  }
+}
+
+.dp-hero-visual {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+.dp-hero-visual__card {
+  position: relative;
+  background: #ffffff;
+  border-radius: 14px;
+  padding: 1rem;
+  box-shadow: 0 18px 45px rgba(31, 43, 95, 0.14);
+  border: 1px solid #e2e8f0;
+  max-width: 460px;
+  width: 100%;
+
+  img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    display: block;
+  }
+}
+
+.dp-hero-visual__badge {
+  position: absolute;
+  bottom: -15px;
+  left: 50%;
+  transform: translateX(-50%);
+  background: #1f2b5f;
+  color: #f8f9fa;
+  font-size: 0.8rem;
+  font-weight: 700;
+  letter-spacing: 0.03em;
+  padding: 0.45rem 1.1rem;
+  border-radius: 999px;
+  border: 2px solid #c89b3c;
+  white-space: nowrap;
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.15);
+}
+
+.dp-hero-visual__preview-link {
+  margin-top: 2rem;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45rem;
+  color: #1f2b5f;
+  font-weight: 700;
+  font-size: 0.95rem;
+  text-decoration: underline;
+  transition: color 0.15s ease;
+
+  &:hover,
+  &:focus {
+    color: #c89b3c;
+    text-decoration: underline;
+  }
+}
+
+// -----------------------------------------------------------------------------
+// 2. Problem vs Solution Comparison
+// -----------------------------------------------------------------------------
+.dp-compare-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1.75rem;
+
+  @media (min-width: 768px) {
+    grid-template-columns: 1fr 1fr;
+    gap: 2rem;
+  }
+}
+
+.dp-compare-card {
+  border-radius: 14px;
+  padding: clamp(1.5rem, 3vw, 2.25rem);
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.05);
+
+  h3 {
+    font-size: 1.35rem;
+    font-weight: 700;
+    margin-bottom: 1.25rem;
+    display: flex;
+    align-items: center;
+    gap: 0.65rem;
+  }
+
+  ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+
+  li {
+    position: relative;
+    padding-left: 2rem;
+    margin-bottom: 1rem;
+    font-size: 0.975rem;
+    line-height: 1.55;
+
+    &:last-child {
+      margin-bottom: 0;
+    }
+
+    i {
+      position: absolute;
+      left: 0;
+      top: 0.2rem;
+      font-size: 1.1rem;
+    }
+  }
+}
+
+.dp-compare-card--problem {
+  background-color: #fef2f2;
+  border: 1px solid #fecaca;
+  border-top: 4px solid #ef4444;
+
+  h3 {
+    color: #991b1b;
+  }
+
+  li {
+    color: #450a0a;
+
+    i {
+      color: #dc2626;
+    }
+  }
+}
+
+.dp-compare-card--solution {
+  background-color: #f0fdf4;
+  border: 1px solid #bbf7d0;
+  border-top: 4px solid #16a34a;
+
+  h3 {
+    color: #166534;
+  }
+
+  li {
+    color: #052e16;
+
+    i {
+      color: #16a34a;
+    }
+  }
+}
+
+// -----------------------------------------------------------------------------
+// 3. Interactive Sample Drill Preview (Drill #1: Find The Gap)
+// -----------------------------------------------------------------------------
+.dp-sample-drill-container {
+  background: #ffffff;
+  border: 2px solid #e2e8f0;
+  border-radius: 16px;
+  padding: clamp(1.75rem, 3.5vw, 2.75rem);
+  box-shadow: 0 12px 35px rgba(31, 43, 95, 0.07);
+}
+
+.dp-sample-drill__header {
+  border-bottom: 2px solid #edf2f7;
+  padding-bottom: 1.5rem;
+  margin-bottom: 1.75rem;
+
+  .dp-drill-meta {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 0.65rem;
+    margin-bottom: 0.75rem;
+  }
+
+  .dp-drill-number {
+    background: #1f2b5f;
+    color: #f8f9fa;
+    font-size: 0.75rem;
+    font-weight: 800;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    padding: 0.3rem 0.75rem;
+    border-radius: 999px;
+  }
+
+  .dp-drill-pill {
+    background: #e2e8f0;
+    color: #334155;
+    font-size: 0.75rem;
+    font-weight: 700;
+    padding: 0.3rem 0.75rem;
+    border-radius: 999px;
+  }
+
+  h3 {
+    font-size: clamp(1.75rem, 3vw, 2.2rem);
+    color: #1f2b5f;
+    font-weight: 800;
+    margin: 0 0 0.5rem;
+  }
+
+  p {
+    font-size: 1.05rem;
+    color: #4a5568;
+    margin: 0;
+  }
+}
+
+.dp-sample-drill__body {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 2rem;
+
+  @media (min-width: 992px) {
+    grid-template-columns: 1.15fr 0.85fr;
+    gap: 2.5rem;
+    align-items: start;
+  }
+}
+
+.dp-sample-drill__ref-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1rem;
+  background: #f8f9fa;
+  border: 1px solid #e2e8f0;
+  border-radius: 12px;
+  padding: 1.25rem;
+  margin-bottom: 1.5rem;
+
+  @media (min-width: 576px) {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+.dp-ref-item {
+  display: flex;
+  flex-direction: column;
+
+  .dp-ref-label {
+    font-size: 0.75rem;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: #475569;
+    font-weight: 700;
+    margin-bottom: 0.2rem;
+  }
+
+  .dp-ref-value {
+    font-size: 0.95rem;
+    color: #1f2b5f;
+    font-weight: 700;
+  }
+}
+
+.dp-drill-step-list {
+  padding-left: 1.25rem;
+  margin-bottom: 1.5rem;
+
+  li {
+    margin-bottom: 0.65rem;
+    color: #334155;
+    font-size: 0.975rem;
+
+    &:last-child {
+      margin-bottom: 0;
+    }
+  }
+}
+
+.dp-drill-variations {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1rem;
+  margin-bottom: 1.5rem;
+
+  @media (min-width: 576px) {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+.dp-var-box {
+  padding: 1rem;
+  border-radius: 10px;
+  font-size: 0.925rem;
+
+  strong {
+    display: block;
+    font-size: 0.825rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    margin-bottom: 0.35rem;
+  }
+}
+
+.dp-var-box--easier {
+  background: #eff6ff;
+  border: 1px solid #bfdbfe;
+  color: #1e3a8a;
+
+  strong {
+    color: #2563eb;
+  }
+}
+
+.dp-var-box--harder {
+  background: #fefce8;
+  border: 1px solid #fef08a;
+  color: #713f12;
+
+  strong {
+    color: #ca8a04;
+  }
+}
+
+.dp-sample-drill__scoring {
+  background: linear-gradient(135deg, #1f2b5f 0%, #151d42 100%);
+  color: #ffffff;
+  border-radius: 12px;
+  padding: 1.25rem 1.5rem;
+  margin-top: 1rem;
+
+  h4 {
+    color: #c89b3c;
+    font-size: 1.05rem;
+    font-weight: 700;
+    margin: 0 0 0.85rem;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+  }
+}
+
+.dp-scoring-row {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 0.75rem;
+  text-align: center;
+}
+
+.dp-score-tier {
+  background: rgba(255, 255, 255, 0.08);
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  border-radius: 8px;
+  padding: 0.75rem 0.5rem;
+
+  .dp-score-tier__label {
+    display: block;
+    font-size: 0.75rem;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: #cbd5e1;
+    margin-bottom: 0.25rem;
+  }
+
+  .dp-score-tier__value {
+    display: block;
+    font-size: 1.35rem;
+    font-weight: 800;
+    color: #c89b3c;
+    line-height: 1;
+  }
+}
+
+.dp-sample-drill__preview-image {
+  background: #f8f9fa;
+  border: 1px solid #e2e8f0;
+  border-radius: 12px;
+  padding: 1rem;
+  text-align: center;
+
+  img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.08);
+    display: block;
+    margin-bottom: 0.75rem;
+  }
+
+  figcaption {
+    font-size: 0.85rem;
+    color: #64748b;
+    font-style: italic;
+  }
+}
+
+// -----------------------------------------------------------------------------
+// 4. Curriculum Grid (4 Modules, 20 Drills)
+// -----------------------------------------------------------------------------
+.dp-curriculum-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1.75rem;
+
+  @media (min-width: 992px) {
+    grid-template-columns: 1fr 1fr;
+    gap: 2rem;
+  }
+}
+
+.dp-module-card {
+  background: #ffffff;
+  border: 1px solid #e2e8f0;
+  border-radius: 14px;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.04);
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+
+  &:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 10px 25px rgba(31, 43, 95, 0.09);
+  }
+}
+
+.dp-module-card__header {
+  background: #f8f9fa;
+  border-bottom: 1px solid #e2e8f0;
+  padding: 1.25rem 1.5rem;
+
+  .dp-module-card__tag {
+    display: inline-block;
+    font-size: 0.75rem;
+    font-weight: 800;
+    text-transform: uppercase;
+    letter-spacing: 0.07em;
+    background: #1f2b5f;
+    color: #f8f9fa;
+    padding: 0.25rem 0.7rem;
+    border-radius: 999px;
+    margin-bottom: 0.5rem;
+  }
+
+  h3 {
+    font-size: 1.25rem;
+    font-weight: 800;
+    color: #1f2b5f;
+    margin: 0;
+  }
+}
+
+.dp-module-card__list {
+  list-style: none;
+  padding: 1.25rem 1.5rem;
+  margin: 0;
+  flex-grow: 1;
+
+  li {
+    padding-bottom: 1rem;
+    margin-bottom: 1rem;
+    border-bottom: 1px dashed #e2e8f0;
+
+    &:last-child {
+      border-bottom: none;
+      padding-bottom: 0;
+      margin-bottom: 0;
+    }
+  }
+
+  .dp-drill-line {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    gap: 0.5rem;
+    margin-bottom: 0.2rem;
+  }
+
+  .dp-drill-name {
+    font-weight: 700;
+    color: #1f2b5f;
+    font-size: 0.975rem;
+  }
+
+  .dp-drill-target {
+    font-size: 0.775rem;
+    font-weight: 700;
+    color: #0f172a;
+    background: #e2e8f0;
+    padding: 0.15rem 0.55rem;
+    border-radius: 999px;
+    white-space: nowrap;
+  }
+
+  .dp-drill-desc {
+    font-size: 0.875rem;
+    color: #4a5568;
+    margin: 0;
+    line-height: 1.45;
+  }
+}
+
+// -----------------------------------------------------------------------------
+// 5. Persona Cards ("Who This Is Built For")
+// -----------------------------------------------------------------------------
+.dp-personas-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1.5rem;
+
+  @media (min-width: 768px) {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+.dp-persona-card {
+  background: #ffffff;
+  border: 1px solid #e2e8f0;
+  border-top: 4px solid #1f2b5f;
+  border-radius: 12px;
+  padding: 1.75rem 1.5rem;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.04);
+  display: flex;
+  flex-direction: column;
+
+  .dp-persona-icon {
+    width: 48px;
+    height: 48px;
+    border-radius: 50%;
+    background: rgba(31, 43, 95, 0.08);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #1f2b5f;
+    font-size: 1.25rem;
+    margin-bottom: 1.15rem;
+  }
+
+  h3 {
+    font-size: 1.2rem;
+    font-weight: 700;
+    color: #1f2b5f;
+    margin-bottom: 0.75rem;
+  }
+
+  p {
+    font-size: 0.925rem;
+    color: #4a5568;
+    line-height: 1.55;
+    margin: 0;
+  }
+}
+
+// -----------------------------------------------------------------------------
+// 6. Complete System Value Stack & AI Companion
+// -----------------------------------------------------------------------------
+.dp-value-stack {
+  background: #ffffff;
+  border: 2px solid #1f2b5f;
+  border-radius: 16px;
+  padding: clamp(1.75rem, 4vw, 2.75rem);
+  box-shadow: 0 12px 35px rgba(31, 43, 95, 0.08);
+}
+
+.dp-stack-items {
+  display: flex;
+  flex-direction: column;
+  gap: 1.25rem;
+  margin-bottom: 2rem;
+}
+
+.dp-stack-item {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  background: #f8f9fa;
+  border: 1px solid #e2e8f0;
+  border-radius: 12px;
+  padding: 1.25rem 1.5rem;
+
+  @media (min-width: 576px) {
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .dp-stack-content {
+    h4 {
+      font-size: 1.05rem;
+      font-weight: 700;
+      color: #1f2b5f;
+      margin: 0 0 0.25rem;
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+    }
+
+    p {
+      font-size: 0.9rem;
+      color: #4a5568;
+      margin: 0;
+    }
+  }
+
+  .dp-stack-val {
+    font-size: 0.95rem;
+    font-weight: 700;
+    color: #64748b;
+    background: #ffffff;
+    border: 1px solid #cbd5e1;
+    padding: 0.35rem 0.85rem;
+    border-radius: 999px;
+    white-space: nowrap;
+    align-self: flex-start;
+
+    @media (min-width: 576px) {
+      align-self: center;
+    }
+
+    &.dp-stack-val--free {
+      color: #166534;
+      background: #ecfdf5;
+      border-color: #bbf7d0;
+    }
+  }
+}
+
+.dp-total-val-box {
+  background: linear-gradient(135deg, #1f2b5f 0%, #151d42 100%);
+  color: #ffffff;
+  border-radius: 12px;
+  padding: 1.5rem clamp(1.25rem, 3vw, 2rem);
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  align-items: center;
+  text-align: center;
+
+  @media (min-width: 768px) {
+    flex-direction: row;
+    justify-content: space-between;
+    text-align: left;
+  }
+
+  .dp-total-val-text {
+    .dp-val-strike {
+      font-size: 1.1rem;
+      color: #94a3b8;
+      text-decoration: line-through;
+      margin-bottom: 0.25rem;
+    }
+
+    .dp-val-current {
+      font-size: clamp(1.75rem, 3.5vw, 2.25rem);
+      font-weight: 800;
+      color: #c89b3c;
+      line-height: 1.1;
+    }
+  }
+}
+
+// -----------------------------------------------------------------------------
+// 7. Author Credentials & Social Proof
+// -----------------------------------------------------------------------------
+.dp-author-section {
+  background: #f8f9fa;
+  border: 1px solid #e2e8f0;
+  border-radius: 16px;
+  padding: clamp(1.75rem, 3.5vw, 2.5rem);
+}
+
+.dp-author-grid {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+
+  @media (min-width: 992px) {
+    display: grid;
+    grid-template-columns: 1.15fr 0.85fr;
+    gap: 2.5rem;
+    align-items: center;
+  }
+}
+
+.dp-author-card {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+
+  @media (min-width: 576px) {
+    flex-direction: row;
+    align-items: flex-start;
+  }
+
+  .dp-author-image {
+    width: 140px;
+    height: 140px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 3px solid #c89b3c;
+    box-shadow: 0 6px 18px rgba(0, 0, 0, 0.1);
+    flex-shrink: 0;
+  }
+
+  .dp-author-details {
+    h3 {
+      font-size: 1.35rem;
+      font-weight: 800;
+      color: #1f2b5f;
+      margin: 0 0 0.25rem;
+    }
+
+    .dp-author-title {
+      font-size: 0.85rem;
+      font-weight: 700;
+      color: #1f2b5f;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      margin-bottom: 0.75rem;
+      display: inline-block;
+      background: rgba(31, 43, 95, 0.08);
+      border-left: 3px solid #c89b3c;
+      padding: 0.2rem 0.6rem;
+      border-radius: 0 4px 4px 0;
+    }
+
+    p {
+      font-size: 0.95rem;
+      color: #4a5568;
+      line-height: 1.55;
+      margin-bottom: 0.75rem;
+    }
+
+    ul {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+      font-size: 0.875rem;
+      color: #334155;
+
+      li {
+        margin-bottom: 0.35rem;
+        display: flex;
+        align-items: center;
+        gap: 0.45rem;
+
+        i {
+          color: #c89b3c;
+        }
+      }
+    }
+  }
+}
+
+.dp-coach-quote {
+  background: #ffffff;
+  border: 1px solid #e2e8f0;
+  border-left: 4px solid #c89b3c;
+  border-radius: 12px;
+  padding: 1.5rem;
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.04);
+
+  .dp-quote-stars {
+    color: #c89b3c;
+    font-size: 0.95rem;
+    margin-bottom: 0.75rem;
+  }
+
+  blockquote {
+    font-size: 1.05rem;
+    font-style: italic;
+    color: #1f2b5f;
+    line-height: 1.6;
+    margin: 0 0 1rem;
+  }
+
+  .dp-quote-author {
+    font-size: 0.85rem;
+    font-weight: 700;
+    color: #334155;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+  }
+}
+
+// -----------------------------------------------------------------------------
+// 8. Risk-Reversal Guarantee & Native FAQ Accordion
+// -----------------------------------------------------------------------------
+.dp-guarantee-card {
+  background: #ffffff;
+  border: 2px solid #bbf7d0;
+  border-radius: 14px;
+  padding: clamp(1.5rem, 3vw, 2.25rem);
+  box-shadow: 0 8px 24px rgba(22, 101, 52, 0.06);
+  display: flex;
+  flex-direction: column;
+  gap: 1.25rem;
+
+  @media (min-width: 576px) {
+    flex-direction: row;
+    align-items: center;
+    gap: 2rem;
+  }
+
+  .dp-guarantee-badge {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    background: #ecfdf5;
+    border: 3px solid #22c55e;
+    color: #166534;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+
+    i {
+      font-size: 1.75rem;
+    }
+
+    span {
+      font-size: 0.65rem;
+      font-weight: 800;
+      text-transform: uppercase;
+    }
+  }
+
+  .dp-guarantee-content {
+    h3 {
+      font-size: 1.25rem;
+      font-weight: 800;
+      color: #166534;
+      margin: 0 0 0.5rem;
+    }
+
+    p {
+      font-size: 0.95rem;
+      color: #4a5568;
+      line-height: 1.6;
+      margin: 0;
+    }
+  }
+}
 
 .drill-pack-faq {
   .card {
@@ -98,3 +1148,112 @@
   }
 }
 
+// -----------------------------------------------------------------------------
+// 9. Final High-Converting Conversion Banner
+// -----------------------------------------------------------------------------
+.dp-final-cta {
+  background: linear-gradient(135deg, #1f2b5f 0%, #151d42 100%);
+  color: #ffffff;
+  border-radius: 16px;
+  padding: clamp(2rem, 5vw, 3.5rem) clamp(1.5rem, 4vw, 3rem);
+  text-align: center;
+  box-shadow: 0 16px 45px rgba(31, 43, 95, 0.2);
+  margin-top: 2rem;
+
+  .dp-final-cta__eyebrow {
+    display: inline-block;
+    color: #c89b3c;
+    font-size: 0.85rem;
+    font-weight: 800;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    margin-bottom: 0.75rem;
+  }
+
+  h2 {
+    font-family: "Gabarito", "Open Sans", sans-serif;
+    color: #ffffff;
+    font-size: clamp(2rem, 4vw, 2.85rem);
+    font-weight: 800;
+    line-height: 1.2;
+    margin-bottom: 1rem;
+    max-width: 750px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  p {
+    color: #cbd5e1;
+    font-size: clamp(1.05rem, 2vw, 1.2rem);
+    max-width: 650px;
+    margin: 0 auto 2rem;
+    line-height: 1.6;
+  }
+
+  .dp-final-cta__price {
+    margin-bottom: 1.75rem;
+    display: flex;
+    justify-content: center;
+    align-items: baseline;
+    gap: 0.85rem;
+
+    .dp-final-price-anchor {
+      font-size: 1.25rem;
+      color: #94a3b8;
+      text-decoration: line-through;
+    }
+
+    .dp-final-price-now {
+      font-size: clamp(2.25rem, 4vw, 3rem);
+      font-weight: 800;
+      color: #c89b3c;
+      line-height: 1;
+    }
+
+    .dp-final-price-badge {
+      background: rgba(200, 155, 60, 0.2);
+      border: 1px solid #c89b3c;
+      color: #f8f9fa;
+      font-size: 0.85rem;
+      font-weight: 700;
+      padding: 0.25rem 0.75rem;
+      border-radius: 999px;
+    }
+  }
+
+  .drill-pack-cta {
+    background: linear-gradient(135deg, #c89b3c 0%, #dfb04d 100%);
+    color: #1f2b5f;
+    font-size: 1.15rem;
+    padding: 1.1rem 2.5rem;
+    box-shadow: 0 10px 30px rgba(200, 155, 60, 0.4);
+
+    &:hover,
+    &:focus {
+      background: linear-gradient(135deg, #dfb04d 0%, #e8bc5c 100%);
+      color: #141b3d;
+      transform: translateY(-2px);
+      box-shadow: 0 14px 35px rgba(200, 155, 60, 0.5);
+    }
+  }
+
+  .dp-final-cta__trust {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 1.25rem 2rem;
+    font-size: 0.85rem;
+    color: #94a3b8;
+    margin-top: 2rem;
+
+    span {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.4rem;
+    }
+
+    i {
+      color: #c89b3c;
+    }
+  }
+}
