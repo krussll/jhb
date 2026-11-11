@@ -8,8 +8,10 @@
 {% endif %}
 
 {% if raw_clubs %}
-  {% assign featured_clubs = raw_clubs | where_exp: "item", "item.profile_page == true or item.featured == true" | sort: "name" %}
-  {% assign standard_clubs = raw_clubs | where_exp: "item", "item.profile_page != true and item.featured != true" | sort: "name" %}
+  {% assign profile_clubs = raw_clubs | where_exp: "item", "item.profile_page == true" %}
+  {% assign highlight_clubs = raw_clubs | where_exp: "item", "item.featured == true" %}
+  {% assign featured_clubs = profile_clubs | concat: highlight_clubs | uniq | sort: "name" %}
+  {% assign standard_clubs = raw_clubs | where_exp: "item", "item.profile_page != true" | where_exp: "item", "item.featured != true" | sort: "name" %}
   {% assign sorted_clubs = featured_clubs | concat: standard_clubs %}
 {% else %}
   {% assign sorted_clubs = '' | split: '' %}
