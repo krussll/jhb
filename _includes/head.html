@@ -354,10 +354,7 @@
     "@type": "CollectionPage",
     "name": {{ pathway_obj.title | jsonify }},
     "url": {{ pathway_hub_url | absolute_url | jsonify }}
-    }{% endif %}{% endif %}{% if has_review %}
-    , "review": {
-    "@id": {{ canonical_url | append: '#review' | jsonify }}
-    }{% endif %}
+    }{% endif %}{% endif %}
     }
     {%- endcapture %}
     <script type="application/ld+json">{{ article_json_ld | strip }}</script>
