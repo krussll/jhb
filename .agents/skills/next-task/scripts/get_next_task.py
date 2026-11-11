@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Finds the first task in .agents/backlog (or agents/backlog) where the owner is "Agent".
+Finds the first task in .agents/backlog where the owner is "Agent".
 Usage:
     python3 get_next_task.py [--json] [--delete FILE]
 """
@@ -11,10 +11,9 @@ import re
 import json
 
 def get_backlog_dir():
-    candidates = [".agents/backlog", "agents/backlog"]
-    for c in candidates:
-        if os.path.isdir(c):
-            return c
+    backlog_dir = ".agents/backlog"
+    if os.path.isdir(backlog_dir):
+        return backlog_dir
     return None
 
 def find_next_agent_task():
@@ -52,12 +51,10 @@ def find_next_agent_task():
 
 def delete_backlog_file(filename):
     deleted = []
-    # Check both potential backlog folders
-    for b_dir in [".agents/backlog", "agents/backlog"]:
-        target = os.path.join(b_dir, os.path.basename(filename))
-        if os.path.exists(target):
-            os.remove(target)
-            deleted.append(target)
+    target = os.path.join(".agents/backlog", os.path.basename(filename))
+    if os.path.exists(target):
+        os.remove(target)
+        deleted.append(target)
     return deleted
 
 if __name__ == "__main__":

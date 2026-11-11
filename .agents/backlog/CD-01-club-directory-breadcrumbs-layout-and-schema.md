@@ -1,24 +1,39 @@
-# CD-01: Fix breadcrumbs, post layout callout, and ItemList schema for `bowls-clubs`
+# CD-01: Configure `_clubs` collection, breadcrumbs, post layout callout, and structured data (`ItemList` & `SportsActivityLocation`)
 
-- **Source document:** `.agents/club-directory-seo-plan.md` (§2.3 "Template, Breadcrumb & Schema Fixes" & §4 Phase 1 `CD-01`)
+- **Source document:** [`.agents/club-directory-seo-plan.md`](../club-directory-seo-plan.md) (§2 & §5 Phase 1 `CD-01`)
 - **Owner:** 🤖 Agent (Frontend Implementation)
 - **Priority:** High
 - **Status:** Not started
 - **Depends on:** None
-- **Unblocks:** CD-03, CD-04, CD-05
+- **Unblocks:** CD-02, CD-03, CD-04, CD-05
 
 ## Task
-Update the breadcrumb navigation, `BreadcrumbList` JSON-LD schema, post hero layout callout, and `ItemList` structured data support for pages in the `bowls-clubs` category.
+Set up the 3-tier directory foundation: configure the `clubs` Jekyll collection (`_config.yml`), create the individual club profile layout (`_layouts/club.html`), update `sitemap.xml`, and upgrade breadcrumb navigation and JSON-LD schema (`ItemList` for city guides and `SportsActivityLocation` for individual club pages).
 
 ## Context
-- Currently in `_includes/breadcrumbs.html` and `_includes/head.html`, `cat_slug == 'bowls-clubs'` is not mapped to a parent hub, so breadcrumbs on regional directory pages (`/bowls-clubs/bowls-clubs-in-edinburgh/`, `/bowls-clubs/bowls-clubs-in-adelaide-south-australia/`) fall back to `/all-posts/` ("Bowls clubs") instead of `/bowls-clubs/club-directory/` ("Club Directory").
-- When viewing `/bowls-clubs/club-directory/` itself, the parent breadcrumb should remain `Home` (avoiding a self-referential breadcrumb item).
-- In `_layouts/post.html` (lines 20–22), every post displays `.review-methodology-callout` (*"How we test: Every article follows our review methodology..."*), which is out of place on location directory pages. Suppress this callout when `page.categories contains 'bowls-clubs'`.
-- In `_includes/head.html` (§5 "ItemList Schema"), extend the `ItemList` condition so that if a post has `page.club_region` matching `site.data.clubs[page.club_region]`, it automatically generates an `ItemList` JSON-LD block listing the clubs on that page (`name`, `description` / `address`, and `url` / `website`).
+1. **Collection Setup (`_config.yml` & `sitemap.xml`)**:
+   - Add a `clubs` collection in `_config.yml` with `output: true` and `permalink: /bowls-clubs/:city/:name/` (or explicit frontmatter `permalink: /bowls-clubs/<city>/<slug>/`).
+   - Update `sitemap.xml` so `site.clubs` documents (unless `sitemap == false`) are included in the XML sitemap with `<priority>0.7</priority>`.
+2. **Breadcrumbs (`_includes/breadcrumbs.html` & `_includes/head.html`)**:
+   - Map `cat_slug == 'bowls-clubs'` on city guide posts to parent `"Club Directory"` (`/bowls-clubs/club-directory/`), while keeping `Home` as the parent of `/bowls-clubs/club-directory/` itself.
+   - For `_layouts/club.html` (`page.collection == 'clubs'`), output a 4-level breadcrumb trail: `Home` → `Club Directory` (`/bowls-clubs/club-directory/`) → `Bowls Clubs in [City]` (`page.city_url`) → `[Club Name]`.
+3. **Post Layout Callout (`_layouts/post.html`)**:
+   - Suppress `.review-methodology-callout` when `page.categories contains 'bowls-clubs'`.
+4. **Rich Schema (`_includes/head.html`)**:
+   - On regional city posts (`page.club_region`), automatically generate an `ItemList` JSON-LD block from `site.data.clubs[page.club_region]` linking to each club's internal profile URL (when `profile_page: true`) or external URL.
+   - On individual club profile pages (`page.collection == 'clubs'`), output `SportsActivityLocation` JSON-LD with `name`, `description`, `address` (`PostalAddress`), `url`, `sameAs` (official club website), and surface/facility details.
+5. **Club Profile Layout (`_layouts/club.html`)**:
+   - Render the 5 high-value modules defined in `.agents/club-directory-seo-plan.md`:
+     1. Facility & Surface Fact Box (Address, Postcode, Surfaces, Season, Rinks, Website & Google Maps buttons)
+     2. Beginner, Casual & Barefoot Bowls Access checklist
+     3. Dynamic "Best Bowls & Shoes for [Club Name]" equipment matchmaker based on `page.surfaces` and `page.country`
+     4. "Nearby Bowls Clubs in [Area]" cross-link cards (pulling 3–4 clubs from `site.data.clubs[page.city]`)
+     5. Club-specific FAQ accordion (`page.faqs`)
 
 ## Completion criteria
-- [ ] `_includes/breadcrumbs.html` and `_includes/head.html` route `bowls-clubs` child pages to `/bowls-clubs/club-directory/` ("Club Directory") without creating a self-loop on `/bowls-clubs/club-directory/`.
-- [ ] `_layouts/post.html` hides `.review-methodology-callout` when `page.categories contains 'bowls-clubs'`.
-- [ ] `_includes/head.html` outputs valid `ItemList` JSON-LD when `page.club_region` is set and `site.data.clubs[page.club_region]` exists.
+- [ ] `_config.yml` defines the `clubs` collection and `sitemap.xml` includes `site.clubs`.
+- [ ] `_includes/breadcrumbs.html` and `_includes/head.html` support both 3-level (`bowls-clubs` city pages) and 4-level (`clubs` profile pages) breadcrumbs.
+- [ ] `_layouts/post.html` hides `.review-methodology-callout` on `bowls-clubs` pages.
+- [ ] `_includes/head.html` outputs valid `ItemList` JSON-LD on city guides and `SportsActivityLocation` JSON-LD on club pages.
+- [ ] `_layouts/club.html` renders all 5 rich profile modules cleanly using brand colours.
 - [ ] `bundle exec jekyll build` completes without errors.
-

@@ -26,7 +26,6 @@ paginate_path:      "/posts/page:num"
 sass:
   style: compressed
 exclude:
-  - agents
   - .agents
 plugins:
   - jekyll-feed

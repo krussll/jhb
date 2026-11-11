@@ -28,7 +28,12 @@ This directory contains key documentation and architectural context for AI agent
 │   ├── brand-colours.md        # Definitive brand colour palette, design tokens & WCAG matrix
 │   ├── codebase_structure.md   # Architectural breakdown of layouts, includes, and config
 │   ├── styles_and_ui.md        # Sass, design tokens, typography, and UI component details
-│   └── content_and_posts.md    # Post schema, frontmatter spec, and page templates
+│   ├── content_and_posts.md    # Post schema, frontmatter spec, and page templates
+│   ├── *-plan.md               # Strategic SEO, CRO, email, and content plans
+│   ├── missing-images.md       # Site-wide missing images audit report
+│   ├── backlog/                # Active implementation tasks (`CC-*`, `CD-*`, `DP-*`, `MI-*`)
+│   ├── skills/                 # Custom agent skills (e.g. `next-task`)
+│   └── workflows/              # Custom agent workflows (e.g. `next-task.md`)
 ├── _config.yml                 # Core Jekyll site configuration & plugins
 ├── Gemfile                     # Ruby gems definition
 ├── package.json                # Node dependencies (Bootstrap, FontAwesome, jQuery)

@@ -42,7 +42,7 @@ This skill automates taking the next pending task from the backlog owned by the 
 3. Check the completion checklist in the backlog task to confirm all criteria are satisfied.
 
 ### Step 5: Clean Up Backlog
-1. Delete the completed task file from `.agents/backlog/` (and `agents/backlog/` if mirrored):
+1. Delete the completed task file from `.agents/backlog/`:
    ```bash
    python3 .agents/skills/next-task/scripts/get_next_task.py --delete <filename>
    ```
