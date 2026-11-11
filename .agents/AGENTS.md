@@ -97,6 +97,7 @@ background: "/img/post-bg.jpg" # Optional hero background image
 
 ### 3.3 Style & UI Design Rules
 - Brand palette: Deep Blue (`#1F2B5F`), Warm Gold (`#C89B3C`), Neutral Light (`#f8f9fa`), Dark Charcoal (`#222222`). See [`.agents/brand-colours.md`](brand-colours.md) for full specs and accessibility rules.
+- Box & Container Geometry: Containers, cards, search/filter controls, input fields, and action buttons must feature sharp, square corners (`border-radius: 0`). Avoid rounded edges or Bootstrap `rounded` utility classes on structural boxes, cards, and buttons. Fully rounded pill geometry (`border-radius: 9999px`) is strictly reserved for tag, category, and filter pills.
 - Custom styles should be added in `_sass/` or integrated via `assets/vendor/startbootstrap-clean-blog/scss/`.
 - Maintain clean contrast over image banners using `.overlay` dark backdrop filters (`rgba(33, 37, 41, 0.5)`).
 

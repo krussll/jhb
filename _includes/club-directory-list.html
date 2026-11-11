@@ -1,0 +1,216 @@
+{% if include.region == 'all' %}
+  {% assign raw_clubs = '' | split: '' %}
+  {% for region_entry in site.data.clubs %}
+    {% assign raw_clubs = raw_clubs | concat: region_entry[1] %}
+  {% endfor %}
+{% else %}
+  {% assign raw_clubs = site.data.clubs[include.region] %}
+{% endif %}
+
+{% if raw_clubs %}
+  {% assign featured_clubs = raw_clubs | where_exp: "item", "item.profile_page == true or item.featured == true" | sort: "name" %}
+  {% assign standard_clubs = raw_clubs | where_exp: "item", "item.profile_page != true and item.featured != true" | sort: "name" %}
+  {% assign sorted_clubs = featured_clubs | concat: standard_clubs %}
+{% else %}
+  {% assign sorted_clubs = '' | split: '' %}
+{% endif %}
+
+{% assign total_clubs_count = sorted_clubs.size %}
+
+<div class="club-directory-component" data-component="club-directory">
+  <!-- Filter & Search Controls -->
+  <div class="club-directory-controls mb-4">
+    <div class="row align-items-center mb-3">
+      <div class="col-md-7 mb-2 mb-md-0">
+        <div class="club-search-wrapper">
+          <i class="fas fa-search club-search-icon" aria-hidden="true"></i>
+          <input 
+            type="search" 
+            class="form-control club-search-input" 
+            id="club-directory-search" 
+            placeholder="Search by club name, area, or postcode..." 
+            aria-label="Search clubs by name, area, or postcode"
+            autocomplete="off">
+          <button type="button" class="club-search-clear d-none" id="club-search-clear" aria-label="Clear search">
+            <i class="fas fa-times" aria-hidden="true"></i>
+          </button>
+        </div>
+      </div>
+      <div class="col-md-5 text-md-right">
+        <div class="club-directory-counter" id="club-directory-counter" aria-live="polite">
+          Showing <span class="club-count-current font-weight-bold text-dark">{{ total_clubs_count }}</span> of <span class="club-count-total font-weight-bold text-dark">{{ total_clubs_count }}</span> clubs
+        </div>
+      </div>
+    </div>
+
+    <!-- Filter Pills -->
+    <div class="club-filter-pills" role="group" aria-label="Filter clubs by green type and facilities">
+      <button type="button" class="club-filter-pill club-filter-pill--active" data-filter="all" aria-pressed="true">
+        All Clubs
+      </button>
+      <button type="button" class="club-filter-pill" data-filter="indoor" aria-pressed="false">
+        <i class="fas fa-warehouse" aria-hidden="true"></i> Indoor Rinks
+      </button>
+      <button type="button" class="club-filter-pill" data-filter="outdoor" aria-pressed="false">
+        <i class="fas fa-sun" aria-hidden="true"></i> Outdoor Greens
+      </button>
+      <button type="button" class="club-filter-pill" data-filter="beginner" aria-pressed="false">
+        <i class="fas fa-user-friends" aria-hidden="true"></i> Beginner &amp; Social Friendly
+      </button>
+    </div>
+  </div>
+
+  <!-- Club Cards Grid -->
+  <div class="club-card-grid" id="club-directory-grid">
+    {% for club in sorted_clubs %}
+      {% assign is_indoor = false %}
+      {% assign is_outdoor = false %}
+      {% assign is_beginner = false %}
+      {% assign is_featured = false %}
+
+      {% if club.profile_page or club.featured %}
+        {% assign is_featured = true %}
+      {% endif %}
+
+      {% for surf in club.surfaces %}
+        {% if surf contains 'Indoor' or surf contains 'Carpet' %}
+          {% assign is_indoor = true %}
+        {% endif %}
+        {% if surf contains 'Outdoor' or surf contains 'Grass' or surf contains 'Synthetic' or surf contains 'Crown' %}
+          {% assign is_outdoor = true %}
+        {% endif %}
+      {% endfor %}
+
+      {% if club.beginner_friendly or club.barefoot_social or club.loan_bowls %}
+        {% assign is_beginner = true %}
+      {% endif %}
+
+      <article 
+        class="club-card{% if is_featured %} club-card--featured{% endif %}" 
+        data-name="{{ club.name | downcase | escape }}"
+        data-area="{{ club.area | default: '' | downcase | escape }}"
+        data-postcode="{{ club.postcode | default: '' | downcase | escape }}"
+        data-city="{{ club.city | default: club.city_name | default: '' | downcase | escape }}"
+        data-indoor="{% if is_indoor %}true{% else %}false{% endif %}"
+        data-outdoor="{% if is_outdoor %}true{% else %}false{% endif %}"
+        data-beginner="{% if is_beginner %}true{% else %}false{% endif %}"
+        data-featured="{% if is_featured %}true{% else %}false{% endif %}"
+      >
+        <div class="club-card__header">
+          <div class="club-card__title-row">
+            <h3 class="club-card__title">
+              {% if club.profile_page %}
+                {% assign profile_path = '/bowls-clubs/' | append: club.city | append: '/' | append: club.slug | append: '/' %}
+                <a href="{{ profile_path | relative_url }}">{{ club.name }}</a>
+              {% else %}
+                {{ club.name }}
+              {% endif %}
+            </h3>
+            {% if club.postcode %}
+            <span class="club-card__postcode-badge" title="Postcode: {{ club.postcode }}">
+              {{ club.postcode }}
+            </span>
+            {% endif %}
+          </div>
+
+          {% if club.area or club.city_name %}
+          <p class="club-card__meta">
+            <i class="fas fa-map-marker-alt text-muted" aria-hidden="true"></i>
+            {{ club.area }}{% if club.area and club.city_name %}, {% endif %}{% if club.city_name %}{{ club.city_name }}{% endif %}
+          </p>
+          {% endif %}
+        </div>
+
+        <!-- Surface & Feature Badges -->
+        <div class="club-card__badges">
+          {% if is_featured %}
+          <span class="club-badge club-badge--primary" title="Complete Green Guide &amp; Club Profile Available">
+            <i class="fas fa-star" aria-hidden="true"></i> Full Guide
+          </span>
+          {% endif %}
+
+          {% if club.surfaces %}
+            {% for surf in club.surfaces %}
+            <span class="club-badge club-badge--light">
+              {% if surf contains 'Indoor' %}
+                <i class="fas fa-warehouse" aria-hidden="true"></i>
+              {% else %}
+                <i class="fas fa-leaf" aria-hidden="true"></i>
+              {% endif %}
+              {{ surf }}
+            </span>
+            {% endfor %}
+          {% endif %}
+
+          {% if club.beginner_friendly %}
+          <span class="club-badge club-badge--gold" title="Coaching &amp; beginner roll-ups welcomed">
+            <i class="fas fa-user-friends" aria-hidden="true"></i> Beginner Friendly
+          </span>
+          {% endif %}
+
+          {% if club.barefoot_social %}
+          <span class="club-badge club-badge--success" title="Casual &amp; social barefoot bowls hosted">
+            <i class="fas fa-cocktail" aria-hidden="true"></i> Social Bowls
+          </span>
+          {% endif %}
+
+          {% if club.loan_bowls %}
+          <span class="club-badge club-badge--info" title="Loan bowls available to borrow">
+            <i class="fas fa-bowling-ball" aria-hidden="true"></i> Loan Bowls
+          </span>
+          {% endif %}
+        </div>
+
+        {% if club.address %}
+        <p class="club-card__address">
+          <i class="fas fa-compass text-muted" aria-hidden="true"></i> {{ club.address }}{% if club.postcode %}, {{ club.postcode }}{% endif %}
+        </p>
+        {% endif %}
+
+        {% if club.summary or club.about %}
+        <p class="club-card__summary">
+          {{ club.summary | default: club.about | strip_html | truncate: 150 }}
+        </p>
+        {% endif %}
+
+        <div class="club-card__actions">
+          {% if club.profile_page %}
+            {% assign profile_path = '/bowls-clubs/' | append: club.city | append: '/' | append: club.slug | append: '/' %}
+            <a href="{{ profile_path | relative_url }}" class="btn btn-brand-primary btn-sm club-card__btn-primary">
+              View Club Profile &amp; Green Guide &rarr;
+            </a>
+          {% endif %}
+
+          {% if club.maps_query or club.address %}
+            {% assign maps_query_raw = club.maps_query | default: club.name | append: ' ' | append: club.address | append: ' ' | append: club.postcode %}
+            {% assign maps_query_esc = maps_query_raw | cgi_escape %}
+            {% assign maps_url = 'https://www.google.com/maps/search/?api=1&query=' | append: maps_query_esc %}
+            <a href="{{ maps_url }}" target="_blank" rel="noopener noreferrer" class="btn btn-light border btn-sm club-card__btn-util" title="Open Google Maps directions for {{ club.name }}">
+              <i class="fas fa-directions" aria-hidden="true"></i> Maps
+            </a>
+          {% endif %}
+
+          {% if club.website %}
+            <a href="{{ club.website }}" target="_blank" rel="noopener noreferrer" class="btn btn-light border btn-sm club-card__btn-util" title="Visit official website for {{ club.name }}">
+              <i class="fas fa-external-link-alt" aria-hidden="true"></i> Website
+            </a>
+          {% endif %}
+        </div>
+      </article>
+    {% endfor %}
+  </div>
+
+  <!-- No Results State -->
+  <div class="club-directory-no-results text-center py-5 d-none" id="club-directory-no-results">
+    <div class="p-4 bg-light shadow-sm mx-auto" style="max-width: 500px;">
+      <i class="fas fa-search fa-3x text-muted mb-3" aria-hidden="true"></i>
+      <h3 class="h5 font-weight-bold text-dark">No clubs found</h3>
+      <p class="text-secondary mb-3">No bowling clubs match your current search and filter criteria.</p>
+      <button type="button" class="btn btn-brand-primary btn-sm" id="club-reset-filters">
+        <i class="fas fa-undo" aria-hidden="true"></i> Reset Filters
+      </button>
+    </div>
+  </div>
+</div>
+
+<script src="{{ '/assets/js/club-directory-filter.js' | relative_url }}" defer></script>

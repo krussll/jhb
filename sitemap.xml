@@ -33,4 +33,16 @@ layout: null
       <priority>0.8</priority>
     </url>
   {% endfor %}
+  {% for club in site.clubs %}
+    {% if club.sitemap == false %}
+      {% continue %}
+    {% endif %}
+    <url>
+      <loc>{{ club.url | absolute_url }}</loc>
+      {% assign club_modified = club.last_modified_at | default: club.date | default: site.time %}
+      <lastmod>{{ club_modified | date_to_xmlschema }}</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  {% endfor %}
 </urlset>

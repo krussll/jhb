@@ -290,9 +290,28 @@
   margin-top: 0;
 }
 
-.post-article__body a {
-  color: $home-secondary;
-  text-decoration: underline;
+.post-article__body {
+  a {
+    color: $home-secondary;
+    text-decoration: underline;
+
+    &.btn,
+    &.club-filter-pill,
+    &.badge,
+    &.club-badge {
+      text-decoration: none !important;
+    }
+  }
+
+  .club-directory-component,
+  .club-card,
+  .club-factbox {
+    a.btn,
+    .btn,
+    .club-card__actions a {
+      text-decoration: none !important;
+    }
+  }
 }
 
 .affiliate-disclosure-banner {

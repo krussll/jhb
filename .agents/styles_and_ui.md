@@ -81,3 +81,14 @@ The typography system combines Google Fonts to establish clear visual contrast b
 - FontAwesome stacked icons (`.fa-stack.fa-lg`).
 - Outer element: Dark solid circle (`.fas.fa-circle.fa-stack-2x`).
 - Inner element: Inverse brand icon (`.fab.fa-twitter`, `.fab.fa-github`, etc., `.fa-inverse`).
+
+---
+
+## 5. Box Geometry & Border Radius Standards
+
+To maintain a crisp, clean editorial aesthetic across the site:
+- **Cards, Containers, & Panels**: Sharp square corners (`border-radius: 0;`). Do not apply rounded corners or Bootstrap's `.rounded` classes to card modules (`.club-card`, `.club-factbox`, `.club-checklist__card`, `.club-matchmaker__card`, `.club-nearby-grid__card`, etc.) or control containers (`.club-directory-controls`).
+- **Inputs & Form Controls**: Strict square borders (`border-radius: 0;`).
+- **Action Buttons**: Primary and utility action buttons must have square edges (`border-radius: 0 !important;`).
+- **Pills / Tags Exception**: Fully rounded pill geometry (`border-radius: 9999px;`) is reserved exclusively for category tags, attribute badges, and interactive filter chips (`.club-pill`, `.club-filter-pill`).
+

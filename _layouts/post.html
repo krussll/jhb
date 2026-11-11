@@ -17,9 +17,11 @@ layout: default
           <p class="post-hero__subtitle">{{ page.subtitle }}</p>
           {% endif %}
 
+          {% unless page.categories contains 'bowls-clubs' %}
           <div class="review-methodology-callout">
             <strong>How we test:</strong> Every article follows our <a href="{{ '/review-methodology' | relative_url }}">review methodology</a> so you know how we score each product.
           </div>
+          {% endunless %}
 
           {% assign author_id = page.author | to_s | strip | downcase %}
           {% assign author = site.data.authors[author_id] %}

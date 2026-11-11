@@ -1,3 +1,13 @@
+{% assign is_club_doc = false %}
+{% if page.collection == 'clubs' or page.layout == 'club' %}
+  {% assign is_club_doc = true %}
+{% endif %}
+
+{% assign is_directory_hub = false %}
+{% if page.url contains '/bowls-clubs/club-directory' or page.slug == 'club-directory' %}
+  {% assign is_directory_hub = true %}
+{% endif %}
+
 {% assign pathway_obj = nil %}
 {% if page.pathway %}
   {% for p in site.data.pathways %}
@@ -8,7 +18,19 @@
   {% endfor %}
 {% endif %}
 
-{% if pathway_obj %}
+{% if is_club_doc %}
+  {% assign club_city_name = page.city_name | default: page.city | capitalize %}
+  {% if page.city_breadcrumb %}
+    {% assign club_city_label = page.city_breadcrumb %}
+  {% else %}
+    {% assign club_city_label = 'Bowls Clubs in ' | append: club_city_name %}
+  {% endif %}
+  {% if page.city_url %}
+    {% assign club_city_url = page.city_url %}
+  {% else %}
+    {% assign club_city_url = '/bowls-clubs/bowls-clubs-in-' | append: page.city | append: '/' %}
+  {% endif %}
+{% elsif pathway_obj %}
   {% assign parent_name = pathway_obj.title %}
   {% assign parent_url = pathway_obj.hub_url %}
 {% else %}
@@ -25,6 +47,9 @@
   {% elsif cat_slug == 'ai' %}
     {% assign parent_name = 'AI Coaching' %}
     {% assign parent_url = '/ai-coaching/' %}
+  {% elsif cat_slug == 'bowls-clubs' %}
+    {% assign parent_name = 'Club Directory' %}
+    {% assign parent_url = '/bowls-clubs/club-directory/' %}
   {% else %}
     {% assign parent_name = cat_slug | replace: '-', ' ' | capitalize | default: 'All Posts' %}
     {% assign parent_url = '/all-posts/' %}
@@ -36,12 +61,28 @@
     <li class="post-breadcrumbs__item">
       <a href="{{ '/' | relative_url }}" class="post-breadcrumbs__link">Home</a>
     </li>
-    <li class="post-breadcrumbs__item">
-      <a href="{{ parent_url | relative_url }}" class="post-breadcrumbs__link">{{ parent_name }}</a>
-    </li>
-    <li class="post-breadcrumbs__item post-breadcrumbs__item--current" aria-current="page">
-      <span>{{ page.title }}</span>
-    </li>
+    {% if is_club_doc %}
+      <li class="post-breadcrumbs__item">
+        <a href="{{ '/bowls-clubs/club-directory/' | relative_url }}" class="post-breadcrumbs__link">Club Directory</a>
+      </li>
+      <li class="post-breadcrumbs__item">
+        <a href="{{ club_city_url | relative_url }}" class="post-breadcrumbs__link">{{ club_city_label }}</a>
+      </li>
+      <li class="post-breadcrumbs__item post-breadcrumbs__item--current" aria-current="page">
+        <span>{{ page.name | default: page.title }}</span>
+      </li>
+    {% elsif is_directory_hub %}
+      <li class="post-breadcrumbs__item post-breadcrumbs__item--current" aria-current="page">
+        <span>{{ page.title | default: 'Club Directory' }}</span>
+      </li>
+    {% else %}
+      <li class="post-breadcrumbs__item">
+        <a href="{{ parent_url | relative_url }}" class="post-breadcrumbs__link">{{ parent_name }}</a>
+      </li>
+      <li class="post-breadcrumbs__item post-breadcrumbs__item--current" aria-current="page">
+        <span>{{ page.title }}</span>
+      </li>
+    {% endif %}
   </ol>
 </nav>
 

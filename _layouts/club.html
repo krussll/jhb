@@ -1,0 +1,474 @@
+---
+layout: default
+---
+
+{% assign club_name = page.name | default: page.title %}
+{% assign club_city_name = page.city_name | default: page.city | capitalize %}
+{% if page.city_url %}
+  {% assign city_target_url = page.city_url %}
+{% else %}
+  {% assign city_target_url = '/bowls-clubs/bowls-clubs-in-' | append: page.city | append: '/' %}
+{% endif %}
+
+{% assign is_oceania = false %}
+{% if page.country == 'Australia' or page.country_code == 'AU' or page.country == 'New Zealand' or page.country_code == 'NZ' %}
+  {% assign is_oceania = true %}
+{% endif %}
+
+<header class="masthead post-hero club-hero">
+  <div class="container">
+    {% include breadcrumbs.html %}
+    <div class="club-hero__content">
+      <span class="club-hero__eyebrow"><i class="fas fa-check-circle" aria-hidden="true"></i> Verified Club Profile &middot; {{ club_city_name }}</span>
+      <h1 class="club-hero__title">{{ club_name }}</h1>
+      {% if page.area or page.country %}
+      <p class="club-hero__subtitle">
+        <i class="fas fa-map-marker-alt" aria-hidden="true"></i>
+        {{ page.area }}{% if page.country %}, {{ page.country }}{% endif %}
+      </p>
+      {% endif %}
+      <div class="club-hero__badges">
+        {% if page.surfaces %}
+          {% for surface in page.surfaces %}
+          <span class="club-badge club-badge--outline-light">
+            <i class="fas fa-layer-group" aria-hidden="true"></i> {{ surface }}
+          </span>
+          {% endfor %}
+        {% endif %}
+        {% if page.formats %}
+          {% for format in page.formats %}
+          <span class="club-badge club-badge--outline-light">
+            <i class="fas fa-bullseye" aria-hidden="true"></i> {{ format }}
+          </span>
+          {% endfor %}
+        {% endif %}
+        {% if page.beginner_friendly %}
+        <span class="club-badge club-badge--gold">
+          <i class="fas fa-user-friends" aria-hidden="true"></i> Beginner Friendly
+        </span>
+        {% endif %}
+        {% if page.barefoot_social %}
+        <span class="club-badge club-badge--gold">
+          <i class="fas fa-beer" aria-hidden="true"></i> Barefoot &amp; Social
+        </span>
+        {% endif %}
+      </div>
+    </div>
+  </div>
+</header>
+
+<main class="club-main py-5" role="main">
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-lg-10">
+
+        <!-- Module 1: Facility & Surface Fact Box -->
+        <section class="club-section club-factbox" aria-labelledby="facility-heading">
+          <h2 id="facility-heading" class="club-section__title">Facility &amp; Green Overview</h2>
+          <div class="club-factbox__grid">
+            <div class="club-factbox__item">
+              <span class="club-factbox__item-label"><i class="fas fa-map-marker-alt" aria-hidden="true"></i> Address</span>
+              <span class="club-factbox__item-value">
+                {{ page.address }}{% if page.postcode %}, {{ page.postcode }}{% endif %}
+              </span>
+            </div>
+
+            {% if page.area %}
+            <div class="club-factbox__item">
+              <span class="club-factbox__item-label"><i class="fas fa-compass" aria-hidden="true"></i> Area / District</span>
+              <span class="club-factbox__item-value">{{ page.area }}</span>
+            </div>
+            {% endif %}
+
+            <div class="club-factbox__item">
+              <span class="club-factbox__item-label"><i class="fas fa-layer-group" aria-hidden="true"></i> Playing Surfaces</span>
+              <span class="club-factbox__item-value">
+                {% if page.surfaces %}
+                  {{ page.surfaces | join: ', ' }}
+                {% else %}
+                  Outdoor Grass
+                {% endif %}
+              </span>
+            </div>
+
+            <div class="club-factbox__item">
+              <span class="club-factbox__item-label"><i class="fas fa-calendar-alt" aria-hidden="true"></i> Playing Season</span>
+              <span class="club-factbox__item-value">
+                {{ page.season | default: 'Traditional Outdoor: April &ndash; September' }}
+              </span>
+            </div>
+
+            {% if page.rinks_info %}
+            <div class="club-factbox__item">
+              <span class="club-factbox__item-label"><i class="fas fa-th" aria-hidden="true"></i> Rinks &amp; Greens</span>
+              <span class="club-factbox__item-value">{{ page.rinks_info }}</span>
+            </div>
+            {% endif %}
+
+            {% if page.formats %}
+            <div class="club-factbox__item">
+              <span class="club-factbox__item-label"><i class="fas fa-trophy" aria-hidden="true"></i> Bowling Formats</span>
+              <span class="club-factbox__item-value">{{ page.formats | join: ', ' }}</span>
+            </div>
+            {% endif %}
+          </div>
+
+          <div class="club-factbox__actions">
+            {% if page.website %}
+            <a href="{{ page.website }}" target="_blank" rel="noopener noreferrer" class="btn btn-brand-primary">
+              <i class="fas fa-external-link-alt" aria-hidden="true"></i> Visit Official Club Website
+            </a>
+            {% endif %}
+
+            {% assign maps_query_raw = page.maps_query | default: page.name | append: ' ' | append: page.address | append: ' ' | append: page.postcode %}
+            {% assign maps_query_escaped = maps_query_raw | cgi_escape %}
+            {% assign maps_url = 'https://www.google.com/maps/search/?api=1&query=' | append: maps_query_escaped %}
+            <a href="{{ maps_url }}" target="_blank" rel="noopener noreferrer" class="btn btn-brand-outline">
+              <i class="fas fa-directions" aria-hidden="true"></i> Get Directions on Google Maps
+            </a>
+
+            {% if page.telephone or page.phone %}
+            {% assign club_phone = page.telephone | default: page.phone %}
+            <a href="tel:{{ club_phone | remove: ' ' }}" class="btn btn-light border">
+              <i class="fas fa-phone" aria-hidden="true"></i> Call {{ club_phone }}
+            </a>
+            {% endif %}
+          </div>
+        </section>
+
+        <!-- Editorial Overview / About -->
+        {% if page.about or content.size > 10 %}
+        <section class="club-section club-about" aria-labelledby="about-heading">
+          <h2 id="about-heading" class="club-section__title">About {{ club_name }}</h2>
+          <div class="club-about__text">
+            {% if page.about %}
+              {{ page.about | markdownify }}
+            {% endif %}
+            {{ content }}
+          </div>
+        </section>
+        {% endif %}
+
+        <!-- Module 2: Beginner, Casual & Barefoot Access Checklist -->
+        <section class="club-section" aria-labelledby="access-heading">
+          <h2 id="access-heading" class="club-section__title">Beginner &amp; Visitor Access Guide</h2>
+          <p class="club-section__intro">
+            Thinking of taking up lawn bowls or organising a social roll-up? Here is what you need to know about access and facilities at {{ club_name }}:
+          </p>
+
+          <div class="club-checklist">
+            <div class="club-checklist__card">
+              <div class="club-checklist__card-header">
+                <h3 class="club-checklist__card-title"><i class="fas fa-user-graduate" aria-hidden="true"></i> Beginner Coaching &amp; Tasters</h3>
+                {% if page.beginner_friendly %}
+                <span class="club-badge club-badge--success"><i class="fas fa-check" aria-hidden="true"></i> Welcomed</span>
+                {% else %}
+                <span class="club-badge club-badge--info">Enquire</span>
+                {% endif %}
+              </div>
+              <p class="club-checklist__card-desc">
+                {% if page.beginner_friendly %}
+                Beginner roll-ups and introductory coaching tasters are typically welcomed. Most clubs run spring/summer open days for new bowlers.
+                {% else %}
+                Contact the club secretary to ask about upcoming open days, guest rolls, or taster coaching sessions.
+                {% endif %}
+              </p>
+            </div>
+
+            <div class="club-checklist__card">
+              <div class="club-checklist__card-header">
+                <h3 class="club-checklist__card-title"><i class="fas fa-bowling-ball" aria-hidden="true"></i> Loan Bowls Available</h3>
+                {% if page.loan_bowls %}
+                <span class="club-badge club-badge--success"><i class="fas fa-check" aria-hidden="true"></i> Available</span>
+                {% else %}
+                <span class="club-badge club-badge--info">Check with Club</span>
+                {% endif %}
+              </div>
+              <p class="club-checklist__card-desc">
+                {% if page.loan_bowls %}
+                Club loan bowls are available on-site so you do not need to buy equipment before having a go.
+                {% else %}
+                Borrowing bowls is often arranged upon request for introductory sessions; check with the club prior to arrival.
+                {% endif %}
+              </p>
+            </div>
+
+            <div class="club-checklist__card">
+              <div class="club-checklist__card-header">
+                <h3 class="club-checklist__card-title"><i class="fas fa-cocktail" aria-hidden="true"></i> Barefoot &amp; Social Bowls</h3>
+                {% if page.barefoot_social %}
+                <span class="club-badge club-badge--success"><i class="fas fa-check" aria-hidden="true"></i> Hosted</span>
+                {% else %}
+                <span class="club-badge club-badge--light">Traditional Play</span>
+                {% endif %}
+              </div>
+              <p class="club-checklist__card-desc">
+                {% if page.barefoot_social %}
+                  {% if is_oceania %}
+                  Social barefoot bowls, night owls competitions, and casual corporate roll-ups are hosted at this venue.
+                  {% else %}
+                  Social barefoot bowls, community roll-ups, and casual sessions are hosted at this venue.
+                  {% endif %}
+                {% else %}
+                  {% if is_oceania %}
+                  Primarily geared toward traditional club competitions, pennants, and formal roll-ups.
+                  {% else %}
+                  Primarily geared toward traditional club fixtures, county and national competitions, and formal roll-ups.
+                  {% endif %}
+                {% endif %}
+              </p>
+            </div>
+
+            <div class="club-checklist__card">
+              <div class="club-checklist__card-header">
+                <h3 class="club-checklist__card-title"><i class="fas fa-utensils" aria-hidden="true"></i> Clubhouse &amp; Bar</h3>
+                {% if page.bar_clubhouse %}
+                <span class="club-badge club-badge--success"><i class="fas fa-check" aria-hidden="true"></i> Licensed Bar</span>
+                {% else %}
+                <span class="club-badge club-badge--light">Club Amenities</span>
+                {% endif %}
+              </div>
+              <p class="club-checklist__card-desc">
+                {% if page.bar_clubhouse %}
+                Licensed clubhouse bar, lounge facilities, and event or function room hire available.
+                {% else %}
+                Standard clubhouse changing rooms and member facilities available on match days.
+                {% endif %}
+              </p>
+            </div>
+          </div>
+
+          <div class="club-tip-callout">
+            <strong><i class="fas fa-info-circle text-primary" aria-hidden="true"></i> Footwear requirement:</strong>
+            All bowling greens require completely flat-soled shoes (without heels or deep treads) to prevent tearing the delicate grass or woven turf. Learn more in our <a href="{{ '/help/lawn-bowls-dress-code/' | relative_url }}">Lawn Bowls Dress Code Guide</a> and find the right grip with our <a href="{{ '/help/what-size-lawn-bowl-should-i-use/' | relative_url }}">Bowl Sizing Guide</a>.
+          </div>
+        </section>
+
+        <!-- Module 3: Dynamic Equipment Matchmaker -->
+        <section class="club-section" aria-labelledby="gear-heading">
+          <h2 id="gear-heading" class="club-section__title">Best Bowls &amp; Equipment for {{ club_name }}</h2>
+          <p class="club-section__intro">
+            Bowling green conditions directly affect your line and delivery. Based on {{ club_name }}'s playing surfaces and location, here are the optimal models and setup:
+          </p>
+
+          <div class="club-matchmaker">
+            {% assign has_indoor = false %}
+            {% assign has_grass = false %}
+            {% assign has_synthetic_or_au = false %}
+            {% assign has_crown = false %}
+
+            {% if page.surfaces %}
+              {% for s in page.surfaces %}
+                {% if s contains 'Indoor' or s contains 'Carpet' %}
+                  {% assign has_indoor = true %}
+                {% endif %}
+                {% if s contains 'Grass' %}
+                  {% assign has_grass = true %}
+                {% endif %}
+                {% if s contains 'Synthetic' or s contains 'Dome' or s contains 'Carpet' %}
+                  {% if page.country == 'Australia' or page.country_code == 'AU' %}
+                    {% assign has_synthetic_or_au = true %}
+                  {% endif %}
+                {% endif %}
+                {% if s contains 'Crown' %}
+                  {% assign has_crown = true %}
+                {% endif %}
+              {% endfor %}
+            {% else %}
+              {% assign has_grass = true %}
+            {% endif %}
+
+            {% if page.country == 'Australia' or page.country_code == 'AU' %}
+              {% assign has_synthetic_or_au = true %}
+            {% endif %}
+
+            {% if has_indoor %}
+            <div class="club-matchmaker__card club-matchmaker__card--highlight">
+              <span class="club-matchmaker__card-tag">Indoor Rinks Recommendation</span>
+              <h3 class="club-matchmaker__card-title">Indoor Carpet Surfaces (Fast &amp; True)</h3>
+              <p class="club-matchmaker__card-text">
+                Indoor carpet runs fast and true with zero wind or rain. Narrow-to-mid bias bowls allow you to stay tighter to the jack and hold tighter delivery lines on laser-straight carpet rinks without crossing into adjacent rinks.
+              </p>
+              <div class="club-matchmaker__card-links">
+                <a href="{{ '/guide/best-lawn-bowls-for-indoors/' | relative_url }}">Guide: Best Bowls for Indoor Play</a>
+                <a href="{{ '/review/bowls/taylor-vector-vs-review/' | relative_url }}">Review: Taylor Vector VS</a>
+                <a href="{{ '/review/bowls/henselite-tiger-2-review/' | relative_url }}">Review: Henselite Tiger II</a>
+              </div>
+            </div>
+            {% endif %}
+
+            {% if has_grass and page.country != 'Australia' and page.country_code != 'AU' %}
+            <div class="club-matchmaker__card club-matchmaker__card--highlight">
+              <span class="club-matchmaker__card-tag">Outdoor Grass Recommendation</span>
+              <h3 class="club-matchmaker__card-title">Grass Greens (10&ndash;13 Second Pace)</h3>
+              <p class="club-matchmaker__card-text">
+                UK and Scottish outdoor grass greens are subject to moisture and autumn dew. A dependable, mid-bias bowl provides the predictable curve and arc needed to navigate grass runs smoothly.
+              </p>
+              <div class="club-matchmaker__card-links">
+                <a href="{{ '/guide/best-lawn-bowls-for-beginners/' | relative_url }}">Guide: Best Lawn Bowls for Beginners</a>
+                <a href="{{ '/review/bowls/taylor-ace-review/' | relative_url }}">Review: Taylor Ace (UK Best Seller)</a>
+                <a href="{{ '/review/bowls/drakes-pride-professional-review/' | relative_url }}">Review: Drakes Pride Professional</a>
+              </div>
+            </div>
+            {% endif %}
+
+            {% if has_synthetic_or_au %}
+            <div class="club-matchmaker__card club-matchmaker__card--highlight">
+              <span class="club-matchmaker__card-tag">Fast Green &amp; Australian Setup</span>
+              <h3 class="club-matchmaker__card-title">Fast Couch &amp; Synthetics (14&ndash;18 Seconds)</h3>
+              <p class="club-matchmaker__card-text">
+                Australian couch turf and modern woven synthetic carpets run significantly quicker. Narrower, tight-drawing bowls stop your line from blowing excessively wide into adjoining rinks.
+              </p>
+              <div class="club-matchmaker__card-links">
+                <a href="{{ '/guide/best-lawn-bowls-for-fast-greens/' | relative_url }}">Guide: Best Bowls for Fast Greens</a>
+                <a href="{{ '/review/bowls/henselite-tiger-lawn-bowls-review/' | relative_url }}">Review: Henselite Tiger</a>
+                <a href="{{ '/review/bowls/aero-groove-lawn-bowls-review/' | relative_url }}">Review: Aero Groove</a>
+              </div>
+            </div>
+            {% endif %}
+
+            {% if has_crown %}
+            <div class="club-matchmaker__card club-matchmaker__card--highlight">
+              <span class="club-matchmaker__card-tag">Crown Green Recommendation</span>
+              <h3 class="club-matchmaker__card-title">Crown Green (Mounded Surfaces)</h3>
+              <p class="club-matchmaker__card-text">
+                Crown green bowls requires specialized pairs of 2 bowls (usually 2lb 6oz to 2lb 10oz) engineered with continuous 2-full bias to manage mounds, slopes, and unpredictable falls.
+              </p>
+              <div class="club-matchmaker__card-links">
+                <a href="{{ '/guide/best-crown-green-bowls/' | relative_url }}">Guide: Best Crown Green Bowls</a>
+              </div>
+            </div>
+            {% endif %}
+
+            <div class="club-matchmaker__card">
+              <span class="club-matchmaker__card-tag">Essential Footwear &amp; Fit</span>
+              <h3 class="club-matchmaker__card-title">Bowls Shoes &amp; Grip Sizing</h3>
+              <p class="club-matchmaker__card-text">
+                Proper flat-soled bowls shoes protect greens and deliver dependable traction during your delivery step. Selecting the correct bowl size also prevents finger fatigue and wrist slipping.
+              </p>
+              <div class="club-matchmaker__card-links">
+                <a href="{{ '/help/lawn-bowls-dress-code/' | relative_url }}">Lawn Bowls Dress Code Guide</a>
+                <a href="{{ '/review/shoes/' | relative_url }}">Best Bowls Shoes Review</a>
+                <a href="{{ '/help/what-size-lawn-bowl-should-i-use/' | relative_url }}">Bowl Size Guide: How to Measure</a>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <!-- Module 4: Nearby Bowls Clubs in Area -->
+        <section class="club-section" aria-labelledby="nearby-heading">
+          <h2 id="nearby-heading" class="club-section__title">Nearby Bowls Clubs in {{ club_city_name }}</h2>
+          <p class="club-section__intro">
+            Comparing local clubs? Explore other bowling clubs across {{ club_city_name }}:
+          </p>
+
+          {% assign city_key = page.city | downcase %}
+          {% assign nearby_clubs = site.data.clubs[city_key] %}
+          {% assign nearby_count = 0 %}
+
+          {% if nearby_clubs and nearby_clubs.size > 1 %}
+          <div class="club-nearby-grid">
+            {% for other_club in nearby_clubs %}
+              {% if other_club.slug == page.slug %}
+                {% continue %}
+              {% endif %}
+              {% assign nearby_count = nearby_count | plus: 1 %}
+              {% if nearby_count > 3 %}
+                {% break %}
+              {% endif %}
+
+              <div class="club-nearby-grid__card">
+                <div>
+                  <h3 class="club-nearby-grid__card-title">{{ other_club.name }}</h3>
+                  <p class="club-nearby-grid__card-area">
+                    <i class="fas fa-map-marker-alt" aria-hidden="true"></i> {{ other_club.area | default: other_club.address }}
+                  </p>
+                  <div class="club-nearby-grid__card-badges">
+                    {% if other_club.surfaces %}
+                      {% for surf in other_club.surfaces %}
+                      <span class="club-badge club-badge--light">{{ surf }}</span>
+                      {% endfor %}
+                    {% endif %}
+                  </div>
+                </div>
+
+                <div class="club-nearby-grid__card-btn">
+                  {% if other_club.profile_page %}
+                    {% assign profile_path = '/bowls-clubs/' | append: other_club.city | append: '/' | append: other_club.slug | append: '/' %}
+                    <a href="{{ profile_path | relative_url }}" class="btn btn-sm btn-brand-primary">
+                      View Profile &rarr;
+                    </a>
+                  {% elsif other_club.website %}
+                    <a href="{{ other_club.website }}" target="_blank" rel="noopener noreferrer" class="btn btn-sm btn-brand-outline">
+                      Website &rarr;
+                    </a>
+                  {% else %}
+                    <a href="{{ city_target_url | relative_url }}" class="btn btn-sm btn-light border">
+                      View Details &rarr;
+                    </a>
+                  {% endif %}
+                </div>
+              </div>
+            {% endfor %}
+          </div>
+          {% endif %}
+
+          <div class="p-3 bg-light text-center">
+            <span class="mr-2 text-muted">Looking for the full directory?</span>
+            <a href="{{ city_target_url | relative_url }}" class="btn btn-brand-outline btn-sm">
+              <i class="fas fa-list" aria-hidden="true"></i> View All Bowls Clubs in {{ club_city_name }} &rarr;
+            </a>
+          </div>
+        </section>
+
+        <!-- Module 5: Frequently Asked Questions Accordion -->
+        <section class="club-section" aria-labelledby="faq-heading">
+          <h2 id="faq-heading" class="club-section__title">Frequently Asked Questions</h2>
+
+          <div class="club-faq-accordion">
+            {% if page.faqs and page.faqs.size > 0 %}
+              {% for faq in page.faqs %}
+              <details class="card mb-3 p-3 bg-light border-0 shadow-sm" style="border-left: 4px solid #1F2B5F !important;">
+                <summary class="font-weight-bold text-dark" style="cursor: pointer;">
+                  {{ faq.question }}
+                </summary>
+                <div class="mt-2 text-secondary">
+                  {{ faq.answer | markdownify }}
+                </div>
+              </details>
+              {% endfor %}
+            {% else %}
+              <details class="card mb-3 p-3 bg-light border-0 shadow-sm" style="border-left: 4px solid #1F2B5F !important;">
+                <summary class="font-weight-bold text-dark" style="cursor: pointer;">
+                  Can beginners play at {{ club_name }}?
+                </summary>
+                <div class="mt-2 text-secondary">
+                  <p>Yes! Most lawn bowls clubs welcome beginners and newcomers. Clubs regularly run introductory roll-ups, taster sessions, and open days where experienced members and coaches guide you through the basics of delivery, line, and weight.</p>
+                </div>
+              </details>
+
+              <details class="card mb-3 p-3 bg-light border-0 shadow-sm" style="border-left: 4px solid #1F2B5F !important;">
+                <summary class="font-weight-bold text-dark" style="cursor: pointer;">
+                  Do I need my own bowls to play at {{ club_name }}?
+                </summary>
+                <div class="mt-2 text-secondary">
+                  <p>In most cases, no. Clubs maintain sets of club loan bowls across various sizes (sizes 0 to 4) that new visitors can use during roll-ups or coaching sessions. We recommend trying several sizes at the club before buying your own set.</p>
+                </div>
+              </details>
+
+              <details class="card mb-3 p-3 bg-light border-0 shadow-sm" style="border-left: 4px solid #1F2B5F !important;">
+                <summary class="font-weight-bold text-dark" style="cursor: pointer;">
+                  What shoes and dress code are required at {{ club_name }}?
+                </summary>
+                <div class="mt-2 text-secondary">
+                  <p>The most essential requirement is completely flat-soled shoes (trainers with smooth soles, or specialized bowls shoes) to avoid damaging the playing surface. For casual roll-ups, neat casual clothing is standard, while {% if is_oceania %}club matches and pennants require club apparel or whites.{% else %}club matches, county and national competitions require club apparel or whites.{% endif %}</p>
+                </div>
+              </details>
+            {% endif %}
+          </div>
+        </section>
+
+      </div>
+    </div>
+  </div>
+</main>

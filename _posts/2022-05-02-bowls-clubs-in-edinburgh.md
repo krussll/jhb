@@ -4,9 +4,10 @@ title:  "Lawn Bowls Clubs In Edinburgh, Scotland | A List Of The Best Clubs"
 seo_title: "Best Lawn Bowls Clubs in Edinburgh, Scotland"
 author: reece
 categories: [ bowls-clubs ]
+club_region: edinburgh
 featured: false
 description: ""
-last_modified_at: 2026-11-06 13:55:13 +0000
+last_modified_at: 2026-11-11 12:00:00 +0000
 date: 2022-05-02 13:00:00 -0400
 ---
     
@@ -16,6 +17,8 @@ date: 2022-05-02 13:00:00 -0400
 <figure class="wp-block-image size-full"><img src="{{ '/img/posts/bowls-clubs-Edinburgh.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Bowls clubs edinburgh - Lawn Bowls Clubs In Edinburgh, Scotland | A List Of The Best Clubs" class="wp-image-913"/></figure>
 
 <h2>Bowls Clubs In Edinburgh</h2>
+
+{% include club-directory-list.html region="edinburgh" %}
 
 <div class="wp-block-columns">
 <div class="wp-block-column">

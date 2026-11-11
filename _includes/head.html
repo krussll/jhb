@@ -43,7 +43,9 @@
   {% assign publisher_logo_url = '/img/jh_logo.svg' | absolute_url %}
   {% assign is_article = false %}
   {% if page.collection == 'posts' or page.layout == 'post' or article_published %}
+  {% unless page.collection == 'clubs' or page.layout == 'club' %}
   {% assign is_article = true %}
+  {% endunless %}
   {% endif %}
 
   {% assign og_image = page.background | default: page.image | default: page.header_image %}
@@ -190,7 +192,76 @@
     {% endif %}
 
     {% comment %} 2. BreadcrumbList Schema {% endcomment %}
-    {% if is_article and page_title %}
+    {% if page.collection == 'clubs' or page.layout == 'club' %}
+    {% assign club_city_name = page.city_name | default: page.city | capitalize %}
+    {% if page.city_breadcrumb %}
+      {% assign club_city_title = page.city_breadcrumb %}
+    {% else %}
+      {% assign club_city_title = 'Bowls Clubs in ' | append: club_city_name %}
+    {% endif %}
+    {% if page.city_url %}
+      {% assign club_city_url = page.city_url | absolute_url %}
+    {% else %}
+      {% assign fallback_city_path = '/bowls-clubs/bowls-clubs-in-' | append: page.city | append: '/' %}
+      {% assign club_city_url = fallback_city_path | absolute_url %}
+    {% endif %}
+    {% capture club_breadcrumbs_json_ld -%}
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {{ '/' | absolute_url | jsonify }}
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Club Directory",
+    "item": {{ '/bowls-clubs/club-directory/' | absolute_url | jsonify }}
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "name": {{ club_city_title | jsonify }},
+    "item": {{ club_city_url | jsonify }}
+    },
+    {
+    "@type": "ListItem",
+    "position": 4,
+    "name": {{ page.title | default: page.name | jsonify }},
+    "item": {{ canonical_url | jsonify }}
+    }
+    ]
+    }
+    {%- endcapture %}
+    <script type="application/ld+json">{{ club_breadcrumbs_json_ld | strip }}</script>
+    {% elsif is_article and page_title %}
+    {% if page.url contains '/bowls-clubs/club-directory' or page.slug == 'club-directory' %}
+    {% capture hub_breadcrumbs_json_ld -%}
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": {{ '/' | absolute_url | jsonify }}
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "name": {{ page_title | jsonify }},
+    "item": {{ canonical_url | jsonify }}
+    }
+    ]
+    }
+    {%- endcapture %}
+    <script type="application/ld+json">{{ hub_breadcrumbs_json_ld | strip }}</script>
+    {% else %}
     {% assign pathway_obj = nil %}
     {% if page.pathway %}
     {% for p in site.data.pathways %}
@@ -218,6 +289,9 @@
     {% elsif cat_slug == 'ai' %}
     {% assign cat_name = 'AI Coaching' %}
     {% assign cat_url = '/ai-coaching/' | absolute_url %}
+    {% elsif cat_slug == 'bowls-clubs' %}
+    {% assign cat_name = 'Club Directory' %}
+    {% assign cat_url = '/bowls-clubs/club-directory/' | absolute_url %}
     {% else %}
     {% assign cat_name = cat_slug | replace: '-', ' ' | capitalize | default: 'All Posts' %}
     {% assign cat_url = '/all-posts/' | absolute_url %}
@@ -250,6 +324,7 @@
     }
     {%- endcapture %}
     <script type="application/ld+json">{{ breadcrumbs_json_ld | strip }}</script>
+    {% endif %}
     {% elsif page.url != '/' and page.url != '/index.html' and page.title %}
     {% capture page_breadcrumbs_json_ld -%}
     {
@@ -457,6 +532,41 @@
     <script type="application/ld+json">{{ itemlist_json_ld | strip }}</script>
     {% endif %}
 
+    {% comment %} 5b. ItemList Schema for Regional Bowls Club Directory Pages {% endcomment %}
+    {% if page.club_region and site.data.clubs[page.club_region] %}
+    {% assign region_clubs = site.data.clubs[page.club_region] %}
+    {% capture directory_itemlist_json_ld -%}
+    {
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+    "@id": {{ canonical_url | append: '#clublist' | jsonify }},
+    "name": {{ page_title | jsonify }},
+    "description": {{ page_description | jsonify }},
+    "url": {{ canonical_url | jsonify }},
+    "numberOfItems": {{ region_clubs.size }},
+    "itemListElement": [
+    {% for club in region_clubs %}
+      {% if club.profile_page %}
+        {% assign club_item_url = '/bowls-clubs/' | append: club.city | append: '/' | append: club.slug | append: '/' | absolute_url %}
+      {% elsif club.website %}
+        {% assign club_item_url = club.website %}
+      {% else %}
+        {% assign club_item_url = canonical_url | append: '#' | append: club.slug %}
+      {% endif %}
+      {
+      "@type": "ListItem",
+      "position": {{ forloop.index }},
+      "name": {{ club.name | jsonify }},
+      "description": {{ club.summary | default: club.about | default: club.address | strip_html | normalize_whitespace | truncate: 200 | jsonify }},
+      "url": {{ club_item_url | jsonify }}
+      }{% unless forloop.last %},{% endunless %}
+    {% endfor %}
+    ]
+    }
+    {%- endcapture %}
+    <script type="application/ld+json">{{ directory_itemlist_json_ld | strip }}</script>
+    {% endif %}
+
     {% comment %} 6. Product Schema {% endcomment %}
     {% if page.product or page.layout == 'product' %}
     {% assign dp = site.data.drill_pack %}
@@ -531,6 +641,82 @@
     }
     {%- endcapture %}
     <script type="application/ld+json">{{ faq_json_ld | strip }}</script>
+    {% endif %}
+
+    {% comment %} 8. SportsActivityLocation Schema for Club Profile Pages {% endcomment %}
+    {% if page.collection == 'clubs' or page.layout == 'club' %}
+    {% assign club_canonical = canonical_url %}
+    {% assign club_name = page.name | default: page.title %}
+    {% assign club_desc = page.summary | default: page.description | default: page_description %}
+    {% capture sports_location_json_ld -%}
+    {
+    "@context": "https://schema.org",
+    "@type": "SportsActivityLocation",
+    "@id": {{ club_canonical | append: '#location' | jsonify }},
+    "name": {{ club_name | jsonify }},
+    "description": {{ club_desc | strip_html | normalize_whitespace | jsonify }},
+    "url": {{ club_canonical | jsonify }}{% if page.website %},
+    "sameAs": {{ page.website | jsonify }}{% endif %}{% if og_image_url %},
+    "image": {{ og_image_url | jsonify }}{% endif %},
+    "sport": "Lawn Bowls",
+    "address": {
+    "@type": "PostalAddress"{% if page.address %},
+    "streetAddress": {{ page.address | jsonify }}{% endif %}{% if page.city_name or page.city %},
+    "addressLocality": {{ page.city_name | default: page.city | jsonify }}{% endif %}{% if page.postcode %},
+    "postalCode": {{ page.postcode | jsonify }}{% endif %}{% if page.country or page.country_code %},
+    "addressCountry": {{ page.country_code | default: page.country | jsonify }}{% endif %}
+    }{% if page.telephone or page.phone %},
+    "telephone": {{ page.telephone | default: page.phone | jsonify }}{% endif %}{% if page.beginner_friendly != nil %},
+    "publicAccess": {{ page.beginner_friendly | jsonify }}{% endif %}
+    {% if page.surfaces or page.rinks_info or page.loan_bowls != nil or page.barefoot_social != nil %}
+    , "amenityFeature": [
+    {% if page.surfaces %}
+      {% for surf in page.surfaces %}
+      {
+        "@type": "LocationFeatureSpecification",
+        "name": {{ surf | append: ' Surface' | jsonify }},
+        "value": true
+      },
+      {% endfor %}
+    {% endif %}
+    {% if page.rinks_info %}
+      {
+        "@type": "LocationFeatureSpecification",
+        "name": "Rink Facilities",
+        "value": {{ page.rinks_info | jsonify }}
+      },
+    {% endif %}
+    {% if page.loan_bowls != nil %}
+      {
+        "@type": "LocationFeatureSpecification",
+        "name": "Loan Bowls Available",
+        "value": {{ page.loan_bowls | jsonify }}
+      },
+    {% endif %}
+    {% if page.barefoot_social != nil %}
+      {
+        "@type": "LocationFeatureSpecification",
+        "name": "Barefoot & Social Bowls",
+        "value": {{ page.barefoot_social | jsonify }}
+      },
+    {% endif %}
+    {% if page.bar_clubhouse != nil %}
+      {
+        "@type": "LocationFeatureSpecification",
+        "name": "Bar & Clubhouse Facilities",
+        "value": {{ page.bar_clubhouse | jsonify }}
+      },
+    {% endif %}
+      {
+        "@type": "LocationFeatureSpecification",
+        "name": "Sport Type",
+        "value": "Lawn Bowls"
+      }
+    ]
+    {% endif %}
+    }
+    {%- endcapture %}
+    <script type="application/ld+json">{{ sports_location_json_ld | strip }}</script>
     {% endif %}
 
 </head>
