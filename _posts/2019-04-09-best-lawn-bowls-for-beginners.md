@@ -9,14 +9,14 @@ skill_level: Beginner
 pathway: choose-your-bowls
 next_step: /guide/how-to-choose-a-set-of-lawn-bowls/
 date: 2019-04-09 13:00:00 -0400
-last_modified_at: 2026-11-06 13:55:13 +0000
+last_modified_at: 2026-11-12 08:26:00 +0000
 items:
   - name: "Taylor Ace"
     award: "Best All-Rounder & Club Standard"
     verdict: "The benchmark mid-bias bowl in the UK. Smooth, forgiving draw arc suitable for every green condition and rink position."
     url: "/review/bowls/taylor-ace-review/"
   - name: "Drakes Pride Professional"
-    award: "Best Outdoor Workhorse"
+    award: "Best Outdoor Value"
     verdict: "Legendary English club favourite. Predictable, gradual finish that forgives delivery inconsistencies on heavier outdoor greens."
     url: "/review/bowls/drakes-pride-professional-review/"
   - name: "Taylor Vector VS"
@@ -49,59 +49,7 @@ faqs:
 
 <h2>Top Recommended Bowls for Beginners Compared</h2>
 
-<div class="table-responsive my-3">
-  <table class="table table-bordered table-hover">
-    <thead class="thead-light">
-      <tr>
-        <th scope="col">Model</th>
-        <th scope="col">Best For</th>
-        <th scope="col">Bias Profile</th>
-        <th scope="col">Surface Suitability</th>
-        <th scope="col">Grip Options</th>
-        <th scope="col">Price Guide (New / Used)</th>
-        <th scope="col">Detailed Review</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><strong>Taylor Ace</strong></td>
-        <td><span class="badge badge-success">Best Overall</span></td>
-        <td>Mid Bias (5/10)</td>
-        <td>Outdoor Grass &amp; Indoors</td>
-        <td>Progrip, Plain</td>
-        <td>£395 / £110–£160</td>
-        <td><a href="{{ '/review/bowls/taylor-ace-review/' | relative_url }}">Read Review &rarr;</a></td>
-      </tr>
-      <tr>
-        <td><strong>Drakes Pride Professional</strong></td>
-        <td><span class="badge badge-primary">Best Value</span></td>
-        <td>Mid-Narrow (4.5/10)</td>
-        <td>All Outdoor Greens</td>
-        <td>Harlequin, 40/50</td>
-        <td>£365 / £70–£120</td>
-        <td><a href="{{ '/review/bowls/drakes-pride-professional-review/' | relative_url }}">Read Review &rarr;</a></td>
-      </tr>
-      <tr>
-        <td><strong>Taylor Vector VS</strong></td>
-        <td><span class="badge badge-info">Best for Leads</span></td>
-        <td>Narrow Bias (3/10)</td>
-        <td>Fast Grass &amp; Indoor Carpet</td>
-        <td>Progrip, Half-Pipe</td>
-        <td>£390 / £90–£140</td>
-        <td><a href="{{ '/review/bowls/taylor-vector-vs-review/' | relative_url }}">Read Review &rarr;</a></td>
-      </tr>
-      <tr>
-        <td><strong>Aero Quantum</strong></td>
-        <td><span class="badge badge-warning text-dark">Best Modern</span></td>
-        <td>Narrow-Mid (3.5/10)</td>
-        <td>Fast Turf &amp; Indoor Rinks</td>
-        <td>Z-Scoop, Dentic</td>
-        <td>£440 / £140–£200</td>
-        <td><a href="{{ '/review/bowls/aero-quantum-review/' | relative_url }}">Read Review &rarr;</a></td>
-      </tr>
-    </tbody>
-  </table>
-</div>
+{% include roundup-comparison-table.html %}
 
 <p>Once you've learnt the <a href="{{ '/help/lawn-bowls-rules' | relative_url }}">rules of lawn bowls</a>, and you've decided you want to take up the sport, you'll need to get your own set of bowls.</p>
 

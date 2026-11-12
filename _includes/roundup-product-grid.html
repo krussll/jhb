@@ -1,0 +1,84 @@
+{% comment %}
+==============================================================================
+Storefront "Top Picks at a Glance" Compact Strip (Option 2)
+Ultra-compact horizontal quick-pick showcase designed for above-the-fold scannability.
+Minimal vertical height prevents pushing written content down the page.
+Merges specs from _data/bowls_models.yml with front matter fallbacks.
+==============================================================================
+{% endcomment %}
+
+{% assign roundup_items = include.items | default: page.items | default: page.products %}
+
+{% if roundup_items and roundup_items.size > 0 %}
+<section class="roundup-glance-strip" aria-label="Top Recommended Bowls at a Glance">
+  <div class="glance-strip-header">
+    <span class="glance-strip-title">
+      <i class="fas fa-trophy mr-1" aria-hidden="true"></i> Top Picks at a Glance
+    </span>
+    <span class="glance-strip-note">
+      <i class="fas fa-arrows-alt-h mr-1" aria-hidden="true"></i> Scroll to view all &middot; Detailed comparison below
+    </span>
+  </div>
+
+  <div class="glance-grid">
+    {% for item in roundup_items %}
+      {% assign model = nil %}
+      {% if item.model_id %}
+        {% assign model = site.data.bowls_models[item.model_id] %}
+      {% endif %}
+      {% unless model %}
+        {% for entry in site.data.bowls_models %}
+          {% assign candidate = entry[1] %}
+          {% if candidate.name == item.name or candidate.id == item.name %}
+            {% assign model = candidate %}
+            {% break %}
+          {% endif %}
+        {% endfor %}
+      {% endunless %}
+
+      {% assign card_title = item.name | default: model.name %}
+      {% assign card_award = item.award %}
+      {% assign card_image = item.image | default: model.image %}
+      {% assign card_url = item.url | default: model.review_url %}
+      {% assign card_bias = item.bias_label | default: model.bias_label | default: item.bias %}
+      {% assign card_bias_clean = card_bias | split: '(' | first | strip %}
+      {% assign card_price_low = item.price_used_low | default: model.price_used_low_gbp %}
+      {% assign card_price_high = item.price_new | default: model.price_new_gbp %}
+
+      <a href="{{ card_url | relative_url }}" class="glance-item" title="Read review for {{ card_title | escape }}">
+        {% if card_award %}
+          <div class="glance-badge-wrap">
+            <span class="glance-badge">{{ card_award }}</span>
+          </div>
+        {% endif %}
+
+        <div class="glance-main">
+          {% if card_image %}
+            <div class="glance-thumb">
+              <img src="{{ card_image | relative_url }}" alt="{{ card_title | escape }}" loading="lazy">
+            </div>
+          {% endif %}
+          <div class="glance-details">
+            <h4 class="glance-name">{{ card_title }}</h4>
+            <div class="glance-meta">
+              {% if card_bias_clean %}<span>{{ card_bias_clean }}</span>{% endif %}
+              {% if card_price_low and card_price_high %}
+                · <span class="glance-price">£{{ card_price_low }}–£{{ card_price_high }}</span>
+              {% elsif card_price_low %}
+                · <span class="glance-price">From £{{ card_price_low }}</span>
+              {% elsif card_price_high %}
+                · <span class="glance-price">~£{{ card_price_high }}</span>
+              {% endif %}
+            </div>
+          </div>
+        </div>
+
+        <div class="glance-footer">
+          <span>Read Review</span>
+          <i class="fas fa-chevron-right" aria-hidden="true"></i>
+        </div>
+      </a>
+    {% endfor %}
+  </div>
+</section>
+{% endif %}

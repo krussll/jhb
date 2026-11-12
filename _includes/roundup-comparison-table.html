@@ -1,0 +1,174 @@
+{% comment %}
+==============================================================================
+Storefront Roundup Comparison Table Component (Option 1)
+Data-driven responsive comparison table pulling live specs & 2026 pricing
+from _data/bowls_models.yml with front matter fallbacks.
+Replaces static comparison tables with zero content duplication.
+==============================================================================
+{% endcomment %}
+
+{% assign roundup_items = include.items | default: page.items | default: page.products %}
+
+{% if roundup_items and roundup_items.size > 0 %}
+<div class="table-responsive roundup-table-wrapper my-4">
+  <table class="table table-hover roundup-table" aria-label="Lawn Bowls Specifications Comparison Table">
+    <thead>
+      <tr>
+        <th scope="col">Model</th>
+        <th scope="col">Best For</th>
+        <th scope="col">Bias Profile</th>
+        <th scope="col">Surfaces</th>
+        <th scope="col">Grips</th>
+        <th scope="col">Price (New / Used)</th>
+        <th scope="col">Review</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for item in roundup_items %}
+        {% assign model = nil %}
+        {% if item.model_id %}
+          {% assign model = site.data.bowls_models[item.model_id] %}
+        {% endif %}
+        {% unless model %}
+          {% for entry in site.data.bowls_models %}
+            {% assign candidate = entry[1] %}
+            {% if candidate.name == item.name or candidate.id == item.name %}
+              {% assign model = candidate %}
+              {% break %}
+            {% endif %}
+          {% endfor %}
+        {% endunless %}
+
+        {% assign card_title = item.name | default: model.name %}
+        {% assign card_brand = item.brand | default: model.brand %}
+        {% assign card_award = item.award %}
+        {% assign card_image = item.image | default: model.image %}
+        {% assign card_url = item.url | default: model.review_url %}
+        {% assign card_bias_label = item.bias_label | default: model.bias_label %}
+        {% assign card_bias_clean = card_bias_label | split: '(' | first | strip %}
+        {% assign card_bias_score = item.bias_score | default: item.bias | default: model.bias_score %}
+        {% assign card_surfaces = item.surfaces | default: model.surfaces %}
+        {% assign card_grips = item.grips | default: model.grips %}
+        {% assign card_price_new = item.price_new | default: model.price_new_gbp %}
+        {% assign card_price_used_low = item.price_used_low | default: model.price_used_low_gbp %}
+        {% assign card_price_used_high = item.price_used_high | default: model.price_used_high_gbp %}
+        {% assign card_price_used_text = item.price_used %}
+        {% assign card_ebay_query = item.ebay_search_query | default: model.ebay_search_query | default: card_title %}
+
+        <tr>
+          {% comment %} Model Column {% endcomment %}
+          <td>
+            <div class="table-model-cell">
+              {% if card_image %}
+                <div class="table-model-thumb">
+                  <img src="{{ card_image | relative_url }}" alt="{{ card_title | escape }}" loading="lazy">
+                </div>
+              {% endif %}
+              <div class="table-model-info">
+                {% if card_url %}
+                  <a href="{{ card_url | relative_url }}" class="table-model-name">{{ card_title }}</a>
+                {% else %}
+                  <strong class="table-model-name">{{ card_title }}</strong>
+                {% endif %}
+                {% if card_brand %}
+                  <div class="table-model-brand">{{ card_brand }}</div>
+                {% endif %}
+              </div>
+            </div>
+          </td>
+
+          {% comment %} Award / Best For Column {% endcomment %}
+          <td>
+            {% if card_award %}
+              <span class="table-award-badge">{{ card_award }}</span>
+            {% else %}
+              <span class="table-award-badge">Recommended</span>
+            {% endif %}
+          </td>
+
+          {% comment %} Bias Profile Column {% endcomment %}
+          <td>
+            <div class="table-bias-cell">
+              <span class="table-bias-label">
+                {% if card_bias_clean %}
+                  {{ card_bias_clean }}
+                {% elsif card_bias_score %}
+                  {{ card_bias_score }}/10
+                {% else %}
+                  Mid Bias
+                {% endif %}
+              </span>
+              {% if card_bias_score %}
+                {% assign bias_float = card_bias_score | times: 1.0 %}
+                {% assign bias_pct = bias_float | times: 10.0 %}
+                {% if bias_pct > 95 %}{% assign bias_pct = 95 %}{% elsif bias_pct < 5 %}{% assign bias_pct = 5 %}{% endif %}
+                <div class="table-mini-bias-track" title="Bias rating: {{ card_bias_score }}/10">
+                  <div class="table-mini-bias-fill" style="width: {{ bias_pct }}%;">
+                    <span class="table-mini-bias-pin" style="left: 100%;"></span>
+                  </div>
+                </div>
+              {% endif %}
+            </div>
+          </td>
+
+          {% comment %} Surfaces Column {% endcomment %}
+          <td>
+            {% if card_surfaces %}
+              {{ card_surfaces | join: ", " }}
+            {% else %}
+              All Surfaces
+            {% endif %}
+          </td>
+
+          {% comment %} Grips Column {% endcomment %}
+          <td>
+            {% if card_grips %}
+              {{ card_grips | join: ", " }}
+            {% else %}
+              Standard
+            {% endif %}
+          </td>
+
+          {% comment %} Price Guide Column {% endcomment %}
+          <td>
+            <div class="table-price-cell">
+              {% if card_price_new %}
+                <div class="table-price-new">New: ~£{{ card_price_new }}</div>
+              {% endif %}
+              <div class="table-price-used">
+                Used: 
+                {% if card_price_used_text %}
+                  {{ card_price_used_text }}
+                {% elsif card_price_used_low and card_price_used_high %}
+                  £{{ card_price_used_low }}–£{{ card_price_used_high }}
+                {% elsif card_price_used_low %}
+                  From £{{ card_price_used_low }}
+                {% else %}
+                  Check eBay
+                {% endif %}
+              </div>
+              <a href="https://www.ebay.co.uk/sch/i.html?_nkw={{ card_ebay_query | url_encode }}&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;siteid=3" 
+                 target="_blank" 
+                 rel="noopener noreferrer sponsored" 
+                 class="table-ebay-link" 
+                 title="Check second-hand {{ card_title | escape }} on eBay">
+                Check eBay <i class="fas fa-external-link-alt" aria-hidden="true"></i>
+              </a>
+            </div>
+          </td>
+
+          {% comment %} Review Link Column {% endcomment %}
+          <td>
+            {% if card_url %}
+              <a href="{{ card_url | relative_url }}" class="btn-table-review" title="Read in-depth review for {{ card_title | escape }}">
+                Review &rarr;
+              </a>
+            {% endif %}
+          </td>
+        </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+</div>
+{% endif %}
+

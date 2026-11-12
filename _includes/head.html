@@ -517,13 +517,48 @@
     "numberOfItems": {{ roundup_items.size }},
     "itemListElement": [
     {% for item in roundup_items %}
+      {% assign model = nil %}
+      {% if item.model_id %}
+        {% assign model = site.data.bowls_models[item.model_id] %}
+      {% endif %}
+      {% unless model %}
+        {% for entry in site.data.bowls_models %}
+          {% assign candidate = entry[1] %}
+          {% if candidate.name == item.name or candidate.id == item.name %}
+            {% assign model = candidate %}
+            {% break %}
+          {% endif %}
+        {% endfor %}
+      {% endunless %}
+      {% assign item_name = item.name | default: model.name %}
+      {% assign item_brand = item.brand | default: model.brand %}
+      {% assign item_description = item.verdict | default: item.description | default: model.finish_profile | default: item.award %}
+      {% assign item_url = item.url | default: model.review_url %}
+      {% assign item_image = item.image | default: model.image %}
+      {% assign item_price_low = item.price_low | default: item.price_used_low | default: model.price_used_low_gbp %}
+      {% assign item_price_high = item.price_high | default: item.price_new | default: model.price_new_gbp %}
     {
-    "@type": "ListItem",
-    "position": {{ forloop.index }},
-    "name": {{ item.name | jsonify }},
-    "description": {{ item.verdict | default: item.description | default: item.award | jsonify }}{% if item.url %},
-    "url": {{ item.url | absolute_url | jsonify }}{% endif %}{% if item.image %},
-    "image": {{ item.image | absolute_url | jsonify }}{% endif %}
+      "@type": "ListItem",
+      "position": {{ forloop.index }},
+      "name": {{ item_name | jsonify }},
+      "item": {
+        "@type": "Product",
+        "name": {{ item_name | jsonify }}{% if item_description %},
+        "description": {{ item_description | jsonify }}{% endif %}{% if item_url %},
+        "url": {{ item_url | absolute_url | jsonify }}{% endif %}{% if item_image %},
+        "image": {{ item_image | absolute_url | jsonify }}{% endif %}{% if item_brand %},
+        "brand": {
+          "@type": "Brand",
+          "name": {{ item_brand | jsonify }}
+        }{% endif %}{% if item_price_low or item_price_high %},
+        "offers": {
+          "@type": "AggregateOffer",
+          "priceCurrency": "GBP",
+          "lowPrice": {{ item_price_low | default: item_price_high | append: '.00' | jsonify }},
+          "highPrice": {{ item_price_high | default: item_price_low | append: '.00' | jsonify }},
+          "offerCount": "2"
+        }{% endif %}
+      }
     }{% unless forloop.last %},{% endunless %}
     {% endfor %}
     ]

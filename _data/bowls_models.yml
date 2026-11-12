@@ -1,0 +1,773 @@
+# ==============================================================================
+# Central Bowls Models Specifications Dataset
+# Single Source of Truth for Models, Biases, Grip Options,
+# 2026 New RRP & Second-Hand (eBay) GBP Prices, and Review URLs.
+# ==============================================================================
+
+taylor-ace:
+  id: "taylor-ace"
+  brand: "Taylor Bowls"
+  name: "Taylor Ace"
+  slug: "taylor-ace"
+  review_url: "/review/bowls/taylor-ace-review/"
+  image: "/img/posts/taylor-ace.webp"
+  bias_score: 5.0
+  bias_label: "Mid Bias"
+  finish_profile: "Smooth, forgiving draw arc with a clean, hook-free finish"
+  surfaces:
+    - "Outdoor Grass"
+    - "Indoor Carpet"
+  ideal_positions:
+    - "All Positions"
+    - "Skip"
+    - "Second"
+  grips:
+    - "Progrip"
+    - "Half Pipe"
+    - "Plain"
+  small_hands_friendly: true
+  sizes: "00 to 5 (Heavy/Medium)"
+  price_new_gbp: 395
+  price_used_low_gbp: 120
+  price_used_high_gbp: 190
+  ebay_search_query: "Taylor Ace lawn bowls"
+  rating: 9.4
+
+taylor-vector-vs:
+  id: "taylor-vector-vs"
+  brand: "Taylor Bowls"
+  name: "Taylor Vector VS"
+  slug: "taylor-vector-vs"
+  review_url: "/review/bowls/taylor-vector-vs-review/"
+  image: "/img/posts/taylor-vector-vs.webp"
+  bias_score: 3.2
+  bias_label: "Narrow Bias"
+  finish_profile: "Flat, direct trajectory with a gentle, predictable finish"
+  surfaces:
+    - "Indoor Carpet"
+    - "Fast Outdoor"
+  ideal_positions:
+    - "Lead"
+    - "Second"
+    - "Singles"
+  grips:
+    - "Progrip"
+    - "Half Pipe"
+    - "Plain"
+  small_hands_friendly: true
+  sizes: "00 to 5 (Heavy/Medium)"
+  price_new_gbp: 385
+  price_used_low_gbp: 110
+  price_used_high_gbp: 175
+  ebay_search_query: "Taylor Vector VS lawn bowls"
+  rating: 9.1
+
+taylor-lazer:
+  id: "taylor-lazer"
+  brand: "Taylor Bowls"
+  name: "Taylor Lazer"
+  slug: "taylor-lazer"
+  review_url: "/review/bowls/taylor-lazer-review/"
+  image: "/img/posts/taylor-lazer.webp"
+  bias_score: 2.5
+  bias_label: "Narrow Bias"
+  finish_profile: "Ultra-lean running line holding narrow corridor with minimum turn"
+  surfaces:
+    - "Indoor Carpet"
+    - "Fast Outdoor"
+  ideal_positions:
+    - "Lead"
+    - "Singles"
+  grips:
+    - "Progrip"
+    - "Plain"
+  small_hands_friendly: true
+  sizes: "00 to 5 (Heavy)"
+  price_new_gbp: 385
+  price_used_low_gbp: 120
+  price_used_high_gbp: 180
+  ebay_search_query: "Taylor Lazer lawn bowls"
+  rating: 8.8
+
+taylor-international:
+  id: "taylor-international"
+  brand: "Taylor Bowls"
+  name: "Taylor International"
+  slug: "taylor-international"
+  review_url: "/review/bowls/taylor-international-lawn-bowls-review/"
+  image: "/img/posts/taylor-international.webp"
+  bias_score: 7.2
+  bias_label: "Wide Bias"
+  finish_profile: "Generous swinging arc designed to circumvent front obstacles"
+  surfaces:
+    - "Slow Outdoor"
+    - "Medium Grass"
+    - "Heavy Outdoor"
+  ideal_positions:
+    - "Skip"
+    - "Third"
+  grips:
+    - "Progrip"
+    - "Plain"
+  small_hands_friendly: false
+  sizes: "00 to 5 (Heavy/Medium)"
+  price_new_gbp: 375
+  price_used_low_gbp: 95
+  price_used_high_gbp: 155
+  ebay_search_query: "Taylor International lawn bowls"
+  rating: 8.7
+
+taylor-blaze:
+  id: "taylor-blaze"
+  brand: "Taylor Bowls"
+  name: "Taylor Blaze"
+  slug: "taylor-blaze"
+  review_url: "/review/bowls/taylor-blaze-lawn-bowls-review/"
+  image: "/img/posts/taylor-blaze-1.webp"
+  bias_score: 5.8
+  bias_label: "Mid Bias"
+  finish_profile: "Consistent arc between Ace and International with controlled holding draw"
+  surfaces:
+    - "Outdoor Grass"
+    - "All-Weather"
+  ideal_positions:
+    - "Second"
+    - "Third"
+    - "Skip"
+  grips:
+    - "Progrip"
+    - "Premier Grip"
+  small_hands_friendly: false
+  sizes: "00 to 5 (Heavy)"
+  price_new_gbp: 395
+  price_used_low_gbp: 130
+  price_used_high_gbp: 195
+  ebay_search_query: "Taylor Blaze lawn bowls"
+  rating: 9.0
+
+taylor-lignoid:
+  id: "taylor-lignoid"
+  brand: "Taylor Bowls"
+  name: "Taylor Lignoid"
+  slug: "taylor-lignoid"
+  review_url: "/review/bowls/taylor-lignoid-lawn-bowls-review/"
+  image: "/img/posts/taylor-lignoid-1.webp"
+  bias_score: 8.5
+  bias_label: "Wide Bias"
+  finish_profile: "Deep round sweeping arc requiring wide grass rink allowance"
+  surfaces:
+    - "Heavy Outdoor Grass"
+    - "Holding Greens"
+  ideal_positions:
+    - "Skip"
+    - "Back-End"
+  grips:
+    - "Progrip"
+    - "Plain"
+  small_hands_friendly: false
+  sizes: "00 to 5 (Heavy/Medium)"
+  price_new_gbp: 365
+  price_used_low_gbp: 80
+  price_used_high_gbp: 140
+  ebay_search_query: "Taylor Lignoid lawn bowls"
+  rating: 8.6
+
+taylor-legacy-sl:
+  id: "taylor-legacy-sl"
+  brand: "Taylor Bowls"
+  name: "Taylor Legacy SL"
+  slug: "taylor-legacy-sl"
+  review_url: "/review/bowls/taylor-legacy-sl-review/"
+  image: "/img/posts/taylor-legacy-sl.webp"
+  bias_score: 8.0
+  bias_label: "Wide Bias"
+  finish_profile: "Traditional wider bias for outdoor grass with steady late draw"
+  surfaces:
+    - "Outdoor Grass"
+    - "Heavy Greens"
+  ideal_positions:
+    - "Skip"
+    - "Third"
+  grips:
+    - "Progrip"
+    - "Plain"
+  small_hands_friendly: false
+  sizes: "00 to 5 (Heavy/Medium)"
+  price_new_gbp: 365
+  price_used_low_gbp: 85
+  price_used_high_gbp: 145
+  ebay_search_query: "Taylor Legacy SL lawn bowls"
+  rating: 8.5
+
+taylor-gtr:
+  id: "taylor-gtr"
+  brand: "Taylor Bowls"
+  name: "Taylor GTR"
+  slug: "taylor-gtr"
+  review_url: "/review/bowls/taylor-gtr-lawn-bowl-review/"
+  image: "/img/posts/taylor-gtr-lawn-bowls-review.jpg"
+  bias_score: 4.2
+  bias_label: "Mid-Narrow Bias"
+  finish_profile: "Narrower contemporary line designed for modern competitive speeds"
+  surfaces:
+    - "Indoor Carpet"
+    - "Fast Outdoor"
+  ideal_positions:
+    - "Lead"
+    - "Second"
+  grips:
+    - "Half Pipe"
+    - "Progrip"
+  small_hands_friendly: true
+  sizes: "00 to 5 (Heavy)"
+  price_new_gbp: 405
+  price_used_low_gbp: 150
+  price_used_high_gbp: 220
+  ebay_search_query: "Taylor GTR lawn bowls"
+  rating: 9.0
+
+drakes-pride-professional:
+  id: "drakes-pride-professional"
+  brand: "Drakes Pride"
+  name: "Drakes Pride Professional"
+  slug: "drakes-pride-professional"
+  review_url: "/review/bowls/drakes-pride-professional-review/"
+  image: "/img/posts/drakes-pride-professional.webp"
+  bias_score: 5.2
+  bias_label: "Mid Bias"
+  finish_profile: "Smooth, gradual draw with gentle predictable holding finish"
+  surfaces:
+    - "Outdoor Grass"
+    - "Indoor Carpet"
+  ideal_positions:
+    - "All Positions"
+    - "Lead"
+    - "Second"
+    - "Skip"
+  grips:
+    - "Classic Dimple"
+    - "Plain"
+  small_hands_friendly: false
+  sizes: "0000 to 5 (Heavy/Medium)"
+  price_new_gbp: 375
+  price_used_low_gbp: 100
+  price_used_high_gbp: 165
+  ebay_search_query: "Drakes Pride Professional lawn bowls"
+  rating: 9.3
+
+drakes-pride-pro-50:
+  id: "drakes-pride-pro-50"
+  brand: "Drakes Pride"
+  name: "Drakes Pride PRO-50"
+  slug: "drakes-pride-pro-50"
+  review_url: "/review/bowls/drakes-pride-pro-50-review/"
+  image: "/img/posts/drakes-pride-pro-50-1.webp"
+  bias_score: 5.2
+  bias_label: "Mid Bias"
+  finish_profile: "Identical profile to Professional with deep ergonomic channel grip"
+  surfaces:
+    - "Outdoor Grass"
+    - "Indoor Carpet"
+  ideal_positions:
+    - "All Positions"
+    - "Second"
+    - "Third"
+    - "Skip"
+  grips:
+    - "Deep Channel Grip"
+  small_hands_friendly: true
+  sizes: "0000 to 5 (Heavy/Medium)"
+  price_new_gbp: 395
+  price_used_low_gbp: 140
+  price_used_high_gbp: 210
+  ebay_search_query: "Drakes Pride PRO-50 lawn bowls"
+  rating: 9.4
+
+drakes-pride-xp:
+  id: "drakes-pride-xp"
+  brand: "Drakes Pride"
+  name: "Drakes Pride XP"
+  slug: "drakes-pride-xp"
+  review_url: "/review/bowls/drakes-pride-xp-lawn-bowls-review/"
+  image: "/img/posts/drakes-pride-xp.webp"
+  bias_score: 7.5
+  bias_label: "Wide Bias"
+  finish_profile: "Pronounced late hook engineered to bend around front timber"
+  surfaces:
+    - "Slow/Heavy Outdoor Grass"
+    - "Holding Greens"
+  ideal_positions:
+    - "Skip"
+    - "Third"
+  grips:
+    - "Classic Dimple"
+    - "Channel Grip"
+  small_hands_friendly: false
+  sizes: "00 to 5 (Heavy/Medium)"
+  price_new_gbp: 380
+  price_used_low_gbp: 110
+  price_used_high_gbp: 170
+  ebay_search_query: "Drakes Pride XP lawn bowls"
+  rating: 8.9
+
+drakes-pride-d-tec:
+  id: "drakes-pride-d-tec"
+  brand: "Drakes Pride"
+  name: "Drakes Pride d-tec"
+  slug: "drakes-pride-d-tec"
+  review_url: "/review/bowls/drakes-pride-d-tec-review/"
+  image: "/img/posts/drakes-pride-d-tec-1.webp"
+  bias_score: 2.0
+  bias_label: "Narrow Bias"
+  finish_profile: "Precision flat line holding tight corridors on fast running surfaces"
+  surfaces:
+    - "Indoor Carpet"
+    - "Fast Synthetic"
+    - "Fast Grass"
+  ideal_positions:
+    - "Lead"
+    - "Singles"
+  grips:
+    - "Classic Dimple"
+    - "Plain"
+  small_hands_friendly: true
+  sizes: "0000 to 5 (Heavy/Medium)"
+  price_new_gbp: 375
+  price_used_low_gbp: 115
+  price_used_high_gbp: 175
+  ebay_search_query: "Drakes Pride d-tec lawn bowls"
+  rating: 8.9
+
+drakes-pride-fineline:
+  id: "drakes-pride-fineline"
+  brand: "Drakes Pride"
+  name: "Drakes Pride Fineline"
+  slug: "drakes-pride-fineline"
+  review_url: "/guide/best-lawn-bowls-for-fast-greens/"
+  image: "/img/posts/drakes-pride-bowls-trajectory-guide.webp"
+  bias_score: 4.5
+  bias_label: "Mid-Narrow Bias"
+  finish_profile: "Balanced mid-to-narrow line for modern running greens"
+  surfaces:
+    - "Fast Outdoor"
+    - "Indoor Carpet"
+  ideal_positions:
+    - "Lead"
+    - "Second"
+    - "Pairs"
+  grips:
+    - "Classic Dimple"
+  small_hands_friendly: true
+  sizes: "00 to 5 (Heavy)"
+  price_new_gbp: 385
+  price_used_low_gbp: 130
+  price_used_high_gbp: 195
+  ebay_search_query: "Drakes Pride Fineline lawn bowls"
+  rating: 8.8
+
+drakes-pride-advantage:
+  id: "drakes-pride-advantage"
+  brand: "Drakes Pride"
+  name: "Drakes Pride Advantage"
+  slug: "drakes-pride-advantage"
+  review_url: "/guide/best-lawn-bowls-for-skips/"
+  image: "/img/posts/drakes-pride-bowls-trajectory-guide.webp"
+  bias_score: 5.8
+  bias_label: "Mid Bias"
+  finish_profile: "Steadier middle line with dependable outdoor hold"
+  surfaces:
+    - "Outdoor Grass"
+  ideal_positions:
+    - "Second"
+    - "Third"
+    - "Skip"
+  grips:
+    - "Classic Dimple"
+  small_hands_friendly: false
+  sizes: "00 to 5 (Heavy/Medium)"
+  price_new_gbp: 375
+  price_used_low_gbp: 105
+  price_used_high_gbp: 165
+  ebay_search_query: "Drakes Pride Advantage lawn bowls"
+  rating: 8.7
+
+drakes-pride-crown-green:
+  id: "drakes-pride-crown-green"
+  brand: "Drakes Pride"
+  name: "Drakes Pride Standard Deluxe Crown Green"
+  slug: "drakes-pride-crown-green"
+  review_url: "/guide/best-crown-green-bowls-for-beginners-a-complete-buyers-guide/"
+  image: "/img/posts/Best-Make-Of-Crown-Green-Bowls.jpg"
+  bias_score: 5.0
+  bias_label: "Crown Green Bias"
+  finish_profile: "Standard 2-bias crown green curve navigating undulations and crowns"
+  surfaces:
+    - "Crown Green"
+  ideal_positions:
+    - "Singles"
+    - "Pairs"
+  grips:
+    - "Harlequin"
+    - "Polished"
+    - "Deluxe"
+  small_hands_friendly: true
+  sizes: "2lb 0oz to 2lb 14oz (Low/Standard/High Density)"
+  price_new_gbp: 215
+  price_used_low_gbp: 70
+  price_used_high_gbp: 130
+  ebay_search_query: "Drakes Pride crown green bowls"
+  rating: 9.2
+
+henselite-tiger:
+  id: "henselite-tiger"
+  brand: "Henselite"
+  name: "Henselite Tiger"
+  slug: "henselite-tiger"
+  review_url: "/review/bowls/henselite-tiger-lawn-bowls-review/"
+  image: "/img/posts/henselite-tiger.jpg"
+  bias_score: 6.2
+  bias_label: "Mid-Wide Bias"
+  finish_profile: "Smooth sweeping arc designed for outdoor grass and back-end skips"
+  surfaces:
+    - "Outdoor Grass"
+    - "Medium/Slow Turf"
+  ideal_positions:
+    - "Skip"
+    - "Third"
+  grips:
+    - "Mega Grip"
+    - "Plain"
+  small_hands_friendly: false
+  sizes: "00 to 5 (Heavy)"
+  price_new_gbp: 425
+  price_used_low_gbp: 130
+  price_used_high_gbp: 200
+  ebay_search_query: "Henselite Tiger lawn bowls"
+  rating: 9.1
+
+henselite-tiger-ii:
+  id: "henselite-tiger-ii"
+  brand: "Henselite"
+  name: "Henselite Tiger II"
+  slug: "henselite-tiger-ii"
+  review_url: "/review/bowls/henselite-tiger-ii-lawn-bowls-review/"
+  image: "/img/posts/henselite-tiger-ii-1.webp"
+  bias_score: 4.8
+  bias_label: "Mid Bias"
+  finish_profile: "Slimmer profile with flatter finish suited to both UK greens and carpets"
+  surfaces:
+    - "Outdoor Grass"
+    - "Indoor Carpet"
+  ideal_positions:
+    - "All Positions"
+    - "Second"
+    - "Lead"
+  grips:
+    - "Mega Grip"
+  small_hands_friendly: true
+  sizes: "00 to 5 (Heavy)"
+  price_new_gbp: 435
+  price_used_low_gbp: 150
+  price_used_high_gbp: 220
+  ebay_search_query: "Henselite Tiger II lawn bowls"
+  rating: 9.3
+
+henselite-tiger-pro:
+  id: "henselite-tiger-pro"
+  brand: "Henselite"
+  name: "Henselite Tiger Pro"
+  slug: "henselite-tiger-pro"
+  review_url: "/review/bowls/taylor-ace-vs-henselite-tiger-pro-which-is-best/"
+  image: "/img/posts/henselite-tiger-pro-1.webp"
+  bias_score: 5.4
+  bias_label: "Mid Bias"
+  finish_profile: "Consistent line between Tiger and Tiger II with smooth draw finish"
+  surfaces:
+    - "Outdoor Grass"
+    - "Indoor Carpet"
+  ideal_positions:
+    - "All Positions"
+    - "Skip"
+    - "Second"
+  grips:
+    - "Mega Grip"
+  small_hands_friendly: false
+  sizes: "00 to 5 (Heavy)"
+  price_new_gbp: 435
+  price_used_low_gbp: 160
+  price_used_high_gbp: 230
+  ebay_search_query: "Henselite Tiger Pro lawn bowls"
+  rating: 9.2
+
+henselite-tiger-evo:
+  id: "henselite-tiger-evo"
+  brand: "Henselite"
+  name: "Henselite Tiger EVO"
+  slug: "henselite-tiger-evo"
+  review_url: "/review/bowls/henselite-tiger-evo-vs-aero-groove-which-is-best/"
+  image: "/img/posts/henselite-tiger-evo.webp"
+  bias_score: 6.5
+  bias_label: "Mid-Wide Bias"
+  finish_profile: "Stronger bending finish to tackle wind and navigate heavy heads"
+  surfaces:
+    - "Outdoor Grass"
+    - "Slow Greens"
+  ideal_positions:
+    - "Skip"
+    - "Third"
+  grips:
+    - "Mega Grip"
+  small_hands_friendly: false
+  sizes: "00 to 5 (Heavy)"
+  price_new_gbp: 445
+  price_used_low_gbp: 180
+  price_used_high_gbp: 250
+  ebay_search_query: "Henselite Tiger EVO lawn bowls"
+  rating: 9.2
+
+henselite-tiger-tx:
+  id: "henselite-tiger-tx"
+  brand: "Henselite"
+  name: "Henselite Tiger TX"
+  slug: "henselite-tiger-tx"
+  review_url: "/review/bowls/henselite-tiger-tx-lawn-bowls-review/"
+  image: "/img/posts/henselite-tiger-tx.webp"
+  bias_score: 3.5
+  bias_label: "Narrow Bias"
+  finish_profile: "Narrowest in Henselite UK range, flat finish on quick rinks"
+  surfaces:
+    - "Indoor Carpet"
+    - "Fast Outdoor"
+  ideal_positions:
+    - "Lead"
+    - "Singles"
+  grips:
+    - "Mega Grip"
+  small_hands_friendly: true
+  sizes: "00 to 5 (Heavy)"
+  price_new_gbp: 435
+  price_used_low_gbp: 165
+  price_used_high_gbp: 235
+  ebay_search_query: "Henselite Tiger TX lawn bowls"
+  rating: 9.0
+
+henselite-classic-ii:
+  id: "henselite-classic-ii"
+  brand: "Henselite"
+  name: "Henselite Classic II"
+  slug: "henselite-classic-ii"
+  review_url: "/guide/best-straight-lawn-bowls/"
+  image: "/img/posts/henselite-bowls-trajectory-guide.webp"
+  bias_score: 3.5
+  bias_label: "Narrow Bias"
+  finish_profile: "Straighter evolution of the classic profile without late dump"
+  surfaces:
+    - "Indoor Carpet"
+    - "Fast Grass"
+  ideal_positions:
+    - "Lead"
+    - "Second"
+  grips:
+    - "Classic Dimple"
+  small_hands_friendly: false
+  sizes: "00 to 5 (Heavy/Medium)"
+  price_new_gbp: 415
+  price_used_low_gbp: 110
+  price_used_high_gbp: 175
+  ebay_search_query: "Henselite Classic II lawn bowls"
+  rating: 8.7
+
+henselite-dreamline-xg:
+  id: "henselite-dreamline-xg"
+  brand: "Henselite"
+  name: "Henselite Dreamline XG"
+  slug: "henselite-dreamline-xg"
+  review_url: "/guide/best-mid-bias-lawn-bowls/"
+  image: "/img/posts/henselite-bowls-trajectory-guide.webp"
+  bias_score: 5.5
+  bias_label: "Mid Bias"
+  finish_profile: "Remarkably consistent arc on both hands across diverse speeds"
+  surfaces:
+    - "Outdoor Grass"
+    - "Synthetic Turf"
+    - "Indoor"
+  ideal_positions:
+    - "All Positions"
+    - "Skip"
+    - "Second"
+  grips:
+    - "Mega Grip"
+  small_hands_friendly: true
+  sizes: "00 to 5 (Heavy)"
+  price_new_gbp: 445
+  price_used_low_gbp: 175
+  price_used_high_gbp: 245
+  ebay_search_query: "Henselite Dreamline XG lawn bowls"
+  rating: 9.3
+
+aero-quantum:
+  id: "aero-quantum"
+  brand: "Aero Bowls"
+  name: "Aero Quantum"
+  slug: "aero-quantum"
+  review_url: "/review/bowls/aero-quantum-review/"
+  image: "/img/posts/aero-quantum.webp"
+  bias_score: 4.2
+  bias_label: "Mid-Narrow Bias"
+  finish_profile: "Precision trajectory holding tight line with clean, even shoulder"
+  surfaces:
+    - "Outdoor Grass"
+    - "Fast Greens"
+    - "Indoor Carpet"
+  ideal_positions:
+    - "Lead"
+    - "Second"
+    - "Pairs"
+  grips:
+    - "Z-Scoop"
+    - "Dentated"
+    - "Plain"
+  small_hands_friendly: true
+  sizes: "00 to 5.5 (Heavy)"
+  price_new_gbp: 425
+  price_used_low_gbp: 160
+  price_used_high_gbp: 240
+  ebay_search_query: "Aero Quantum lawn bowls"
+  rating: 9.3
+
+aero-groove:
+  id: "aero-groove"
+  brand: "Aero Bowls"
+  name: "Aero GrooVe"
+  slug: "aero-groove"
+  review_url: "/review/bowls/aero-groove-lawn-bowls-review/"
+  image: "/img/posts/aero-groove.webp"
+  bias_score: 5.5
+  bias_label: "Mid Bias"
+  finish_profile: "Benchmark all-round trajectory with smooth predictable arc into head"
+  surfaces:
+    - "Outdoor Grass"
+    - "Indoor Carpet"
+  ideal_positions:
+    - "All Positions"
+    - "Skip"
+    - "Third"
+  grips:
+    - "Z-Scoop"
+    - "Dentated"
+    - "Plain"
+  small_hands_friendly: true
+  sizes: "00 to 5.5 (Heavy)"
+  price_new_gbp: 430
+  price_used_low_gbp: 160
+  price_used_high_gbp: 240
+  ebay_search_query: "Aero GrooVe lawn bowls"
+  rating: 9.4
+
+aero-sonic:
+  id: "aero-sonic"
+  brand: "Aero Bowls"
+  name: "Aero Sonic"
+  slug: "aero-sonic"
+  review_url: "/review/bowls/aero-sonic-lawn-bowl-review/"
+  image: "/img/posts/aero-sonic.webp"
+  bias_score: 6.8
+  bias_label: "Mid-Wide Bias"
+  finish_profile: "Wider sweeping trajectory designed for holding grass greens and skips"
+  surfaces:
+    - "Outdoor Grass"
+    - "Slow Greens"
+  ideal_positions:
+    - "Skip"
+    - "Third"
+  grips:
+    - "Z-Scoop"
+    - "Dentated"
+  small_hands_friendly: true
+  sizes: "00 to 5.5 (Heavy)"
+  price_new_gbp: 435
+  price_used_low_gbp: 160
+  price_used_high_gbp: 240
+  ebay_search_query: "Aero Sonic lawn bowls"
+  rating: 9.1
+
+aero-defiance:
+  id: "aero-defiance"
+  brand: "Aero Bowls"
+  name: "Aero Defiance"
+  slug: "aero-defiance"
+  review_url: "/guide/best-lawn-bowls-for-indoors/"
+  image: "/img/posts/aero-defiance-solar-flare-main-image_1.png"
+  bias_score: 1.5
+  bias_label: "Narrow Bias"
+  finish_profile: "Straightest bowl in the Aero range, laser accuracy on lightning carpets"
+  surfaces:
+    - "Indoor Carpet"
+    - "Fast Synthetic"
+  ideal_positions:
+    - "Lead"
+    - "Singles"
+  grips:
+    - "Z-Scoop"
+    - "Dentated"
+  small_hands_friendly: true
+  sizes: "00 to 5.5 (Heavy)"
+  price_new_gbp: 435
+  price_used_low_gbp: 150
+  price_used_high_gbp: 230
+  ebay_search_query: "Aero Defiance lawn bowls"
+  rating: 9.0
+
+aero-profile:
+  id: "aero-profile"
+  brand: "Aero Bowls"
+  name: "Aero Profile"
+  slug: "aero-profile"
+  review_url: "/guide/best-straight-lawn-bowls/"
+  image: "/img/posts/aero-bowls-trajectory-guide.webp"
+  bias_score: 2.8
+  bias_label: "Narrow Bias"
+  finish_profile: "Narrow line running true on indoor needlefelt and slick fast grass"
+  surfaces:
+    - "Indoor Carpet"
+    - "Fast Grass"
+  ideal_positions:
+    - "Lead"
+    - "Second"
+  grips:
+    - "Z-Scoop"
+    - "Dentated"
+  small_hands_friendly: true
+  sizes: "00 to 5.5 (Heavy)"
+  price_new_gbp: 425
+  price_used_low_gbp: 150
+  price_used_high_gbp: 220
+  ebay_search_query: "Aero Profile lawn bowls"
+  rating: 8.9
+
+aero-optima:
+  id: "aero-optima"
+  brand: "Aero Bowls"
+  name: "Aero Optima"
+  slug: "aero-optima"
+  review_url: "/guide/best-straight-lawn-bowls/"
+  image: "/img/posts/aero-bowls-trajectory-guide.webp"
+  bias_score: 2.0
+  bias_label: "Narrow Bias"
+  finish_profile: "Ultra tight line holding straight line into head on quick surfaces"
+  surfaces:
+    - "Indoor Carpet"
+    - "Fast Synthetic"
+  ideal_positions:
+    - "Lead"
+    - "Singles"
+  grips:
+    - "Z-Scoop"
+    - "Dentated"
+  small_hands_friendly: true
+  sizes: "00 to 5.5 (Heavy)"
+  price_new_gbp: 425
+  price_used_low_gbp: 150
+  price_used_high_gbp: 220
+  ebay_search_query: "Aero Optima lawn bowls"
+  rating: 8.8
