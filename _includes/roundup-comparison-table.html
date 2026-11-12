@@ -39,6 +39,9 @@ Replaces static comparison tables with zero content duplication.
           {% endfor %}
         {% endunless %}
 
+        {% assign table_ebay_domain = include.ebay_domain | default: page.ebay_domain | default: 'ebay.co.uk' %}
+        {% assign table_currency = include.currency_symbol | default: page.currency_symbol | default: '£' %}
+
         {% assign card_title = item.name | default: model.name %}
         {% assign card_brand = item.brand | default: model.brand %}
         {% assign card_award = item.award %}
@@ -133,21 +136,27 @@ Replaces static comparison tables with zero content duplication.
           <td>
             <div class="table-price-cell">
               {% if card_price_new %}
-                <div class="table-price-new">New: ~£{{ card_price_new }}</div>
+                <div class="table-price-new">New: ~{{ table_currency }}{{ card_price_new }}</div>
               {% endif %}
               <div class="table-price-used">
                 Used: 
                 {% if card_price_used_text %}
                   {{ card_price_used_text }}
                 {% elsif card_price_used_low and card_price_used_high %}
-                  £{{ card_price_used_low }}–£{{ card_price_used_high }}
+                  {{ table_currency }}{{ card_price_used_low }}–{{ table_currency }}{{ card_price_used_high }}
                 {% elsif card_price_used_low %}
-                  From £{{ card_price_used_low }}
+                  From {{ table_currency }}{{ card_price_used_low }}
                 {% else %}
                   Check eBay
                 {% endif %}
               </div>
-              <a href="https://www.ebay.co.uk/sch/i.html?_nkw={{ card_ebay_query | url_encode }}&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;siteid=3" 
+              {% assign encoded_ebay_query = card_ebay_query | url_encode %}
+              {% if table_ebay_domain == 'ebay.com' or table_ebay_domain == 'www.ebay.com' %}
+                {% assign ebay_search_url = 'https://www.ebay.com/sch/i.html?_nkw=' | append: encoded_ebay_query %}
+              {% else %}
+                {% assign ebay_search_url = 'https://www.ebay.co.uk/sch/i.html?_nkw=' | append: encoded_ebay_query | append: '&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;siteid=3' %}
+              {% endif %}
+              <a href="{{ ebay_search_url }}" 
                  target="_blank" 
                  rel="noopener noreferrer sponsored" 
                  class="table-ebay-link" 

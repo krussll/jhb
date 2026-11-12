@@ -553,7 +553,7 @@
         }{% endif %}{% if item_price_low or item_price_high %},
         "offers": {
           "@type": "AggregateOffer",
-          "priceCurrency": "GBP",
+          "priceCurrency": {{ page.price_currency | default: "GBP" | jsonify }},
           "lowPrice": {{ item_price_low | default: item_price_high | append: '.00' | jsonify }},
           "highPrice": {{ item_price_high | default: item_price_low | append: '.00' | jsonify }},
           "offerCount": "2"
