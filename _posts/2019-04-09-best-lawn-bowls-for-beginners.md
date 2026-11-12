@@ -107,10 +107,6 @@ faqs:
 
 <p>Different positions in a bowls team will require different bowls. For example a lead will want to have a much narrower bowl, to help get a consistent line to draw to the jack, whereas a skip will want a much wider bias to help navigate through a busy head. That being said, you will often find yourself as a beginner playing in either the lead or number 2 position, as these roles help develop you line and weight, therefore a narrow to medium bias would be best.</p>
 
-<h3><a href="#related-articles"></a>Related Articles</h3>
-
-<p>So how do you know which model does what? Thankfully each manufacturer have their own “bias charts”. You can see our list of <a href="{{ '/guide/lawn-bowls-bias-guide-and-trajectory-charts-2020' | relative_url }}" data-type="post" data-id="287">bias charts for all major brands here</a>, this will give you a list of models to try.</p>
-
 <p>Finally, it comes down to personal preference. Get down your club and ask around. Also see below for our full list of recommended models!</p>
 
 <h2><a href="#what-bowls-brand-should-i-choose"></a>What Bowls brand should I choose?</h2>
