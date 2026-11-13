@@ -1,22 +1,83 @@
 ---
 layout: post
-title:  "Best Lawn Bowls for Indoors"
+title: "Best Lawn Bowls for Indoors (2026 Carpet & Narrow-Bias Guide)"
+seo_title: "Best Lawn Bowls for Indoors (2026 Carpet & Narrow-Bias Guide)"
 author: reece
 categories: [ guide ]
 featured: false
-description: "The best lawn bowls for indoor play reviewed. Compare narrow-bias lines, flat finishes, and top indoor models like Taylor Vector VS, Lazer, and Drakes Pride D-Tec."
+description: "The best lawn bowls for indoor carpets in 2026. Compare narrow-bias models and dual-purpose crossovers from Taylor, Drakes Pride, Aero, and Henselite with New vs. Used prices."
 date: 2020-08-05 13:00:00 -0400
-last_modified_at: 2026-11-05 15:30:00 +0000
+last_modified_at: 2026-11-12 15:20:05 +0000
+items:
+  - model_id: "taylor-vector-vs"
+    name: "Taylor Vector VS"
+    award: "Best All-Round Indoor Bowl"
+    verdict: "Clean, narrow running line with forgiving draw consistency for indoor leads, seconds, and fast summer grass."
+    url: "/review/bowls/taylor-vector-vs-review/"
+    price_new: 385
+    price_used_low: 110
+    price_used_high: 175
+  - model_id: "drakes-pride-d-tec"
+    name: "Drakes Pride d-tec"
+    award: "Best Narrow Indoor Line"
+    verdict: "Drakes Pride's precision narrow-bias model (successor to the Advantage), engineered for flat finishes on fast carpets."
+    url: "/review/bowls/drakes-pride-d-tec-review/"
+    price_new: 375
+    price_used_low: 115
+    price_used_high: 175
+  - model_id: "aero-profile"
+    name: "Aero Profile"
+    award: "Best Dedicated Indoor Runner"
+    verdict: "Even mid-point arc that holds weighted shots cleanly on indoor needlefelt with Aero's Z-Scoop grip."
+    url: "/guide/best-straight-lawn-bowls/"
+    price_new: 425
+    price_used_low: 150
+    price_used_high: 220
+  - model_id: "henselite-dreamline-xg"
+    name: "Henselite Dreamline XG"
+    award: "Best Flat-Finish Premium"
+    verdict: "Consistent trajectory across both hands with Henselite Mega Grip for confident fingertip release on quick rinks."
+    url: "/guide/best-mid-bias-lawn-bowls/"
+    price_new: 445
+    price_used_low: 175
+    price_used_high: 245
+  - model_id: "taylor-ace"
+    name: "Taylor Ace"
+    award: "Best Indoor/Outdoor Crossover"
+    verdict: "Slightly wider indoor arc suited to skips and singles players who use one set year-round."
+    url: "/review/bowls/taylor-ace-review/"
+    price_new: 395
+    price_used_low: 120
+    price_used_high: 190
+  - model_id: "drakes-pride-professional"
+    name: "Drakes Pride Professional"
+    award: "Best Used Budget Crossover"
+    verdict: "Proven dual-purpose shape with abundant UK second-hand stock for winter indoor leagues and outdoor summers."
+    url: "/review/bowls/drakes-pride-professional-review/"
+    price_new: 375
+    price_used_low: 100
+    price_used_high: 165
+faqs:
+  - question: "What bias is best for indoor lawn bowls?"
+    answer: "Because indoor needlefelt carpets run much faster than typical UK outdoor grass (often 15 to 18 seconds), most indoor bowlers prefer a narrow-bias bowl (bias rating 2.0 to 3.5 out of 10) such as the Drakes Pride d-tec, Taylor Vector VS, or Aero Profile. Skips who want extra swing around a busy head often step up to a mid-bias crossover like the Taylor Ace."
+  - question: "Can you use outdoor lawn bowls indoors?"
+    answer: "Yes, mid-bias outdoor bowls like the Taylor Ace and Drakes Pride Professional work well indoors—especially for skips and singles players—though they will take noticeably more green. Very wide outdoor bowls (such as the Taylor Lignoid) are usually too wide for fast indoor carpets."
+  - question: "How much do indoor lawn bowls cost in 2026?"
+    answer: "New indoor and narrow-bias bowls cost between £375 and £445 for a set of four in 2026. Good-condition second-hand sets on eBay typically range from £100 to £220 depending on brand, model, and World Bowls stamp validity."
 ---
-    
 
-<p>What are the best rated lawn bowls woods for indoor carpets? Check out our top 6. Are yours on the list?</p>
+<p class="lead">Indoor carpets demand tighter lines and steadier weight control than damp outdoor turf. Below we compare the 6 best indoor lawn bowls for 2026—from dedicated narrow-bias lead models to year-round crossover sets—with live New vs. Used pricing.</p>
 
 <figure class="wp-block-image size-full"><img src="{{ '/img/posts/best-lawn-bowls-for-indoors.jpeg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Best Lawn Bowls for Indoors" class="wp-image-268"/></figure>
 
-<h2>Top 6 Indoor lawn bowls</h2>
+<div class="alert alert-success border-success my-4 p-3" style="border-left: 4px solid #1F2B5F; border-radius: 0;">
+  <h3 class="h5 font-weight-bold text-success mb-2"><i class="fas fa-home mr-1"></i> Quick Verdict: Best Indoor Lawn Bowls</h3>
+  <p class="mb-0">For dedicated indoor carpets and front-end consistency, choose the <strong>Taylor Vector VS</strong>, <strong>Drakes Pride d-tec</strong>, or <strong>Aero Profile</strong>. If you only want to buy one set for both winter indoor leagues and summer outdoor grass, the <strong>Taylor Ace</strong> remains the safest crossover choice.</p>
+</div>
 
-<figure class="wp-block-table"><table><thead><tr><th>Brand</th><th>Model</th><th>Price</th></tr></thead><tbody><tr><td>Taylor</td><td>Vector VS</td><td>£299.95</td></tr><tr><td>Taylor</td><td>Ace</td><td>£299.95</td></tr><tr><td>Drakes Pride</td><td>Professional</td><td>£279.90</td></tr><tr><td>Drakes Pride</td><td>Advantage</td><td>£219.90</td></tr><tr><td>Aero</td><td>Profile</td><td>£356.95</td></tr><tr><td>Henselite</td><td>Dreamline (Australia only)</td><td>AUS$689.00</td></tr></tbody></table></figure>
+<h2>Top 6 Indoor Lawn Bowls Compared (2026)</h2>
+
+{% include roundup-comparison-table.html %}
 
 <h2><a href="#best-lawn-bowls-for-indoors"></a>Best Lawn Bowls for Indoors</h2>
 
@@ -68,11 +129,11 @@ last_modified_at: 2026-11-05 15:30:00 +0000
 
 <p>A great all-rounder. Will have a wider bias on indoor rink, so will be ideal for singles play. It also plays well on outdoor rinks too, so if a dual purpose bowl is required, the Professional should be high on your list.</p>
 
-<h3><a href="#drakes-pride-advantage"></a>Drakes Pride Advantage</h3>
+<h3><a href="#drakes-pride-d-tec"></a>Drakes Pride d-tec (and Advantage)</h3>
 
-<p>The Advantage is Drakes Pride’s minimum bias bowl. It is made into a unique shape to make it perform better on fast, indoor surfaces.</p>
+<p>The <a href="{{ '/review/bowls/drakes-pride-d-tec-review/' | relative_url }}">Drakes Pride d-tec</a> is Drakes Pride’s flagship narrow-bias bowl for fast indoor carpets (following on from the older Advantage minimum-bias model). It holds a tight, flat finishing line on quick surfaces.</p>
 
-<p>As the narrowest model available, it will lend itself to lead players, and will achieve a far superior draw.</p>
+<p>As one of the narrowest models available, it lends itself to lead players and singles specialists looking for repeatable draw accuracy.</p>
 
 <h3><a href="#aero-profile"></a>Aero Profile</h3>
 
@@ -92,10 +153,10 @@ last_modified_at: 2026-11-05 15:30:00 +0000
 
 <p>All of the models outlined above are great choices. Here is our summary of which we believe are the “best in class indoor bowls”</p>
 
-<p>B<strong>est narrow biased model</strong> - Drakes Pride Advantage</p>
+<p><strong>Best narrow biased model</strong> - Drakes Pride d-tec</p>
 
-<p><strong>Best “crossover” model </strong>- Taylor Ace</p>
+<p><strong>Best “crossover” model</strong> - Taylor Ace</p>
 
-<p><strong>Best all-round indoor bowl model</strong> - Henselite Dreamline</p>
+<p><strong>Best all-round indoor bowl model</strong> - Henselite Dreamline XG</p>
 
     

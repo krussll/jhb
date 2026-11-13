@@ -1,4 +1,4 @@
----
+ ---
 layout: post
 title:  "Best Lawn Bowls For Fast Greens"
 author: reece
@@ -6,23 +6,40 @@ categories: [ guide ]
 featured: false
 description: "The best lawn bowls for fast greens and indoor carpets: compare narrow-running profiles from Aero, Taylor, and Henselite designed for touch, wind stability, and line control."
 date: 2019-07-25 13:00:00 -0400
-last_modified_at: 2026-11-06 13:55:13 +0000
+last_modified_at: 2026-11-12 15:20:05 +0000
 items:
-  - name: "Aero GrooVe"
+  - model_id: "aero-groove"
+    name: "Aero GrooVe"
     award: "Best All-Round Fast Green Bowl"
     verdict: "Precision engineered for quick Australian and summer UK greens. Smooth, controlled arc with zero kick at low speeds."
     url: "/review/bowls/aero-groove-lawn-bowls-review/"
-  - name: "Taylor Vector VS"
+    price_new: 430
+    price_used_low: 160
+    price_used_high: 240
+  - model_id: "taylor-vector-vs"
+    name: "Taylor Vector VS"
     award: "Best Narrow Line & Draw Consistency"
     verdict: "A staple on fast turf and indoor rinks. Holds a clean, tight line allowing leads and seconds to repeat shots under pressure."
     url: "/review/bowls/taylor-vector-vs-review/"
-  - name: "Taylor Lazer"
+    price_new: 385
+    price_used_low: 110
+    price_used_high: 175
+  - model_id: "taylor-lazer"
+    name: "Taylor Lazer"
     award: "Best for Super-Fast Greens (17s+)"
     verdict: "Taylor's narrowest profile. Requires almost no green, making it the choice for lightning-fast synthetic surfaces and indoor singles."
     url: "/review/bowls/taylor-lazer-review/"
-  - name: "Henselite Dreamline"
+    price_new: 385
+    price_used_low: 120
+    price_used_high: 180
+  - model_id: "henselite-dreamline-xg"
+    name: "Henselite Dreamline XG"
     award: "Best Flat Finish with Ergo Grip"
     verdict: "Narrow running line with Henselite's ergo shape for enhanced fingertip touch on ultra-slick greens."
+    url: "/guide/best-mid-bias-lawn-bowls/"
+    price_new: 445
+    price_used_low: 175
+    price_used_high: 245
 faqs:
   - question: "What is considered a fast lawn bowls green?"
     answer: "Greens with timings of 15 seconds or higher (measured by the time in seconds a bowl takes from release to come to rest over 27 metres) are considered fast. Speeds above 16–17 seconds are common on indoor needlefelt carpets and Australian bentgrass greens."
@@ -38,66 +55,14 @@ faqs:
 
 <figure class="wp-block-image size-full"><img src="{{ '/img/posts/best-lawn-bowls-for-fast-greens.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Best Lawn Bowls For Fast Greens" class="wp-image-314"/></figure>
 
-<div class="alert alert-success border-success my-4 p-3 rounded" style="border-left: 4px solid #1F2B5F;">
+<div class="alert alert-success border-success my-4 p-3" style="border-left: 4px solid #1F2B5F; border-radius: 0;">
   <h3 class="h5 font-weight-bold text-success mb-2"><i class="fas fa-bolt mr-1"></i> Quick Verdict: Best Bowls for Fast Greens</h3>
   <p class="mb-2">When green speeds reach 15 to 18 seconds, standard mid-bias bowls swing uncontrollably wide. We recommend the <strong>Aero GrooVe</strong> or <strong>Taylor Vector VS</strong> to keep your aiming point close to the rink center while maintaining a flat, predictable finish.</p>
 </div>
 
 <h2>Top 4 Bowls for Fast Greens Compared</h2>
 
-<div class="table-responsive my-3">
-  <table class="table table-bordered table-hover">
-    <thead class="thead-light">
-      <tr>
-        <th scope="col">Model</th>
-        <th scope="col">Best For</th>
-        <th scope="col">Bias Rating</th>
-        <th scope="col">Optimal Speeds</th>
-        <th scope="col">Finish Profile</th>
-        <th scope="col">Price Guide (New / Used)</th>
-        <th scope="col">Full Review</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><strong>Aero GrooVe</strong></td>
-        <td><span class="badge badge-success">#1 Pick Fast Greens</span></td>
-        <td>Narrow-Mid (3.5/10)</td>
-        <td>15 – 19 seconds</td>
-        <td>Smooth, controlled draw</td>
-        <td>£445 / £160–£210</td>
-        <td><a href="{{ '/review/bowls/aero-groove-lawn-bowls-review/' | relative_url }}">Read Review &rarr;</a></td>
-      </tr>
-      <tr>
-        <td><strong>Taylor Vector VS</strong></td>
-        <td><span class="badge badge-primary">Indoor &amp; Front-End</span></td>
-        <td>Narrow (3/10)</td>
-        <td>14 – 18 seconds</td>
-        <td>Flat, holding finish</td>
-        <td>£390 / £90–£140</td>
-        <td><a href="{{ '/review/bowls/taylor-vector-vs-review/' | relative_url }}">Read Review &rarr;</a></td>
-      </tr>
-      <tr>
-        <td><strong>Taylor Lazer</strong></td>
-        <td><span class="badge badge-warning text-dark">Lightning Fast (17s+)</span></td>
-        <td>Very Narrow (2/10)</td>
-        <td>16 – 20 seconds</td>
-        <td>Ultra-tight direct line</td>
-        <td>£390 / £90–£140</td>
-        <td><a href="{{ '/review/bowls/taylor-lazer-review/' | relative_url }}">Read Review &rarr;</a></td>
-      </tr>
-      <tr>
-        <td><strong>Henselite Dreamline</strong></td>
-        <td><span class="badge badge-info">Ergo Touch &amp; Wind</span></td>
-        <td>Narrow-Mid (3.5/10)</td>
-        <td>14 – 18 seconds</td>
-        <td>Consistent flat curve</td>
-        <td>£410 / £110–£160</td>
-        <td><a href="{{ '/reviews' | relative_url }}">Compare Models &rarr;</a></td>
-      </tr>
-    </tbody>
-  </table>
-</div>
+{% include roundup-comparison-table.html %}
 
 <h2><a href="#what-is-a-fast-green"></a>What is a fast green</h2>
 
