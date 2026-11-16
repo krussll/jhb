@@ -6,7 +6,7 @@ categories: [ help ]
 featured: false
 description: "Is lawn bowls expensive? How much do I need to start playing lawn bowls? This cost guide will tell you how much you will need as a beginner, Lawn bowls is."
 date: 2020-06-16 13:00:00 -0400
-last_modified_at: 2026-11-15 11:15:00 +0000
+last_modified_at: 2026-11-16 16:20:00 +0000
 ---
     
 
@@ -39,6 +39,8 @@ last_modified_at: 2026-11-15 11:15:00 +0000
 <p>Every club will charge you an annual fee to join. This goes towards the upkeep of the green, the facilities around it, as well as the social events that take place.</p>
 
 <p>The fee you pay will depend on the club, and what facilities/events they put on, however you should expect to pay in the region of £80-£100 per year.</p>
+
+<p>Before joining, it is worth comparing venues in your local area. Use our <a href="{{ '/bowls-clubs/club-directory/' | relative_url }}">Bowls Club Directory</a> to locate nearby clubs, check available facilities (such as indoor rinks or outdoor grass greens), and discover which clubs offer discounted first-year beginner memberships or free taster roll-up sessions.</p>
 
 <h2><a href="#lawn-bowls"></a>Lawn bowls</h2>
 

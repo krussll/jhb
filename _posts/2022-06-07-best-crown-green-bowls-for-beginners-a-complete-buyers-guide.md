@@ -5,7 +5,7 @@ author: reece
 categories: [ crown-green-bowls ]
 featured: false
 description: "The best crown green bowls for beginners: complete buyer guide covering standard 2-full bias, high density vs low density, sizing charts, and top starter brands."
-last_modified_at: 2026-11-14 08:15:00 +0000
+last_modified_at: 2026-11-16 16:20:00 +0000
 date: 2022-06-07 13:00:00 -0400
 items:
   - model_id: "drakes-pride-crown-green"
@@ -28,7 +28,7 @@ items:
     name: "Henselite 21st Century Crown Green"
     award: "Best Value Grip Option"
     verdict: "Ergonomic Super Grip and true full 2-bias arc at an accessible price point for club novices."
-    url: "/guide/best-make-of-crown-green-bowls/"
+    url: "/crown-green-bowls/best-make-of-crown-green-bowls/"
     price_new: 210
     price_used_low: 65
     price_used_high: 125

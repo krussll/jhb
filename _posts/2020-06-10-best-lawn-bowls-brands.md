@@ -7,7 +7,7 @@ categories: [ guide ]
 featured: false
 description: "Explore the leading lawn bowls manufacturers worldwide. Compare Taylor, Henselite, Drakes Pride, and Aero for manufacturing precision, grip tech, and key models."
 date: 2020-06-10 13:00:00 -0400
-last_modified_at: 2026-11-14 08:36:00 +0000
+last_modified_at: 2026-11-16 16:20:00 +0000
 items:
   - name: "Aero Bowls"
     brand: "Aero"
@@ -142,7 +142,7 @@ faqs:
   </table>
 </div>
 
-<p>Every brand has its own design philosophy, manufacturing approach, and history. Choosing the right brand often comes down to the speed of the greens you play on and the feel of the bowl in your hand. For full trajectory details across every model, consult our comprehensive <a href="{{ '/help/lawn-bowls-bias-guide/' | relative_url }}">lawn bowls bias guide</a>.</p>
+<p>Every brand has its own design philosophy, manufacturing approach, and history. Choosing the right brand often comes down to the speed of the greens you play on and the feel of the bowl in your hand. For full trajectory details across every model, consult our comprehensive <a href="{{ '/guide/lawn-bowls-bias-guide-and-trajectory-charts-2020/' | relative_url }}">lawn bowls bias guide</a>.</p>
 
 <hr class="my-5">
 

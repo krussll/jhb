@@ -7,7 +7,7 @@ categories: [ guide ]
 featured: false
 description: "Compare the best lawn bowl grips from Aero, Drakes Pride, Taylor, and Henselite. Learn how grip depth, embedded channels, and hand delivery styles impact consistency."
 date: 2021-04-27 13:00:00 -0400
-last_modified_at: 2026-11-14 08:36:00 +0000
+last_modified_at: 2026-11-16 16:20:00 +0000
 items:
   - name: "Aero Z-Scoop Grip"
     brand: "Aero"
@@ -132,7 +132,7 @@ faqs:
 
 <p>One of the first things beginners are taught is how to hold a bowl, yet improper grip mechanics and choosing the wrong factory grip style cause widespread delivery issues. A secure grip keeps your hand relaxed through your backswing, eliminating unwanted finger tension that causes wobbles on release.</p>
 
-<p>For guidance on bowl sizing, see our complete guide on <a href="{{ '/help/lawn-bowls-size-charts/' | relative_url }}">lawn bowls size charts</a> and <a href="{{ '/help/best-lawn-bowls-for-small-hands/' | relative_url }}">the best lawn bowls for small hands</a>.</p>
+<p>For guidance on bowl sizing, see our complete guide on <a href="{{ '/help/lawn-bowls-size-charts/' | relative_url }}">lawn bowls size charts</a> and <a href="{{ '/guide/best-lawn-bowls-for-small-hands/' | relative_url }}">the best lawn bowls for small hands</a>.</p>
 
 <h2>Before You Change Your Grip: Crucial Checks</h2>
 

@@ -9,7 +9,7 @@ pathway: learn-the-essentials
 next_step: /help/lawn-bowls-rules/
 featured: false
 date: 2020-10-30 13:00:00 -0400
-last_modified_at: 2026-11-05 15:30:00 +0000
+last_modified_at: 2026-11-16 16:20:00 +0000
 ---
     
 
@@ -31,7 +31,7 @@ last_modified_at: 2026-11-05 15:30:00 +0000
 
 <p>Bowls doesn’t have to be expensive. Getting a good set of second-hand bowls is an excellent way to start.</p>
 
-<p>Bowls rarely deteriorate over time, so you can be confident that a second-hand set will perform just as well as it did when they were manufactured.</p>
+<p>Bowls rarely deteriorate over time, so you can be confident that a second-hand set will perform just as well as it did when they were manufactured. Furthermore, almost every club maintains loan bowls in various weights and grips that newcomers can use for free during taster roll-ups. If you haven't joined a club yet, browse our <a href="{{ '/bowls-clubs/club-directory/' | relative_url }}">Bowls Club Directory</a> to locate beginner-friendly greens near you.</p>
 
 <p>See our guide for the best lawn bowls for leads for more information.</p>
 
@@ -59,6 +59,6 @@ last_modified_at: 2026-11-05 15:30:00 +0000
 
 <h2><a href="#have-fun"></a>Have fun!</h2>
 
-<p>Remember bowls is supposed to be fun! We all have good days and bad days. As long as you can brush off the bad ones, and have a good chat with your fellow bowlers over a pint or two you won’t go too far wrong.</p>
+<p>Remember bowls is supposed to be fun! We all have good days and bad days. As long as you can brush off the bad ones, and have a good chat with your fellow bowlers over a pint or two you won’t go too far wrong. To find a club with open social evenings and active coaching, check our <a href="{{ '/bowls-clubs/club-directory/' | relative_url }}">Bowls Club Directory</a>.</p>
 
     

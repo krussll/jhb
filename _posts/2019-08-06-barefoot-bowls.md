@@ -6,7 +6,7 @@ categories: [ help ]
 featured: false
 description: "See our complete guide to barefoot bowls. Covering the rules, benefits, and where to play near you. Lawn bowls is a challenging game that requires a high."
 date: 2019-08-06 13:00:00 -0400
-last_modified_at: 2026-11-15 11:15:00 +0000
+last_modified_at: 2026-11-16 16:20:00 +0000
 ---
     
 
@@ -128,9 +128,11 @@ last_modified_at: 2026-11-15 11:15:00 +0000
 
 <h2><a href="#where-to-go-for-barefoot-bowling"></a>Where to Go for Barefoot Bowling</h2>
 
-<p>Barefoot Lawn Bowls was officially launched in the UK in 2015 at the Finsbury Square Bowling Green, with over 5000 active bowling greens. The population of barefoot bowlers in the UK has grown drastically in the recent past, reaching to over 300,000 players.</p>
+<p>Barefoot Lawn Bowls was officially launched in the UK in 2015 at the Finsbury Square Bowling Green, with over 5,000 active bowling greens. The population of barefoot bowlers in the UK has grown drastically in the recent past, reaching over 300,000 players.</p>
 
-<p>There is a myriad of places that you can choose to have a barefoot bowling experience. You can look for Bowling clubs or centres near you for barefoot bowls registration. Examples of such centres would include Finsbury Park Bowls Club, Edinburg West End Bowls Club, Kelvingrove Lawn Bowls, and Three Mile Cross Bowling Centre among others.</p>
+<p>There is a myriad of places you can choose to have a barefoot bowling experience. Use our comprehensive <a href="{{ '/bowls-clubs/club-directory/' | relative_url }}">Bowls Club Directory</a> to search for verified clubs, indoor facilities, and social greens across the UK, Australia, and internationally.</p>
+
+<p>If you are looking for clubs in Scotland, explore our dedicated guide to <a href="{{ '/bowls-clubs/bowls-clubs-in-edinburgh/' | relative_url }}">bowls clubs in Edinburgh</a>. And if you are bowling in Australia—the birthplace of barefoot bowls—check out our regional guide to <a href="{{ '/bowls-clubs/bowls-clubs-in-adelaide-south-australia/' | relative_url }}">bowls clubs in Adelaide, South Australia</a> to find premier metropolitan clubs offering evening social roll-ups, craft beers, and community tournaments.</p>
 
 <h2><a href="#the-cost-of-participating-in-barefoot-lawn-bowls"></a>The Cost of Participating in Barefoot Lawn Bowls</h2>
 

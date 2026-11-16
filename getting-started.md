@@ -4,7 +4,7 @@ title: Getting Started
 description: Follow this roadmap to learn the rules, choose your first bowls and practise with confidence.
 permalink: /getting-started/
 hide_page_hero: true
-last_modified_at: 2026-11-15T11:15:00Z
+last_modified_at: 2026-11-16T16:20:00Z
 ---
 
 <main class="getting-started">
@@ -55,6 +55,7 @@ last_modified_at: 2026-11-15T11:15:00Z
         <div class="gs-step__resources" role="list">
           {% include action-card.html url="/help/lawn-bowls-rules" title="Lawn bowls rules for beginners" description="Everything you need to know about ends, shots and scoring." %}
           {% include action-card.html url="/help/lawn-bowls-rules-and-etiquette" title="Etiquette explained" description="Learn the do's and don'ts that keep club play friendly and fair." %}
+          {% include action-card.html url="/bowls-clubs/club-directory/" title="Find a local bowls club" description="Locate clubs near you, check green facilities and plan your first roll-up." %}
           <article class="gs-resource" role="listitem">
             <h3><a href="{{ '/guides' | relative_url }}">Browse the beginner guides hub</a></h3>
             <p>See every fundamentals article in one place when you need a refresher.</p>

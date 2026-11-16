@@ -6,7 +6,7 @@ categories: [ help ]
 featured: false
 description: "Our complete guide to the best lawn bowls for ladies. Learn how slimline bowl shapes, heavy-for-size weights, and channeled grips provide effortless draw distance."
 date: 2020-07-11 13:00:00 -0400
-last_modified_at: 2026-11-14 08:15:00 +0000
+last_modified_at: 2026-11-16 16:20:00 +0000
 items:
   - model_id: "taylor-ace"
     name: "Taylor Ace"
@@ -223,13 +223,13 @@ faqs:
         <td><strong>Drakes Pride</strong></td>
         <td>Drakes Pride Fineline</td>
         <td>Tight running line with channel grip options</td>
-        <td><a href="{{ '/review/bowls/drakes-pride-fineline-lawn-bowls-review/' | relative_url }}">Read Review &rarr;</a></td>
+        <td><a href="{{ '/guide/best-lawn-bowls-for-fast-greens/' | relative_url }}">View Guide &rarr;</a></td>
       </tr>
       <tr>
         <td><strong>Henselite</strong></td>
         <td>Henselite Dreamline XG</td>
         <td>Ergonomic low shoulder grip placement</td>
-        <td><a href="{{ '/review/bowls/henselite-dreamline-xg-lawn-bowls-review/' | relative_url }}">Read Review &rarr;</a></td>
+        <td><a href="{{ '/guide/best-mid-bias-lawn-bowls/' | relative_url }}">View Guide &rarr;</a></td>
       </tr>
     </tbody>
   </table>
@@ -249,7 +249,7 @@ faqs:
 
 <p>Region: UK</p>
 
-<p>The <a href="{{ '/review/bowls/drakes-pride-fineline-lawn-bowls-review/' | relative_url }}">Drakes Pride Fineline</a> is very similar to the Professional, however the line is slightly narrower.</p>
+<p>The <a href="{{ '/guide/best-lawn-bowls-for-fast-greens/' | relative_url }}">Drakes Pride Fineline</a> is very similar to the Professional, however the line is slightly narrower.</p>
 
 <p>The Professional itself is a great dual-purpose bowl (it is playable both indoor and outdoor) - but the Fineline is a fantastic indoor specialist.</p>
 
@@ -261,7 +261,7 @@ faqs:
 
 <p>A fantastic all round bowl, but with a couple of fun tweaks.</p>
 
-<p>The <a href="{{ '/review/bowls/henselite-dreamline-xg-lawn-bowls-review/' | relative_url }}">Henselite Dreamline XG</a> is at home on either indoor or outdoor greens, and is capable of handling the variety of green conditions found throughout Australia.</p>
+<p>The <a href="{{ '/guide/best-mid-bias-lawn-bowls/' | relative_url }}">Henselite Dreamline XG</a> is at home on either indoor or outdoor greens, and is capable of handling the variety of green conditions found throughout Australia.</p>
 
 <p>The grip is actually positioned lower on the shoulder of the bowl, this means you don’t need to stretch your thumb higher up on the bowl. The bowl effectively feels smaller in your hand.</p>
 

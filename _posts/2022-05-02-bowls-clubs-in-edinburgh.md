@@ -78,7 +78,7 @@ Whether you are looking to join a competitive Edinburgh Bowling League team, att
       <ul class="small mb-0 pl-3">
         <li><a href="{{ '/guide/best-lawn-bowls-for-indoors/' | relative_url }}"><strong>Best Bowls for Indoor Play:</strong></a> Top models engineered for true, fast carpet rinks.</li>
         <li><a href="{{ '/review/bowls/taylor-vector-vs-review/' | relative_url }}"><strong>Taylor Vector VS:</strong></a> Slim line engineered specifically for fast indoor and summer surfaces.</li>
-        <li><a href="{{ '/review/bowls/henselite-tiger-2-review/' | relative_url }}"><strong>Henselite Tiger II:</strong></a> Controlled narrow trajectory tailored for indoor competition.</li>
+        <li><a href="{{ '/review/bowls/henselite-tiger-ii-lawn-bowls-review/' | relative_url }}"><strong>Henselite Tiger II:</strong></a> Controlled narrow trajectory tailored for indoor competition.</li>
       </ul>
     </div>
   </div>
