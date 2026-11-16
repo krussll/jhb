@@ -2,10 +2,10 @@
 layout: post
 title:  "Henselite Tiger Sport Bowls Shoes Review"
 author: reece
-categories: [ shoes, review ]
+categories: [ review, shoes ]
 featured: false
 description: "Are Henselite Tiger Sport the best bowls shoe available? See our in-depth review to find out. Henselite is one of the biggest brands in the bowls world."
-last_modified_at: 2026-11-15 11:15:00 +0000
+last_modified_at: 2026-11-16 10:47:00 +0000
 date: 2019-05-12 13:00:00 -0400
 review:
   name: "Henselite Tiger Sport Bowls Shoes"

@@ -2,10 +2,10 @@
 layout: post
 title:  "Dek Unisex Bowls Shoes Review"
 author: reece
-categories: [ shoes, review ]
+categories: [ review, shoes ]
 featured: false
 description: "Are Dek the best bowls shoe available? See our in-depth review to find out. Overview: The Dek unisex bowls shoe are durable, and cost effective."
-last_modified_at: 2026-11-15 11:15:00 +0000
+last_modified_at: 2026-11-16 10:47:00 +0000
 date: 2018-01-12 13:00:00 -0400
 review:
   name: "Dek Unisex Bowls Shoes"
