@@ -1,0 +1,33 @@
+{% assign club_target_name = page.name | default: page.title %}
+{% if page.layout == 'club' or page.collection == 'clubs' %}
+<section class="club-section club-feedback" aria-labelledby="feedback-heading">
+  <div class="club-update-notice">
+    <div class="d-flex align-items-start">
+      <div class="club-update-notice__icon">
+        <i class="fas fa-edit" aria-hidden="true"></i>
+      </div>
+      <div class="club-update-notice__content">
+        <h3 id="feedback-heading" class="club-update-notice__heading">Spot anything incorrect?</h3>
+        <p class="club-update-notice__text">
+          We strive to keep our lawn bowls club directory as accurate and up to date as possible. If you spot anything incorrect or outdated for <strong>{{ club_target_name }}</strong>—or if you represent the club and would like to update contact details, facilities, opening hours, or green surfaces—please email me at <a href="mailto:reece@jackhighbowls.com">reece@jackhighbowls.com</a>.
+        </p>
+      </div>
+    </div>
+  </div>
+</section>
+{% else %}
+<aside class="club-update-notice my-4" aria-labelledby="feedback-heading">
+  <div class="d-flex align-items-start">
+    <div class="club-update-notice__icon">
+      <i class="fas fa-edit" aria-hidden="true"></i>
+    </div>
+    <div class="club-update-notice__content">
+      <h3 id="feedback-heading" class="club-update-notice__heading">Spot anything incorrect?</h3>
+      <p class="club-update-notice__text">
+        We strive to keep our lawn bowls club directory as accurate and up to date as possible. If you spot anything incorrect, notice outdated club information, or would like to submit an update for your local club, please email me at <a href="mailto:reece@jackhighbowls.com">reece@jackhighbowls.com</a>.
+      </p>
+    </div>
+  </div>
+</aside>
+{% endif %}
+

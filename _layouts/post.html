@@ -116,6 +116,9 @@ layout: default
               </div>
             </section>
             {% endif %}
+            {% if page.categories contains 'bowls-clubs' %}
+              {% include club-update-notice.html %}
+            {% endif %}
             {% include related-buyers-guides.html %}
             <div id="drill-pack-feature" class="post-article__drill-pack">
               {% include drill-pack-feature.html %}
