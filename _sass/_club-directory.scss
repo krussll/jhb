@@ -724,3 +724,172 @@
   }
 }
 
+// ==========================================
+// Regional Guide Hub Cards
+// ==========================================
+
+.club-region-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1.5rem;
+  margin-top: 1.5rem;
+  margin-bottom: 2.5rem;
+
+  @media (min-width: 768px) {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+.club-region-card {
+  background: #ffffff;
+  border: 1px solid #e2e8f0;
+  border-top: 4px solid #1f2b5f;
+  border-radius: 0;
+  padding: 1.5rem;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
+  transition: transform 0.2s ease, box-shadow 0.2s ease, border-color 0.2s ease;
+
+  &:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.08);
+    border-color: #cbd5e1;
+  }
+
+  &--featured {
+    border-top-color: #c89b3c;
+  }
+
+  &__header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 0.5rem;
+    margin-bottom: 0.35rem;
+  }
+
+  &__title {
+    font-size: 1.25rem;
+    font-weight: 700;
+    color: #1f2b5f;
+    margin: 0;
+
+    a {
+      color: #1f2b5f;
+      text-decoration: none;
+
+      &:hover {
+        color: #161f44;
+        text-decoration: underline;
+      }
+    }
+  }
+
+  &__location {
+    font-size: 0.875rem;
+    color: #64748b;
+    margin-bottom: 0.75rem;
+  }
+
+  &__badges {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.35rem;
+    margin-bottom: 1rem;
+  }
+
+  &__desc {
+    font-size: 0.925rem;
+    color: #4b5563;
+    line-height: 1.5;
+    margin-bottom: 1.25rem;
+    flex-grow: 1;
+  }
+
+  &__footer {
+    margin-top: auto;
+    padding-top: 1rem;
+    border-top: 1px solid #f1f5f9;
+  }
+}
+
+// ==========================================
+// National Governing Body (NGB) Table
+// ==========================================
+
+.club-ngb-container {
+  margin-top: 1.5rem;
+  margin-bottom: 2.5rem;
+}
+
+.club-ngb-table {
+  width: 100%;
+  margin-bottom: 1rem;
+  border-collapse: collapse;
+  border: 1px solid #e2e8f0;
+  border-radius: 0;
+
+  thead {
+    background-color: #1f2b5f;
+    color: #ffffff;
+
+    th {
+      font-size: 0.8125rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      padding: 0.85rem 1rem;
+      border: 1px solid #161f44;
+      vertical-align: middle;
+      color: #ffffff;
+    }
+  }
+
+  tbody {
+    tr {
+      background-color: #ffffff;
+      transition: background-color 0.15s ease;
+
+      &:nth-of-type(even) {
+        background-color: #f8f9fa;
+      }
+
+      &:hover {
+        background-color: #f1f5f9;
+      }
+
+      td {
+        padding: 0.85rem 1rem;
+        vertical-align: middle;
+        font-size: 0.9rem;
+        border: 1px solid #e2e8f0;
+        color: #334155;
+        line-height: 1.45;
+      }
+    }
+  }
+
+  &__country {
+    font-weight: 700;
+    color: #1f2b5f;
+    white-space: nowrap;
+  }
+
+  &__org {
+    font-weight: 600;
+    color: #0f172a;
+  }
+
+  &__formats {
+    font-size: 0.85rem;
+    color: #4b5563;
+  }
+
+  &__action {
+    white-space: nowrap;
+    text-align: right;
+  }
+}
+
+

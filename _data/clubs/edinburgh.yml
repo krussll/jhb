@@ -1,30 +1,3 @@
-- slug: "bainfield-bowling-club"
-  name: "Bainfield Bowling Club"
-  city: "edinburgh"
-  city_name: "Edinburgh"
-  country: "Scotland"
-  country_code: "GB"
-  area: "West Edinburgh (Hutchison / Gorgie)"
-  address: "34 Hutchison Crossway, Edinburgh"
-  postcode: "EH14 1RU"
-  surfaces:
-    - "Indoor Carpet"
-    - "Outdoor Grass"
-  formats:
-    - "Flat Green"
-    - "Indoor"
-  season: "Year-round (Outdoor Apr–Sep, Indoor Sep–Apr)"
-  rinks_info: "8-rink indoor stadium plus outdoor grass greens"
-  beginner_friendly: true
-  barefoot_social: true
-  loan_bowls: true
-  bar_clubhouse: true
-  website: "https://www.bainfieldbowlingclub.co.uk/"
-  maps_query: "Bainfield+Bowling+Club+34+Hutchison+Crossway+Edinburgh+EH14+1RU"
-  profile_page: true
-  summary: "One of Edinburgh's premier year-round venues, featuring both an 8-rink indoor stadium for winter play and traditional outdoor grass greens."
-  about: >
-    Located in West Edinburgh near Gorgie and Slateford, Bainfield Bowling Club is one of the few clubs in the Lothian region offering both outdoor summer grass greens and a dedicated 8-rink indoor bowling stadium. This makes it an ideal hub for bowlers looking to play through the Scottish winter as well as newcomers attending taster sessions.
 - slug: "ardmillan-bowling-club"
   name: "Ardmillan Bowling Club"
   city: "edinburgh"
@@ -43,6 +16,1143 @@
   barefoot_social: false
   loan_bowls: true
   bar_clubhouse: true
-  website: "https://www.ardmillanbowlingclub.co.uk/"
-  summary: "Traditional outdoor bowling club in Edinburgh."
+  website: "https://www.facebook.com/ardmillanbc/"
+  maps_query: "Ardmillan+Bowling+Club+Ardmillan+Place+Edinburgh+EH11+2JU"
+  profile_page: true
+  summary: "Traditional outdoor bowling club in west-central Edinburgh, welcoming players of all abilities for social roll-ups and competitive league bowls."
+  about: >
+    Located just off Slateford Road near Gorgie and Dalry, Ardmillan Bowling Club has provided flat green lawn bowls since 1904. The club maintains a well-manicured 6-rink natural grass green, licensed bar, and an active schedule of Edinburgh Bowling League fixtures alongside friendly weekend matches. Beginners and prospective members are welcomed with loan bowls provided.
 
+- slug: "bainfield-bowling-club"
+  name: "Bainfield Bowling Club"
+  city: "edinburgh"
+  city_name: "Edinburgh"
+  country: "Scotland"
+  country_code: "GB"
+  area: "West Edinburgh (Hutchison / Gorgie)"
+  address: "34 Hutchison Crossway, Edinburgh"
+  postcode: "EH14 1RU"
+  surfaces:
+    - "Indoor Carpet"
+    - "Outdoor Grass"
+  formats:
+    - "Flat Green"
+    - "Indoor"
+  season: "Year-round (Outdoor Apr&ndash;Sep, Indoor Sep&ndash;Apr)"
+  rinks_info: "8-rink indoor stadium plus outdoor grass greens"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://www.bainfieldbowlingclub.co.uk/"
+  maps_query: "Bainfield+Bowling+Club+34+Hutchison+Crossway+Edinburgh+EH14+1RU"
+  profile_page: true
+  summary: "One of Edinburgh's premier year-round venues, featuring both an 8-rink indoor stadium for winter play and traditional outdoor grass greens."
+  about: >
+    Located in West Edinburgh near Gorgie and Slateford, Bainfield Bowling Club is one of Scotland's top bowling facilities. Offering both outdoor summer grass greens and a dedicated 8-rink indoor bowling stadium, Bainfield hosts national championships, indoor leagues throughout autumn and winter, and regular open taster days with coaching and equipment provided.
+
+- slug: "balbardie-indoor-bowls-club"
+  name: "Balbardie Indoor Bowls Club"
+  city: "edinburgh"
+  city_name: "Edinburgh"
+  country: "Scotland"
+  country_code: "GB"
+  area: "West Lothian (Bathgate)"
+  address: "Bathgate Sports Centre, Balbardie Park of Peace, Bathgate"
+  postcode: "EH48 4LA"
+  surfaces:
+    - "Indoor Carpet"
+  formats:
+    - "Indoor"
+    - "Flat Green"
+  season: "Indoor: September &ndash; April"
+  rinks_info: "6-rink purpose-built indoor stadium"
+  beginner_friendly: true
+  barefoot_social: false
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://www.westlothianleisure.com/"
+  maps_query: "Balbardie+Indoor+Bowls+Club+Bathgate+Sports+Centre+EH48+4LA"
+  profile_page: true
+  summary: "Premier West Lothian indoor bowls facility at Xcite Bathgate, serving Lothian and Edinburgh bowlers with competitive winter leagues and coaching."
+  about: >
+    Situated within the Balbardie Park of Peace in Bathgate, Balbardie Indoor Bowls Club provides a dedicated 6-rink indoor carpet facility. Serving bowlers from across West Lothian and western Edinburgh, Balbardie hosts competitive SIBA league fixtures, morning casual roll-ups, and junior coaching programs throughout the winter months.
+
+- slug: "balerno-bowling-club"
+  name: "Balerno Bowling Club"
+  city: "edinburgh"
+  city_name: "Edinburgh"
+  country: "Scotland"
+  country_code: "GB"
+  area: "South West Edinburgh (Balerno)"
+  address: "5 Ladycroft, Balerno, Edinburgh"
+  postcode: "EH14 7AG"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Flat Green"
+  season: "Outdoor: April &ndash; September"
+  beginner_friendly: true
+  barefoot_social: false
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "http://www.balernobowlingclub.co.uk/"
+  maps_query: "Balerno+Bowling+Club+5+Ladycroft+Balerno+EH14+7AG"
+  profile_page: true
+  summary: "Friendly village bowling club nestled at the foot of the Pentland Hills, featuring competitive leagues, social roll-ups, and beginner tasters."
+  about: >
+    Established in 1885 in the village of Balerno south-west of Edinburgh city centre, Balerno Bowling Club features a well-kept natural grass green and a licensed clubhouse. The club enters teams in the West Lothian and Edinburgh bowling associations and hosts open evenings where newcomers can try flat green bowling in a relaxed, scenic setting.
+
+- slug: "beechwood-bowling-club"
+  name: "Beechwood Bowling Club"
+  city: "edinburgh"
+  city_name: "Edinburgh"
+  country: "Scotland"
+  country_code: "GB"
+  area: "Roseburn / Murrayfield"
+  address: "11 Roseburn Street, Edinburgh"
+  postcode: "EH12 5PR"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Flat Green"
+  season: "Outdoor: April &ndash; September"
+  beginner_friendly: true
+  barefoot_social: false
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://www.facebook.com/BeechwoodBowlingClub/"
+  maps_query: "Beechwood+Bowling+Club+11+Roseburn+Street+Edinburgh+EH12+5PR"
+  profile_page: true
+  summary: "Historic west Edinburgh bowling club situated right beside Murrayfield Stadium, known for its warm social community and summer league play."
+  about: >
+    Located in the shadow of Scottish Gas Murrayfield Stadium on Roseburn Street, Beechwood Bowling Club has been an integral part of the local sporting community since the early 1900s. Featuring a pristine outdoor flat green and clubhouse facilities, Beechwood welcomes bowlers of all ages for recreational bowls, club tournaments, and Saturday friendlies.
+
+- slug: "blackhall-bowling-club"
+  name: "Blackhall Bowling Club"
+  city: "edinburgh"
+  city_name: "Edinburgh"
+  country: "Scotland"
+  country_code: "GB"
+  area: "Blackhall / Craigleith"
+  address: "21 Keith Row, Edinburgh"
+  postcode: "EH4 3NL"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Flat Green"
+  season: "Outdoor: April &ndash; September"
+  beginner_friendly: true
+  barefoot_social: false
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://blackhallbowling.club/"
+  maps_query: "Blackhall+Bowling+Club+21+Keith+Row+Edinburgh+EH4+3NL"
+  profile_page: true
+  summary: "Established north-west Edinburgh bowling club with top-tier grass greens, active internal club competitions, and introductory coaching."
+  about: >
+    Situated on Keith Row in the leafy residential district of Blackhall, Blackhall Bowling Club boasts a superb 6-rink natural grass green and a recently renovated modern pavilion. The club runs men's, ladies', and mixed sections participating in Edinburgh association leagues and regularly holds open weekends for prospective new bowlers.
+
+- slug: "braid-bowling-club"
+  name: "Braid Bowling Club"
+  city: "edinburgh"
+  city_name: "Edinburgh"
+  country: "Scotland"
+  country_code: "GB"
+  area: "Morningside / Braid"
+  address: "Cluny Gardens, Edinburgh"
+  postcode: "EH10 6BR"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Flat Green"
+  season: "Outdoor: April &ndash; September"
+  beginner_friendly: true
+  barefoot_social: false
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "http://www.braidbc.co.uk/"
+  maps_query: "Braid+Bowling+Club+Cluny+Gardens+Edinburgh+EH10+6BR"
+  profile_page: true
+  summary: "Prestigious south Edinburgh club on Cluny Gardens near the Braid Hills, offering top-tier outdoor grass greens, tennis, and social events."
+  about: >
+    Founded in 1890, Braid Bowling Club is situated in the picturesque South Edinburgh neighborhood near the Braid Hills. In addition to a fine 6-rink outdoor bowling green, the club features tennis courts and an active clubhouse that hosts quiz nights and social events throughout the year.
+
+- slug: "brunstane-bowling-club"
+  name: "Brunstane Bowling Club"
+  city: "edinburgh"
+  city_name: "Edinburgh"
+  country: "Scotland"
+  country_code: "GB"
+  area: "Brunstane / Portobello"
+  address: "Brunstane Road, Edinburgh"
+  postcode: "EH15 2QN"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Flat Green"
+  season: "Outdoor: April &ndash; September"
+  beginner_friendly: true
+  barefoot_social: false
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://www.facebook.com/BrunstaneBowlingClub/"
+  maps_query: "Brunstane+Bowling+Club+Brunstane+Road+Edinburgh+EH15+2QN"
+  profile_page: true
+  summary: "Welcoming community bowling club in east Edinburgh near Portobello, featuring competitive league teams and casual beginner roll-ups."
+  about: >
+    Brunstane Bowling Club provides flat green lawn bowling for residents in east Edinburgh, Portobello, and Musselburgh. Offering competitive evening matches, weekend galas, and Friday afternoon social roll-ups, Brunstane provides loan equipment and informal tuition for those new to the sport.
+
+- slug: "caledonian-bowling-club"
+  name: "Caledonian Bowling Club"
+  city: "edinburgh"
+  city_name: "Edinburgh"
+  country: "Scotland"
+  country_code: "GB"
+  area: "Dalry / Haymarket"
+  address: "36 Russell Road, Edinburgh"
+  postcode: "EH11 2LP"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Flat Green"
+  season: "Outdoor: April &ndash; September"
+  beginner_friendly: true
+  barefoot_social: false
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://caledonianbowlingclub.co.uk/"
+  maps_query: "Caledonian+Bowling+Club+36+Russell+Road+Edinburgh+EH11+2LP"
+  profile_page: true
+  summary: "Central Edinburgh lawn bowls club founded in 1860, offering high-level league competition and friendly weekend social bowls."
+  about: >
+    Established over 160 years ago, Caledonian Bowling Club on Russell Road is one of Edinburgh's historic clubs. Located within easy walking distance of Haymarket railway station, the club features an immaculately kept flat green, licensed bar, and coaching support for newcomers wanting to take up flat green bowling.
+
+- slug: "cameron-house-and-prestonfield-bowling-club"
+  name: "Cameron House and Prestonfield Bowling Club"
+  city: "edinburgh"
+  city_name: "Edinburgh"
+  country: "Scotland"
+  country_code: "GB"
+  area: "Prestonfield / Newington"
+  address: "Prestonfield Avenue, Edinburgh"
+  postcode: "EH16 5EU"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Flat Green"
+  season: "Outdoor: April &ndash; September"
+  beginner_friendly: true
+  barefoot_social: false
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://www.facebook.com/CameronHouseandPrestonfieldBC/"
+  maps_query: "Cameron+House+and+Prestonfield+Bowling+Club+Prestonfield+Avenue+Edinburgh+EH16+5EU"
+  profile_page: true
+  summary: "South Edinburgh community club with scenic views toward Arthur's Seat, hosting Edinburgh league bowls and sociable weekend games."
+  about: >
+    Situated on Prestonfield Avenue in South Edinburgh, Cameron House and Prestonfield Bowling Club offers a relaxed setting beneath the backdrop of Arthur's Seat. The club maintains an outdoor 6-rink grass green and an active schedule of club ties, seniors' afternoons, and open club competitions.
+
+- slug: "carrick-knowe-bowling-club"
+  name: "Carrick Knowe Bowling Club"
+  city: "edinburgh"
+  city_name: "Edinburgh"
+  country: "Scotland"
+  country_code: "GB"
+  area: "Carrick Knowe / Corstorphine"
+  address: "81a Broomhill Avenue, Edinburgh"
+  postcode: "EH12 7NW"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Flat Green"
+  season: "Outdoor: April &ndash; September"
+  beginner_friendly: true
+  barefoot_social: false
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://www.facebook.com/carrickknowebowlingclub/"
+  maps_query: "Carrick+Knowe+Bowling+Club+81a+Broomhill+Avenue+Edinburgh+EH12+7NW"
+  profile_page: true
+  summary: "Popular west Edinburgh club with a reputation for competitive success, vibrant junior development, and active social events."
+  about: >
+    Established in 1932 on Broomhill Avenue, Carrick Knowe Bowling Club is one of Edinburgh's most competitive and welcoming clubs. With a history of national and district championship wins, the club also places major emphasis on bringing new players into the sport through structured coaching and open roll-up days.
+
+- slug: "castle-park-bowling-club"
+  name: "Castle Park Bowling Club"
+  city: "edinburgh"
+  city_name: "Edinburgh"
+  country: "Scotland"
+  country_code: "GB"
+  area: "East Lothian (Prestonpans)"
+  address: "West Loan, Prestonpans, East Lothian"
+  postcode: "EH32 9HR"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Flat Green"
+  season: "Outdoor: April &ndash; September"
+  beginner_friendly: true
+  barefoot_social: false
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://www.facebook.com/CastleParkBowlingClub/"
+  maps_query: "Castle+Park+Bowling+Club+West+Loan+Prestonpans+EH32+9HR"
+  profile_page: true
+  summary: "Vibrant coastal bowling club in Prestonpans, East Lothian, offering competitive flat green play and community social events."
+  about: >
+    Located just minutes along the coast from East Edinburgh, Castle Park Bowling Club in Prestonpans plays an active role in East Lothian bowls leagues. The club welcomes visitors and newcomers throughout the April to September outdoor season with regular club competitions and social afternoons.
+
+- slug: "colinton-bowling-club"
+  name: "Colinton Bowling Club"
+  city: "edinburgh"
+  city_name: "Edinburgh"
+  country: "Scotland"
+  country_code: "GB"
+  area: "Colinton"
+  address: "Kennedy Pavilion, 49a Redford Road, Edinburgh"
+  postcode: "EH13 0AB"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Flat Green"
+  season: "Outdoor: April &ndash; September"
+  beginner_friendly: true
+  barefoot_social: false
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://www.colintonbowlingclub.co.uk/"
+  maps_query: "Colinton+Bowling+Club+49a+Redford+Road+Edinburgh+EH13+0AB"
+  profile_page: true
+  summary: "Picturesque bowling green located in historic Colinton village, offering friendly outdoor bowling in a scenic woodland setting."
+  about: >
+    Located in the historic Colinton conservation area at the Kennedy Pavilion on Redford Road, Colinton Bowling Club was founded in 1912. The club features a fine grass green bordered by trees, a welcoming clubhouse, and a supportive environment for players seeking either social roll-ups or local league matches.
+
+- slug: "coltbridge-bowling-club"
+  name: "Coltbridge Bowling Club"
+  city: "edinburgh"
+  city_name: "Edinburgh"
+  country: "Scotland"
+  country_code: "GB"
+  area: "Roseburn / Coltbridge"
+  address: "Coltbridge Gardens, Edinburgh"
+  postcode: "EH12 6AO"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Flat Green"
+  season: "Outdoor: April &ndash; September"
+  beginner_friendly: true
+  barefoot_social: false
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://www.facebook.com/ColtbridgeBowlingClub/"
+  maps_query: "Coltbridge+Bowling+Club+Coltbridge+Gardens+Edinburgh+EH12+6AO"
+  profile_page: true
+  summary: "Secluded west-central Edinburgh bowling club tucked beside the Water of Leith walkway, offering tranquil summer lawn bowling."
+  about: >
+    Situated on Coltbridge Gardens near the Water of Leith, Coltbridge Bowling Club offers an oasis of calm close to the city centre. With a sheltered 6-rink grass green, the club participates in Edinburgh district competitions and hosts weekly informal roll-ups for novice bowlers.
+
+- slug: "corstorphine-bowling-club"
+  name: "Corstorphine Bowling Club"
+  city: "edinburgh"
+  city_name: "Edinburgh"
+  country: "Scotland"
+  country_code: "GB"
+  area: "Corstorphine"
+  address: "Saughton Road North, Edinburgh"
+  postcode: "EH12 7HQ"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Flat Green"
+  season: "Outdoor: April &ndash; September"
+  rinks_info: "Two full-size outdoor grass greens"
+  beginner_friendly: true
+  barefoot_social: false
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://www.corstorphinebc.co.uk/"
+  maps_query: "Corstorphine+Bowling+Club+Saughton+Road+North+Edinburgh+EH12+7HQ"
+  profile_page: true
+  summary: "One of west Edinburgh's premier bowling facilities, founded in 1892 with two immaculate greens and a thriving clubhouse."
+  about: >
+    Founded in 1892, Corstorphine Bowling Club on Saughton Road North is among Edinburgh's premier bowling facilities. Equipped with two immaculate outdoor greens, a spacious modern clubhouse, and regular qualified coaching sessions, the club caters to top-tier competitive bowlers and social newcomers alike.
+
+- slug: "craigentinny-bowling-club"
+  name: "Craigentinny Bowling Club"
+  city: "edinburgh"
+  city_name: "Edinburgh"
+  country: "Scotland"
+  country_code: "GB"
+  area: "Craigentinny / Restalrig"
+  address: "Craigentinny Crescent, Edinburgh"
+  postcode: "EH7 6QA"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Flat Green"
+  season: "Outdoor: April &ndash; September"
+  beginner_friendly: true
+  barefoot_social: false
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://craigentinnybowlingclub.co.uk/"
+  maps_query: "Craigentinny+Bowling+Club+Craigentinny+Crescent+Edinburgh+EH7+6QA"
+  profile_page: true
+  summary: "Friendly and historic east Edinburgh club offering competitive league fixtures, gala tournaments, and a bustling social calendar."
+  about: >
+    Set within residential east Edinburgh near Portobello, Craigentinny Bowling Club has been providing lawn bowls since 1928. The club maintains an outdoor 6-rink grass green, hosts open tournaments, and runs weekly aggregate sessions where beginner bowlers can practice without pressure.
+
+- slug: "currie-bowling-club"
+  name: "Currie Bowling Club"
+  city: "edinburgh"
+  city_name: "Edinburgh"
+  country: "Scotland"
+  country_code: "GB"
+  area: "South West Edinburgh (Currie)"
+  address: "279 Lanark Road West, Currie, Edinburgh"
+  postcode: "EH14 5RT"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Flat Green"
+  season: "Outdoor: April &ndash; September"
+  beginner_friendly: true
+  barefoot_social: false
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://www.curriebowlingclub.co.uk/"
+  maps_query: "Currie+Bowling+Club+279+Lanark+Road+West+Currie+EH14+5RT"
+  profile_page: true
+  summary: "Community-focused club in the village of Currie, offering an excellent green, active youth section, and social roll-ups."
+  about: >
+    Founded in 1891 on Lanark Road West, Currie Bowling Club is a staple of south-west Edinburgh's community sports life. Overlooking the Water of Leith valley, the club features an exceptionally fast and level grass green, strong representation in Edinburgh and West Lothian leagues, and dedicated coaching for juniors and adults.
+
+- slug: "danderhall-bowling-club"
+  name: "Danderhall Bowling Club"
+  city: "edinburgh"
+  city_name: "Edinburgh"
+  country: "Scotland"
+  country_code: "GB"
+  area: "Midlothian (Danderhall)"
+  address: "Edmonstone Road, Danderhall, Midlothian"
+  postcode: "EH22 1QU"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Flat Green"
+  season: "Outdoor: April &ndash; September"
+  beginner_friendly: true
+  barefoot_social: false
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://www.facebook.com/danderhallbc/"
+  maps_query: "Danderhall+Bowling+Club+Edmonstone+Road+Danderhall+EH22+1QU"
+  profile_page: true
+  summary: "Welcoming Midlothian bowling club just beyond the city bypass, known for its warm hospitality and active community events."
+  about: >
+    Located on Edmonstone Road in Danderhall, just south-east of Edinburgh, Danderhall Bowling Club is a cornerstone of the local village community. The club provides competitive flat green bowling in Midlothian association leagues as well as social roll-ups and community clubhouse events.
+
+- slug: "dean-bowling-club"
+  name: "Dean Bowling Club"
+  city: "edinburgh"
+  city_name: "Edinburgh"
+  country: "Scotland"
+  country_code: "GB"
+  area: "Stockbridge / Comely Bank"
+  address: "18 Comely Bank Terrace, Edinburgh"
+  postcode: "EH4 1AS"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Flat Green"
+  season: "Outdoor: April &ndash; September"
+  beginner_friendly: true
+  barefoot_social: false
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://www.deanbowlingclub.com/"
+  maps_query: "Dean+Bowling+Club+18+Comely+Bank+Terrace+Edinburgh+EH4+1AS"
+  profile_page: true
+  summary: "Historic club in the heart of Stockbridge, founded in 1838 with one of the most picturesque bowling greens in Scotland."
+  about: >
+    Established in 1838, Dean Bowling Club is one of the world's oldest lawn bowling clubs. Located on Comely Bank Terrace beside the Dean Village and Stockbridge, this club boasts a sun-drenched, high-hedged 6-rink green and a character-filled clubhouse. Dean warmly welcomes new bowlers, offering regular introductory sessions with loan bowls available.
+
+- slug: "deantown-welfare-bowling-club"
+  name: "Deantown Welfare Bowling Club"
+  city: "edinburgh"
+  city_name: "Edinburgh"
+  country: "Scotland"
+  country_code: "GB"
+  area: "East Lothian (Whitecraig / Musselburgh)"
+  address: "70 Whitecraig Avenue, Whitecraig, Musselburgh"
+  postcode: "EH21 8ND"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Flat Green"
+  season: "Outdoor: April &ndash; September"
+  beginner_friendly: true
+  barefoot_social: false
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://www.facebook.com/deantownbc/"
+  maps_query: "Deantown+Welfare+Bowling+Club+70+Whitecraig+Avenue+Musselburgh+EH21+8ND"
+  profile_page: true
+  summary: "Enthusiastic welfare bowling club in Whitecraig, Musselburgh, featuring competitive East Lothian league play and community galas."
+  about: >
+    Located on Whitecraig Avenue in Musselburgh, Deantown Welfare Bowling Club offers friendly outdoor lawn bowls on the borders of East Lothian and Edinburgh. The club hosts regular club competitions, inter-club matches, and community social nights throughout the summer months.
+
+- slug: "dudley-bowling-club"
+  name: "Dudley Bowling Club"
+  city: "edinburgh"
+  city_name: "Edinburgh"
+  country: "Scotland"
+  country_code: "GB"
+  area: "Leith / Trinity"
+  address: "Dudley Grove, Leith, Edinburgh"
+  postcode: "EH6 4QP"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Flat Green"
+  season: "Outdoor: April &ndash; September"
+  beginner_friendly: true
+  barefoot_social: false
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://www.facebook.com/DudleyBowlingClub/"
+  maps_query: "Dudley+Bowling+Club+Dudley+Grove+Leith+Edinburgh+EH6+4QP"
+  profile_page: true
+  summary: "Historic north Edinburgh bowling club dating from 1891, tucked between Leith and Trinity with a well-sheltered green."
+  about: >
+    Founded in 1891 on Dudley Grove, Dudley Bowling Club is a friendly community club nestled in the residential heart of Leith. The club features a well-sheltered 6-rink green, licensed bar, and social calendar including bingo, dominoes, and summer barbecue roll-ups for newcomers.
+
+- slug: "edinburgh-bowling-club"
+  name: "Edinburgh Bowling Club"
+  city: "edinburgh"
+  city_name: "Edinburgh"
+  country: "Scotland"
+  country_code: "GB"
+  area: "Southside / Newington"
+  address: "4 Meadow Lane, Buccleuch Street, Edinburgh"
+  postcode: "EH8 9NR"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Flat Green"
+  season: "Outdoor: April &ndash; September"
+  beginner_friendly: true
+  barefoot_social: false
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://www.edinburghbowlingclub.co.uk/"
+  maps_query: "Edinburgh+Bowling+Club+4+Meadow+Lane+Edinburgh+EH8+9NR"
+  profile_page: true
+  summary: "Founded in 1848 beside the Meadows, this historic central club is Edinburgh's namesake bowling institution."
+  about: >
+    Situated at 4 Meadow Lane right beside Edinburgh's iconic Meadows park, Edinburgh Bowling Club was instituted in 1848. The club provides a peaceful sporting sanctuary in the heart of the city's university quarter, offering a 6-rink natural grass green, regular league matches, and a welcoming atmosphere for students and local residents alike.
+
+- slug: "goldenacre-bowling-club"
+  name: "Goldenacre Bowling Club"
+  city: "edinburgh"
+  city_name: "Edinburgh"
+  country: "Scotland"
+  country_code: "GB"
+  area: "Trinity / Inverleith"
+  address: "12 Bangholm Terrace, Edinburgh"
+  postcode: "EH3 5QU"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Flat Green"
+  season: "Outdoor: April &ndash; September"
+  beginner_friendly: true
+  barefoot_social: false
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://www.goldenacrebowlingclub.co.uk/"
+  maps_query: "Goldenacre+Bowling+Club+12+Bangholm+Terrace+Edinburgh+EH3+5QU"
+  profile_page: true
+  summary: "Friendly north Edinburgh club situated near Warriston playing fields, featuring active internal competitions and beginner taster sessions."
+  about: >
+    Founded in 1904 on Bangholm Terrace, Goldenacre Bowling Club serves the Inverleith, Trinity, and Ferry Road areas. With an outdoor grass green surrounded by mature trees, the club offers an inclusive setting for players of all abilities, including Wednesday roll-ups and Edinburgh league participation.
+
+- slug: "hillside-bowling-club"
+  name: "Hillside Bowling Club"
+  city: "edinburgh"
+  city_name: "Edinburgh"
+  country: "Scotland"
+  country_code: "GB"
+  area: "Hillside / Calton"
+  address: "16 Brunton Terrace, Edinburgh"
+  postcode: "EH7 5EH"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Flat Green"
+  season: "Outdoor: April &ndash; September"
+  beginner_friendly: true
+  barefoot_social: false
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://www.hillsidebowlingclub.co.uk/"
+  maps_query: "Hillside+Bowling+Club+16+Brunton+Terrace+Edinburgh+EH7+5EH"
+  profile_page: true
+  summary: "Central Edinburgh club located in the shadow of Calton Hill, known for its warm social environment and competitive evening leagues."
+  about: >
+    Situated on Brunton Terrace just off London Road and near Calton Hill, Hillside Bowling Club has been active since the late 19th century. The club offers a beautifully kept outdoor grass green, an enthusiastic membership, and regular weekend social matches where new bowlers can pick up bowls and get advice from seasoned club members.
+
+- slug: "juniper-green-bowling-club"
+  name: "Juniper Green Bowling Club"
+  city: "edinburgh"
+  city_name: "Edinburgh"
+  country: "Scotland"
+  country_code: "GB"
+  area: "South West Edinburgh (Juniper Green)"
+  address: "11a Woodhall Terrace, Juniper Green, Edinburgh"
+  postcode: "EH14 5BR"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Flat Green"
+  season: "Outdoor: April &ndash; September"
+  beginner_friendly: true
+  barefoot_social: false
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://www.junipergreenbowlingclub.co.uk/"
+  maps_query: "Juniper+Green+Bowling+Club+11a+Woodhall+Terrace+Juniper+Green+EH14+5BR"
+  profile_page: true
+  summary: "Welcoming village club on the scenic Water of Leith corridor, running coaching clinics and active inter-club fixtures."
+  about: >
+    Instituted in 1891 in the village of Juniper Green, this club provides a classic Scottish bowling experience. Overlooking the Pentland Hills on Woodhall Terrace, Juniper Green Bowling Club features a competitive 6-rink flat green, a clubhouse with licensed bar, and structured open days with loan equipment for prospective members.
+
+- slug: "leith-bowling-club"
+  name: "Leith Bowling Club"
+  city: "edinburgh"
+  city_name: "Edinburgh"
+  country: "Scotland"
+  country_code: "GB"
+  area: "Leith (Leith Links)"
+  address: "25 Claremont Park, Leith Links, Edinburgh"
+  postcode: "EH6 7DF"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Flat Green"
+  season: "Outdoor: April &ndash; September"
+  beginner_friendly: true
+  barefoot_social: false
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://www.facebook.com/LeithBowlingClub/"
+  maps_query: "Leith+Bowling+Club+25+Claremont+Park+Leith+Edinburgh+EH6+7DF"
+  profile_page: true
+  summary: "Historic Leith club overlooking the famous Leith Links, offering social bowling, league matches, and a lively clubhouse."
+  about: >
+    Situated on Claremont Park directly alongside the historic expanse of Leith Links, Leith Bowling Club has deep roots in the port's sporting heritage. With an open, sunny green and an active social community, the club welcomes new bowlers of all backgrounds to try the game in a friendly environment.
+
+- slug: "london-road-foundry-bowling-club"
+  name: "London Road Foundry Bowling Club"
+  city: "edinburgh"
+  city_name: "Edinburgh"
+  country: "Scotland"
+  country_code: "GB"
+  area: "Meadowbank / Abbeyhill"
+  address: "27 Marionville Road, Edinburgh"
+  postcode: "EH7 5UP"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Flat Green"
+  season: "Outdoor: April &ndash; September"
+  beginner_friendly: true
+  barefoot_social: false
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://www.facebook.com/LRFBC/"
+  maps_query: "London+Road+Foundry+Bowling+Club+27+Marionville+Road+Edinburgh+EH7+5UP"
+  profile_page: true
+  summary: "Traditional Edinburgh club with proud industrial heritage near Meadowbank, offering friendly competition and social events."
+  about: >
+    Founded in 1908 by workers from the London Road Iron Foundry, this club on Marionville Road near Meadowbank Stadium retains a strong sense of community camaraderie. Featuring a well-maintained 6-rink grass green and an inviting clubhouse, LRFBC enters teams in Edinburgh association leagues and welcomes novices for roll-ups.
+
+- slug: "maitland-bowling-club"
+  name: "Maitland Bowling Club"
+  city: "edinburgh"
+  city_name: "Edinburgh"
+  country: "Scotland"
+  country_code: "GB"
+  area: "Pilrig / Leith"
+  address: "35 Arthur Street, Edinburgh"
+  postcode: "EH6 5DA"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Flat Green"
+  season: "Outdoor: April &ndash; September"
+  beginner_friendly: true
+  barefoot_social: false
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://www.facebook.com/MaitlandBowlingClub/"
+  maps_query: "Maitland+Bowling+Club+35+Arthur+Street+Edinburgh+EH6+5DA"
+  profile_page: true
+  summary: "Tucked into Arthur Street between Leith Walk and Bonnington, Maitland Bowling Club provides accessible summer bowls and community hospitality."
+  about: >
+    Founded in 1899, Maitland Bowling Club offers an intimate, walled 6-rink natural grass green in north Edinburgh. The club hosts regular club competitions, friendlies, and introductory roll-ups with spare bowls available for anyone looking to try the game.
+
+- slug: "mayfield-bowling-club"
+  name: "Mayfield Bowling Club"
+  city: "edinburgh"
+  city_name: "Edinburgh"
+  country: "Scotland"
+  country_code: "GB"
+  area: "Mayfield / Newington"
+  address: "11/1 West Savile Terrace, Edinburgh"
+  postcode: "EH9 3DT"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Flat Green"
+  season: "Outdoor: April &ndash; September"
+  beginner_friendly: true
+  barefoot_social: false
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://www.mayfieldbowlingclub.co.uk/"
+  maps_query: "Mayfield+Bowling+Club+11+1+West+Savile+Terrace+Edinburgh+EH9+3DT"
+  profile_page: true
+  summary: "High-profile south Edinburgh bowling green founded in 1888, known for exceptional playing surfaces and a competitive championship record."
+  about: >
+    Situated on West Savile Terrace in the southside of Edinburgh, Mayfield Bowling Club is renowned for its immaculate playing surface. Founded in 1888, the club has produced numerous international and national champions, while maintaining an active beginner program with free coaching and equipment hire for new bowlers.
+
+- slug: "meadowmill-indoor-bowling-club"
+  name: "Meadowmill Indoor Bowling Club"
+  city: "edinburgh"
+  city_name: "Edinburgh"
+  country: "Scotland"
+  country_code: "GB"
+  area: "East Lothian / Tranent"
+  address: "Meadowmill Sports Centre, By Tranent, East Lothian"
+  postcode: "EH33 1LZ"
+  surfaces:
+    - "Indoor Carpet"
+  formats:
+    - "Indoor"
+    - "Flat Green"
+  season: "Year-round (Indoor Sep&ndash;Apr primary league season)"
+  rinks_info: "6-rink international-standard indoor arena"
+  beginner_friendly: true
+  barefoot_social: false
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://www.enjoyleisure.com/"
+  maps_query: "Meadowmill+Indoor+Bowling+Club+Meadowmill+Sports+Centre+Tranent+EH33+1LZ"
+  profile_page: true
+  summary: "Major regional indoor bowls centre serving East Lothian and east Edinburgh bowlers with 6 tournament rinks and winter leagues."
+  about: >
+    Located at the Meadowmill Sports Centre near Tranent and Prestonpans, Meadowmill Indoor Bowling Club provides premier winter bowling for Edinburgh and the Lothians. The facility features a laser-level 6-rink carpet arena hosting Scottish Indoor Bowling Association (SIBA) league fixtures, open triples competitions, and regular introductory sessions.
+
+- slug: "merchiston-bowling-club"
+  name: "Merchiston Bowling Club"
+  city: "edinburgh"
+  city_name: "Edinburgh"
+  country: "Scotland"
+  country_code: "GB"
+  area: "Merchiston / Polwarth"
+  address: "6 Polwarth Terrace, Edinburgh"
+  postcode: "EH11 1NE"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Flat Green"
+  season: "Outdoor: April &ndash; September"
+  beginner_friendly: true
+  barefoot_social: false
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://www.merchistonbowlingclub.co.uk/"
+  maps_query: "Merchiston+Bowling+Club+6+Polwarth+Terrace+Edinburgh+EH11+1NE"
+  profile_page: true
+  summary: "Prestigious southwest Edinburgh club established in 1856, offering championship green conditions and an active clubhouse."
+  about: >
+    Established in 1856, Merchiston Bowling Club on Polwarth Terrace is one of the historic giants of Edinburgh bowls. Boasting a championship-standard 6-rink green, squash courts, and an elegant clubhouse, Merchiston is active across Edinburgh leagues and hosts regular open taster sessions for newcomers.
+
+- slug: "morningside-bowling-club"
+  name: "Morningside Bowling Club"
+  city: "edinburgh"
+  city_name: "Edinburgh"
+  country: "Scotland"
+  country_code: "GB"
+  area: "Morningside"
+  address: "19 Albert Terrace, Edinburgh"
+  postcode: "EH10 5EA"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Flat Green"
+  season: "Outdoor: April &ndash; September"
+  rinks_info: "Two full-size outdoor greens and tennis courts"
+  beginner_friendly: true
+  barefoot_social: false
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://www.morningsidebowlingclub.co.uk/"
+  maps_query: "Morningside+Bowling+Club+19+Albert+Terrace+Edinburgh+EH10+5EA"
+  profile_page: true
+  summary: "Highly regarded south Edinburgh club established in 1878, featuring two greens, tennis courts, and comprehensive coaching."
+  about: >
+    Nestled on Albert Terrace in the heart of Morningside, this historic club was founded in 1878. Featuring two full-sized bowling greens and three tennis courts, Morningside Bowling Club is one of Edinburgh's most vibrant multi-sport clubs. The club actively runs introductory coaching days and fun social roll-ups throughout the summer.
+
+- slug: "northern-bowling-club"
+  name: "Northern Bowling Club"
+  city: "edinburgh"
+  city_name: "Edinburgh"
+  country: "Scotland"
+  country_code: "GB"
+  area: "Morningside / Greenhill"
+  address: "11 Rochester Terrace, Edinburgh"
+  postcode: "EH10 5AA"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Flat Green"
+  season: "Outdoor: April &ndash; September"
+  beginner_friendly: true
+  barefoot_social: false
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://www.northernbowlingclub.co.uk/"
+  maps_query: "Northern+Bowling+Club+11+Rochester+Terrace+Edinburgh+EH10+5AA"
+  profile_page: true
+  summary: "Peaceful southside bowling green located on Rochester Terrace, offering friendly flat green play and social memberships."
+  about: >
+    Dating back to 1860, Northern Bowling Club on Rochester Terrace provides a tranquil sporting sanctuary in south Edinburgh. The club features a well-sheltered natural grass green, a hospitable clubhouse, and an open policy encouraging newcomers to try lawn bowling with friendly member coaching.
+
+- slug: "parkside-bowling-club"
+  name: "Parkside Bowling Club"
+  city: "edinburgh"
+  city_name: "Edinburgh"
+  country: "Scotland"
+  country_code: "GB"
+  area: "Newington / Southside"
+  address: "30 Oxford Street, Edinburgh"
+  postcode: "EH8 9PJ"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Flat Green"
+  season: "Outdoor: April &ndash; September"
+  beginner_friendly: true
+  barefoot_social: false
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://www.facebook.com/parksidebowlingclub/"
+  maps_query: "Parkside+Bowling+Club+30+Oxford+Street+Edinburgh+EH8+9PJ"
+  profile_page: true
+  summary: "Centrally located southside club founded in 1883, known for its community atmosphere and proximity to Commonwealth Pool."
+  about: >
+    Located on Oxford Street near the Royal Commonwealth Pool, Parkside Bowling Club has offered flat green bowling since 1883. The club maintains an outdoor 6-rink grass green, organizes weekend friendly matches against Lothian clubs, and hosts open evenings with loan equipment for beginners.
+
+- slug: "pilrig-bowling-club"
+  name: "Pilrig Bowling Club"
+  city: "edinburgh"
+  city_name: "Edinburgh"
+  country: "Scotland"
+  country_code: "GB"
+  area: "Pilrig / Leith"
+  address: "40 Pilrig Street, Edinburgh"
+  postcode: "EH6 5AW"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Flat Green"
+  season: "Outdoor: April &ndash; September"
+  beginner_friendly: true
+  barefoot_social: false
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://www.pilrigbowlingclub.co.uk/"
+  maps_query: "Pilrig+Bowling+Club+40+Pilrig+Street+Edinburgh+EH6+5AW"
+  profile_page: true
+  summary: "Popular club on Pilrig Street connecting Leith with central Edinburgh, known for welcoming new members and casual roll-ups."
+  about: >
+    Situated on Pilrig Street, Pilrig Bowling Club was established in 1902. Offering a high-standard grass green surrounded by stone walls and gardens, Pilrig is celebrated for its warm community spirit, weekly club aggregate roll-ups, and regular coaching for beginner bowlers.
+
+- slug: "portobello-bowling-club"
+  name: "Portobello Bowling Club"
+  city: "edinburgh"
+  city_name: "Edinburgh"
+  country: "Scotland"
+  country_code: "GB"
+  area: "Portobello"
+  address: "26 Lee Crescent, Portobello, Edinburgh"
+  postcode: "EH15 1LW"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Flat Green"
+  season: "Outdoor: April &ndash; September"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://www.facebook.com/portobellobowlingclub/"
+  maps_query: "Portobello+Bowling+Club+26+Lee+Crescent+Portobello+EH15+1LW"
+  profile_page: true
+  summary: "Seaside bowling club founded in 1858 in Edinburgh's coastal suburb of Portobello, running social roll-ups, barefoot days, and league ties."
+  about: >
+    Situated on Lee Crescent just a short stroll from Portobello Beach and promenade, Portobello Bowling Club is one of Scotland's historic seaside bowling greens. The club features a beautifully maintained 6-rink green, a clubhouse with a licensed bar, and social bowling events designed for visitors and prospective bowlers.
+
+- slug: "postal-bowling-club"
+  name: "Postal Bowling Club"
+  city: "edinburgh"
+  city_name: "Edinburgh"
+  country: "Scotland"
+  country_code: "GB"
+  area: "Trinity / Ferry Road"
+  address: "163 Ferry Road, Edinburgh"
+  postcode: "EH6 4NN"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Flat Green"
+  season: "Outdoor: April &ndash; September"
+  beginner_friendly: true
+  barefoot_social: false
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://www.facebook.com/postalbc/"
+  maps_query: "Postal+Bowling+Club+163+Ferry+Road+Edinburgh+EH6+4NN"
+  profile_page: true
+  summary: "Established north Edinburgh club on Ferry Road with a rich sporting history, hospitable pavilion, and welcoming roll-ups."
+  about: >
+    Located on Ferry Road, Postal Bowling Club was originally formed for postal service workers and has grown into an inclusive community bowling club. Featuring an outdoor 6-rink flat green, the club participates in Edinburgh district competitions and hosts weekly open sessions where new players can borrow bowls.
+
+- slug: "sighthill-bowling-club"
+  name: "Sighthill Bowling Club"
+  city: "edinburgh"
+  city_name: "Edinburgh"
+  country: "Scotland"
+  country_code: "GB"
+  area: "Sighthill / Broomhouse"
+  address: "70 Broomhouse Road, Edinburgh"
+  postcode: "EH11 3TX"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Flat Green"
+  season: "Outdoor: April &ndash; September"
+  beginner_friendly: true
+  barefoot_social: false
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://www.facebook.com/sighthillbc/"
+  maps_query: "Sighthill+Bowling+Club+70+Broomhouse+Road+Edinburgh+EH11+3TX"
+  profile_page: true
+  summary: "West Edinburgh community club with excellent clubhouse facilities, competitive league bowling, and friendly novice roll-ups."
+  about: >
+    Situated on Broomhouse Road in west Edinburgh, Sighthill Bowling Club provides a welcoming sporting hub for the Sighthill, Broomhouse, and Wester Hailes communities. The club features a well-kept 6-rink flat green, active participation in the Edinburgh and West Lothian leagues, and social taster events for beginners.
+
+- slug: "slateford-bowling-club"
+  name: "Slateford Bowling Club"
+  city: "edinburgh"
+  city_name: "Edinburgh"
+  country: "Scotland"
+  country_code: "GB"
+  area: "Slateford / Longstone"
+  address: "5 Longstone Road, Edinburgh"
+  postcode: "EH14 2BD"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Flat Green"
+  season: "Outdoor: April &ndash; September"
+  beginner_friendly: true
+  barefoot_social: false
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://www.slatefordbowlingclub.co.uk/"
+  maps_query: "Slateford+Bowling+Club+5+Longstone+Road+Edinburgh+EH14+2BD"
+  profile_page: true
+  summary: "Long-standing southwest Edinburgh club founded in 1903, featuring strong league squads, social bowling, and coaching."
+  about: >
+    Established in 1903 on Longstone Road, Slateford Bowling Club is a prominent sporting landmark in southwest Edinburgh. The club features a pristine natural grass green, modern licensed clubhouse, and an active schedule of competitive matches, seniors' friendlies, and beginner coaching clinics.
+
+- slug: "summerside-bowling-club"
+  name: "Summerside Bowling Club"
+  city: "edinburgh"
+  city_name: "Edinburgh"
+  country: "Scotland"
+  country_code: "GB"
+  area: "Trinity / Leith"
+  address: "17 Summerside Place, Edinburgh"
+  postcode: "EH6 4NY"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Flat Green"
+  season: "Outdoor: April &ndash; September"
+  beginner_friendly: true
+  barefoot_social: false
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://www.summersidebowlingclub.co.uk/"
+  maps_query: "Summerside+Bowling+Club+17+Summerside+Place+Edinburgh+EH6+4NY"
+  profile_page: true
+  summary: "Charming north Edinburgh club tucked inside a quiet residential crescent near Ferry Road, offering scenic flat green bowling."
+  about: >
+    Founded in 1908 on Summerside Place, this intimate community club is nestled in a private walled garden between Leith and Trinity. Summerside Bowling Club boasts a fine 6-rink lawn green and a hospitable pavilion, offering weekly roll-ups, member coaching, and weekend friendlies for bowlers of all ages.
+
+- slug: "tanfield-bowling-club"
+  name: "Tanfield Bowling Club"
+  city: "edinburgh"
+  city_name: "Edinburgh"
+  country: "Scotland"
+  country_code: "GB"
+  area: "Canonmills / Inverleith"
+  address: "1 Warriston Park, Edinburgh"
+  postcode: "EH3 5NG"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Flat Green"
+  season: "Outdoor: April &ndash; September"
+  beginner_friendly: true
+  barefoot_social: false
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://www.tanfieldbowlingclub.co.uk/"
+  maps_query: "Tanfield+Bowling+Club+1+Warriston+Park+Edinburgh+EH3+5NG"
+  profile_page: true
+  summary: "Historic central club established in 1872 on Warriston Park near the Royal Botanic Garden, offering competitive and social bowling."
+  about: >
+    Established in 1872, Tanfield Bowling Club enjoys a scenic location at Warriston Park near Canonmills and the Royal Botanic Garden Edinburgh. The club offers a 6-rink natural grass green, men's and ladies' league teams, and an open policy welcoming beginner bowlers to try flat green bowling with equipment on hand.
+
+- slug: "trinity-bowling-club"
+  name: "Trinity Bowling Club"
+  city: "edinburgh"
+  city_name: "Edinburgh"
+  country: "Scotland"
+  country_code: "GB"
+  area: "Trinity"
+  address: "21 Lomond Road, Edinburgh"
+  postcode: "EH5 3JN"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Flat Green"
+  season: "Outdoor: April &ndash; September"
+  beginner_friendly: true
+  barefoot_social: false
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://www.trinitybowlingclub.co.uk/"
+  maps_query: "Trinity+Bowling+Club+21+Lomond+Road+Edinburgh+EH5+3JN"
+  profile_page: true
+  summary: "Premier north Edinburgh club founded in 1898, featuring pristine grass greens, tennis courts, and an active coaching setup."
+  about: >
+    Situated on Lomond Road in the coastal district of Trinity, Trinity Bowling Club has been a cornerstone of north Edinburgh sport since 1898. In addition to a manicured 6-rink bowling green, Trinity offers tennis facilities, a vibrant social calendar, and regular open days where qualified club coaches guide beginners through delivery techniques.
+
+- slug: "wardie-bowling-club"
+  name: "Wardie Bowling Club"
+  city: "edinburgh"
+  city_name: "Edinburgh"
+  country: "Scotland"
+  country_code: "GB"
+  area: "Wardie / Granton"
+  address: "25a Granton Road, Edinburgh"
+  postcode: "EH5 3JB"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Flat Green"
+  season: "Outdoor: April &ndash; September"
+  beginner_friendly: true
+  barefoot_social: false
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://www.wardiebowlingclub.com/"
+  maps_query: "Wardie+Bowling+Club+25a+Granton+Road+Edinburgh+EH5+3JB"
+  profile_page: true
+  summary: "Established in 1904 on Granton Road, overlooking the Firth of Forth with top-class bowling and social facilities."
+  about: >
+    Founded in 1904, Wardie Bowling Club sits in north Edinburgh with views toward the Firth of Forth. With a top-tier 6-rink outdoor flat green, strong league teams, and a welcoming membership, Wardie offers excellent opportunities for newcomers to learn the game through casual roll-ups and club loan sets.
+
+- slug: "watsonian-bowling-club"
+  name: "Watsonian Bowling Club"
+  city: "edinburgh"
+  city_name: "Edinburgh"
+  country: "Scotland"
+  country_code: "GB"
+  area: "Myreside / Merchiston"
+  address: "Myreside Road, Edinburgh"
+  postcode: "EH10 5DB"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Flat Green"
+  season: "Outdoor: April &ndash; September"
+  beginner_friendly: true
+  barefoot_social: false
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://www.watsonians.org/"
+  maps_query: "Watsonian+Bowling+Club+Myreside+Road+Edinburgh+EH10+5DB"
+  profile_page: true
+  summary: "High-quality bowling facility located at George Watson's College sports grounds at Myreside, welcoming alumni and open club members."
+  about: >
+    Located at Myreside on the grounds of George Watson's College, Watsonian Bowling Club boasts an immaculate natural grass green and modern pavilion. While carrying a storied association with the school's sports club, Watsonian welcomes bowlers from across the Edinburgh community to play in league matches and social ties.
+
+- slug: "west-end-bowling-club"
+  name: "West End Bowling Club"
+  city: "edinburgh"
+  city_name: "Edinburgh"
+  country: "Scotland"
+  country_code: "GB"
+  area: "West End / Haymarket"
+  address: "25 Grosvenor Crescent Mews, Edinburgh"
+  postcode: "EH12 5EU"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Flat Green"
+  season: "Outdoor: April &ndash; September"
+  beginner_friendly: true
+  barefoot_social: false
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://www.westendbowlingclub.co.uk/"
+  maps_query: "West+End+Bowling+Club+25+Grosvenor+Crescent+Mews+Edinburgh+EH12+5EU"
+  profile_page: true
+  summary: "Unique secluded bowling green in Edinburgh's West End, founded in 1898 and hidden in a quiet mews near Haymarket."
+  about: >
+    Founded in 1898 and tucked away in Grosvenor Crescent Mews, West End Bowling Club is one of Edinburgh's best-kept secrets. Surpassed by Victorian townhouses, the club provides a peaceful haven in the city centre with an outdoor grass green, sociable membership, and beginner open sessions with equipment supplied.
+
+- slug: "willowbrae-bowling-club"
+  name: "Willowbrae Bowling Club"
+  city: "edinburgh"
+  city_name: "Edinburgh"
+  country: "Scotland"
+  country_code: "GB"
+  area: "Willowbrae / Duddingston"
+  address: "8 Willowbrae Avenue, Edinburgh"
+  postcode: "EH8 7HG"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Flat Green"
+  season: "Outdoor: April &ndash; September"
+  beginner_friendly: true
+  barefoot_social: false
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://www.facebook.com/willowbraebc/"
+  maps_query: "Willowbrae+Bowling+Club+8+Willowbrae+Avenue+Edinburgh+EH8+7HG"
+  profile_page: true
+  summary: "Picturesque east Edinburgh bowling green sitting at the base of Arthur's Seat, offering friendly competition and social roll-ups."
+  about: >
+    Situated on Willowbrae Avenue at the eastern foot of Arthur's Seat, Willowbrae Bowling Club was founded in 1909. The club offers a 6-rink natural grass green, active men's and ladies' teams in the Edinburgh leagues, and regular weekend friendlies welcoming beginner bowlers.

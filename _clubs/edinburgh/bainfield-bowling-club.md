@@ -17,7 +17,7 @@ surfaces:
 formats:
 - "Flat Green"
 - "Indoor"
-season: "Year-round (Outdoor Apr–Sep, Indoor Sep–Apr)"
+season: "Year-round (Outdoor Apr&ndash;Sep, Indoor Sep&ndash;Apr)"
 rinks_info: "8-rink indoor stadium plus outdoor grass greens"
 beginner_friendly: true
 barefoot_social: true
@@ -28,6 +28,6 @@ maps_query: "Bainfield+Bowling+Club+34+Hutchison+Crossway+Edinburgh+EH14+1RU"
 summary: >
   One of Edinburgh's premier year-round venues, featuring both an 8-rink indoor stadium for winter play and traditional outdoor grass greens.
 about: >
-  Located in West Edinburgh near Gorgie and Slateford, Bainfield Bowling Club is one of the few clubs in the Lothian region offering both outdoor summer grass greens and a dedicated 8-rink indoor bowling stadium. This makes it an ideal hub for bowlers looking to play through the Scottish winter as well as newcomers attending taster sessions.
-last_modified_at: 2026-11-11 13:17:00 +0000
+  Located in West Edinburgh near Gorgie and Slateford, Bainfield Bowling Club is one of Scotland's top bowling facilities. Offering both outdoor summer grass greens and a dedicated 8-rink indoor bowling stadium, Bainfield hosts national championships, indoor leagues throughout autumn and winter, and regular open taster days with coaching and equipment provided.
+last_modified_at: 2026-11-16 14:49:38 +0000
 ---

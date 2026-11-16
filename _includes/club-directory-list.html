@@ -51,7 +51,7 @@
         All Clubs
       </button>
       <button type="button" class="club-filter-pill" data-filter="indoor" aria-pressed="false">
-        <i class="fas fa-warehouse" aria-hidden="true"></i> Indoor Rinks
+        <i class="fas fa-warehouse" aria-hidden="true"></i> Indoor &amp; Covered
       </button>
       <button type="button" class="club-filter-pill" data-filter="outdoor" aria-pressed="false">
         <i class="fas fa-sun" aria-hidden="true"></i> Outdoor Greens
@@ -75,10 +75,10 @@
       {% endif %}
 
       {% for surf in club.surfaces %}
-        {% if surf contains 'Indoor' or surf contains 'Carpet' %}
+        {% if surf contains 'Indoor' or surf contains 'Carpet' or surf contains 'Covered' or surf contains 'Dome' %}
           {% assign is_indoor = true %}
         {% endif %}
-        {% if surf contains 'Outdoor' or surf contains 'Grass' or surf contains 'Synthetic' or surf contains 'Crown' %}
+        {% if surf contains 'Outdoor' or surf contains 'Grass' or surf contains 'Synthetic' or surf contains 'Crown' or surf contains 'Covered' or surf contains 'Dome' %}
           {% assign is_outdoor = true %}
         {% endif %}
       {% endfor %}
