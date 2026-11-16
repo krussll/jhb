@@ -1,13 +1,25 @@
 // Bowls Club Directory Styling
 // Jack High Bowls Brand Palette: Deep Blue (#1F2B5F), Warm Gold (#C89B3C), Neutral Light (#f8f9fa), Dark Charcoal (#222222)
 
-.club-hero {
+.club-hero,
+header.masthead.club-hero,
+.masthead.club-hero,
+header.masthead.post-hero.club-hero {
   background: radial-gradient(circle at top right, rgba(29, 78, 216, 0.25), transparent 60%),
     linear-gradient(135deg, #1f2b5f 0%, #19204b 100%) !important;
   color: #ffffff;
   padding: 4rem 0 3.5rem;
+  margin-bottom: 0;
   position: relative;
   overflow: hidden;
+
+  @media (max-width: 992px) {
+    padding: 3.5rem 0 3rem;
+  }
+
+  @media (max-width: 768px) {
+    padding: 3rem 0 2.5rem;
+  }
 
   &::after {
     content: "";
@@ -891,5 +903,3 @@
     text-align: right;
   }
 }
-
-
