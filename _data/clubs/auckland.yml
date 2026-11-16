@@ -1,0 +1,745 @@
+- slug: "carlton-cornwall-bowls"
+  name: "Carlton Cornwall Bowls"
+  city: "auckland"
+  city_name: "Auckland"
+  city_url: "/bowls-clubs/bowls-clubs-in-auckland-new-zealand/"
+  country: "New Zealand"
+  country_code: "NZ"
+  area: "Central / Greenlane"
+  address: "126 Market Road, Epsom / Greenlane"
+  postcode: "1051"
+  surfaces:
+    - "Outdoor Grass"
+    - "Outdoor Synthetic"
+  formats:
+    - "National Championships"
+    - "Pennant"
+    - "Barefoot Bowls"
+    - "Social Bowls"
+  season: "Year-round"
+  rinks_info: "4 greens including championship Cotula natural turf and woven synthetic carpet"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://carltoncornwallbowls.co.nz/"
+  maps_query: "Carlton+Cornwall+Bowls+Market+Road+Greenlane+Auckland+1051"
+  profile_page: true
+  summary: "New Zealand's flagship bowls club, home to national championships, featuring immaculate Cotula starweed greens and all-weather synthetic carpet."
+  about: >
+    Carlton Cornwall Bowls in Greenlane is widely regarded as the premier bowls complex in New Zealand. A frequent host of the Bowls New Zealand National Championships, the club features world-class Cotula weed greens that run exceptionally fast and true, alongside a high-performance all-weather synthetic green. Carlton Cornwall combines elite international-level competition with popular barefoot bowls and corporate events.
+
+- slug: "remuera-bowling-club"
+  name: "Remuera Bowling Club"
+  city: "auckland"
+  city_name: "Auckland"
+  city_url: "/bowls-clubs/bowls-clubs-in-auckland-new-zealand/"
+  country: "New Zealand"
+  country_code: "NZ"
+  area: "Central / Remuera"
+  address: "6 Spencer Street, Remuera"
+  postcode: "1050"
+  surfaces:
+    - "Outdoor Grass"
+    - "Outdoor Synthetic"
+  formats:
+    - "Pennant"
+    - "Barefoot Bowls"
+    - "Social Bowls"
+  season: "Year-round"
+  rinks_info: "Championship Cotula turf green and floodlit all-weather synthetic green"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://remuerabowls.co.nz/"
+  maps_query: "Remuera+Bowling+Club+Spencer+Street+Remuera+Auckland+1050"
+  profile_page: true
+  summary: "Est. 1894 in prestigious Remuera, offering historic heritage, rapid Cotula natural greens, all-weather synthetic rinks, and barefoot bowls."
+  about: >
+    Founded in 1894, Remuera Bowling Club is one of Auckland's oldest and most respected sporting clubs. Set in central Remuera, the club features pristine natural Cotula greens running between 15 and 18 seconds in summer, accompanied by a floodlit synthetic carpet green for winter bowls. It caters to competitive Auckland inter-club pennants while welcoming casual barefoot bowlers.
+
+- slug: "ponsonby-bowling-club"
+  name: "Ponsonby Bowling Club"
+  city: "auckland"
+  city_name: "Auckland"
+  city_url: "/bowls-clubs/bowls-clubs-in-auckland-new-zealand/"
+  country: "New Zealand"
+  country_code: "NZ"
+  area: "Inner West / Herne Bay"
+  address: "107 Jervois Road, Herne Bay / Ponsonby"
+  postcode: "1011"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Barefoot Bowls"
+    - "Pennant"
+    - "Social Bowls"
+  season: "September to May (Barefoot & Pennants)"
+  rinks_info: "2 natural grass greens (Cotula and couch)"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://ponsonbybowls.nz/"
+  maps_query: "Ponsonby+Bowling+Club+Jervois+Road+Herne+Bay+Auckland+1011"
+  profile_page: true
+  summary: "Est. 1892 on Jervois Road, Auckland's trendiest barefoot bowls destination with sunny greens, craft beers, food trucks, and lively social roll-ups."
+  about: >
+    Established in 1892 along Jervois Road in Herne Bay / Ponsonby, this historic club is an Auckland social institution. Surrounded by heritage villas, Ponsonby Bowling Club pairs classic natural grass greens with local craft beer on tap, food truck pop-ups, and bustling summer barefoot bowls sessions.
+
+- slug: "royal-oak-bowls"
+  name: "Royal Oak Bowls"
+  city: "auckland"
+  city_name: "Auckland"
+  city_url: "/bowls-clubs/bowls-clubs-in-auckland-new-zealand/"
+  country: "New Zealand"
+  country_code: "NZ"
+  area: "Central / Royal Oak"
+  address: "146 Symonds Street, Royal Oak"
+  postcode: "1061"
+  surfaces:
+    - "Covered Dome"
+    - "Outdoor Grass"
+  formats:
+    - "Pennant"
+    - "Barefoot Bowls"
+    - "Social Bowls"
+  season: "Year-round (Covered synthetic dome)"
+  rinks_info: "State-of-the-art covered dome canopy green plus natural grass greens"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://royaloakbowls.co.nz/"
+  maps_query: "Royal+Oak+Bowls+Symonds+Street+Royal+Oak+Auckland+1061"
+  profile_page: true
+  summary: "Central Auckland powerhouse featuring a modern covered dome canopy green, natural Cotula rinks, and active community bowls."
+  about: >
+    Royal Oak Bowls is a premier sporting venue in central Auckland. The club's standout feature is its impressive covered canopy green, which protects players from rain and Auckland's changeable weather, ensuring year-round bowls. With natural greens and a welcoming bar and bistro, Royal Oak serves all levels of bowlers.
+
+- slug: "howick-bowling-club"
+  name: "Howick Bowling Club"
+  city: "auckland"
+  city_name: "Auckland"
+  city_url: "/bowls-clubs/bowls-clubs-in-auckland-new-zealand/"
+  country: "New Zealand"
+  country_code: "NZ"
+  area: "East Auckland / Howick"
+  address: "33 Selwyn Road, Howick"
+  postcode: "2014"
+  surfaces:
+    - "Outdoor Grass"
+    - "Outdoor Synthetic"
+  formats:
+    - "Pennant"
+    - "Barefoot Bowls"
+    - "Social Bowls"
+  season: "Year-round"
+  rinks_info: "4 championship greens including natural Cotula and woven synthetic carpet"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://howickbowlingclub.co.nz/"
+  maps_query: "Howick+Bowling+Club+Selwyn+Road+Howick+Auckland+2014"
+  profile_page: true
+  summary: "East Auckland giant boasting four greens, strong competitive pennants, coaching clinics, and bustling Friday barefoot bowls."
+  about: >
+    Located in the heritage village of Howick, Howick Bowling Club is one of Auckland's largest bowling facilities. Boasting four greens—both natural Cotula turf and modern woven synthetic—the club supports over 250 active bowlers. It fields competitive squads in Bowls Auckland leagues while running a friendly barefoot bowls program.
+
+- slug: "takapuna-bowling-club"
+  name: "Takapuna Bowling Club"
+  city: "auckland"
+  city_name: "Auckland"
+  city_url: "/bowls-clubs/bowls-clubs-in-auckland-new-zealand/"
+  country: "New Zealand"
+  country_code: "NZ"
+  area: "North Shore / Takapuna"
+  address: "14 Byron Avenue, Takapuna"
+  postcode: "0622"
+  surfaces:
+    - "Covered Dome"
+    - "Outdoor Grass"
+  formats:
+    - "National Championships"
+    - "Pennant"
+    - "Barefoot Bowls"
+    - "Social Bowls"
+  season: "Year-round"
+  rinks_info: "Championship covered dome canopy green plus natural grass greens"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://takapunabowls.co.nz/"
+  maps_query: "Takapuna+Bowling+Club+Byron+Avenue+Takapuna+Auckland+0622"
+  profile_page: true
+  summary: "Premier North Shore club moments from Takapuna Beach, featuring an architectural undercover canopy dome and national tournament credentials."
+  about: >
+    Situated close to Takapuna Beach on Auckland's North Shore, Takapuna Bowling Club is an elite bowls complex. Featuring an architectural undercover dome sheltering synthetic carpet rinks, the club guarantees play in all weather. It regularly hosts national and regional fixtures and offers vibrant barefoot bowls.
+
+- slug: "blockhouse-bay-bowls"
+  name: "Blockhouse Bay Bowls"
+  city: "auckland"
+  city_name: "Auckland"
+  city_url: "/bowls-clubs/bowls-clubs-in-auckland-new-zealand/"
+  country: "New Zealand"
+  country_code: "NZ"
+  area: "West Auckland / Blockhouse Bay"
+  address: "33 Terry Street, Blockhouse Bay"
+  postcode: "0600"
+  surfaces:
+    - "Outdoor Grass"
+    - "Outdoor Synthetic"
+  formats:
+    - "Pennant"
+    - "Social Bowls"
+    - "Barefoot Bowls"
+  season: "Year-round"
+  rinks_info: "3 greens including championship Cotula grass and woven carpet"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://blockhousebaybowls.co.nz/"
+  maps_query: "Blockhouse+Bay+Bowls+Terry+Street+Blockhouse+Bay+Auckland+0600"
+  profile_page: true
+  summary: "West Auckland powerhouse boasting 3 greens, top-tier competitive pennant teams, and relaxed community barefoot roll-ups."
+  about: >
+    Blockhouse Bay Bowls is a premier bowling hub in west Auckland. Featuring three greens (natural Cotula and all-weather synthetic carpet), the club offers year-round bowling. Known for its strong pennant performances and friendly clubhouse, Blockhouse Bay welcomes novices and social groups.
+
+- slug: "balmoral-bowling-club"
+  name: "Balmoral Bowling Club"
+  city: "auckland"
+  city_name: "Auckland"
+  city_url: "/bowls-clubs/bowls-clubs-in-auckland-new-zealand/"
+  country: "New Zealand"
+  country_code: "NZ"
+  area: "Central / Mount Eden"
+  address: "14 Mont Le Grand Road, Mt Eden / Balmoral"
+  postcode: "1024"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Barefoot Bowls"
+    - "Pennant"
+    - "Social Bowls"
+  season: "Year-round"
+  rinks_info: "2 natural grass greens (Cotula and couch)"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://balmoralbowls.co.nz/"
+  maps_query: "Balmoral+Bowling+Club+Mont+Le+Grand+Road+Mount+Eden+Auckland+1024"
+  profile_page: true
+  summary: "Inner-city central club in Mount Eden known for its friendly community vibe, barefoot leagues, craft beers, and summer roll-ups."
+  about: >
+    Located in the heart of Mount Eden and Balmoral, Balmoral Bowling Club is a vibrant community venue. Bowlers enjoy two natural grass greens, craft beers from local Auckland breweries, and an inclusive barefoot bowls culture.
+
+- slug: "epsom-bowls"
+  name: "Epsom Bowls"
+  city: "auckland"
+  city_name: "Auckland"
+  city_url: "/bowls-clubs/bowls-clubs-in-auckland-new-zealand/"
+  country: "New Zealand"
+  country_code: "NZ"
+  area: "Central / Epsom"
+  address: "77 The Drive, Epsom"
+  postcode: "1023"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Pennant"
+    - "Social Bowls"
+    - "Barefoot Bowls"
+  season: "September to May"
+  rinks_info: "2 natural Cotula weed greens in leafy parkland"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://epsombowls.co.nz/"
+  maps_query: "Epsom+Bowls+The+Drive+Epsom+Auckland+1023"
+  profile_page: true
+  summary: "Est. 1905 in leafy Epsom, offering traditional Cotula starweed greens, peaceful surroundings, and welcoming social roll-ups."
+  about: >
+    Founded in 1905 on The Drive in Epsom, this club offers a tranquil bowling setting among mature trees. The natural Cotula greens run smooth and true, supporting both competitive Auckland pennants and weekend social roll-ups.
+
+- slug: "kohimarama-bowling-club"
+  name: "Kohimarama Bowling Club"
+  city: "auckland"
+  city_name: "Auckland"
+  city_url: "/bowls-clubs/bowls-clubs-in-auckland-new-zealand/"
+  country: "New Zealand"
+  country_code: "NZ"
+  area: "Eastern Bays / Kohimarama"
+  address: "30 Melanesia Road, Kohimarama"
+  postcode: "1071"
+  surfaces:
+    - "Outdoor Grass"
+    - "Outdoor Synthetic"
+  formats:
+    - "Pennant"
+    - "Barefoot Bowls"
+    - "Social Bowls"
+  season: "Year-round"
+  rinks_info: "2 greens (Cotula turf and all-weather synthetic) near Kohi Beach"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://kohimaramabowls.co.nz/"
+  maps_query: "Kohimarama+Bowling+Club+Melanesia+Road+Kohimarama+Auckland+1071"
+  profile_page: true
+  summary: "Coastal club in Auckland's Eastern Bays moments from Kohimarama Beach, offering ocean breezes, grass and synthetic rinks, and barefoot bowls."
+  about: >
+    Located a short stroll from Kohimarama Beach and the Tamaki Drive waterfront, Kohimarama Bowling Club provides a breezy coastal bowling experience. Featuring both natural grass and synthetic surfaces, Kohimarama runs active social barefoot roll-ups alongside competitive inter-club pennants.
+
+- slug: "st-heliers-bowling-club"
+  name: "St Heliers Bowling Club"
+  city: "auckland"
+  city_name: "Auckland"
+  city_url: "/bowls-clubs/bowls-clubs-in-auckland-new-zealand/"
+  country: "New Zealand"
+  country_code: "NZ"
+  area: "Eastern Bays / St Heliers"
+  address: "6 Vellenoweth Green, St Heliers"
+  postcode: "1071"
+  surfaces:
+    - "Outdoor Grass"
+    - "Outdoor Synthetic"
+  formats:
+    - "Pennant"
+    - "Barefoot Bowls"
+    - "Social Bowls"
+  season: "Year-round"
+  rinks_info: "Greens positioned directly inside Vellenoweth Green beside the sea"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://stheliersbowlingclub.co.nz/"
+  maps_query: "St+Heliers+Bowling+Club+Vellenoweth+Green+St+Heliers+Auckland+1071"
+  profile_page: true
+  summary: "Spectacular seaside venue inside Vellenoweth Green overlooking St Heliers Bay and Rangitoto Island, with Cotula greens and barefoot bowls."
+  about: >
+    Set inside Vellenoweth Green just steps from St Heliers Beach, St Heliers Bowling Club enjoys sweeping views of the Waitemata Harbour and Rangitoto Island. Bowlers enjoy Cotula and synthetic greens, fresh maritime air, and friendly barefoot bowls packages.
+
+- slug: "pt-chevalier-bowling-club"
+  name: "Pt Chevalier Bowling Club"
+  city: "auckland"
+  city_name: "Auckland"
+  city_url: "/bowls-clubs/bowls-clubs-in-auckland-new-zealand/"
+  country: "New Zealand"
+  country_code: "NZ"
+  area: "Inner West / Point Chevalier"
+  address: "25 Dignan Street, Point Chevalier"
+  postcode: "1022"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Barefoot Bowls"
+    - "Pennant"
+    - "Social Bowls"
+  season: "Year-round"
+  rinks_info: "2 natural grass greens in vibrant peninsula location"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://ptchevbowlingclub.co.nz/"
+  maps_query: "Pt+Chevalier+Bowling+Club+Dignan+Street+Point+Chevalier+Auckland+1022"
+  profile_page: true
+  summary: "Energetic inner-west community hub known for weekend barefoot bowls, live music, craft beers on tap, and casual peninsula atmosphere."
+  about: >
+    Point Chevalier Bowling Club is an active social and sporting hub on the Pt Chev peninsula. The club combines natural grass greens with live music, craft beers, and summer barefoot bowls, creating a relaxed, inclusive setting for bowlers of all ages.
+
+- slug: "mt-eden-bowling-club"
+  name: "Mt Eden Bowling Club"
+  city: "auckland"
+  city_name: "Auckland"
+  city_url: "/bowls-clubs/bowls-clubs-in-auckland-new-zealand/"
+  country: "New Zealand"
+  country_code: "NZ"
+  area: "Central / Mount Eden"
+  address: "17 Poronui Street, Mount Eden"
+  postcode: "1024"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Pennant"
+    - "Barefoot Bowls"
+    - "Social Bowls"
+  season: "September to May"
+  rinks_info: "2 natural Cotula grass greens beneath Maungawhau summit"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://mtedenbowls.co.nz/"
+  maps_query: "Mt+Eden+Bowling+Club+Poronui+Street+Mount+Eden+Auckland+1024"
+  profile_page: true
+  summary: "Founded in 1895 beneath the volcanic slopes of Maungawhau / Mt Eden, offering classic Cotula greens, heritage charm, and barefoot bowls."
+  about: >
+    Established in 1895 directly beneath the volcanic crater of Mount Eden (Maungawhau), Mt Eden Bowling Club is one of Auckland's most characterful clubs. Its Cotula natural weed greens provide fast, consistent running lines, complemented by a friendly clubhouse and casual barefoot bowls.
+
+- slug: "bridge-park-bowling-club"
+  name: "Bridge Park Bowling Club"
+  city: "auckland"
+  city_name: "Auckland"
+  city_url: "/bowls-clubs/bowls-clubs-in-auckland-new-zealand/"
+  country: "New Zealand"
+  country_code: "NZ"
+  area: "South Auckland / Mangere Bridge"
+  address: "20 Taylor Road, Mangere Bridge"
+  postcode: "2022"
+  surfaces:
+    - "Outdoor Grass"
+    - "Outdoor Synthetic"
+  formats:
+    - "Pennant"
+    - "Social Bowls"
+    - "Barefoot Bowls"
+  season: "Year-round"
+  rinks_info: "2 greens overlooking the Manukau Harbour"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://bridgeparkbowls.co.nz/"
+  maps_query: "Bridge+Park+Bowling+Club+Taylor+Road+Mangere+Bridge+Auckland+2022"
+  profile_page: true
+  summary: "Waterfront club on the Manukau Harbour in Mangere Bridge, featuring grass and synthetic greens and friendly community bowls."
+  about: >
+    Situated on the scenic shores of the Manukau Harbour in Mangere Bridge, Bridge Park Bowling Club offers natural turf and synthetic greens. The club is known for its warm hospitality, regular barefoot roll-ups, and active participation in Auckland pennant competitions.
+
+- slug: "glen-eden-bowling-club"
+  name: "Glen Eden Bowling Club"
+  city: "auckland"
+  city_name: "Auckland"
+  city_url: "/bowls-clubs/bowls-clubs-in-auckland-new-zealand/"
+  country: "New Zealand"
+  country_code: "NZ"
+  area: "West Auckland / Glen Eden"
+  address: "25 Glendale Road, Glen Eden"
+  postcode: "0602"
+  surfaces:
+    - "Outdoor Grass"
+    - "Outdoor Synthetic"
+  formats:
+    - "Pennant"
+    - "Barefoot Bowls"
+    - "Social Bowls"
+  season: "Year-round"
+  rinks_info: "2 greens (Cotula grass and all-weather synthetic)"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://glenedenbowls.org.nz/"
+  maps_query: "Glen+Eden+Bowling+Club+Glendale+Road+Glen+Eden+Auckland+0602"
+  profile_page: true
+  summary: "West Auckland community club at the foot of the Waitakere Ranges, featuring grass and synthetic greens, pennants, and barefoot bowls."
+  about: >
+    Nestled near the foothills of the Waitakere Ranges, Glen Eden Bowling Club is an active west Auckland club. With both natural Cotula turf and synthetic carpet greens, the venue hosts weekend pennant matches alongside family-friendly barefoot bowls with BBQ amenities.
+
+- slug: "henderson-bowling-club"
+  name: "Henderson Bowling Club"
+  city: "auckland"
+  city_name: "Auckland"
+  city_url: "/bowls-clubs/bowls-clubs-in-auckland-new-zealand/"
+  country: "New Zealand"
+  country_code: "NZ"
+  area: "West Auckland / Henderson"
+  address: "20 Alderman Drive, Henderson"
+  postcode: "0612"
+  surfaces:
+    - "Outdoor Grass"
+    - "Outdoor Synthetic"
+  formats:
+    - "Pennant"
+    - "Barefoot Bowls"
+    - "Social Bowls"
+  season: "Year-round"
+  rinks_info: "3 greens including synthetic carpet and Cotula turf"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://hendersonbowls.co.nz/"
+  maps_query: "Henderson+Bowling+Club+Alderman+Drive+Henderson+Auckland+0612"
+  profile_page: true
+  summary: "Central West Auckland facility with three greens, active pennant divisions, and welcoming social bowls programs."
+  about: >
+    Henderson Bowling Club is a focal point for bowls in west Auckland. Featuring three bowling greens (Cotula turf and woven synthetic carpet), the club supports bowlers through all seasons with coaching, social roll-ups, and competitive tournaments.
+
+- slug: "te-atatu-bowling-club"
+  name: "Te Atatu Bowling Club"
+  city: "auckland"
+  city_name: "Auckland"
+  city_url: "/bowls-clubs/bowls-clubs-in-auckland-new-zealand/"
+  country: "New Zealand"
+  country_code: "NZ"
+  area: "West Auckland / Te Atatu"
+  address: "442 Edmonton Road, Te Atatu South"
+  postcode: "0610"
+  surfaces:
+    - "Outdoor Grass"
+    - "Outdoor Synthetic"
+  formats:
+    - "Pennant"
+    - "Barefoot Bowls"
+    - "Social Bowls"
+  season: "Year-round"
+  rinks_info: "2 greens in Te Atatu South"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://teatatubowls.co.nz/"
+  maps_query: "Te+Atatu+Bowling+Club+Edmonton+Road+Te+Atatu+South+Auckland+0610"
+  profile_page: true
+  summary: "Peninsula community club with grass and synthetic greens, Friday social roll-ups, and active Auckland pennant teams."
+  about: >
+    Te Atatu Bowling Club serves bowlers across the Te Atatu peninsula. The club features both natural turf and synthetic rinks, offering an active calendar of pennant competitions and casual barefoot bowls with bar and BBQ facilities.
+
+- slug: "browns-bay-bowling-club"
+  name: "Browns Bay Bowling Club"
+  city: "auckland"
+  city_name: "Auckland"
+  city_url: "/bowls-clubs/bowls-clubs-in-auckland-new-zealand/"
+  country: "New Zealand"
+  country_code: "NZ"
+  area: "North Shore / Browns Bay"
+  address: "784 Beach Road, Browns Bay"
+  postcode: "0630"
+  surfaces:
+    - "Outdoor Grass"
+    - "Outdoor Synthetic"
+  formats:
+    - "Pennant"
+    - "National Tournaments"
+    - "Social Bowls"
+    - "Barefoot Bowls"
+  season: "Year-round"
+  rinks_info: "3 greens including championship Cotula turf and synthetic rinks"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://brownsbaybowling.co.nz/"
+  maps_query: "Browns+Bay+Bowling+Club+Beach+Road+Browns+Bay+Auckland+0630"
+  profile_page: true
+  summary: "Major East Coast Bays powerhouse on the North Shore featuring 3 greens, regular host of regional championships, and barefoot roll-ups."
+  about: >
+    Browns Bay Bowling Club is one of the most prominent clubs on Auckland's North Shore. With three greens (natural Cotula and woven synthetic), the club frequently hosts Bowls North Harbour and Bowls New Zealand events. Its welcoming clubhouse and sea breezes make it a popular barefoot bowls destination.
+
+- slug: "orewa-bowling-club"
+  name: "Orewa Bowling Club"
+  city: "auckland"
+  city_name: "Auckland"
+  city_url: "/bowls-clubs/bowls-clubs-in-auckland-new-zealand/"
+  country: "New Zealand"
+  country_code: "NZ"
+  area: "Hibiscus Coast / Orewa"
+  address: "214 Hibiscus Coast Highway, Orewa"
+  postcode: "0931"
+  surfaces:
+    - "Covered Dome"
+    - "Outdoor Grass"
+  formats:
+    - "Pennant"
+    - "Barefoot Bowls"
+    - "Social Bowls"
+  season: "Year-round (Undercover covered dome)"
+  rinks_info: "World-class undercover dome canopy green plus natural grass greens"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://orewabowls.co.nz/"
+  maps_query: "Orewa+Bowling+Club+Hibiscus+Coast+Highway+Orewa+0931"
+  profile_page: true
+  summary: "Premier Hibiscus Coast club featuring a world-class covered dome canopy green, natural Cotula turf, and coastal barefoot bowls."
+  about: >
+    Located along the scenic Hibiscus Coast just north of Auckland, Orewa Bowling Club is famous for its covered canopy dome green. Protecting bowlers from sun and rain, the dome provides guaranteed year-round bowling. Together with outdoor natural grass greens, Orewa is a flagship North Harbour club.
+
+- slug: "birkenhead-bowling-club"
+  name: "Birkenhead Bowling Club"
+  city: "auckland"
+  city_name: "Auckland"
+  city_url: "/bowls-clubs/bowls-clubs-in-auckland-new-zealand/"
+  country: "New Zealand"
+  country_code: "NZ"
+  area: "North Shore / Birkenhead"
+  address: "93 Mokoia Road, Birkenhead"
+  postcode: "0626"
+  surfaces:
+    - "Outdoor Grass"
+    - "Outdoor Synthetic"
+  formats:
+    - "Pennant"
+    - "Barefoot Bowls"
+    - "Social Bowls"
+  season: "Year-round"
+  rinks_info: "2 greens (Cotula turf and all-weather synthetic)"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://bowlsbirkenhead.co.nz/"
+  maps_query: "Birkenhead+Bowling+Club+Mokoia+Road+Birkenhead+Auckland+0626"
+  profile_page: true
+  summary: "Dynamic North Shore club known for high-calibre pennant teams, regular barefoot tournaments, sports bar, and craft beers."
+  about: >
+    Birkenhead Bowling Club is a prominent sporting and social hub on Auckland's North Shore. The club boasts both natural Cotula turf and all-weather synthetic carpet greens, supporting strong Bowls North Harbour pennant teams and hosting the popular annual Birkenhead Pairs.
+
+- slug: "new-lynn-bowling-club"
+  name: "New Lynn Bowling Club"
+  city: "auckland"
+  city_name: "Auckland"
+  city_url: "/bowls-clubs/bowls-clubs-in-auckland-new-zealand/"
+  country: "New Zealand"
+  country_code: "NZ"
+  area: "West Auckland / New Lynn"
+  address: "3333 Great North Road, New Lynn"
+  postcode: "0600"
+  surfaces:
+    - "Outdoor Grass"
+    - "Outdoor Synthetic"
+  formats:
+    - "Pennant"
+    - "Social Bowls"
+    - "Barefoot Bowls"
+  season: "Year-round"
+  rinks_info: "2 greens in central New Lynn"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://newlynnbowls.co.nz/"
+  maps_query: "New+Lynn+Bowling+Club+Great+North+Road+New+Lynn+Auckland+0600"
+  profile_page: true
+  summary: "Established west Auckland club on Great North Road featuring grass and synthetic greens, pennant competition, and barefoot bowls."
+  about: >
+    Conveniently situated in central New Lynn, New Lynn Bowling Club has served western bowlers for decades. Its two greens (grass and synthetic) accommodate both summer pennants and winter roll-ups, with welcoming hospitality for visitors.
+
+- slug: "onehunga-bowling-club"
+  name: "Onehunga Bowling Club"
+  city: "auckland"
+  city_name: "Auckland"
+  city_url: "/bowls-clubs/bowls-clubs-in-auckland-new-zealand/"
+  country: "New Zealand"
+  country_code: "NZ"
+  area: "Central / Onehunga"
+  address: "146 Selwyn Street, Onehunga"
+  postcode: "1061"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Pennant"
+    - "Barefoot Bowls"
+    - "Social Bowls"
+  season: "Year-round"
+  rinks_info: "2 natural grass greens (Cotula and couch)"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://onehungabowls.co.nz/"
+  maps_query: "Onehunga+Bowling+Club+Selwyn+Street+Onehunga+Auckland+1061"
+  profile_page: true
+  summary: "Founded in 1898 in historic Onehunga, offering traditional natural turf greens, friendly social roll-ups, and competitive pennants."
+  about: >
+    Established in 1898, Onehunga Bowling Club has a long and proud bowling history in central Auckland. With two natural grass greens, the club participates in Bowls Auckland leagues while offering casual barefoot bowls and community roll-ups.
+
+- slug: "papatoetoe-hunters-corner-bowling-club"
+  name: "Papatoetoe Hunters Corner Bowling Club"
+  city: "auckland"
+  city_name: "Auckland"
+  city_url: "/bowls-clubs/bowls-clubs-in-auckland-new-zealand/"
+  country: "New Zealand"
+  country_code: "NZ"
+  area: "South Auckland / Papatoetoe"
+  address: "247 Great South Road, Papatoetoe"
+  postcode: "2025"
+  surfaces:
+    - "Covered Dome"
+    - "Outdoor Grass"
+  formats:
+    - "Pennant"
+    - "Social Bowls"
+    - "Barefoot Bowls"
+  season: "Year-round (Undercover canopy green)"
+  rinks_info: "Championship covered dome canopy green plus natural grass"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://papatoetoebowls.co.nz/"
+  maps_query: "Papatoetoe+Hunters+Corner+Bowling+Club+Great+South+Road+Papatoetoe+Auckland+2025"
+  profile_page: true
+  summary: "South Auckland premier complex featuring an undercover canopy green, natural turf rinks, and active multi-cultural bowls community."
+  about: >
+    Papatoetoe Hunters Corner Bowling Club is a prominent sporting club in South Auckland. Its modern undercover canopy green ensures bowls can be played rain or shine, complemented by outdoor grass rinks and active pennant squads.
+
+- slug: "mairangi-bay-bowling-club"
+  name: "Mairangi Bay Bowling Club"
+  city: "auckland"
+  city_name: "Auckland"
+  city_url: "/bowls-clubs/bowls-clubs-in-auckland-new-zealand/"
+  country: "New Zealand"
+  country_code: "NZ"
+  area: "North Shore / Mairangi Bay"
+  address: "11 Ramsgate Terrace, Mairangi Bay"
+  postcode: "0630"
+  surfaces:
+    - "Outdoor Grass"
+    - "Outdoor Synthetic"
+  formats:
+    - "Pennant"
+    - "Barefoot Bowls"
+    - "Social Bowls"
+  season: "Year-round"
+  rinks_info: "2 greens (natural Cotula and all-weather synthetic carpet)"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://mairangibowls.org.nz/"
+  maps_query: "Mairangi+Bay+Bowling+Club+Ramsgate+Terrace+Mairangi+Bay+Auckland+0630"
+  profile_page: true
+  summary: "Breezy North Shore bays club with natural Cotula and synthetic greens, summer barefoot bowls, and competitive pennants."
+  about: >
+    Situated close to Mairangi Bay beach on the East Coast Bays, this club offers a relaxed coastal atmosphere. Featuring natural Cotula turf and an all-weather synthetic green, Mairangi Bay hosts competitive pennants and vibrant summer barefoot roll-ups.
+
+- slug: "hallyburton-johnstone-bowling-club"
+  name: "Hallyburton Johnstone Bowling Club"
+  city: "auckland"
+  city_name: "Auckland"
+  city_url: "/bowls-clubs/bowls-clubs-in-auckland-new-zealand/"
+  country: "New Zealand"
+  country_code: "NZ"
+  area: "Inner West / Point Chevalier"
+  address: "100 Johnson Road, Point Chevalier"
+  postcode: "1022"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Barefoot Bowls"
+    - "Pennant"
+    - "Social Bowls"
+  season: "Year-round"
+  rinks_info: "2 natural grass greens"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://hallyburtonbowls.co.nz/"
+  maps_query: "Hallyburton+Johnstone+Bowling+Club+Johnson+Road+Point+Chevalier+Auckland+1022"
+  profile_page: true
+  summary: "Friendly community club in Point Chevalier offering natural grass greens, budget barefoot roll-ups, and welcoming social bowls."
+  about: >
+    Hallyburton Johnstone Bowling Club provides an unpretentious, friendly lawn bowling experience in Point Chevalier. Bowlers enjoy two natural grass greens, affordable barefoot bowls hire, and welcoming club members.

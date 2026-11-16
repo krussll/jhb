@@ -6,7 +6,7 @@ categories: [ help ]
 featured: false
 description: "See our complete guide to barefoot bowls. Covering the rules, benefits, and where to play near you. Lawn bowls is a challenging game that requires a high."
 date: 2019-08-06 13:00:00 -0400
-last_modified_at: 2026-11-16 16:20:00 +0000
+last_modified_at: 2026-11-16 19:00:00 +0000
 ---
     
 
@@ -132,7 +132,18 @@ last_modified_at: 2026-11-16 16:20:00 +0000
 
 <p>There is a myriad of places you can choose to have a barefoot bowling experience. Use our comprehensive <a href="{{ '/bowls-clubs/club-directory/' | relative_url }}">Bowls Club Directory</a> to search for verified clubs, indoor facilities, and social greens across the UK, Australia, and internationally.</p>
 
-<p>If you are looking for clubs in Scotland, explore our dedicated guide to <a href="{{ '/bowls-clubs/bowls-clubs-in-edinburgh/' | relative_url }}">bowls clubs in Edinburgh</a>. And if you are bowling in Australia—the birthplace of barefoot bowls—check out our regional guide to <a href="{{ '/bowls-clubs/bowls-clubs-in-adelaide-south-australia/' | relative_url }}">bowls clubs in Adelaide, South Australia</a> to find premier metropolitan clubs offering evening social roll-ups, craft beers, and community tournaments.</p>
+<p>If you are looking for clubs in Scotland and the UK, explore our dedicated regional guides to <a href="{{ '/bowls-clubs/bowls-clubs-in-edinburgh/' | relative_url }}">bowls clubs in Edinburgh</a>, <a href="{{ '/bowls-clubs/bowls-clubs-in-glasgow/' | relative_url }}">Glasgow</a>, and <a href="{{ '/bowls-clubs/bowls-clubs-in-london/' | relative_url }}">London</a>.</p>
+
+<p>If you are bowling in Australia and New Zealand—the heartland of the barefoot bowls revolution—check out our dedicated metropolitan guides to find top social greens, craft beer bars, and floodlit evening roll-ups:</p>
+
+<ul>
+  <li><a href="{{ '/bowls-clubs/bowls-clubs-in-melbourne/' | relative_url }}"><strong>Melbourne Bowls Clubs:</strong></a> Iconic barefoot venues in St Kilda, Fitzroy Victoria, and Richmond Union.</li>
+  <li><a href="{{ '/bowls-clubs/bowls-clubs-in-sydney/' | relative_url }}"><strong>Sydney Bowls Clubs:</strong></a> Ocean clifftop greens in Clovelly and Bondi, plus inner-west community hotspots like Petersham PBC and Marrickville.</li>
+  <li><a href="{{ '/bowls-clubs/bowls-clubs-in-brisbane-and-gold-coast/' | relative_url }}"><strong>Brisbane &amp; Gold Coast Bowls Clubs:</strong></a> Riverfront barefoot bowls at Merthyr and The Boo, plus Commonwealth Games greens at Broadbeach.</li>
+  <li><a href="{{ '/bowls-clubs/bowls-clubs-in-perth/' | relative_url }}"><strong>Perth Bowls Clubs:</strong></a> Clifftop Swan River views at Mosman Park and South Perth, and lively roll-ups in Leederville and Subiaco.</li>
+  <li><a href="{{ '/bowls-clubs/bowls-clubs-in-adelaide-south-australia/' | relative_url }}"><strong>Adelaide Bowls Clubs:</strong></a> South Australia's famous summer Night Owls competitions and covered RiverDome complexes.</li>
+  <li><a href="{{ '/bowls-clubs/bowls-clubs-in-auckland-new-zealand/' | relative_url }}"><strong>Auckland Bowls Clubs:</strong></a> Kiwi barefoot bowls at Ponsonby and Pt Chevalier, and fast Cotula starweed greens.</li>
+</ul>
 
 <h2><a href="#the-cost-of-participating-in-barefoot-lawn-bowls"></a>The Cost of Participating in Barefoot Lawn Bowls</h2>
 

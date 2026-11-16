@@ -1,0 +1,735 @@
+- slug: "bondi-bowling-club"
+  name: "Bondi Bowling Club"
+  city: "sydney"
+  city_name: "Sydney"
+  city_url: "/bowls-clubs/bowls-clubs-in-sydney/"
+  country: "Australia"
+  country_code: "AU"
+  area: "Eastern Suburbs / Bondi"
+  address: "1 Warners Avenue, North Bondi"
+  postcode: "NSW 2026"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Barefoot Bowls"
+    - "Pennant"
+    - "Social Bowls"
+  season: "Year-round"
+  rinks_info: "2 natural grass greens (couch)"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://bondibowlingclub.com.au/"
+  maps_query: "Bondi+Bowling+Club+Warners+Avenue+North+Bondi+NSW+2026"
+  profile_page: true
+  summary: "Est. 1932 just moments from Bondi Beach, Sydney's most famous coastal barefoot bowls institution with craft beers, burgers, and ocean air."
+  about: >
+    Established in 1932 in North Bondi, Bondi Bowling Club is an internationally famous barefoot bowls destination. Located just a short stroll from the golden sands of Bondi Beach, the club features manicured natural grass greens, a lively sun-drenched outdoor beer garden, craft beers on tap, and casual barefoot roll-ups. It maintains competitive pennants in Bowls NSW while offering a vibrant social hub for locals and tourists.
+
+- slug: "clovelly-bowling-club"
+  name: "Clovelly Bowling Club"
+  city: "sydney"
+  city_name: "Sydney"
+  city_url: "/bowls-clubs/bowls-clubs-in-sydney/"
+  country: "Australia"
+  country_code: "AU"
+  area: "Eastern Suburbs / Clovelly"
+  address: "1 Ocean Street, Clovelly"
+  postcode: "NSW 2031"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Barefoot Bowls"
+    - "Pennant"
+    - "Social Bowls"
+  season: "Year-round"
+  rinks_info: "2 coastal cliff-top grass greens"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://clovellybowls.com.au/"
+  maps_query: "Clovelly+Bowling+Club+Ocean+Street+Clovelly+NSW+2031"
+  profile_page: true
+  summary: "Perched on the sea cliffs above the Pacific Ocean, offering arguably the most breathtaking coastal views of any lawn bowls club in the world."
+  about: >
+    Situated on the clifftops overlooking Clovelly Bay and the open Pacific Ocean, Clovelly Bowling Club provides an unmatched visual setting. Bowlers roll along fast coastal couch greens with sea sprays and panoramic ocean vistas. Famous for sunset barefoot bowls sessions, corporate celebrations, and weekend social games, Clovelly is a must-visit Sydney sporting landmark.
+
+- slug: "coogee-bowling-club"
+  name: "Coogee Bowling Club"
+  city: "sydney"
+  city_name: "Sydney"
+  city_url: "/bowls-clubs/bowls-clubs-in-sydney/"
+  country: "Australia"
+  country_code: "AU"
+  area: "Eastern Suburbs / Coogee"
+  address: "51 Dolphin Street, Coogee"
+  postcode: "NSW 2034"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Barefoot Bowls"
+    - "Pennant"
+    - "Social Bowls"
+  season: "Year-round"
+  rinks_info: "2 natural grass greens (hybrid couch)"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://coogeebowls.com.au/"
+  maps_query: "Coogee+Bowling+Club+Dolphin+Street+Coogee+NSW+2034"
+  profile_page: true
+  summary: "Steps from Coogee Beach, offering lush couch greens, sunlit barefoot bowls sessions, cold beers, and a welcoming community atmosphere."
+  about: >
+    Steps from the water at Coogee Beach, Coogee Bowling Club (est. 1912) is a beloved Eastern Suburbs venue. With two immaculate natural grass greens, the club blends competitive pennant bowls with relaxed weekend barefoot bowls, BBQ hire, and a friendly clubhouse bar.
+
+- slug: "the-greens-north-sydney"
+  name: "The Greens North Sydney"
+  city: "sydney"
+  city_name: "Sydney"
+  city_url: "/bowls-clubs/bowls-clubs-in-sydney/"
+  country: "Australia"
+  country_code: "AU"
+  area: "Lower North Shore / North Sydney"
+  address: "50 Ridge Street, North Sydney"
+  postcode: "NSW 2060"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Barefoot Bowls"
+    - "Social Bowls"
+    - "Corporate Bowls"
+  season: "Year-round"
+  rinks_info: "2 natural grass greens overlooking Sydney Harbour"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://thegreensnorthsydney.com.au/"
+  maps_query: "The+Greens+North+Sydney+Ridge+Street+North+Sydney+NSW+2060"
+  profile_page: true
+  summary: "Glamorous bowling and dining destination in St Leonards Park with sweeping Sydney Harbour and skyline views, artisan dining, and barefoot bowls."
+  about: >
+    The Greens North Sydney completely redefined modern social bowling. Located within St Leonards Park, it pairs manicured bowling greens with views toward the Sydney Harbour Bridge and CBD skyline. Combining fine seasonal dining, fire pits, craft cocktails, and casual barefoot bowls, it attracts visitors from across Sydney.
+
+- slug: "petersham-bowling-club"
+  name: "Petersham Bowling Club"
+  city: "sydney"
+  city_name: "Sydney"
+  city_url: "/bowls-clubs/bowls-clubs-in-sydney/"
+  country: "Australia"
+  country_code: "AU"
+  area: "Inner West / Petersham"
+  address: "77 Brighton Street, Petersham"
+  postcode: "NSW 2049"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Barefoot Bowls"
+    - "Social Bowls"
+    - "Community Bowls"
+  season: "Year-round"
+  rinks_info: "Natural grass greens maintained without poker machines"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://thepbc.org.au/"
+  maps_query: "Petersham+Bowling+Club+Brighton+Street+Petersham+NSW+2049"
+  profile_page: true
+  summary: "Community-owned inner-west legend (the PBC), famous for ditching pokies, embracing local craft beer, live music, artisan pizzas, and barefoot bowls."
+  about: >
+    Established in 1896, Petersham Bowling Club made Australian sporting history in 2006 by removing all poker machines and becoming a community-run cooperative. Today, the PBC is a thriving cultural institution in the Inner West, hosting live indie bands, serving local craft breweries on tap, and providing sunny, relaxed barefoot bowls on natural grass greens.
+
+- slug: "marrickville-bowling-club"
+  name: "Marrickville Bowling Club"
+  city: "sydney"
+  city_name: "Sydney"
+  city_url: "/bowls-clubs/bowls-clubs-in-sydney/"
+  country: "Australia"
+  country_code: "AU"
+  area: "Inner West / Marrickville"
+  address: "91 Sydenham Road, Marrickville"
+  postcode: "NSW 2204"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Barefoot Bowls"
+    - "Pennant"
+    - "Social Bowls"
+  season: "Year-round"
+  rinks_info: "2 natural grass greens under floodlights"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://marrickvillebowlingclub.com.au/"
+  maps_query: "Marrickville+Bowling+Club+Sydenham+Road+Marrrickville+NSW+2204"
+  profile_page: true
+  summary: "Hip inner-west hotspot featuring retro clubhouse charm, live original music, Vietnamese street food, craft beer, and vibrant barefoot bowls."
+  about: >
+    Marrickville Bowling Club (The Bowlo) is an iconic fixture of Sydney's inner-west cultural landscape. Offering two manicured grass greens, the club pairs lawn bowls with live rock bands, cold local craft ales, and an authentic retro club atmosphere that makes barefoot bowling a weekly ritual.
+
+- slug: "neutral-bay-club"
+  name: "Neutral Bay Club"
+  city: "sydney"
+  city_name: "Sydney"
+  city_url: "/bowls-clubs/bowls-clubs-in-sydney/"
+  country: "Australia"
+  country_code: "AU"
+  area: "Lower North Shore / Neutral Bay"
+  address: "3 Anderson Street, Neutral Bay"
+  postcode: "NSW 2089"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Pennant"
+    - "Barefoot Bowls"
+    - "Social Bowls"
+  season: "Year-round"
+  rinks_info: "Championship natural couch grass greens"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://neutralbayclub.com/"
+  maps_query: "Neutral+Bay+Club+Anderson+Street+Neutral+Bay+NSW+2089"
+  profile_page: true
+  summary: "Historic sporting club founded in 1882, nestled in a leafy valley on the Lower North Shore with pristine grass greens and premier dining."
+  about: >
+    Established in 1882, the Neutral Bay Club is one of Sydney's oldest continuous sporting clubs. Tucked away in a peaceful residential valley, the venue boasts immaculate natural grass greens, tennis courts, a sports bar, and sunlit beer garden. It offers high-level pennant bowls alongside lively barefoot roll-ups.
+
+- slug: "paddington-bowling-club"
+  name: "Paddington Bowling Club (Paddo Bowls)"
+  city: "sydney"
+  city_name: "Sydney"
+  city_url: "/bowls-clubs/bowls-clubs-in-sydney/"
+  country: "Australia"
+  country_code: "AU"
+  area: "Eastern Suburbs / Paddington"
+  address: "2 Quarry Street, Paddington"
+  postcode: "NSW 2021"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Barefoot Bowls"
+    - "Social Bowls"
+    - "Corporate Bowls"
+  season: "Year-round"
+  rinks_info: "2 manicured couch grass greens"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://paddobowls.com.au/"
+  maps_query: "Paddington+Bowling+Club+Quarry+Street+Paddington+NSW+2021"
+  profile_page: true
+  summary: "Leafy Eastern Suburbs oasis known as Paddo Bowls, offering casual barefoot roll-ups, craft beers, and BBQ facilities moments from Oxford Street."
+  about: >
+    Tucked away in the Victorian terrace streets of Paddington, Paddo Bowls provides a quiet green escape just minutes from Oxford Street. With two well-maintained grass greens and a relaxed clubhouse bar, it is one of Sydney's most sought-after spots for birthday parties, corporate barefoot bowls, and Sunday afternoon roll-ups.
+
+- slug: "balmain-bowling-club"
+  name: "Balmain Bowling Club"
+  city: "sydney"
+  city_name: "Sydney"
+  city_url: "/bowls-clubs/bowls-clubs-in-sydney/"
+  country: "Australia"
+  country_code: "AU"
+  area: "Inner West / Balmain"
+  address: "156 Darling Street, Balmain"
+  postcode: "NSW 2041"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Pennant"
+    - "Barefoot Bowls"
+    - "Social Bowls"
+  season: "Year-round"
+  rinks_info: "2 natural grass greens (est. 1880)"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://balmainbowls.com.au/"
+  maps_query: "Balmain+Bowling+Club+Darling+Street+Balmain+NSW+2041"
+  profile_page: true
+  summary: "New South Wales' oldest lawn bowls club (founded in 1880), offering heritage character, peninsula harbour breezes, and barefoot bowls on Darling Street."
+  about: >
+    Balmain Bowling Club holds the prestigious distinction of being the oldest lawn bowls club in New South Wales, founded in 1880. Situated on vibrant Darling Street on the Balmain peninsula, the club balances its proud historic lineage with a bustling modern social scene, offering traditional pennant bowls, casual barefoot roll-ups, and a welcoming clubhouse.
+
+- slug: "waverley-bowling-club"
+  name: "Waverley Bowling Club"
+  city: "sydney"
+  city_name: "Sydney"
+  city_url: "/bowls-clubs/bowls-clubs-in-sydney/"
+  country: "Australia"
+  country_code: "AU"
+  area: "Eastern Suburbs / Waverley"
+  address: "163 Birrell Street, Waverley"
+  postcode: "NSW 2024"
+  surfaces:
+    - "Outdoor Grass"
+    - "Outdoor Synthetic"
+  formats:
+    - "Pennant"
+    - "Barefoot Bowls"
+    - "Social Bowls"
+  season: "Year-round"
+  rinks_info: "Championship grass green and synthetic all-weather green"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://waverleybowlingclub.com.au/"
+  maps_query: "Waverley+Bowling+Club+Birrell+Street+Waverley+NSW+2024"
+  profile_page: true
+  summary: "Eastern Suburbs hub dating to 1893, featuring grass and synthetic greens, modern hospitality, and active pennant and social bowls programs."
+  about: >
+    Founded in 1893, Waverley Bowling Club is an Eastern Suburbs landmark. Its upgraded facilities include natural couch turf greens, all-weather synthetic rinks, and a modern dining precinct. The club runs competitive Bowls NSW pennant squads alongside bustling weekend barefoot bowls.
+
+- slug: "st-johns-park-bowling-club"
+  name: "St Johns Park Bowling Club"
+  city: "sydney"
+  city_name: "Sydney"
+  city_url: "/bowls-clubs/bowls-clubs-in-sydney/"
+  country: "Australia"
+  country_code: "AU"
+  area: "Greater West / St Johns Park"
+  address: "93 Edensor Road, St Johns Park"
+  postcode: "NSW 2176"
+  surfaces:
+    - "Outdoor Grass"
+    - "Outdoor Synthetic"
+  formats:
+    - "Pennant"
+    - "State Tournaments"
+    - "Social Bowls"
+    - "Barefoot Bowls"
+  season: "Year-round"
+  rinks_info: "4 championship greens including international tournament turf and synthetics"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://sjpbowling.com.au/"
+  maps_query: "St+Johns+Park+Bowling+Club+Edensor+Road+St+Johns+Park+NSW+2176"
+  profile_page: true
+  summary: "State powerhouse and one of the largest bowling clubs in Australia, home to international champions and four world-class greens."
+  about: >
+    Known as the Saints, St Johns Park Bowling Club in Western Sydney is a national juggernaut in competitive lawn bowls. Home to Australian Jackaroos representatives and state pennant champions, the venue boasts four world-class bowling greens, elite coaching staff, and exceptional hospitality, gaming, and dining amenities.
+
+- slug: "cabramatta-bowling-club"
+  name: "Cabramatta Bowling Club"
+  city: "sydney"
+  city_name: "Sydney"
+  city_url: "/bowls-clubs/bowls-clubs-in-sydney/"
+  country: "Australia"
+  country_code: "AU"
+  area: "South West / Cabramatta"
+  address: "Fairview Road, Cabramatta"
+  postcode: "NSW 2166"
+  surfaces:
+    - "Outdoor Grass"
+    - "Outdoor Synthetic"
+  formats:
+    - "Pennant"
+    - "State Tournaments"
+    - "Social Bowls"
+  season: "Year-round"
+  rinks_info: "4 world-class championship bowling greens"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://cabrabowls.com.au/"
+  maps_query: "Cabramatta+Bowling+Club+Fairview+Road+Cabramatta+NSW+2166"
+  profile_page: true
+  summary: "Top-tier competitive club (Cabra Bowls) featuring four championship greens, high-level pennant squads, and premier southwest dining."
+  about: >
+    Cabra Bowls is one of Sydney's most successful competitive clubs. With four championship bowling greens maintained to international standards, it hosts major Bowls NSW state fixtures. The club welcomes bowlers of all abilities with junior academies, social roll-ups, and extensive clubhouse facilities.
+
+- slug: "merrylands-bowling-club"
+  name: "Merrylands Bowling Club (Club Merrylands)"
+  city: "sydney"
+  city_name: "Sydney"
+  city_url: "/bowls-clubs/bowls-clubs-in-sydney/"
+  country: "Australia"
+  country_code: "AU"
+  area: "Western Sydney / Merrylands"
+  address: "Newman Street, Merrylands"
+  postcode: "NSW 2160"
+  surfaces:
+    - "Outdoor Grass"
+    - "Outdoor Synthetic"
+  formats:
+    - "Pennant"
+    - "Barefoot Bowls"
+    - "Social Bowls"
+  season: "Year-round"
+  rinks_info: "3 championship greens including laser-level synthetics and couch grass"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://clubmerrylands.com.au/"
+  maps_query: "Merrylands+Bowling+Club+Newman+Street+Merrylands+NSW+2160"
+  profile_page: true
+  summary: "Major Western Sydney bowls and community venue featuring 3 championship greens, high-level pennants, and community barefoot bowls."
+  about: >
+    Club Merrylands is a prominent Western Sydney sporting club. Offering three first-class greens (couch grass and synthetic), the club supports multiple pennant divisions while catering to social bowlers with twilight barefoot competitions, coaching, and excellent function amenities.
+
+- slug: "mount-lewis-bowling-club"
+  name: "Mount Lewis Bowling Club"
+  city: "sydney"
+  city_name: "Sydney"
+  city_url: "/bowls-clubs/bowls-clubs-in-sydney/"
+  country: "Australia"
+  country_code: "AU"
+  area: "Canterbury-Bankstown / Greenacre"
+  address: "14A Waterloo Road, Greenacre"
+  postcode: "NSW 2190"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Pennant"
+    - "State Tournaments"
+    - "Social Bowls"
+  season: "Year-round"
+  rinks_info: "3 natural couch grass championship greens"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://mtlewisbowls.com.au/"
+  maps_query: "Mount+Lewis+Bowling+Club+Waterloo+Road+Greenacre+NSW+2190"
+  profile_page: true
+  summary: "Elite competitive bowls powerhouse in Canterbury-Bankstown with 3 manicured couch greens and state championship credentials."
+  about: >
+    Mount Lewis Bowling Club is widely respected across New South Wales as a bowler's club of elite pedigree. Its three natural couch grass greens run fast and true, attracting top-level pennant talent. The club also welcomes beginners and community groups with loan bowls and coaching.
+
+- slug: "taren-point-bowling-club"
+  name: "Taren Point Bowling Club"
+  city: "sydney"
+  city_name: "Sydney"
+  city_url: "/bowls-clubs/bowls-clubs-in-sydney/"
+  country: "Australia"
+  country_code: "AU"
+  area: "Sutherland Shire / Taren Point"
+  address: "203 Holt Road, Taren Point"
+  postcode: "NSW 2229"
+  surfaces:
+    - "Covered Dome"
+    - "Outdoor Grass"
+  formats:
+    - "Pennant"
+    - "Premier League"
+    - "Social Bowls"
+    - "Barefoot Bowls"
+  season: "Year-round"
+  rinks_info: "4 greens including state-of-the-art undercover canopy green and natural turf"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://tpbc.com.au/"
+  maps_query: "Taren+Point+Bowling+Club+Holt+Road+Taren+Point+NSW+2229"
+  profile_page: true
+  summary: "Sutherland Shire powerhouse boasting 4 greens, including an architecturally covered dome canopy green and premier coastal views over the Georges River."
+  about: >
+    Located along the Georges River in the Sutherland Shire, Taren Point Bowling Club is a standout bowls facility. It features an impressive undercover canopy protecting championship synthetic rinks from rain and extreme sun, complemented by three outdoor natural grass greens. The club is a regular contender in state pennants and offers vibrant barefoot bowls.
+
+- slug: "engadine-bowling-club"
+  name: "Engadine Bowling Club (Club Engadine)"
+  city: "sydney"
+  city_name: "Sydney"
+  city_url: "/bowls-clubs/bowls-clubs-in-sydney/"
+  country: "Australia"
+  country_code: "AU"
+  area: "Sutherland Shire / Engadine"
+  address: "61 Cambrai Avenue, Engadine"
+  postcode: "NSW 2233"
+  surfaces:
+    - "Outdoor Grass"
+    - "Outdoor Synthetic"
+  formats:
+    - "Pennant"
+    - "Barefoot Bowls"
+    - "Social Bowls"
+  season: "Year-round"
+  rinks_info: "3 greens (couch turf and woven synthetic)"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://clubengadine.com.au/"
+  maps_query: "Engadine+Bowling+Club+Cambrai+Avenue+Engadine+NSW+2233"
+  profile_page: true
+  summary: "Gateway to the Royal National Park with three quality greens, strong pennant teams, and family-friendly barefoot bowls."
+  about: >
+    Set on the doorstep of the Royal National Park, Club Engadine has been a fixture of the southern Sutherland Shire since 1959. Bowlers enjoy three bowling greens (couch turf and synthetic), competitive pennants, and social barefoot roll-ups with modern clubhouse dining.
+
+- slug: "harbord-bowling-club"
+  name: "Harbord Bowling Club (Harbord Diggers)"
+  city: "sydney"
+  city_name: "Sydney"
+  city_url: "/bowls-clubs/bowls-clubs-in-sydney/"
+  country: "Australia"
+  country_code: "AU"
+  area: "Northern Beaches / Freshwater"
+  address: "Evans Street, Freshwater"
+  postcode: "NSW 2096"
+  surfaces:
+    - "Outdoor Grass"
+    - "Outdoor Synthetic"
+  formats:
+    - "Barefoot Bowls"
+    - "Pennant"
+    - "Social Bowls"
+  season: "Year-round"
+  rinks_info: "Coastal greens overlooking Freshwater Beach and the Tasman Sea"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://harborddiggers.com.au/"
+  maps_query: "Harbord+Bowling+Club+Evans+Street+Freshwater+NSW+2096"
+  profile_page: true
+  summary: "Iconic Northern Beaches destination perched above Freshwater and Curl Curl beaches, offering barefoot bowls with sea breezes and world-class dining."
+  about: >
+    Operating alongside the magnificent Harbord Diggers precinct on the Freshwater headland, Harbord Bowling Club provides spectacular coastal lawn bowling. Bowlers can roll on all-weather greens while soaking up ocean breezes, followed by dining at top Northern Beaches restaurants.
+
+- slug: "rose-bay-bowling-club"
+  name: "Rose Bay Bowling Club"
+  city: "sydney"
+  city_name: "Sydney"
+  city_url: "/bowls-clubs/bowls-clubs-in-sydney/"
+  country: "Australia"
+  country_code: "AU"
+  area: "Eastern Suburbs / Rose Bay"
+  address: "38-42 Vickery Avenue, Rose Bay"
+  postcode: "NSW 2029"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Barefoot Bowls"
+    - "Social Bowls"
+    - "Pennant"
+  season: "Year-round"
+  rinks_info: "2 natural grass greens beside Woollahra Golf Club"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://rosebaybowls.com.au/"
+  maps_query: "Rose+Bay+Bowling+Club+Vickery+Avenue+Rose+Bay+NSW+2029"
+  profile_page: true
+  summary: "Idyllic harbour-adjacent venue in Rose Bay with natural grass greens, sunset barefoot bowls, and a charming community atmosphere."
+  about: >
+    Situated just a few hundred metres from the sparkling waters of Rose Bay on Sydney Harbour, Rose Bay Bowling Club offers a tranquil green setting. Featuring two natural couch grass greens, the club hosts regular barefoot roll-ups, corporate days, and weekend social fixtures.
+
+- slug: "warrawee-bowling-club"
+  name: "Warrawee Bowling Club"
+  city: "sydney"
+  city_name: "Sydney"
+  city_url: "/bowls-clubs/bowls-clubs-in-sydney/"
+  country: "Australia"
+  country_code: "AU"
+  area: "Upper North Shore / Warrawee"
+  address: "1479 Pacific Highway, Warrawee"
+  postcode: "NSW 2074"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Pennant"
+    - "Social Bowls"
+    - "Barefoot Bowls"
+  season: "Year-round"
+  rinks_info: "3 championship natural grass greens (couch)"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://warraweebowls.com.au/"
+  maps_query: "Warrawee+Bowling+Club+Pacific+Highway+Warrawee+NSW+2074"
+  profile_page: true
+  summary: "Upper North Shore institution founded in 1907 with 3 championship couch greens, beautiful gardens, and strong community bowls."
+  about: >
+    Founded in 1907, Warrawee Bowling Club is one of Sydney's premier Upper North Shore bowling destinations. Set among manicured gardens, the club features three championship natural grass greens, experienced coaching, and an active calendar of pennants and social bowls.
+
+- slug: "belrose-bowling-club"
+  name: "Belrose Bowling Club"
+  city: "sydney"
+  city_name: "Sydney"
+  city_url: "/bowls-clubs/bowls-clubs-in-sydney/"
+  country: "Australia"
+  country_code: "AU"
+  area: "Northern Beaches / Belrose"
+  address: "146 Forest Way, Belrose"
+  postcode: "NSW 2085"
+  surfaces:
+    - "Outdoor Grass"
+    - "Outdoor Synthetic"
+  formats:
+    - "Pennant"
+    - "Barefoot Bowls"
+    - "Social Bowls"
+  season: "Year-round"
+  rinks_info: "3 greens including high-performance synthetic carpet and couch turf"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://belrosebowls.com.au/"
+  maps_query: "Belrose+Bowling+Club+Forest+Way+Belrose+NSW+2085"
+  profile_page: true
+  summary: "Bushland-framed club on the Northern Beaches featuring synthetic and natural grass greens, twilight barefoot bowls, and family dining."
+  about: >
+    Set against native bushland on the Northern Beaches, Belrose Bowling Club offers a relaxed setting for lawn bowls. Its greens include both natural grass and modern synthetic turf running true throughout the year, supported by active barefoot bowls and pennant teams.
+
+- slug: "grandviews-bowling-club"
+  name: "Grandviews Bowling Club"
+  city: "sydney"
+  city_name: "Sydney"
+  city_url: "/bowls-clubs/bowls-clubs-in-sydney/"
+  country: "Australia"
+  country_code: "AU"
+  area: "St George / Peakhurst"
+  address: "82 Murdoch Road, Peakhurst"
+  postcode: "NSW 2210"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Pennant"
+    - "Social Bowls"
+    - "Barefoot Bowls"
+  season: "Year-round"
+  rinks_info: "3 championship natural grass greens"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://grandviews.com.au/"
+  maps_query: "Grandviews+Bowling+Club+Murdoch+Road+Peakhurst+NSW+2210"
+  profile_page: true
+  summary: "Leading St George district bowling and community club with three immaculate grass greens, competitive pennants, and barefoot bowls."
+  about: >
+    Grandviews Bowling Club in Peakhurst is a premier bowls venue in Sydney's St George region. With three immaculate couch grass greens, the club fields competitive teams in Bowls NSW metropolitan leagues while offering social roll-ups, functions, and dining.
+
+- slug: "strathfield-sports-club"
+  name: "Strathfield Sports Club (Bowls)"
+  city: "sydney"
+  city_name: "Sydney"
+  city_url: "/bowls-clubs/bowls-clubs-in-sydney/"
+  country: "Australia"
+  country_code: "AU"
+  area: "Inner West / Strathfield"
+  address: "4A Lyons Street, Strathfield"
+  postcode: "NSW 2135"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Pennant"
+    - "Barefoot Bowls"
+    - "Social Bowls"
+  season: "Year-round"
+  rinks_info: "2 natural grass couch greens under floodlights"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://strathfieldsportsclub.com.au/"
+  maps_query: "Strathfield+Sports+Club+Lyons+Street+Strathfield+NSW+2135"
+  profile_page: true
+  summary: "Inner-west sporting club with floodlit natural grass greens, active pennants, craft bar, and popular corporate barefoot bowls."
+  about: >
+    Located minutes from Strathfield station, Strathfield Sports Club provides great lawn bowling in the inner west. Its floodlit natural grass greens allow evening roll-ups, corporate barefoot competitions, and regular pennant fixtures.
+
+- slug: "chatswood-bowling-club"
+  name: "Chatswood Bowling Club"
+  city: "sydney"
+  city_name: "Sydney"
+  city_url: "/bowls-clubs/bowls-clubs-in-sydney/"
+  country: "Australia"
+  country_code: "AU"
+  area: "Lower North Shore / Chatswood"
+  address: "655 Pacific Highway, Chatswood"
+  postcode: "NSW 2067"
+  surfaces:
+    - "Outdoor Grass"
+    - "Outdoor Synthetic"
+  formats:
+    - "Pennant"
+    - "Barefoot Bowls"
+    - "Social Bowls"
+  season: "Year-round"
+  rinks_info: "Natural grass and synthetic greens in central Chatswood"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://chatswoodbowls.com.au/"
+  maps_query: "Chatswood+Bowling+Club+Pacific+Highway+Chatswood+NSW+2067"
+  profile_page: true
+  summary: "Est. 1900 in the heart of Chatswood, offering championship greens, coaching, and convenient social barefoot bowls for North Shore locals."
+  about: >
+    Established in 1900, Chatswood Bowling Club has been an active sporting institution on the Lower North Shore for over 120 years. Featuring both grass and synthetic surfaces, the club is conveniently located near Chatswood CBD, offering barefoot bowls and competitive pennants.
+
+- slug: "double-bay-bowling-club"
+  name: "Double Bay Bowling Club"
+  city: "sydney"
+  city_name: "Sydney"
+  city_url: "/bowls-clubs/bowls-clubs-in-sydney/"
+  country: "Australia"
+  country_code: "AU"
+  area: "Eastern Suburbs / Double Bay"
+  address: "Kiaora Road, Double Bay"
+  postcode: "NSW 2028"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Pennant"
+    - "Barefoot Bowls"
+    - "Social Bowls"
+  season: "Year-round"
+  rinks_info: "2 natural grass couch greens in leafy park setting"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://doublebaybowls.com.au/"
+  maps_query: "Double+Bay+Bowling+Club+Kiaora+Road+Double+Bay+NSW+2028"
+  profile_page: true
+  summary: "Prestigious Eastern Suburbs club with pristine couch greens, expert coaching clinics, and relaxed barefoot bowling."
+  about: >
+    Double Bay Bowling Club sits in a peaceful green setting close to Double Bay's village precinct. Offering pristine natural grass greens, the club attracts high-calibre pennant bowlers and welcomes novices with free coaching and social roll-ups.
+
+- slug: "ashfield-bowling-club"
+  name: "Ashfield Bowling Club"
+  city: "sydney"
+  city_name: "Sydney"
+  city_url: "/bowls-clubs/bowls-clubs-in-sydney/"
+  country: "Australia"
+  country_code: "AU"
+  area: "Inner West / Ashfield"
+  address: "Orpington Street, Ashfield"
+  postcode: "NSW 2131"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Pennant"
+    - "Barefoot Bowls"
+    - "Social Bowls"
+  season: "Year-round"
+  rinks_info: "2 natural couch grass greens inside Ashfield Park"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://ashfieldbowlingclub.com.au/"
+  maps_query: "Ashfield+Bowling+Club+Orpington+Street+Ashfield+NSW+2131"
+  profile_page: true
+  summary: "Set inside historic Ashfield Park, offering two natural grass greens, affordable social roll-ups, and a welcoming community atmosphere."
+  about: >
+    Surrounded by the mature palms and Moreton Bay figs of Ashfield Park, Ashfield Bowling Club offers an accessible lawn bowls experience in Sydney's inner west. With two natural grass greens, the club hosts weekly barefoot bowls, corporate roll-ups, and weekend pennant competition.

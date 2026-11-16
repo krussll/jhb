@@ -10,7 +10,7 @@ description: "Find indoor and lawn bowls clubs near you with our comprehensive d
 background: "/img/posts/Club-Directory-1024x576.jpg"
 image: "/img/posts/Club-Directory-1024x576.jpg"
 date: 2022-06-01 13:00:00 -0400
-last_modified_at: 2026-11-16 13:05:00 +0000
+last_modified_at: 2026-11-16 19:00:00 +0000
 faqs:
   - question: "Can I try lawn bowls at a club without buying my own bowls?"
     answer: "Yes, almost every bowling club maintains sets of club loan bowls in various sizes and weights that visitors and prospective members can borrow free of charge for open days, coaching sessions, or casual roll-ups. Club coaches and experienced bowlers will measure your hand and help you pick a comfortable size before you step onto the green."
@@ -97,48 +97,262 @@ Use our master directory, regional city guides, and national governing body find
     </div>
   </article>
 
-  <!-- Glasgow Expansion Preview -->
-  <article class="club-region-card">
+  <!-- Glasgow Guide Card -->
+  <article class="club-region-card club-region-card--featured">
     <div class="club-region-card__header">
-      <h3 class="club-region-card__title">Glasgow &amp; Strathclyde</h3>
-      <span class="club-badge club-badge--light">Expansion Guide</span>
+      <h3 class="club-region-card__title">
+        <a href="{{ '/bowls-clubs/bowls-clubs-in-glasgow/' | relative_url }}">Glasgow &amp; West of Scotland Bowls Clubs</a>
+      </h3>
+      <span class="club-badge club-badge--gold">Complete Guide</span>
     </div>
     <p class="club-region-card__location">
       <i class="fas fa-map-marker-alt text-muted" aria-hidden="true"></i> West of Scotland (G Postcodes)
     </p>
     <div class="club-region-card__badges">
-      <span class="club-badge club-badge--light"><i class="fas fa-leaf" aria-hidden="true"></i> Traditional Parks</span>
+      <span class="club-badge club-badge--light"><i class="fas fa-leaf" aria-hidden="true"></i> Outdoor Grass</span>
       <span class="club-badge club-badge--light"><i class="fas fa-warehouse" aria-hidden="true"></i> Indoor Arenas</span>
+      <span class="club-badge club-badge--info"><i class="fas fa-bowling-ball" aria-hidden="true"></i> Loan Bowls</span>
     </div>
     <p class="club-region-card__desc">
-      Covering historic bowling greens from Kelvingrove to Queen's Park and major indoor winter complexes across Strathclyde. Use the Bowls Scotland finder below while our curated guide is being finalized.
+      Explore bowling clubs across Glasgow, the West End, Southside, and Strathclyde. Features Kelvingrove (2014 Commonwealth Games), Bellahouston indoor arena, 10–12s green speeds, and Scottish turf equipment advice.
     </p>
     <div class="club-region-card__footer">
-      <a href="https://www.bowlsscotland.com/" target="_blank" rel="noopener noreferrer" class="btn btn-brand-outline btn-sm">
-        Bowls Scotland Finder &nearr;
+      <a href="{{ '/bowls-clubs/bowls-clubs-in-glasgow/' | relative_url }}" class="btn btn-brand-primary btn-sm">
+        Explore Glasgow Clubs &rarr;
       </a>
     </div>
   </article>
 
-  <!-- Melbourne Expansion Preview -->
-  <article class="club-region-card">
+  <!-- London Guide Card -->
+  <article class="club-region-card club-region-card--featured">
     <div class="club-region-card__header">
-      <h3 class="club-region-card__title">Melbourne &amp; Victoria</h3>
-      <span class="club-badge club-badge--light">Expansion Guide</span>
+      <h3 class="club-region-card__title">
+        <a href="{{ '/bowls-clubs/bowls-clubs-in-london/' | relative_url }}">London Bowls Clubs &amp; Indoor Rinks</a>
+      </h3>
+      <span class="club-badge club-badge--gold">Complete Guide</span>
+    </div>
+    <p class="club-region-card__location">
+      <i class="fas fa-map-marker-alt text-muted" aria-hidden="true"></i> Greater London (Central, North, South, East &amp; West)
+    </p>
+    <div class="club-region-card__badges">
+      <span class="club-badge club-badge--light"><i class="fas fa-leaf" aria-hidden="true"></i> Historic Parks</span>
+      <span class="club-badge club-badge--light"><i class="fas fa-warehouse" aria-hidden="true"></i> Indoor Rinks</span>
+      <span class="club-badge club-badge--success"><i class="fas fa-cocktail" aria-hidden="true"></i> Social Roll-Ups</span>
+    </div>
+    <p class="club-region-card__desc">
+      Discover lawn bowls across London's historic parks and private clubs, from Paddington and Battersea to Dulwich and Crystal Palace Indoor. Features beginner roll-ups, dress codes, and gear advice.
+    </p>
+    <div class="club-region-card__footer">
+      <a href="{{ '/bowls-clubs/bowls-clubs-in-london/' | relative_url }}" class="btn btn-brand-primary btn-sm">
+        Explore London Clubs &rarr;
+      </a>
+    </div>
+  </article>
+
+  <!-- Bristol, Bath, Somerset & Wiltshire Guide Card -->
+  <article class="club-region-card club-region-card--featured">
+    <div class="club-region-card__header">
+      <h3 class="club-region-card__title">
+        <a href="{{ '/bowls-clubs/bowls-clubs-in-bristol-bath-somerset-wiltshire/' | relative_url }}">Bristol, Bath, Somerset &amp; Wiltshire Bowls Clubs</a>
+      </h3>
+      <span class="club-badge club-badge--gold">Complete Guide</span>
+    </div>
+    <p class="club-region-card__location">
+      <i class="fas fa-map-marker-alt text-muted" aria-hidden="true"></i> West Country (Bristol, Bath, Somerset &amp; Wiltshire)
+    </p>
+    <div class="club-region-card__badges">
+      <span class="club-badge club-badge--light"><i class="fas fa-sun" aria-hidden="true"></i> Summer Greens</span>
+      <span class="club-badge club-badge--light"><i class="fas fa-warehouse" aria-hidden="true"></i> Clarrie Dunbar &amp; Arenas</span>
+      <span class="club-badge club-badge--info"><i class="fas fa-bullseye" aria-hidden="true"></i> Short Mat</span>
+    </div>
+    <p class="club-region-card__desc">
+      Comprehensive guide to bowling in the West Country, from coastal greens in Weston-super-Mare and Clevedon to premier indoor stadiums like Clarrie Dunbar and City &amp; County of Bristol.
+    </p>
+    <div class="club-region-card__footer">
+      <a href="{{ '/bowls-clubs/bowls-clubs-in-bristol-bath-somerset-wiltshire/' | relative_url }}" class="btn btn-brand-primary btn-sm">
+        Explore West Country Clubs &rarr;
+      </a>
+    </div>
+  </article>
+
+  <!-- Manchester & Lancashire Guide Card -->
+  <article class="club-region-card club-region-card--featured">
+    <div class="club-region-card__header">
+      <h3 class="club-region-card__title">
+        <a href="{{ '/bowls-clubs/bowls-clubs-in-manchester-and-lancashire/' | relative_url }}">Manchester &amp; Lancashire Bowls Clubs</a>
+      </h3>
+      <span class="club-badge club-badge--gold">Complete Guide</span>
+    </div>
+    <p class="club-region-card__location">
+      <i class="fas fa-map-marker-alt text-muted" aria-hidden="true"></i> North West England (Greater Manchester &amp; Lancashire)
+    </p>
+    <div class="club-region-card__badges">
+      <span class="club-badge club-badge--primary"><i class="fas fa-mountain" aria-hidden="true"></i> Crown Green</span>
+      <span class="club-badge club-badge--light"><i class="fas fa-leaf" aria-hidden="true"></i> Commonwealth Flat Green</span>
+      <span class="club-badge club-badge--light"><i class="fas fa-warehouse" aria-hidden="true"></i> Winter Indoor</span>
+    </div>
+    <p class="club-region-card__desc">
+      Complete guide to the North West bowling heartland. Explains Crown Green vs. Flat Green at Heaton Park (2002 Commonwealth Games greens), indoor centres in Bolton and Blackpool, and 2-full bias bowls.
+    </p>
+    <div class="club-region-card__footer">
+      <a href="{{ '/bowls-clubs/bowls-clubs-in-manchester-and-lancashire/' | relative_url }}" class="btn btn-brand-primary btn-sm">
+        Explore Manchester &amp; Lancs Clubs &rarr;
+      </a>
+    </div>
+  </article>
+
+  <!-- Yorkshire Guide Card -->
+  <article class="club-region-card club-region-card--featured">
+    <div class="club-region-card__header">
+      <h3 class="club-region-card__title">
+        <a href="{{ '/bowls-clubs/bowls-clubs-in-yorkshire/' | relative_url }}">Yorkshire Bowls Clubs &amp; Stadiums</a>
+      </h3>
+      <span class="club-badge club-badge--gold">Complete Guide</span>
+    </div>
+    <p class="club-region-card__location">
+      <i class="fas fa-map-marker-alt text-muted" aria-hidden="true"></i> Yorkshire (Leeds, York, Sheffield, Bradford &amp; Coast)
+    </p>
+    <div class="club-region-card__badges">
+      <span class="club-badge club-badge--primary"><i class="fas fa-mountain" aria-hidden="true"></i> Crown Green</span>
+      <span class="club-badge club-badge--light"><i class="fas fa-leaf" aria-hidden="true"></i> Coastal Flat Green</span>
+      <span class="club-badge club-badge--light"><i class="fas fa-warehouse" aria-hidden="true"></i> 8-Rink York Indoor</span>
+    </div>
+    <p class="club-region-card__desc">
+      Explore bowling across Yorkshire: historic crown greens in Sheffield and Huddersfield, scenic flat greens in Scarborough and Harrogate, and championship winter indoor arenas in York and Leeds.
+    </p>
+    <div class="club-region-card__footer">
+      <a href="{{ '/bowls-clubs/bowls-clubs-in-yorkshire/' | relative_url }}" class="btn btn-brand-primary btn-sm">
+        Explore Yorkshire Clubs &rarr;
+      </a>
+    </div>
+  </article>
+
+  <!-- Melbourne Guide Card -->
+  <article class="club-region-card club-region-card--featured">
+    <div class="club-region-card__header">
+      <h3 class="club-region-card__title">
+        <a href="{{ '/bowls-clubs/bowls-clubs-in-melbourne/' | relative_url }}">Melbourne &amp; Victoria Bowls Clubs</a>
+      </h3>
+      <span class="club-badge club-badge--gold">Complete Guide</span>
     </div>
     <p class="club-region-card__location">
       <i class="fas fa-map-marker-alt text-muted" aria-hidden="true"></i> Victoria, Australia (Metro &amp; Bayside)
     </p>
     <div class="club-region-card__badges">
-      <span class="club-badge club-badge--light"><i class="fas fa-trophy" aria-hidden="true"></i> Saturday Pennant</span>
-      <span class="club-badge club-badge--success"><i class="fas fa-cocktail" aria-hidden="true"></i> Social Barefoot</span>
+      <span class="club-badge club-badge--light"><i class="fas fa-shield-alt" aria-hidden="true"></i> Covered Domes</span>
+      <span class="club-badge club-badge--light"><i class="fas fa-sun" aria-hidden="true"></i> Fast Couch (14–18s)</span>
+      <span class="club-badge club-badge--success"><i class="fas fa-cocktail" aria-hidden="true"></i> Iconic Barefoot</span>
     </div>
     <p class="club-region-card__desc">
-      Australia's lawn bowls heartland, featuring elite pennant powerhouses, roofed synthetic carpet greens, and famous Friday night social bowls venues. Use the Bowls Australia directory below for immediate lookups.
+      Explore Melbourne's bowls landscape: historic Melbourne Bowling Club (est. 1864), sunny barefoot bowls in St Kilda and Fitzroy, and state-of-the-art undercover dome complexes at Darebin and Dandenong.
     </p>
     <div class="club-region-card__footer">
-      <a href="https://www.bowls.com.au/" target="_blank" rel="noopener noreferrer" class="btn btn-brand-outline btn-sm">
-        Bowls Australia Finder &nearr;
+      <a href="{{ '/bowls-clubs/bowls-clubs-in-melbourne/' | relative_url }}" class="btn btn-brand-primary btn-sm">
+        Explore Melbourne Clubs &rarr;
+      </a>
+    </div>
+  </article>
+
+  <!-- Sydney Guide Card -->
+  <article class="club-region-card club-region-card--featured">
+    <div class="club-region-card__header">
+      <h3 class="club-region-card__title">
+        <a href="{{ '/bowls-clubs/bowls-clubs-in-sydney/' | relative_url }}">Sydney &amp; New South Wales Bowls Clubs</a>
+      </h3>
+      <span class="club-badge club-badge--gold">Complete Guide</span>
+    </div>
+    <p class="club-region-card__location">
+      <i class="fas fa-map-marker-alt text-muted" aria-hidden="true"></i> New South Wales, Australia (Harbour, Coast &amp; West)
+    </p>
+    <div class="club-region-card__badges">
+      <span class="club-badge club-badge--light"><i class="fas fa-water" aria-hidden="true"></i> Ocean Clifftop Greens</span>
+      <span class="club-badge club-badge--success"><i class="fas fa-cocktail" aria-hidden="true"></i> Barefoot Bowls</span>
+      <span class="club-badge club-badge--primary"><i class="fas fa-trophy" aria-hidden="true"></i> State Pennants</span>
+    </div>
+    <p class="club-region-card__desc">
+      Discover Sydney lawn bowls: world-famous Pacific ocean cliff greens at Clovelly and Bondi, inner-west barefoot institutions (Petersham PBC and Marrickville), and state powerhouses at St Johns Park and Cabramatta.
+    </p>
+    <div class="club-region-card__footer">
+      <a href="{{ '/bowls-clubs/bowls-clubs-in-sydney/' | relative_url }}" class="btn btn-brand-primary btn-sm">
+        Explore Sydney Clubs &rarr;
+      </a>
+    </div>
+  </article>
+
+  <!-- Brisbane & Gold Coast Guide Card -->
+  <article class="club-region-card club-region-card--featured">
+    <div class="club-region-card__header">
+      <h3 class="club-region-card__title">
+        <a href="{{ '/bowls-clubs/bowls-clubs-in-brisbane-and-gold-coast/' | relative_url }}">Brisbane &amp; Gold Coast Bowls Clubs</a>
+      </h3>
+      <span class="club-badge club-badge--gold">Complete Guide</span>
+    </div>
+    <p class="club-region-card__location">
+      <i class="fas fa-map-marker-alt text-muted" aria-hidden="true"></i> South East Queensland, Australia
+    </p>
+    <div class="club-region-card__badges">
+      <span class="club-badge club-badge--light"><i class="fas fa-sun" aria-hidden="true"></i> Tifdwarf Couch (15–18s)</span>
+      <span class="club-badge club-badge--light"><i class="fas fa-shield-alt" aria-hidden="true"></i> Covered Arenas</span>
+      <span class="club-badge club-badge--success"><i class="fas fa-cocktail" aria-hidden="true"></i> Riverfront Barefoot</span>
+    </div>
+    <p class="club-region-card__desc">
+      Complete guide to South East Queensland bowls: iconic riverfront barefoot roll-ups at Merthyr and The Boo, Commonwealth Games greens at Broadbeach, and covered dome arenas at Pine Rivers and Helensvale.
+    </p>
+    <div class="club-region-card__footer">
+      <a href="{{ '/bowls-clubs/bowls-clubs-in-brisbane-and-gold-coast/' | relative_url }}" class="btn btn-brand-primary btn-sm">
+        Explore Brisbane &amp; GC Clubs &rarr;
+      </a>
+    </div>
+  </article>
+
+  <!-- Perth Guide Card -->
+  <article class="club-region-card club-region-card--featured">
+    <div class="club-region-card__header">
+      <h3 class="club-region-card__title">
+        <a href="{{ '/bowls-clubs/bowls-clubs-in-perth/' | relative_url }}">Perth &amp; Western Australia Bowls Clubs</a>
+      </h3>
+      <span class="club-badge club-badge--gold">Complete Guide</span>
+    </div>
+    <p class="club-region-card__location">
+      <i class="fas fa-map-marker-alt text-muted" aria-hidden="true"></i> Western Australia (Swan River &amp; Coastal)
+    </p>
+    <div class="club-region-card__badges">
+      <span class="club-badge club-badge--light"><i class="fas fa-wind" aria-hidden="true"></i> Fremantle Doctor (14–17s)</span>
+      <span class="club-badge club-badge--light"><i class="fas fa-shield-alt" aria-hidden="true"></i> Covered Domes</span>
+      <span class="club-badge club-badge--success"><i class="fas fa-cocktail" aria-hidden="true"></i> Clifftop Barefoot</span>
+    </div>
+    <p class="club-region-card__desc">
+      Explore bowling across Western Australia: spectacular river panoramas at Mosman Park and South Perth, lively barefoot roll-ups in Leederville and Subiaco, and premier pennant powerhouses at Manning and Sorrento.
+    </p>
+    <div class="club-region-card__footer">
+      <a href="{{ '/bowls-clubs/bowls-clubs-in-perth/' | relative_url }}" class="btn btn-brand-primary btn-sm">
+        Explore Perth Clubs &rarr;
+      </a>
+    </div>
+  </article>
+
+  <!-- Auckland Guide Card -->
+  <article class="club-region-card club-region-card--featured">
+    <div class="club-region-card__header">
+      <h3 class="club-region-card__title">
+        <a href="{{ '/bowls-clubs/bowls-clubs-in-auckland-new-zealand/' | relative_url }}">Auckland &amp; New Zealand Bowls Clubs</a>
+      </h3>
+      <span class="club-badge club-badge--gold">Complete Guide</span>
+    </div>
+    <p class="club-region-card__location">
+      <i class="fas fa-map-marker-alt text-muted" aria-hidden="true"></i> Auckland, New Zealand (Central, North Shore &amp; Coast)
+    </p>
+    <div class="club-region-card__badges">
+      <span class="club-badge club-badge--light"><i class="fas fa-leaf" aria-hidden="true"></i> Cotula Starweed (15–18s)</span>
+      <span class="club-badge club-badge--light"><i class="fas fa-shield-alt" aria-hidden="true"></i> Covered Canopy Domes</span>
+      <span class="club-badge club-badge--success"><i class="fas fa-cocktail" aria-hidden="true"></i> Kiwi Barefoot Bowls</span>
+    </div>
+    <p class="club-region-card__desc">
+      Discover lawn bowls in Auckland: national championship greens at Carlton Cornwall, heritage Cotula turf at Remuera, covered dome arenas at Takapuna and Royal Oak, and bustling barefoot bowls at Ponsonby.
+    </p>
+    <div class="club-region-card__footer">
+      <a href="{{ '/bowls-clubs/bowls-clubs-in-auckland-new-zealand/' | relative_url }}" class="btn btn-brand-primary btn-sm">
+        Explore Auckland Clubs &rarr;
       </a>
     </div>
   </article>

@@ -1,0 +1,750 @@
+- slug: "south-perth-bowling-club"
+  name: "South Perth Bowling Club"
+  city: "perth"
+  city_name: "Perth"
+  city_url: "/bowls-clubs/bowls-clubs-in-perth/"
+  country: "Australia"
+  country_code: "AU"
+  area: "Inner South / South Perth"
+  address: "2 Mends Street, South Perth"
+  postcode: "WA 6151"
+  surfaces:
+    - "Outdoor Grass"
+    - "Outdoor Synthetic"
+  formats:
+    - "Pennant"
+    - "Barefoot Bowls"
+    - "Social Bowls"
+  season: "Year-round"
+  rinks_info: "4 greens (couch grass and synthetic) with Swan River foreshore views"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://southperthbowls.com.au/"
+  maps_query: "South+Perth+Bowling+Club+Mends+Street+South+Perth+WA+6151"
+  profile_page: true
+  summary: "Est. 1898 on the South Perth foreshore, boasting breathtaking views of the Swan River and Perth CBD skyline with pristine greens."
+  about: >
+    Founded in 1898 beside the Mends Street jetty, South Perth Bowling Club is one of Western Australia's most picturesque sporting locations. Bowlers enjoy views across the Swan River to the sparkling Perth city skyline. Featuring four greens (both manicured couch turf and all-weather synthetic), the club fields top-tier Bowls WA pennant squads while offering iconic barefoot roll-ups.
+
+- slug: "subiaco-bowling-club"
+  name: "Subiaco Bowling Club"
+  city: "perth"
+  city_name: "Perth"
+  city_url: "/bowls-clubs/bowls-clubs-in-perth/"
+  country: "Australia"
+  country_code: "AU"
+  area: "Inner West / Subiaco"
+  address: "397 Bagot Road, Subiaco"
+  postcode: "WA 6008"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Barefoot Bowls"
+    - "Pennant"
+    - "Social Bowls"
+  season: "Year-round"
+  rinks_info: "2 natural grass couch greens in Rosalie Park"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://subiacobowls.com.au/"
+  maps_query: "Subiaco+Bowling+Club+Bagot+Road+Subiaco+WA+6008"
+  profile_page: true
+  summary: "Inner-western leafy club nestled in Rosalie Park, popular for summer barefoot bowls, craft beer, and community social roll-ups."
+  about: >
+    Nestled inside leafy Rosalie Park in Subiaco, this club has delivered lawn bowls to Perth's western suburbs since 1908. Offering two pristine couch greens, Subiaco is renowned for its relaxed, community-first culture, Friday evening barefoot roll-ups with food trucks, and active Saturday pennants.
+
+- slug: "leederville-bowls-sporting-club"
+  name: "Leederville Bowls & Sporting Club"
+  city: "perth"
+  city_name: "Perth"
+  city_url: "/bowls-clubs/bowls-clubs-in-perth/"
+  country: "Australia"
+  country_code: "AU"
+  area: "Inner North / West Leederville"
+  address: "78 Cambridge Street, West Leederville"
+  postcode: "WA 6007"
+  surfaces:
+    - "Outdoor Grass"
+    - "Outdoor Synthetic"
+  formats:
+    - "Barefoot Bowls"
+    - "Pennant"
+    - "Social Bowls"
+  season: "Year-round"
+  rinks_info: "2 greens under floodlights including synthetic and couch turf"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://leedervillebowls.com.au/"
+  maps_query: "Leederville+Bowls+Sporting+Club+Cambridge+Street+West+Leederville+WA+6007"
+  profile_page: true
+  summary: "Vibrant inner-city social club with floodlit synthetic greens, bustling Friday barefoot sessions, local craft beers, and modern DJ sets."
+  about: >
+    Located minutes from the bustling Oxford Street café strip, Leederville Bowls & Sporting Club is a modern social hub. With all-weather floodlit greens, the club is a favourite destination for young professionals, student roll-ups, corporate barefoot bowls, and competitive pennants.
+
+- slug: "north-beach-bowling-club"
+  name: "North Beach Bowling Club"
+  city: "perth"
+  city_name: "Perth"
+  city_url: "/bowls-clubs/bowls-clubs-in-perth/"
+  country: "Australia"
+  country_code: "AU"
+  area: "Coastal North / North Beach"
+  address: "7 Kitchener Street, North Beach"
+  postcode: "WA 6020"
+  surfaces:
+    - "Outdoor Grass"
+    - "Outdoor Synthetic"
+  formats:
+    - "Pennant"
+    - "Premier League"
+    - "Barefoot Bowls"
+    - "Social Bowls"
+  season: "Year-round"
+  rinks_info: "4 greens (championship grass and synthetic) with ocean breeze"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://northbeachbowls.com.au/"
+  maps_query: "North+Beach+Bowling+Club+Kitchener+Street+North+Beach+WA+6020"
+  profile_page: true
+  summary: "Major coastal complex with four greens, ocean views, strong Premier League pennant squads, and popular barefoot bowls."
+  about: >
+    Situated just back from the Indian Ocean in North Beach, this premier club features four bowling greens (couch turf and woven synthetic). Subject to the famous afternoon 'Fremantle Doctor' sea breeze, North Beach challenges bowlers while offering scenic barefoot roll-ups and hospitality.
+
+- slug: "manning-bowling-club"
+  name: "Manning Bowling Club"
+  city: "perth"
+  city_name: "Perth"
+  city_url: "/bowls-clubs/bowls-clubs-in-perth/"
+  country: "Australia"
+  country_code: "AU"
+  area: "South Metro / Manning"
+  address: "Challenger Avenue, Manning"
+  postcode: "WA 6152"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Pennant"
+    - "Premier League"
+    - "Social Bowls"
+    - "Barefoot Bowls"
+  season: "Year-round"
+  rinks_info: "3 championship couch grass greens"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://manningeagles.com.au/"
+  maps_query: "Manning+Bowling+Club+Challenger+Avenue+Manning+WA+6152"
+  profile_page: true
+  summary: "Home of the Manning Eagles, a dominant force in WA Premier League bowls with three immaculate natural couch greens and top coaching."
+  about: >
+    Known across Western Australia as the Manning Eagles, Manning Bowling Club is a perennial contender in Bowls WA Premier League competitions. With three championship couch grass greens maintained in top condition, Manning offers elite training programs alongside lively community barefoot bowls.
+
+- slug: "kardinya-bowling-club"
+  name: "Kardinya Bowling Club"
+  city: "perth"
+  city_name: "Perth"
+  city_url: "/bowls-clubs/bowls-clubs-in-perth/"
+  country: "Australia"
+  country_code: "AU"
+  area: "South West / Kardinya"
+  address: "South Street & Morris Buzacott Reserve, Kardinya"
+  postcode: "WA 6163"
+  surfaces:
+    - "Outdoor Grass"
+    - "Outdoor Synthetic"
+  formats:
+    - "Pennant"
+    - "Premier League"
+    - "Social Bowls"
+    - "Barefoot Bowls"
+  season: "Year-round"
+  rinks_info: "4 greens in Morris Buzacott Reserve"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://kardinyabowls.com.au/"
+  maps_query: "Kardinya+Bowling+Club+South+Street+Kardinya+WA+6163"
+  profile_page: true
+  summary: "South-metro bowling juggernaut featuring four championship greens, high-performance coaching, and active community social leagues."
+  about: >
+    Located inside the Morris Buzacott Reserve, Kardinya Bowling Club (the Kats) is one of Perth's largest and most competitive bowling clubs. Boasting four greens (couch grass and synthetic), the club caters to hundreds of pennant bowlers while welcoming newcomers to social barefoot roll-ups.
+
+- slug: "sorrento-bowling-club"
+  name: "Sorrento Bowling Club"
+  city: "perth"
+  city_name: "Perth"
+  city_url: "/bowls-clubs/bowls-clubs-in-perth/"
+  country: "Australia"
+  country_code: "AU"
+  area: "Northern Suburbs / Duncraig"
+  address: "Percy Doyle Reserve, Ron Chamberlain Drive, Duncraig"
+  postcode: "WA 6023"
+  surfaces:
+    - "Covered Dome"
+    - "Outdoor Grass"
+    - "Outdoor Synthetic"
+  formats:
+    - "Pennant"
+    - "Premier League"
+    - "Social Bowls"
+    - "Barefoot Bowls"
+  season: "Year-round"
+  rinks_info: "4 championship greens including covered synthetic green and couch turf"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://sorrentobowlsclub.com.au/"
+  maps_query: "Sorrento+Bowling+Club+Ron+Chamberlain+Drive+Duncraig+WA+6023"
+  profile_page: true
+  summary: "Northern suburbs giant inside Percy Doyle Reserve with 4 greens, undercover covered canopy rinks, and premier competitive credentials."
+  about: >
+    Sorrento Bowling Club in Duncraig is a powerhouse in Western Australian bowls. With an undercover canopy green enabling all-weather play alongside pristine natural couch greens, Sorrento accommodates top-division pennants, state fixtures, and thriving weekend barefoot roll-ups.
+
+- slug: "osborne-park-bowling-club"
+  name: "Osborne Park Bowling Club"
+  city: "perth"
+  city_name: "Perth"
+  city_url: "/bowls-clubs/bowls-clubs-in-perth/"
+  country: "Australia"
+  country_code: "AU"
+  area: "Inner North / Tuart Hill"
+  address: "31 Park Street, Tuart Hill"
+  postcode: "WA 6060"
+  surfaces:
+    - "Outdoor Grass"
+    - "Outdoor Synthetic"
+  formats:
+    - "Pennant"
+    - "Premier League"
+    - "Social Bowls"
+    - "Barefoot Bowls"
+  season: "Year-round"
+  rinks_info: "4 championship greens (couch grass and synthetic)"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://osborneparkbowls.com.au/"
+  maps_query: "Osborne+Park+Bowling+Club+Park+Street+Tuart+Hill+WA+6060"
+  profile_page: true
+  summary: "Historic club (the Saints) established in 1918, boasting four top-tier greens, multiple Premier League pennant titles, and vibrant social events."
+  about: >
+    Founded in 1918, Osborne Park Bowling Club is a premier sporting club in Perth's inner north. Fielded across four greens (natural couch and synthetic), Osborne Park's 'Saints' are among the most decorated pennant clubs in WA, while also offering beginner coaching and social barefoot roll-ups.
+
+- slug: "fremantle-bowling-club"
+  name: "Fremantle Bowling Club"
+  city: "perth"
+  city_name: "Perth"
+  city_url: "/bowls-clubs/bowls-clubs-in-perth/"
+  country: "Australia"
+  country_code: "AU"
+  area: "Fremantle / Port City"
+  address: "Ellen Street, Fremantle"
+  postcode: "WA 6160"
+  surfaces:
+    - "Outdoor Grass"
+    - "Outdoor Synthetic"
+  formats:
+    - "Barefoot Bowls"
+    - "Pennant"
+    - "Social Bowls"
+  season: "Year-round"
+  rinks_info: "2 greens in the heart of Fremantle Park"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://fremantlebowls.com.au/"
+  maps_query: "Fremantle+Bowling+Club+Ellen+Street+Fremantle+WA+6160"
+  profile_page: true
+  summary: "Founded in 1896 in Fremantle Park, combining rich port heritage with fresh coastal sea breezes, craft beer, and community barefoot bowls."
+  about: >
+    Established in 1896, Fremantle Bowling Club is one of Western Australia's earliest sporting clubs. Set inside Fremantle Park, the club features natural grass and synthetic greens, where bowlers enjoy the afternoon coastal breeze, local craft ales, and laid-back barefoot sessions.
+
+- slug: "bayswater-bowling-club"
+  name: "Bayswater Bowling Club"
+  city: "perth"
+  city_name: "Perth"
+  city_url: "/bowls-clubs/bowls-clubs-in-perth/"
+  country: "Australia"
+  country_code: "AU"
+  area: "Inner East / Bayswater"
+  address: "58 Murray Street, Bayswater"
+  postcode: "WA 6053"
+  surfaces:
+    - "Outdoor Grass"
+    - "Outdoor Synthetic"
+  formats:
+    - "Pennant"
+    - "Barefoot Bowls"
+    - "Social Bowls"
+  season: "Year-round"
+  rinks_info: "2 greens (hybrid couch and all-weather synthetic)"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://bayswaterbowls.com.au/"
+  maps_query: "Bayswater+Bowling+Club+Murray+Street+Bayswater+WA+6053"
+  profile_page: true
+  summary: "Welcoming eastern-metro club with natural couch and synthetic greens, active pennant divisions, and budget-friendly barefoot bowls."
+  about: >
+    Bayswater Bowling Club provides a community-focused sporting atmosphere in Perth's eastern suburbs. With both couch turf and synthetic greens, the club offers year-round bowls, beginner coaching, and lively Friday night social roll-ups.
+
+- slug: "mount-lawley-bowling-club"
+  name: "Mount Lawley Bowling Club"
+  city: "perth"
+  city_name: "Perth"
+  city_url: "/bowls-clubs/bowls-clubs-in-perth/"
+  country: "Australia"
+  country_code: "AU"
+  area: "Inner North / Mount Lawley"
+  address: "Cnr Storthes & Rookwood Streets, Mount Lawley"
+  postcode: "WA 6050"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Pennant"
+    - "Barefoot Bowls"
+    - "Social Bowls"
+  season: "Year-round"
+  rinks_info: "3 championship natural grass greens inside Ingram Park"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://mtlawleybowls.com.au/"
+  maps_query: "Mount+Lawley+Bowling+Club+Storthes+Street+Mount+Lawley+WA+6050"
+  profile_page: true
+  summary: "Est. 1909 inside heritage Ingram Park, featuring three manicured couch greens, art deco clubhouse, and popular barefoot bowls."
+  about: >
+    Established in 1909 within Ingram Park, Mount Lawley Bowling Club is a jewel of Perth's inner north. With three meticulously maintained couch grass greens, the club pairs heritage clubhouse charm with competitive pennant sides and lively weekend barefoot bowls.
+
+- slug: "mosman-park-bowling-club"
+  name: "Mosman Park Bowling Club"
+  city: "perth"
+  city_name: "Perth"
+  city_url: "/bowls-clubs/bowls-clubs-in-perth/"
+  country: "Australia"
+  country_code: "AU"
+  area: "Western Suburbs / Mosman Park"
+  address: "39 Bay View Terrace, Mosman Park"
+  postcode: "WA 6012"
+  surfaces:
+    - "Outdoor Grass"
+    - "Outdoor Synthetic"
+  formats:
+    - "Barefoot Bowls"
+    - "Pennant"
+    - "Social Bowls"
+  season: "Year-round"
+  rinks_info: "Clifftop greens perched high above the Swan River with 180-degree views"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://mosmanparkbowlingclub.com.au/"
+  maps_query: "Mosman+Park+Bowling+Club+Bay+View+Terrace+Mosman+Park+WA+6012"
+  profile_page: true
+  summary: "Perched on the limestone cliffs high above the Swan River, offering one of the most stunning clifftop bowling panoramas in Australia."
+  about: >
+    Known as 'The Club with the View', Mosman Park Bowling Club sits high on the cliffs of Bay View Terrace, delivering sweeping 180-degree panoramas across the Swan River towards the Darling Scarp. The venue features couch grass and synthetic rinks, top hospitality, and unforgettable sunset barefoot bowls.
+
+- slug: "cambridge-bowling-club"
+  name: "Cambridge Bowling Club"
+  city: "perth"
+  city_name: "Perth"
+  city_url: "/bowls-clubs/bowls-clubs-in-perth/"
+  country: "Australia"
+  country_code: "AU"
+  area: "Western Suburbs / Floreat"
+  address: "Floreat Oval, Chandler Avenue West, Floreat"
+  postcode: "WA 6014"
+  surfaces:
+    - "Outdoor Grass"
+    - "Outdoor Synthetic"
+  formats:
+    - "Pennant"
+    - "Social Bowls"
+    - "Barefoot Bowls"
+  season: "Year-round"
+  rinks_info: "3 greens including synthetic and natural couch grass"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://cambridgebowls.com.au/"
+  maps_query: "Cambridge+Bowling+Club+Chandler+Avenue+Floreat+WA+6014"
+  profile_page: true
+  summary: "Modern complex at Floreat Oval with three quality greens, strong pennant squads, and relaxed social roll-ups."
+  about: >
+    Located at Floreat Oval in the leafy western suburbs, Cambridge Bowling Club provides first-rate bowling facilities. Featuring both couch grass and synthetic greens, Cambridge supports competitive Saturday pennants, novice coaching, and community barefoot bowls.
+
+- slug: "doubleview-bowling-club"
+  name: "Doubleview Bowling Club"
+  city: "perth"
+  city_name: "Perth"
+  city_url: "/bowls-clubs/bowls-clubs-in-perth/"
+  country: "Australia"
+  country_code: "AU"
+  area: "North Metro / Doubleview"
+  address: "175 Shearn Crescent, Doubleview"
+  postcode: "WA 6018"
+  surfaces:
+    - "Outdoor Grass"
+    - "Outdoor Synthetic"
+  formats:
+    - "Pennant"
+    - "Premier League"
+    - "Barefoot Bowls"
+    - "Social Bowls"
+  season: "Year-round"
+  rinks_info: "3 championship greens under floodlights"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://doubleviewbowls.com.au/"
+  maps_query: "Doubleview+Bowling+Club+Shearn+Crescent+Doubleview+WA+6018"
+  profile_page: true
+  summary: "Perth competitive powerhouse with Premier League pennant squads, floodlit synthetic greens, and lively weekend social roll-ups."
+  about: >
+    Doubleview Bowling Club is a premier competitive club in Perth's northern coastal corridor. Fielded across championship couch and synthetic greens under lights, Doubleview is a perennial finalist in Bowls WA Premier League competitions while providing an active barefoot bowls calendar.
+
+- slug: "victoria-park-carlisle-bowling-club"
+  name: "Victoria Park Carlisle Bowling Club"
+  city: "perth"
+  city_name: "Perth"
+  city_url: "/bowls-clubs/bowls-clubs-in-perth/"
+  country: "Australia"
+  country_code: "AU"
+  area: "Inner South-East / East Victoria Park"
+  address: "18 Kent Street, East Victoria Park"
+  postcode: "WA 6101"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Pennant"
+    - "Barefoot Bowls"
+    - "Social Bowls"
+  season: "Year-round"
+  rinks_info: "2 natural couch grass greens"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://vicparkbowls.com.au/"
+  maps_query: "Victoria+Park+Carlisle+Bowling+Club+Kent+Street+East+Victoria+Park+WA+6101"
+  profile_page: true
+  summary: "Centrally located near the Vic Park dining strip, offering couch greens, budget barefoot bowls packages, and friendly community spirit."
+  about: >
+    Situated just off the vibrant Albany Highway café strip, Victoria Park Carlisle Bowling Club is an energetic inner-suburban club. It pairs natural grass greens with affordable barefoot bowls hire, BBQ amenities, and competitive pennant divisions.
+
+- slug: "yokine-bowling-club"
+  name: "Yokine Bowling Club"
+  city: "perth"
+  city_name: "Perth"
+  city_url: "/bowls-clubs/bowls-clubs-in-perth/"
+  country: "Australia"
+  country_code: "AU"
+  area: "North Metro / Yokine"
+  address: "10 Wordsworth Avenue, Yokine"
+  postcode: "WA 6060"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Pennant"
+    - "Barefoot Bowls"
+    - "Social Bowls"
+  season: "Year-round"
+  rinks_info: "2 natural grass couch greens in Yokine Reserve"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://yokinebowls.com.au/"
+  maps_query: "Yokine+Bowling+Club+Wordsworth+Avenue+Yokine+WA+6060"
+  profile_page: true
+  summary: "Set within Yokine Reserve parklands with quality couch greens, active coaching, and casual weekend barefoot bowls roll-ups."
+  about: >
+    Located inside expansive Yokine Reserve, Yokine Bowling Club offers a classic suburban lawn bowls setting. Bowlers roll along two manicured couch greens, enjoying social roll-ups, coaching clinics for novices, and Saturday pennant matches.
+
+- slug: "bassendean-bowling-club"
+  name: "Bassendean Bowling Club"
+  city: "perth"
+  city_name: "Perth"
+  city_url: "/bowls-clubs/bowls-clubs-in-perth/"
+  country: "Australia"
+  country_code: "AU"
+  area: "East Metro / Bassendean"
+  address: "10 Whitfield Street, Bassendean"
+  postcode: "WA 6054"
+  surfaces:
+    - "Outdoor Grass"
+    - "Outdoor Synthetic"
+  formats:
+    - "Pennant"
+    - "Premier League"
+    - "Barefoot Bowls"
+    - "Social Bowls"
+  season: "Year-round"
+  rinks_info: "3 greens on the banks of the Swan River"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://bassendeanbowls.com.au/"
+  maps_query: "Bassendean+Bowling+Club+Whitfield+Street+Bassendean+WA+6054"
+  profile_page: true
+  summary: "Heritage club established in 1934 on the banks of the Swan River, featuring grass and synthetic greens, premier pennants, and river breezes."
+  about: >
+    Founded in 1934 beside the Swan River, Bassendean Bowling Club combines riverside charm with high-level bowling. Featuring both couch grass and all-weather synthetic greens, the club fields strong Bowls WA pennant squads and hosts lively barefoot bowls events.
+
+- slug: "como-bowling-recreation-club"
+  name: "Como Bowling & Recreation Club"
+  city: "perth"
+  city_name: "Perth"
+  city_url: "/bowls-clubs/bowls-clubs-in-perth/"
+  country: "Australia"
+  country_code: "AU"
+  area: "South Metro / Como"
+  address: "99 Hensman Street, Como"
+  postcode: "WA 6152"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Pennant"
+    - "Barefoot Bowls"
+    - "Social Bowls"
+  season: "Year-round"
+  rinks_info: "2 natural couch grass greens"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://comobowls.com.au/"
+  maps_query: "Como+Bowling+Recreation+Club+Hensman+Street+Como+WA+6152"
+  profile_page: true
+  summary: "Welcoming South Perth community club with pristine grass greens, craft beers, barefoot bowls packages, and friendly members."
+  about: >
+    Situated in Como just south of the Swan River, Como Bowling & Recreation Club offers a friendly neighbourhood atmosphere. Its two couch grass greens host competitive pennants on weekends and relaxed social barefoot bowls throughout the week.
+
+- slug: "safety-bay-bowling-club"
+  name: "Safety Bay Bowling Club"
+  city: "perth"
+  city_name: "Perth"
+  city_url: "/bowls-clubs/bowls-clubs-in-perth/"
+  country: "Australia"
+  country_code: "AU"
+  area: "South Coast / Rockingham"
+  address: "Gloucester Crescent, Shoalwater"
+  postcode: "WA 6169"
+  surfaces:
+    - "Outdoor Grass"
+    - "Outdoor Synthetic"
+  formats:
+    - "Pennant"
+    - "Barefoot Bowls"
+    - "Social Bowls"
+  season: "Year-round"
+  rinks_info: "4 greens near Shoalwater Islands Marine Park"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://safetybaybowls.com.au/"
+  maps_query: "Safety+Bay+Bowling+Club+Gloucester+Crescent+Shoalwater+WA+6169"
+  profile_page: true
+  summary: "Major coastal complex in the Rockingham region with 4 greens, coastal sea breezes, thriving barefoot bowls, and competitive pennants."
+  about: >
+    Safety Bay Bowling Club in Shoalwater is a prominent sporting club on Perth's southern coast. Boasting four greens (couch grass and synthetic), the club takes full advantage of the ocean climate, providing a welcoming base for competitive pennants and social roll-ups.
+
+- slug: "rossmoyne-bowling-club"
+  name: "Rossmoyne Bowling Club"
+  city: "perth"
+  city_name: "Perth"
+  city_url: "/bowls-clubs/bowls-clubs-in-perth/"
+  country: "Australia"
+  country_code: "AU"
+  area: "South Metro / Rossmoyne"
+  address: "35 Tuscan Street, Rossmoyne"
+  postcode: "WA 6148"
+  surfaces:
+    - "Outdoor Grass"
+    - "Outdoor Synthetic"
+  formats:
+    - "Pennant"
+    - "Social Bowls"
+    - "Barefoot Bowls"
+  season: "Year-round"
+  rinks_info: "2 greens beside Canning River reserve"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://rossmoynebowlsclub.com.au/"
+  maps_query: "Rossmoyne+Bowling+Club+Tuscan+Street+Rossmoyne+WA+6148"
+  profile_page: true
+  summary: "Located close to the Canning River with natural couch and synthetic greens, offering high-level pennants and social roll-ups."
+  about: >
+    Positioned near the tranquil Canning River in Rossmoyne, this club offers natural grass and all-weather synthetic surfaces. Rossmoyne combines competitive pennant divisions with friendly social bowling and comprehensive beginner coaching.
+
+- slug: "innaloo-bowling-club"
+  name: "Innaloo Bowling Club"
+  city: "perth"
+  city_name: "Perth"
+  city_url: "/bowls-clubs/bowls-clubs-in-perth/"
+  country: "Australia"
+  country_code: "AU"
+  area: "North Metro / Innaloo"
+  address: "Nelson Street, Innaloo"
+  postcode: "WA 6018"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Pennant"
+    - "Barefoot Bowls"
+    - "Social Bowls"
+  season: "Year-round"
+  rinks_info: "2 natural couch grass greens"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://innaloobowls.com.au/"
+  maps_query: "Innaloo+Bowling+Club+Nelson+Street+Innaloo+WA+6018"
+  profile_page: true
+  summary: "Friendly northern suburbs club offering couch greens, active coaching, and casual barefoot roll-ups with BBQ hire."
+  about: >
+    Innaloo Bowling Club is an approachable community club in Perth's northern corridor. Featuring two couch grass greens, the venue provides competitive pennant play, weekend barefoot bowls, and social clubhouse hospitality.
+
+- slug: "swan-bowling-club"
+  name: "Swan Bowling Club"
+  city: "perth"
+  city_name: "Perth"
+  city_url: "/bowls-clubs/bowls-clubs-in-perth/"
+  country: "Australia"
+  country_code: "AU"
+  area: "East Metro / East Guildford"
+  address: "14 McDonald Street, East Guildford"
+  postcode: "WA 6055"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Pennant"
+    - "Barefoot Bowls"
+    - "Social Bowls"
+  season: "Year-round"
+  rinks_info: "2 natural grass couch greens in historic Guildford"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://swanbowls.com.au/"
+  maps_query: "Swan+Bowling+Club+McDonald+Street+East+Guildford+WA+6055"
+  profile_page: true
+  summary: "Historic club near the Swan and Helena rivers in Guildford, featuring classic grass greens and laid-back social roll-ups."
+  about: >
+    Set in the heritage town of East Guildford near the confluence of the Swan and Helena rivers, Swan Bowling Club offers historic charm. Bowlers enjoy two natural turf greens, community barefoot bowls, and traditional club pennants.
+
+- slug: "morley-bowling-club"
+  name: "Morley Bowling Club"
+  city: "perth"
+  city_name: "Perth"
+  city_url: "/bowls-clubs/bowls-clubs-in-perth/"
+  country: "Australia"
+  country_code: "AU"
+  area: "North East / Morley"
+  address: "Recreation Reserve, Wellington Road, Morley"
+  postcode: "WA 6062"
+  surfaces:
+    - "Outdoor Grass"
+    - "Outdoor Synthetic"
+  formats:
+    - "Pennant"
+    - "Barefoot Bowls"
+    - "Social Bowls"
+  season: "Year-round"
+  rinks_info: "3 greens inside Morley Recreation Reserve"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://morleybowlingclub.com.au/"
+  maps_query: "Morley+Bowling+Club+Wellington+Road+Morley+WA+6062"
+  profile_page: true
+  summary: "Large northeast metro club featuring three greens, strong pennant sides, synthetic all-weather rinks, and barefoot bowls."
+  about: >
+    Located inside Morley Recreation Reserve, Morley Bowling Club is an active northeast hub. With three greens including couch turf and synthetic surfaces, the club hosts regular tournaments, pennant fixtures, and popular social roll-ups.
+
+- slug: "hilton-park-bowling-club"
+  name: "Hilton Park Bowling Club"
+  city: "perth"
+  city_name: "Perth"
+  city_url: "/bowls-clubs/bowls-clubs-in-perth/"
+  country: "Australia"
+  country_code: "AU"
+  area: "South Fremantle / Beaconsfield"
+  address: "Shepherd Street, Beaconsfield"
+  postcode: "WA 6162"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Barefoot Bowls"
+    - "Pennant"
+    - "Social Bowls"
+  season: "Year-round"
+  rinks_info: "2 natural grass greens near South Beach"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://hiltonparkbowls.com.au/"
+  maps_query: "Hilton+Park+Bowling+Club+Shepherd+Street+Beaconsfield+WA+6162"
+  profile_page: true
+  summary: "Chilled community club near South Beach with natural couch greens, affordable barefoot roll-ups, and relaxed Fremantle vibes."
+  about: >
+    Situated just up the hill from South Beach in Beaconsfield, Hilton Park Bowling Club embodies the relaxed lifestyle of Fremantle. The club offers grass greens, budget barefoot bowls, cold beers, and a welcoming community atmosphere.
+
+- slug: "cockburn-bowling-recreation-club"
+  name: "Cockburn Bowling & Recreation Club"
+  city: "perth"
+  city_name: "Perth"
+  city_url: "/bowls-clubs/bowls-clubs-in-perth/"
+  country: "Australia"
+  country_code: "AU"
+  area: "South West / Yangebup"
+  address: "40 Birchley Road, Yangebup"
+  postcode: "WA 6164"
+  surfaces:
+    - "Covered Dome"
+    - "Outdoor Grass"
+    - "Outdoor Synthetic"
+  formats:
+    - "Pennant"
+    - "Premier League"
+    - "Social Bowls"
+    - "Barefoot Bowls"
+  season: "Year-round"
+  rinks_info: "State-of-the-art undercover dome canopy green plus outdoor greens"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://cockburnbowls.com.au/"
+  maps_query: "Cockburn+Bowling+Recreation+Club+Birchley+Road+Yangebup+WA+6164"
+  profile_page: true
+  summary: "Modern south-metro complex boasting a state-of-the-art undercover canopy dome green, championship grass, and top hospitality."
+  about: >
+    Cockburn Bowling & Recreation Club in Yangebup is one of Western Australia's most modern lawn bowls venues. The centrepiece is an architecturally engineered undercover dome green that shelters bowlers from rain and extreme heat. Combined with outdoor grass rinks and contemporary dining, Cockburn is an elite venue.

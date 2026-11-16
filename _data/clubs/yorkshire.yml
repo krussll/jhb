@@ -1,0 +1,629 @@
+- slug: "york-and-district-indoor-bowls-club"
+  name: "York & District Indoor Bowls Club"
+  city: "yorkshire"
+  city_name: "Yorkshire"
+  city_url: "/bowls-clubs/bowls-clubs-in-yorkshire/"
+  country: "England"
+  country_code: "GB"
+  area: "York (Acomb / Thanet Road)"
+  address: "302 Thanet Road, Acomb, York"
+  postcode: "YO24 2NW"
+  surfaces:
+    - "Indoor Carpet"
+  formats:
+    - "Indoor"
+    - "Flat Green"
+  season: "Year-round (Main Season September &ndash; April)"
+  rinks_info: "8-rink championship indoor carpet arena"
+  beginner_friendly: true
+  barefoot_social: false
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://www.yorkindoorbowls.co.uk/"
+  maps_query: "York+and+District+Indoor+Bowls+Club+302+Thanet+Road+York+YO24+2NW"
+  profile_page: true
+  summary: "Flagship Yorkshire indoor bowling stadium in York, featuring 8 international-standard carpet rinks, national events, and winter leagues."
+  about: >
+    Situated on Thanet Road in York, York & District Indoor Bowls Club is one of Northern England's premier indoor bowling facilities. The stadium houses eight international-standard carpet rinks under competition lighting, hosting EIBA national championships, county fixtures, and extensive club leagues from September through April. A licensed restaurant, bar, on-site bowls shop, and beginner coaching academy make it the heart of Yorkshire indoor bowls.
+
+- slug: "leeds-indoor-bowls-centre"
+  name: "Leeds Indoor Bowls Centre"
+  city: "yorkshire"
+  city_name: "Yorkshire"
+  city_url: "/bowls-clubs/bowls-clubs-in-yorkshire/"
+  country: "England"
+  country_code: "GB"
+  area: "South Leeds (John Charles Centre for Sport)"
+  address: "Middleton Grove, Belle Isle, Leeds"
+  postcode: "LS11 5DJ"
+  surfaces:
+    - "Indoor Carpet"
+  formats:
+    - "Indoor"
+    - "Flat Green"
+  season: "Year-round (Main Season September &ndash; April)"
+  rinks_info: "6-rink purpose-built indoor carpet rink"
+  beginner_friendly: true
+  barefoot_social: false
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://active.leeds.gov.uk/find-a-centre/john-charles-centre-for-sport"
+  maps_query: "Leeds+Indoor+Bowls+Centre+John+Charles+Centre+Middleton+Grove+Leeds+LS11+5DJ"
+  profile_page: true
+  summary: "Premier West Yorkshire indoor venue at the John Charles Centre for Sport, offering 6 championship rinks and winter leagues."
+  about: >
+    Based at the prestigious John Charles Centre for Sport in South Leeds, Leeds Indoor Bowls Centre is West Yorkshire's leading covered bowling arena. The six laser-level carpet rinks host vibrant autumn and winter leagues, EIBA competitions, and public roll-ups. Coaching sessions with loan equipment are held weekly for prospective bowlers.
+
+- slug: "doncaster-indoor-bowls-club"
+  name: "Doncaster Indoor Bowls Club"
+  city: "yorkshire"
+  city_name: "Yorkshire"
+  city_url: "/bowls-clubs/bowls-clubs-in-yorkshire/"
+  country: "England"
+  country_code: "GB"
+  area: "South Yorkshire (Doncaster / Town Field)"
+  address: "Scarborough Road, Doncaster, South Yorkshire"
+  postcode: "DN1 2DB"
+  surfaces:
+    - "Indoor Carpet"
+  formats:
+    - "Indoor"
+    - "Flat Green"
+  season: "September &ndash; April"
+  rinks_info: "6-rink tournament indoor carpet rink"
+  beginner_friendly: true
+  barefoot_social: false
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://www.doncasterindoorbowlsclub.co.uk/"
+  maps_query: "Doncaster+Indoor+Bowls+Club+Scarborough+Road+Doncaster+DN1+2DB"
+  profile_page: true
+  summary: "South Yorkshire's premier indoor bowling venue on Scarborough Road, offering 6 tournament rinks, winter leagues, and coaching."
+  about: >
+    Located near Town Field in Doncaster, Doncaster Indoor Bowls Club provides high-quality covered bowling throughout autumn and winter. The 6-rink carpet facility runs structured leagues for men, ladies, and mixed teams, with Bowls England accredited coaches offering introductory roll-up lessons with bowls provided.
+
+- slug: "thornaby-indoor-bowls-club"
+  name: "Thornaby Indoor Bowls Club"
+  city: "yorkshire"
+  city_name: "Yorkshire"
+  city_url: "/bowls-clubs/bowls-clubs-in-yorkshire/"
+  country: "England"
+  country_code: "GB"
+  area: "Tees Valley / North Yorkshire Border (Thornaby)"
+  address: "Trenchard Avenue, Thornaby, Stockton-on-Tees"
+  postcode: "TS17 0EQ"
+  surfaces:
+    - "Indoor Carpet"
+  formats:
+    - "Indoor"
+    - "Flat Green"
+  season: "Year-round (Main Season September &ndash; April)"
+  rinks_info: "6-rink championship indoor carpet arena"
+  beginner_friendly: true
+  barefoot_social: false
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://www.thornabyindoorbowlsclub.co.uk/"
+  maps_query: "Thornaby+Indoor+Bowls+Club+Trenchard+Avenue+Thornaby+TS17+0EQ"
+  profile_page: true
+  summary: "Championship indoor arena on the North Yorkshire border featuring 6 rinks, national competitions, and beginner roll-ups."
+  about: >
+    Serving bowlers across North Yorkshire, Middlesbrough, and Teesside, Thornaby Indoor Bowls Club on Trenchard Avenue is a prominent northern venue. Featuring six true-running carpet rinks, the club stages national play-offs and inter-county leagues, while providing welcoming Saturday beginner tasters.
+
+- slug: "harrogate-bowling-club"
+  name: "Harrogate Bowling Club"
+  city: "yorkshire"
+  city_name: "Yorkshire"
+  city_url: "/bowls-clubs/bowls-clubs-in-yorkshire/"
+  country: "England"
+  country_code: "GB"
+  area: "North Yorkshire (Harrogate Town Centre)"
+  address: "Victoria Avenue, Harrogate, North Yorkshire"
+  postcode: "HG1 5DX"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Flat Green"
+    - "Crown Green"
+  season: "Outdoor: April &ndash; September"
+  rinks_info: "6-rink flat green plus adjacent crown green"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://www.harrogatebowlingclub.co.uk/"
+  maps_query: "Harrogate+Bowling+Club+Victoria+Avenue+Harrogate+HG1+5DX"
+  profile_page: true
+  summary: "Prestigious dual-code Harrogate club established in 1888 on Victoria Avenue, offering both flat green and crown green bowling."
+  about: >
+    Founded in 1888 on Victoria Avenue in the spa town of Harrogate, Harrogate Bowling Club is one of Yorkshire's finest traditional clubs. Uniquely, the club maintains both a manicured 6-rink flat green lawn and a natural turf crown green, allowing members to enjoy both codes. The club provides a welcoming atmosphere for novices, offering coaching and loan sets.
+
+- slug: "huddersfield-bowling-club"
+  name: "Huddersfield Bowling Club"
+  city: "yorkshire"
+  city_name: "Yorkshire"
+  city_url: "/bowls-clubs/bowls-clubs-in-yorkshire/"
+  country: "England"
+  country_code: "GB"
+  area: "West Yorkshire (Huddersfield)"
+  address: "Cemetery Road, Edgerton, Huddersfield"
+  postcode: "HD1 5NF"
+  surfaces:
+    - "Outdoor Crown Green"
+  formats:
+    - "Crown Green"
+  season: "Outdoor: April &ndash; September"
+  rinks_info: "1 championship crown green"
+  beginner_friendly: true
+  barefoot_social: false
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://www.huddersfieldbowlingclub.co.uk/"
+  maps_query: "Huddersfield+Bowling+Club+Cemetery+Road+Edgerton+Huddersfield+HD1+5NF"
+  profile_page: true
+  summary: "Historic West Yorkshire crown green club founded in 1858 in Edgerton, renowned for its challenging turf and BCGBA leagues."
+  about: >
+    Instituted in 1858 on Cemetery Road in Edgerton, Huddersfield Bowling Club is one of the oldest crown green bowling clubs in the world. The undulating crown green is famed for its subtle slopes and slick summer speed. Competing in the Huddersfield and Yorkshire County leagues, the club welcomes new bowlers with dedicated coaching and equipment.
+
+- slug: "meersbrook-bowling-club-sheffield"
+  name: "Meersbrook Bowling Club (Sheffield)"
+  city: "yorkshire"
+  city_name: "Yorkshire"
+  city_url: "/bowls-clubs/bowls-clubs-in-yorkshire/"
+  country: "England"
+  country_code: "GB"
+  area: "South Sheffield (Meersbrook Park)"
+  address: "Meersbrook Park, Brook Road, Sheffield"
+  postcode: "S8 9FL"
+  surfaces:
+    - "Outdoor Crown Green"
+  formats:
+    - "Crown Green"
+  season: "Outdoor: April &ndash; September"
+  rinks_info: "2 historic crown greens in Meersbrook Park"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://www.meersbrookparkbowling.co.uk/"
+  maps_query: "Meersbrook+Bowling+Club+Meersbrook+Park+Brook+Road+Sheffield+S8+9FL"
+  profile_page: true
+  summary: "Scenic Sheffield crown green club in Meersbrook Park, offering panoramic city views, social roll-ups, and league bowls."
+  about: >
+    Perched in Meersbrook Park with panoramic views across the Sheffield skyline, Meersbrook Bowling Club provides crown green bowls in a dramatic hillside setting. Operating two well-kept crown greens, the club hosts Sheffield & District league matches and friendly weekend roll-ups with crown bowls available to borrow.
+
+- slug: "whiteley-woods-bowling-club-sheffield"
+  name: "Whiteley Woods Bowling Club (Sheffield)"
+  city: "yorkshire"
+  city_name: "Yorkshire"
+  city_url: "/bowls-clubs/bowls-clubs-in-yorkshire/"
+  country: "England"
+  country_code: "GB"
+  area: "South West Sheffield (Ecclesall / Porter Valley)"
+  address: "Common Lane, Ecclesall, Sheffield"
+  postcode: "S11 7TG"
+  surfaces:
+    - "Outdoor Crown Green"
+  formats:
+    - "Crown Green"
+  season: "Outdoor: April &ndash; September"
+  rinks_info: "1 tournament crown green in the Porter Valley"
+  beginner_friendly: true
+  barefoot_social: false
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://www.whiteleywoodsbc.co.uk/"
+  maps_query: "Whiteley+Woods+Bowling+Club+Common+Lane+Sheffield+S11+7TG"
+  profile_page: true
+  summary: "Secluded crown green club in Sheffield's Porter Valley dating to 1910, known for tournament-standard turf and active leagues."
+  about: >
+    Founded in 1910 on Common Lane in the picturesque Porter Valley, Whiteley Woods Bowling Club is one of Sheffield's most competitive crown green institutions. The green features a classic high crown with demanding borrows. The club runs men's, ladies', and veterans' teams while offering coaching for newcomers.
+
+- slug: "scarborough-bowling-club"
+  name: "Scarborough Bowling Club"
+  city: "yorkshire"
+  city_name: "Yorkshire"
+  city_url: "/bowls-clubs/bowls-clubs-in-yorkshire/"
+  country: "England"
+  country_code: "GB"
+  area: "Yorkshire Coast (Scarborough / South Cliff)"
+  address: "Sunken Gardens, Esplanade, Scarborough, North Yorkshire"
+  postcode: "YO11 2AZ"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Flat Green"
+  season: "Outdoor: April &ndash; September"
+  rinks_info: "6-rink coastal flat green lawn in the Sunken Gardens"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://www.scarboroughbowlsclub.co.uk/"
+  maps_query: "Scarborough+Bowling+Club+Sunken+Gardens+Esplanade+Scarborough+YO11+2AZ"
+  profile_page: true
+  summary: "Picturesque coastal flat green lawn situated in Scarborough's Sunken Gardens on the South Cliff, hosting visitors and leagues."
+  about: >
+    Located in the famous Sunken Gardens on Scarborough's South Cliff overlooking the sea, Scarborough Bowling Club offers lawn bowls in a breathtaking coastal setting. The 6-rink flat green runs true despite sea breezes. The club welcomes seaside visitors, holidaymakers, and novices for casual bounce games with loan sets available.
+
+- slug: "york-railway-institute-bowls-club"
+  name: "York Railway Institute Bowls Club"
+  city: "yorkshire"
+  city_name: "Yorkshire"
+  city_url: "/bowls-clubs/bowls-clubs-in-yorkshire/"
+  country: "England"
+  country_code: "GB"
+  area: "York (City Centre / Railway Institute)"
+  address: "Queen Street, York, North Yorkshire"
+  postcode: "YO24 1AD"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Flat Green"
+  season: "Outdoor: April &ndash; September"
+  rinks_info: "6-rink natural grass flat green"
+  beginner_friendly: true
+  barefoot_social: false
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://www.yorkri.co.uk/bowls"
+  maps_query: "York+Railway+Institute+Bowls+Club+Queen+Street+York+YO24+1AD"
+  profile_page: true
+  summary: "Centenary railway sports club in central York, offering competitive flat green bowling, York leagues, and coaching."
+  about: >
+    Established in 1929 as part of the famous York Railway Institute sports association, this club provides flat green lawn bowls moments from York Railway Station. The 6-rink grass green hosts active teams in the York & District leagues and provides patient coaching for new members.
+
+- slug: "bradford-bowling-club"
+  name: "Bradford Bowling Club"
+  city: "yorkshire"
+  city_name: "Yorkshire"
+  city_url: "/bowls-clubs/bowls-clubs-in-yorkshire/"
+  country: "England"
+  country_code: "GB"
+  area: "West Yorkshire (Bradford / Manningham)"
+  address: "Lister Park, North Park Road, Bradford"
+  postcode: "BD9 4NS"
+  surfaces:
+    - "Outdoor Crown Green"
+  formats:
+    - "Crown Green"
+  season: "Outdoor: April &ndash; September"
+  rinks_info: "2 crown greens in Lister Park"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://www.bradfordbowls.co.uk/"
+  maps_query: "Bradford+Bowling+Club+Lister+Park+North+Park+Road+Bradford+BD9+4NS"
+  profile_page: true
+  summary: "Historic crown green bowling venue in award-winning Lister Park, Manningham, offering community roll-ups and Bradford leagues."
+  about: >
+    Situated in Bradford's Lister Park beside Cartwright Hall art gallery, Bradford Bowling Club has provided crown green bowls since 1897. Operating two scenic crown greens, the club participates in the Bradford and District Crown Green leagues, offering weekly beginner taster sessions.
+
+- slug: "halifax-bowling-club"
+  name: "Halifax Bowling Club"
+  city: "yorkshire"
+  city_name: "Yorkshire"
+  city_url: "/bowls-clubs/bowls-clubs-in-yorkshire/"
+  country: "England"
+  country_code: "GB"
+  area: "West Yorkshire (Halifax / Savile Park)"
+  address: "Albert Promenade, Savile Park, Halifax"
+  postcode: "HX3 0JE"
+  surfaces:
+    - "Outdoor Crown Green"
+  formats:
+    - "Crown Green"
+  season: "Outdoor: April &ndash; September"
+  rinks_info: "1 championship crown green"
+  beginner_friendly: true
+  barefoot_social: false
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://www.halifaxbowlingclub.co.uk/"
+  maps_query: "Halifax+Bowling+Club+Albert+Promenade+Halifax+HX3+0JE"
+  profile_page: true
+  summary: "Prestigious Calderdale crown green club dating to 1863 on Albert Promenade, offering tournament turf and competitive fixtures."
+  about: >
+    Instituted in 1863 on Albert Promenade overlooking Savile Park, Halifax Bowling Club is one of West Yorkshire's most distinguished crown green bowling clubs. The undulating green is maintained to a high standard, supporting Calderdale and Yorkshire leagues with loan bowls provided for novices.
+
+- slug: "wakefield-bowling-club"
+  name: "Wakefield Bowling Club"
+  city: "yorkshire"
+  city_name: "Yorkshire"
+  city_url: "/bowls-clubs/bowls-clubs-in-yorkshire/"
+  country: "England"
+  country_code: "GB"
+  area: "West Yorkshire (Wakefield / Clarence Park)"
+  address: "Clarence Park, Denby Dale Road, Wakefield"
+  postcode: "WF2 8EB"
+  surfaces:
+    - "Outdoor Crown Green"
+  formats:
+    - "Crown Green"
+  season: "Outdoor: April &ndash; September"
+  rinks_info: "2 manicured crown greens in Clarence Park"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://www.wakefieldbowls.co.uk/"
+  maps_query: "Wakefield+Bowling+Club+Clarence+Park+Denby+Dale+Road+Wakefield+WF2+8EB"
+  profile_page: true
+  summary: "Historic Wakefield venue in Clarence Park established in 1893, featuring two crown greens, community roll-ups, and leagues."
+  about: >
+    Founded in 1893 in Clarence Park, Wakefield Bowling Club offers crown green bowling in a scenic public park. The club maintains two natural turf crown greens, welcoming both competitive league bowlers and casual weekend players with loan equipment supplied.
+
+- slug: "guiseley-bowling-club"
+  name: "Guiseley Bowling Club"
+  city: "yorkshire"
+  city_name: "Yorkshire"
+  city_url: "/bowls-clubs/bowls-clubs-in-yorkshire/"
+  country: "England"
+  country_code: "GB"
+  area: "North West Leeds (Guiseley)"
+  address: "Town Gate, Guiseley, Leeds"
+  postcode: "LS20 9HD"
+  surfaces:
+    - "Outdoor Crown Green"
+  formats:
+    - "Crown Green"
+  season: "Outdoor: April &ndash; September"
+  rinks_info: "1 tournament natural grass crown green"
+  beginner_friendly: true
+  barefoot_social: false
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://www.guiseleybowlingclub.co.uk/"
+  maps_query: "Guiseley+Bowling+Club+Town+Gate+Guiseley+Leeds+LS20+9HD"
+  profile_page: true
+  summary: "Thriving crown green club in Guiseley dating to 1907, offering competitive Aireborough leagues and friendly beginner roll-ups."
+  about: >
+    Instituted in 1907 on Town Gate in Guiseley, this active club serves bowlers in Guiseley, Menston, and Yeadon. The crown green offers an authentic test of skill, with the club fielding teams in the Aireborough, Wharfedale, and Bradford leagues.
+
+- slug: "ilkley-bowling-club"
+  name: "Ilkley Bowling Club"
+  city: "yorkshire"
+  city_name: "Yorkshire"
+  city_url: "/bowls-clubs/bowls-clubs-in-yorkshire/"
+  country: "England"
+  country_code: "GB"
+  area: "Wharfedale (Ilkley)"
+  address: "Wharfeside, Denton Road, Ilkley, West Yorkshire"
+  postcode: "LS29 0AA"
+  surfaces:
+    - "Outdoor Crown Green"
+  formats:
+    - "Crown Green"
+  season: "Outdoor: April &ndash; September"
+  rinks_info: "1 crown green beside the River Wharfe"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://www.ilkleybowlingclub.org.uk/"
+  maps_query: "Ilkley+Bowling+Club+Denton+Road+Ilkley+LS29+0AA"
+  profile_page: true
+  summary: "Scenic Wharfedale club situated on the banks of the River Wharfe, offering crown green bowls, friendly roll-ups, and tea room."
+  about: >
+    Located on Denton Road beside the River Wharfe with views of Ilkley Moor, Ilkley Bowling Club offers one of the most picturesque crown green settings in Yorkshire. Formed in 1899, the club provides a welcoming atmosphere, running popular open sessions with loan bowls provided.
+
+- slug: "ripon-bowling-club"
+  name: "Ripon Bowling Club"
+  city: "yorkshire"
+  city_name: "Yorkshire"
+  city_url: "/bowls-clubs/bowls-clubs-in-yorkshire/"
+  country: "England"
+  country_code: "GB"
+  area: "North Yorkshire (Ripon)"
+  address: "Bondgate Green, Ripon, North Yorkshire"
+  postcode: "HG4 1QW"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Flat Green"
+  season: "Outdoor: April &ndash; September"
+  rinks_info: "6-rink natural grass flat green"
+  beginner_friendly: true
+  barefoot_social: false
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://www.riponbowlingclub.co.uk/"
+  maps_query: "Ripon+Bowling+Club+Bondgate+Green+Ripon+HG4+1QW"
+  profile_page: true
+  summary: "Traditional North Yorkshire flat green club in Ripon founded in 1910, offering competitive leagues, lawn rinks, and coaching."
+  about: >
+    Founded in 1910 on Bondgate Green near the Ripon Canal, Ripon Bowling Club provides flat green lawn bowling in a peaceful cathedral city setting. Affiliated with Yorkshire County Bowls, the club maintains a 6-rink lawn green and welcomes novices for introductory sessions.
+
+- slug: "skipton-bowling-club"
+  name: "Skipton Bowling Club"
+  city: "yorkshire"
+  city_name: "Yorkshire"
+  city_url: "/bowls-clubs/bowls-clubs-in-yorkshire/"
+  country: "England"
+  country_code: "GB"
+  area: "Craven / Yorkshire Dales (Skipton)"
+  address: "Devonshire Park, Keighley Road, Skipton"
+  postcode: "BD23 2VD"
+  surfaces:
+    - "Outdoor Crown Green"
+  formats:
+    - "Crown Green"
+  season: "Outdoor: April &ndash; September"
+  rinks_info: "1 tournament crown green in Devonshire Park"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://www.skiptonbowlingclub.co.uk/"
+  maps_query: "Skipton+Bowling+Club+Devonshire+Park+Keighley+Road+Skipton+BD23+2VD"
+  profile_page: true
+  summary: "Leading Craven crown green club in Devonshire Park, gateway to the Dales, featuring active leagues and beginner open days."
+  about: >
+    Instituted in Devonshire Park in Skipton, Skipton Bowling Club serves as the crown green bowls hub for the Craven district. The well-contoured green runs true throughout the summer. The club competes in Skipton & District and Worth Valley leagues, welcoming novices with coaching and loan equipment.
+
+- slug: "keighley-bowling-club"
+  name: "Keighley Bowling Club"
+  city: "yorkshire"
+  city_name: "Yorkshire"
+  city_url: "/bowls-clubs/bowls-clubs-in-yorkshire/"
+  country: "England"
+  country_code: "GB"
+  area: "West Yorkshire (Keighley / Utley)"
+  address: "Royd Ings Avenue, Utley, Keighley"
+  postcode: "BD21 4BD"
+  surfaces:
+    - "Outdoor Crown Green"
+  formats:
+    - "Crown Green"
+  season: "Outdoor: April &ndash; September"
+  rinks_info: "1 tournament natural grass crown green"
+  beginner_friendly: true
+  barefoot_social: false
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://www.facebook.com/KeighleyBowlingClub/"
+  maps_query: "Keighley+Bowling+Club+Royd+Ings+Avenue+Keighley+BD21+4BD"
+  profile_page: true
+  summary: "Long-standing crown green club established in 1891 in the Aire Valley, offering competitive Worth Valley leagues and coaching."
+  about: >
+    Founded in 1891, Keighley Bowling Club is situated in the Aire Valley. The club's crown green offers a challenging test of delivery weight and green reading. Competing in the Worth Valley and Bradford leagues, the club encourages new players with free introductory coaching.
+
+- slug: "hornsea-indoor-bowls-club"
+  name: "Hornsea Indoor Bowls Club"
+  city: "yorkshire"
+  city_name: "Yorkshire"
+  city_url: "/bowls-clubs/bowls-clubs-in-yorkshire/"
+  country: "England"
+  country_code: "GB"
+  area: "East Yorkshire (Hornsea / Coastal)"
+  address: "Atwick Road, Hornsea, East Yorkshire"
+  postcode: "HU18 1EL"
+  surfaces:
+    - "Indoor Carpet"
+  formats:
+    - "Indoor"
+    - "Flat Green"
+  season: "Year-round (Main Season September &ndash; April)"
+  rinks_info: "6-rink dedicated indoor carpet rink"
+  beginner_friendly: true
+  barefoot_social: false
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://www.hornseapromenade.com/indoor-bowls"
+  maps_query: "Hornsea+Indoor+Bowls+Club+Atwick+Road+Hornsea+HU18+1EL"
+  profile_page: true
+  summary: "East Yorkshire's premier coastal indoor bowling stadium, offering 6 fast carpet rinks, winter leagues, and accessible coaching."
+  about: >
+    Located on Atwick Road in the coastal town of Hornsea, this 6-rink purpose-built indoor bowling arena serves East Yorkshire and Hull bowlers. The true carpet surface operates year-round, running active winter leagues, open roll-ups, and novice coaching with loan bowls available.
+
+- slug: "bridlington-bay-bowling-club"
+  name: "Bridlington Bay Bowling Club"
+  city: "yorkshire"
+  city_name: "Yorkshire"
+  city_url: "/bowls-clubs/bowls-clubs-in-yorkshire/"
+  country: "England"
+  country_code: "GB"
+  area: "East Yorkshire Coast (Bridlington)"
+  address: "Queensgate, Bridlington, East Yorkshire"
+  postcode: "YO16 7HB"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Flat Green"
+  season: "Outdoor: April &ndash; September"
+  rinks_info: "6-rink natural grass flat green"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://www.bridlingtonbowls.co.uk/"
+  maps_query: "Bridlington+Bay+Bowling+Club+Queensgate+Bridlington+YO16+7HB"
+  profile_page: true
+  summary: "Friendly seaside flat green club on Queensgate in Bridlington, featuring summer tournaments, coastal roll-ups, and bar."
+  about: >
+    Instituted on Queensgate in Bridlington, Bridlington Bay Bowling Club provides flat green lawn bowling in an East Coast resort setting. The 6-rink lawn green accommodates local leagues and seaside visitor roll-ups with loan sets and friendly pointers for newcomers.
+
+- slug: "selby-bowling-club"
+  name: "Selby Bowling Club"
+  city: "yorkshire"
+  city_name: "Yorkshire"
+  city_url: "/bowls-clubs/bowls-clubs-in-yorkshire/"
+  country: "England"
+  country_code: "GB"
+  area: "North Yorkshire (Selby)"
+  address: "Scott Road, Selby, North Yorkshire"
+  postcode: "YO8 4BL"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Flat Green"
+  season: "Outdoor: April &ndash; September"
+  rinks_info: "6-rink natural grass green"
+  beginner_friendly: true
+  barefoot_social: false
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://www.selbybowlingclub.co.uk/"
+  maps_query: "Selby+Bowling+Club+Scott+Road+Selby+YO8+4BL"
+  profile_page: true
+  summary: "Historic North Yorkshire market town club founded in 1913 on Scott Road, offering true turf, Selby leagues, and coaching."
+  about: >
+    Formed in 1913 on Scott Road in Selby, this welcoming flat green club maintains a 6-rink natural grass green. Selby Bowling Club competes in the Selby and District and Barkston Ash leagues, offering free coaching and loan equipment for prospective members.
+
+- slug: "northallerton-bowling-club"
+  name: "Northallerton Bowling Club"
+  city: "yorkshire"
+  city_name: "Yorkshire"
+  city_url: "/bowls-clubs/bowls-clubs-in-yorkshire/"
+  country: "England"
+  country_code: "GB"
+  area: "North Yorkshire (Northallerton)"
+  address: "Greenbank, The Avenue, Northallerton"
+  postcode: "DL6 1DE"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Flat Green"
+  season: "Outdoor: April &ndash; September"
+  rinks_info: "6-rink championship natural turf green"
+  beginner_friendly: true
+  barefoot_social: false
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://www.northallertonbowlingclub.co.uk/"
+  maps_query: "Northallerton+Bowling+Club+Greenbank+The+Avenue+Northallerton+DL6+1DE"
+  profile_page: true
+  summary: "Traditional North Yorkshire county town club dating to 1921, featuring quality turf, friendly roll-ups, and league play."
+  about: >
+    Instituted in 1921 at Greenbank in Northallerton, Northallerton Bowling Club offers flat green bowls in a tranquil residential setting. The 6-rink natural grass green is maintained to a high standard. Affiliated with Bowls England, the club provides loan bowls and tuition for beginner bowlers.
+
+- slug: "doncaster-bowling-club-town-field"
+  name: "Doncaster Bowling Club (Town Field)"
+  city: "yorkshire"
+  city_name: "Yorkshire"
+  city_url: "/bowls-clubs/bowls-clubs-in-yorkshire/"
+  country: "England"
+  country_code: "GB"
+  area: "South Yorkshire (Doncaster / Town Field)"
+  address: "Town Field, Bennetthorpe, Doncaster"
+  postcode: "DN2 6AA"
+  surfaces:
+    - "Outdoor Grass"
+    - "Outdoor Crown Green"
+  formats:
+    - "Flat Green"
+    - "Crown Green"
+  season: "Outdoor: April &ndash; September"
+  rinks_info: "1 flat green plus 1 crown green on Town Field"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://www.doncasterbowlingclub.org.uk/"
+  maps_query: "Doncaster+Bowling+Club+Town+Field+Bennetthorpe+Doncaster+DN2+6AA"
+  profile_page: true
+  summary: "Historic dual-code Doncaster club on Town Field dating to 1896, offering both flat green and crown green outdoor bowling."
+  about: >
+    Founded in 1896 on Town Field near Bennetthorpe in Doncaster, this historic club offers both a 6-rink flat green and a traditional crown green. The club competes in both codes across South Yorkshire leagues, providing loan sets and friendly introductory coaching for newcomers.
+

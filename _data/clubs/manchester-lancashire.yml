@@ -1,0 +1,629 @@
+- slug: "heaton-park-bowls-club"
+  name: "Heaton Park Bowls Club"
+  city: "manchester-lancashire"
+  city_name: "Greater Manchester & Lancashire"
+  city_url: "/bowls-clubs/bowls-clubs-in-manchester-and-lancashire/"
+  country: "England"
+  country_code: "GB"
+  area: "North Manchester (Prestwich / Heaton Park)"
+  address: "Heaton Park, Middleton Road, Higher Blackley, Manchester"
+  postcode: "M25 2SW"
+  surfaces:
+    - "Outdoor Grass"
+    - "Outdoor Crown Green"
+  formats:
+    - "Crown Green"
+    - "Flat Green"
+  season: "Outdoor: April &ndash; September"
+  rinks_info: "4 championship flat green rinks plus 2 traditional crown greens; 2002 Commonwealth Games venue"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://www.heatonparkbowls.co.uk/"
+  maps_query: "Heaton+Park+Bowls+Middleton+Road+Manchester+M25+2SW"
+  profile_page: true
+  summary: "North West England's most famous dual-code bowling complex in Heaton Park, featuring four Commonwealth Games flat greens and two crown greens."
+  about: >
+    Situated in Manchester's magnificent Heaton Park, this historic bowling complex staged the 2002 Commonwealth Games lawn bowls competition. Uniquely in Greater Manchester, the facility accommodates both bowling codes: four international-grade flat greens and two traditional undulating crown greens. Managed in partnership with Manchester City Council, the venue offers public pay-and-play roll-ups, free bowl loans, qualified coaching, and league matches across both codes.
+
+- slug: "didsbury-bowling-club"
+  name: "Didsbury Bowling Club"
+  city: "manchester-lancashire"
+  city_name: "Greater Manchester & Lancashire"
+  city_url: "/bowls-clubs/bowls-clubs-in-manchester-and-lancashire/"
+  country: "England"
+  country_code: "GB"
+  area: "South Manchester (Didsbury Village)"
+  address: "Sandhurst Road, Didsbury, Manchester"
+  postcode: "M20 2LR"
+  surfaces:
+    - "Outdoor Crown Green"
+  formats:
+    - "Crown Green"
+  season: "Outdoor: April &ndash; September"
+  rinks_info: "1 championship undulating crown green"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://www.didsburybowlingclub.co.uk/"
+  maps_query: "Didsbury+Bowling+Club+Sandhurst+Road+Didsbury+Manchester+M20+2LR"
+  profile_page: true
+  summary: "Charming South Manchester crown green club founded in 1904, offering scenic gardens, craft beer lounge, and relaxed novice roll-ups."
+  about: >
+    Instituted in 1904 in leafy Didsbury Village, Didsbury Bowling Club is one of Greater Manchester's most vibrant crown green bowls clubs. Tucked away on Sandhurst Road, the club maintains an undulating, quick-running natural turf crown green framed by mature gardens. With active men's, ladies', and mixed teams in South Manchester leagues, the club also hosts casual Friday evening social roll-ups with crown green bowls available to borrow.
+
+- slug: "chorlton-bowling-club"
+  name: "Chorlton Bowling Club"
+  city: "manchester-lancashire"
+  city_name: "Greater Manchester & Lancashire"
+  city_url: "/bowls-clubs/bowls-clubs-in-manchester-and-lancashire/"
+  country: "England"
+  country_code: "GB"
+  area: "South Manchester (Chorlton-cum-Hardy)"
+  address: "South Road, Chorlton-cum-Hardy, Manchester"
+  postcode: "M21 0XG"
+  surfaces:
+    - "Outdoor Crown Green"
+  formats:
+    - "Crown Green"
+  season: "Outdoor: April &ndash; September"
+  rinks_info: "1 tournament natural turf crown green"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://www.chorltonbowlingclub.org.uk/"
+  maps_query: "Chorlton+Bowling+Club+South+Road+Chorlton-cum-Hardy+Manchester+M21+0XG"
+  profile_page: true
+  summary: "Popular South Manchester community club dating to 1894, featuring a high-quality crown green, lively social scene, and taster days."
+  about: >
+    Founded in 1894, Chorlton Bowling Club is an energetic community hub in Chorlton-cum-Hardy. The club features a beautifully maintained crown green with subtle borrows and testing contours. A family-friendly pavilion with local cask ales, weekend barbecue socials, and experienced crown green coaches welcoming newcomers make this club a South Manchester favourite.
+
+- slug: "south-west-manchester-cricket-and-bowling-club"
+  name: "South West Manchester Cricket & Bowling Club"
+  city: "manchester-lancashire"
+  city_name: "Greater Manchester & Lancashire"
+  city_url: "/bowls-clubs/bowls-clubs-in-manchester-and-lancashire/"
+  country: "England"
+  country_code: "GB"
+  area: "South Manchester (Chorlton)"
+  address: "Ellesmere Road, Chorlton-cum-Hardy, Manchester"
+  postcode: "M21 0SG"
+  surfaces:
+    - "Outdoor Crown Green"
+  formats:
+    - "Crown Green"
+  season: "Outdoor: April &ndash; September"
+  rinks_info: "1 manicured natural turf crown green"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://swmanchester.play-cricket.com/"
+  maps_query: "South+West+Manchester+Cricket+and+Bowling+Club+Ellesmere+Road+Manchester+M21+0SG"
+  profile_page: true
+  summary: "Multi-sports club founded in 1882 on Ellesmere Road, featuring an active crown green section, summer leagues, and social events."
+  about: >
+    Dating from 1882, South West Manchester Cricket and Bowling Club on Ellesmere Road provides excellent sports facilities in Chorlton. The crown green bowls section fields multiple competitive teams in the Manchester and District Crown Green leagues, while offering relaxed beginner roll-ups and coaching on weekend mornings.
+
+- slug: "longford-park-bowling-club"
+  name: "Longford Park Bowling Club"
+  city: "manchester-lancashire"
+  city_name: "Greater Manchester & Lancashire"
+  city_url: "/bowls-clubs/bowls-clubs-in-manchester-and-lancashire/"
+  country: "England"
+  country_code: "GB"
+  area: "Trafford (Stretford / Longford Park)"
+  address: "Longford Park, Cromwell Road, Stretford, Manchester"
+  postcode: "M32 8QN"
+  surfaces:
+    - "Outdoor Crown Green"
+  formats:
+    - "Crown Green"
+  season: "Outdoor: April &ndash; September"
+  rinks_info: "2 historic crown greens in Longford Park"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://www.longfordparkbowls.co.uk/"
+  maps_query: "Longford+Park+Bowling+Club+Cromwell+Road+Stretford+M32+8QN"
+  profile_page: true
+  summary: "Historic Trafford park club in Longford Park, providing two natural crown greens, community roll-ups, and beginner coaching."
+  about: >
+    Set in Trafford's largest public park, Longford Park Bowling Club provides crown green bowls in a tranquil arboretum setting. With two well-maintained crown greens, the club caters to both league players and leisure visitors. Introductory sessions with loan crown bowls (2lb 4oz to 2lb 8oz) are held weekly during the summer months.
+
+- slug: "victoria-bowling-club-eccles"
+  name: "Victoria Bowling Club (Eccles)"
+  city: "manchester-lancashire"
+  city_name: "Greater Manchester & Lancashire"
+  city_url: "/bowls-clubs/bowls-clubs-in-manchester-and-lancashire/"
+  country: "England"
+  country_code: "GB"
+  area: "Salford (Eccles)"
+  address: "Victoria Park, Manchester Road, Eccles, Manchester"
+  postcode: "M30 0EP"
+  surfaces:
+    - "Outdoor Crown Green"
+  formats:
+    - "Crown Green"
+  season: "Outdoor: April &ndash; September"
+  rinks_info: "1 manicured park crown green"
+  beginner_friendly: true
+  barefoot_social: false
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://www.facebook.com/VictoriaParkBowlingClubEccles/"
+  maps_query: "Victoria+Bowling+Club+Victoria+Park+Manchester+Road+Eccles+M30+0EP"
+  profile_page: true
+  summary: "Traditional Salford crown green club situated in Victoria Park, Eccles, offering competitive leagues and open community days."
+  about: >
+    Situated in Victoria Park in Eccles, this long-standing club is affiliated with the British Crown Green Bowling Association (BCGBA) and Salford leagues. The natural grass crown green offers an authentic test of weight and green reading. New players can borrow club bowls and receive pointers on the crown green delivery.
+
+- slug: "sale-bowling-club"
+  name: "Sale Bowling Club"
+  city: "manchester-lancashire"
+  city_name: "Greater Manchester & Lancashire"
+  city_url: "/bowls-clubs/bowls-clubs-in-manchester-and-lancashire/"
+  country: "England"
+  country_code: "GB"
+  area: "Trafford (Sale)"
+  address: "Clarendon Crescent, Sale, Greater Manchester"
+  postcode: "M33 2EE"
+  surfaces:
+    - "Outdoor Crown Green"
+  formats:
+    - "Crown Green"
+  season: "Outdoor: April &ndash; September"
+  rinks_info: "1 tournament natural grass crown green"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://www.salebowlingclub.co.uk/"
+  maps_query: "Sale+Bowling+Club+Clarendon+Crescent+Sale+M33+2EE"
+  profile_page: true
+  summary: "Premier Trafford crown green club dating to 1874, offering tournament-standard turf, floodlit evening bowls, and a social clubhouse."
+  about: >
+    Established in 1874, Sale Bowling Club on Clarendon Crescent is one of the oldest crown green bowling clubs in Cheshire and Greater Manchester. The club's crown green is immaculately maintained with a true apex and consistent running. Floodlights allow evening competitions and social roll-ups throughout the summer season.
+
+- slug: "altrincham-bowling-club"
+  name: "Altrincham Bowling Club"
+  city: "manchester-lancashire"
+  city_name: "Greater Manchester & Lancashire"
+  city_url: "/bowls-clubs/bowls-clubs-in-manchester-and-lancashire/"
+  country: "England"
+  country_code: "GB"
+  area: "Trafford (Altrincham)"
+  address: "Townfield Road, Altrincham, Greater Manchester"
+  postcode: "WA14 4DS"
+  surfaces:
+    - "Outdoor Crown Green"
+  formats:
+    - "Crown Green"
+  season: "Outdoor: April &ndash; September"
+  rinks_info: "1 championship crown green"
+  beginner_friendly: true
+  barefoot_social: false
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://www.altrinchambowls.co.uk/"
+  maps_query: "Altrincham+Bowling+Club+Townfield+Road+Altrincham+WA14+4DS"
+  profile_page: true
+  summary: "Historic Altrincham crown green club founded in 1898, offering competitive Altrincham & South Trafford leagues and coaching."
+  about: >
+    Instituted in 1898 on Townfield Road, Altrincham Bowling Club offers an outstanding crown green experience. With challenging borrows and a fast summer pace, the green tests players of all calibres. Beginners receive patient guidance from BCGBA qualified coaches with matched crown bowls supplied.
+
+- slug: "bolton-indoor-bowling-club"
+  name: "Bolton Indoor Bowling Club"
+  city: "manchester-lancashire"
+  city_name: "Greater Manchester & Lancashire"
+  city_url: "/bowls-clubs/bowls-clubs-in-manchester-and-lancashire/"
+  country: "England"
+  country_code: "GB"
+  area: "Greater Manchester (Bolton)"
+  address: "St Helens Road, Bolton, Greater Manchester"
+  postcode: "BL3 3PW"
+  surfaces:
+    - "Indoor Carpet"
+  formats:
+    - "Indoor"
+    - "Flat Green"
+  season: "Year-round (Main Season September &ndash; April)"
+  rinks_info: "6-rink championship indoor carpet arena"
+  beginner_friendly: true
+  barefoot_social: false
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://www.boltonindoorbowlingclub.co.uk/"
+  maps_query: "Bolton+Indoor+Bowling+Club+St+Helens+Road+Bolton+BL3+3PW"
+  profile_page: true
+  summary: "Greater Manchester's premier dedicated indoor bowling stadium in Bolton, offering 6 laser-level rinks and winter leagues."
+  about: >
+    Bolton Indoor Bowling Club on St Helens Road is the foremost indoor bowling stadium in Greater Manchester. Operating six championship-standard indoor carpet rinks, the club keeps flat green bowlers active throughout autumn and winter. The centre offers structured coaching, novice leagues, a licensed bar, and equipment loans.
+
+- slug: "blackpool-indoor-bowling-centre"
+  name: "Blackpool Indoor Bowling Centre"
+  city: "manchester-lancashire"
+  city_name: "Greater Manchester & Lancashire"
+  city_url: "/bowls-clubs/bowls-clubs-in-manchester-and-lancashire/"
+  country: "England"
+  country_code: "GB"
+  area: "Lancashire Coast (Blackpool)"
+  address: "Palatine Sports Centre, St Annes Road, Blackpool"
+  postcode: "FY4 2AP"
+  surfaces:
+    - "Indoor Carpet"
+  formats:
+    - "Indoor"
+    - "Flat Green"
+  season: "Year-round (Main Season September &ndash; April)"
+  rinks_info: "4-rink dedicated indoor carpet rink"
+  beginner_friendly: true
+  barefoot_social: false
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://www.blackpool.gov.uk/Residents/Sports-and-leisure/Palatine-sports-centre.aspx"
+  maps_query: "Blackpool+Indoor+Bowling+Centre+Palatine+Sports+Centre+St+Annes+Road+Blackpool+FY4+2AP"
+  profile_page: true
+  summary: "Leading Lancashire indoor bowls centre located at Palatine Sports Centre, providing 4 fast carpet rinks and winter leagues."
+  about: >
+    Housed within the Palatine Sports Centre on St Annes Road in Blackpool, this 4-rink indoor bowling centre serves bowlers from across the Fylde coast and Lancashire. Providing smooth, true needle-punch carpet rinks from September to April, it offers leagues, roll-ups, and beginner hire sets.
+
+- slug: "south-shore-bowling-club-blackpool"
+  name: "South Shore Bowling Club (Blackpool)"
+  city: "manchester-lancashire"
+  city_name: "Greater Manchester & Lancashire"
+  city_url: "/bowls-clubs/bowls-clubs-in-manchester-and-lancashire/"
+  country: "England"
+  country_code: "GB"
+  area: "Lancashire Coast (Blackpool South Shore)"
+  address: "Lytham Road, Blackpool, Lancashire"
+  postcode: "FY4 1HZ"
+  surfaces:
+    - "Outdoor Crown Green"
+  formats:
+    - "Crown Green"
+  season: "Outdoor: April &ndash; September"
+  rinks_info: "2 historic crown greens near the Waterloo Hotel"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://www.facebook.com/SouthShoreBCBlackpool/"
+  maps_query: "South+Shore+Bowling+Club+Lytham+Road+Blackpool+FY4+1HZ"
+  profile_page: true
+  summary: "Legendary Blackpool crown green venue near the iconic Waterloo bowling green, hosting prestigious tournaments and casual roll-ups."
+  about: >
+    Located on Lytham Road in Blackpool South Shore near the famed Waterloo Hotel (home of the historic Waterloo Bowls Championship), South Shore Bowling Club is steeped in crown green bowling lore. The club operates two fine crown greens, welcoming holidaymakers, competitive league bowlers, and novices for casual bounce games.
+
+- slug: "east-lancashire-bowls-club-blackburn"
+  name: "East Lancashire Bowls Club (Blackburn)"
+  city: "manchester-lancashire"
+  city_name: "Greater Manchester & Lancashire"
+  city_url: "/bowls-clubs/bowls-clubs-in-manchester-and-lancashire/"
+  country: "England"
+  country_code: "GB"
+  area: "Lancashire (Blackburn)"
+  address: "Duke's Brow, Blackburn, Lancashire"
+  postcode: "BB2 6DH"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Flat Green"
+  season: "Outdoor: April &ndash; September"
+  rinks_info: "6-rink natural grass flat green"
+  beginner_friendly: true
+  barefoot_social: false
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://www.eastlancashireclub.co.uk/bowls"
+  maps_query: "East+Lancashire+Bowls+Club+Dukes+Brow+Blackburn+BB2+6DH"
+  profile_page: true
+  summary: "One of Lancashire's rare dedicated flat green clubs, offering 6 championship grass rinks, inter-county matches, and coaching."
+  about: >
+    Founded in 1899 on Duke's Brow in Blackburn, East Lancashire Bowls Club is an exceptional venue in a county dominated by crown green bowling: a dedicated 6-rink flat green lawn. Affiliated with Bowls England and Lancashire County Bowling Association, the club welcomes flat green purists and newcomers with coaching and loan equipment provided.
+
+- slug: "preston-indoor-bowls-club"
+  name: "Preston Indoor Bowls Club"
+  city: "manchester-lancashire"
+  city_name: "Greater Manchester & Lancashire"
+  city_url: "/bowls-clubs/bowls-clubs-in-manchester-and-lancashire/"
+  country: "England"
+  country_code: "GB"
+  area: "Central Lancashire (Preston)"
+  address: "532 Garstang Road, Broughton, Preston"
+  postcode: "PR3 5HE"
+  surfaces:
+    - "Indoor Carpet"
+  formats:
+    - "Indoor"
+    - "Flat Green"
+  season: "Year-round (Main Season September &ndash; April)"
+  rinks_info: "4-rink dedicated indoor carpet rink"
+  beginner_friendly: true
+  barefoot_social: false
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://www.prestonindoorbowls.co.uk/"
+  maps_query: "Preston+Indoor+Bowls+Club+532+Garstang+Road+Preston+PR3+5HE"
+  profile_page: true
+  summary: "Central Lancashire's premier indoor bowling venue in Broughton, offering 4 tournament carpet rinks and winter leagues."
+  about: >
+    Situated on Garstang Road in Broughton north of Preston, Preston Indoor Bowls Club provides year-round indoor flat green bowling. With four laser-level carpet rinks, the club runs daytime and evening leagues, taster sessions for newcomers, and EIBA national fixtures.
+
+- slug: "penwortham-bowling-club"
+  name: "Penwortham Bowling Club"
+  city: "manchester-lancashire"
+  city_name: "Greater Manchester & Lancashire"
+  city_url: "/bowls-clubs/bowls-clubs-in-manchester-and-lancashire/"
+  country: "England"
+  country_code: "GB"
+  area: "Central Lancashire (Preston / Penwortham)"
+  address: "Leyland Road, Penwortham, Preston"
+  postcode: "PR1 9QE"
+  surfaces:
+    - "Outdoor Crown Green"
+  formats:
+    - "Crown Green"
+  season: "Outdoor: April &ndash; September"
+  rinks_info: "1 championship natural turf crown green"
+  beginner_friendly: true
+  barefoot_social: false
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://www.penworthambowlingclub.co.uk/"
+  maps_query: "Penwortham+Bowling+Club+Leyland+Road+Penwortham+Preston+PR1+9QE"
+  profile_page: true
+  summary: "Prestigious Preston area crown green club instituted in 1923, offering high-standard greens, competitive leagues, and coaching."
+  about: >
+    Instituted in 1923 on Leyland Road, Penwortham Bowling Club is one of Central Lancashire's most competitive crown green clubs. The club's crown green is famed for its smooth pace and subtle borrows. New members receive personal coaching and the use of matched crown green bowls.
+
+- slug: "lancaster-bowling-club"
+  name: "Lancaster Bowling Club"
+  city: "manchester-lancashire"
+  city_name: "Greater Manchester & Lancashire"
+  city_url: "/bowls-clubs/bowls-clubs-in-manchester-and-lancashire/"
+  country: "England"
+  country_code: "GB"
+  area: "North Lancashire (Lancaster)"
+  address: "Lune Road, Lancaster, Lancashire"
+  postcode: "LA1 5QU"
+  surfaces:
+    - "Outdoor Grass"
+    - "Outdoor Crown Green"
+  formats:
+    - "Crown Green"
+    - "Flat Green"
+  season: "Outdoor: April &ndash; September"
+  rinks_info: "1 crown green plus 1 flat green lawn"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://www.lancasterbowlingclub.co.uk/"
+  maps_query: "Lancaster+Bowling+Club+Lune+Road+Lancaster+LA1+5QU"
+  profile_page: true
+  summary: "Historic dual-code North Lancashire club dating to 1895 beside the River Lune, featuring both crown green and flat green bowling."
+  about: >
+    Founded in 1895 on Lune Road near the River Lune, Lancaster Bowling Club is a distinguished sporting club in North Lancashire. The venue boasts both a traditional crown green and a level flat green lawn, allowing players to practice both codes. Friendly open days and loan sets are provided.
+
+- slug: "rochdale-indoor-bowling-club"
+  name: "Rochdale Indoor Bowling Club"
+  city: "manchester-lancashire"
+  city_name: "Greater Manchester & Lancashire"
+  city_url: "/bowls-clubs/bowls-clubs-in-manchester-and-lancashire/"
+  country: "England"
+  country_code: "GB"
+  area: "Greater Manchester (Rochdale)"
+  address: "Castleton Community Centre, Manchester Road, Castleton, Rochdale"
+  postcode: "OL11 2XZ"
+  surfaces:
+    - "Indoor Carpet"
+  formats:
+    - "Indoor"
+    - "Flat Green"
+  season: "September &ndash; April"
+  rinks_info: "4-rink dedicated indoor carpet rink"
+  beginner_friendly: true
+  barefoot_social: false
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://www.rochdaleindoorbowls.org.uk/"
+  maps_query: "Rochdale+Indoor+Bowling+Club+Manchester+Road+Castleton+Rochdale+OL11+2XZ"
+  profile_page: true
+  summary: "Active indoor club in Castleton, Rochdale, providing 4 true-running carpet rinks, winter leagues, and equipment for novices."
+  about: >
+    Situated on Manchester Road in Castleton, Rochdale Indoor Bowling Club provides sheltered winter bowling for players across Rochdale, Oldham, and Bury. The 4-rink carpet facility hosts competitive mixed leagues, seniors' roll-ups, and introductory sessions for newcomers.
+
+- slug: "oldham-bowling-club"
+  name: "Oldham Bowling Club"
+  city: "manchester-lancashire"
+  city_name: "Greater Manchester & Lancashire"
+  city_url: "/bowls-clubs/bowls-clubs-in-manchester-and-lancashire/"
+  country: "England"
+  country_code: "GB"
+  area: "Greater Manchester (Oldham / Werneth)"
+  address: "Werneth Park, Frederick Street, Oldham"
+  postcode: "OL8 1RB"
+  surfaces:
+    - "Outdoor Crown Green"
+  formats:
+    - "Crown Green"
+  season: "Outdoor: April &ndash; September"
+  rinks_info: "1 manicured natural turf crown green in Werneth Park"
+  beginner_friendly: true
+  barefoot_social: false
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://www.facebook.com/OldhamBowlingClub/"
+  maps_query: "Oldham+Bowling+Club+Werneth+Park+Frederick+Street+Oldham+OL8+1RB"
+  profile_page: true
+  summary: "Centenary crown green club established in 1899 in Werneth Park, offering competitive Oldham leagues and coaching."
+  about: >
+    Instituted in 1899 in historic Werneth Park, Oldham Bowling Club is a cornerstone of the Oldham and District Crown Green Bowling League. The club maintains a traditional turf crown green, welcoming players of all backgrounds to try crown green bowling with loan sets available.
+
+- slug: "bury-bowling-club"
+  name: "Bury Bowling Club"
+  city: "manchester-lancashire"
+  city_name: "Greater Manchester & Lancashire"
+  city_url: "/bowls-clubs/bowls-clubs-in-manchester-and-lancashire/"
+  country: "England"
+  country_code: "GB"
+  area: "Greater Manchester (Bury)"
+  address: "Manchester Road, Bury, Greater Manchester"
+  postcode: "BL9 0TR"
+  surfaces:
+    - "Outdoor Crown Green"
+  formats:
+    - "Crown Green"
+  season: "Outdoor: April &ndash; September"
+  rinks_info: "1 tournament natural grass crown green"
+  beginner_friendly: true
+  barefoot_social: false
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://www.burybowls.co.uk/"
+  maps_query: "Bury+Bowling+Club+Manchester+Road+Bury+BL9+0TR"
+  profile_page: true
+  summary: "Traditional Bury crown green club founded in 1901, offering premier turf, active league teams, and beginner support."
+  about: >
+    Founded in 1901 on Manchester Road, Bury Bowling Club features a well-established natural turf crown green. Competing in the Bury & District and North Manchester leagues, the club provides free introductory coaching and loan bowls for prospective bowlers.
+
+- slug: "wigan-bowling-club"
+  name: "Wigan Bowling Club"
+  city: "manchester-lancashire"
+  city_name: "Greater Manchester & Lancashire"
+  city_url: "/bowls-clubs/bowls-clubs-in-manchester-and-lancashire/"
+  country: "England"
+  country_code: "GB"
+  area: "Greater Manchester (Wigan / Mesnes Park)"
+  address: "Mesnes Park Terrace, Wigan, Greater Manchester"
+  postcode: "WN1 1TU"
+  surfaces:
+    - "Outdoor Crown Green"
+  formats:
+    - "Crown Green"
+  season: "Outdoor: April &ndash; September"
+  rinks_info: "2 traditional crown greens in Mesnes Park"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://www.wiganbowlingclub.org.uk/"
+  maps_query: "Wigan+Bowling+Club+Mesnes+Park+Terrace+Wigan+WN1+1TU"
+  profile_page: true
+  summary: "Historic crown green bowling venue in picturesque Mesnes Park, dating back to 1878 with community roll-ups and leagues."
+  about: >
+    Set in Victorian Mesnes Park in the heart of Wigan, this storied crown green venue has welcomed bowlers since 1878. The club maintains two immaculate crown greens, staging competitive matches in the Wigan and Lancashire leagues, alongside open days with free bowl hire.
+
+- slug: "stockport-bowling-club"
+  name: "Stockport Bowling Club"
+  city: "manchester-lancashire"
+  city_name: "Greater Manchester & Lancashire"
+  city_url: "/bowls-clubs/bowls-clubs-in-manchester-and-lancashire/"
+  country: "England"
+  country_code: "GB"
+  area: "Greater Manchester (Stockport / Great Moor)"
+  address: "Store Street, Great Moor, Stockport"
+  postcode: "SK2 7HA"
+  surfaces:
+    - "Outdoor Crown Green"
+  formats:
+    - "Crown Green"
+  season: "Outdoor: April &ndash; September"
+  rinks_info: "1 championship crown green"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://www.stockportbowls.co.uk/"
+  maps_query: "Stockport+Bowling+Club+Store+Street+Great+Moor+Stockport+SK2+7HA"
+  profile_page: true
+  summary: "Active crown green club in Great Moor founded in 1902, known for friendly roll-ups, bar facilities, and competitive league play."
+  about: >
+    Founded in 1902 on Store Street in Great Moor, Stockport Bowling Club provides crown green bowls in South East Manchester. The green features a true crown and brisk summer speed. The club operates a licensed bar, social events, and weekend beginner coaching.
+
+- slug: "ashton-under-lyne-bowling-club"
+  name: "Ashton-under-Lyne Bowling Club"
+  city: "manchester-lancashire"
+  city_name: "Greater Manchester & Lancashire"
+  city_url: "/bowls-clubs/bowls-clubs-in-manchester-and-lancashire/"
+  country: "England"
+  country_code: "GB"
+  area: "Tameside (Ashton-under-Lyne)"
+  address: "Stamford Park, Darnton Road, Ashton-under-Lyne"
+  postcode: "OL6 6SZ"
+  surfaces:
+    - "Outdoor Crown Green"
+  formats:
+    - "Crown Green"
+  season: "Outdoor: April &ndash; September"
+  rinks_info: "2 traditional crown greens in Stamford Park"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://www.tamesidebowls.co.uk/ashton"
+  maps_query: "Ashton-under-Lyne+Bowling+Club+Stamford+Park+Darnton+Road+Ashton-under-Lyne+OL6+6SZ"
+  profile_page: true
+  summary: "Scenic Tameside venue in Stamford Park dating to 1873, featuring two crown greens, community roll-ups, and league bowls."
+  about: >
+    Instituted in 1873 within beautiful Stamford Park, Ashton-under-Lyne Bowling Club is one of Tameside's oldest clubs. The two crown greens are framed by Victorian landscaping. The club participates in the Tameside and District leagues, offering coaching and loan bowls for newcomers.
+
+- slug: "urmston-bowling-club"
+  name: "Urmston Bowling Club"
+  city: "manchester-lancashire"
+  city_name: "Greater Manchester & Lancashire"
+  city_url: "/bowls-clubs/bowls-clubs-in-manchester-and-lancashire/"
+  country: "England"
+  country_code: "GB"
+  area: "Trafford (Urmston / Flixton)"
+  address: "Moorside Road, Urmston, Manchester"
+  postcode: "M41 5SL"
+  surfaces:
+    - "Outdoor Crown Green"
+  formats:
+    - "Crown Green"
+  season: "Outdoor: April &ndash; September"
+  rinks_info: "1 manicured natural turf crown green"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://www.urmstonbowlingclub.co.uk/"
+  maps_query: "Urmston+Bowling+Club+Moorside+Road+Urmston+Manchester+M41+5SL"
+  profile_page: true
+  summary: "Welcoming Trafford crown green club on Moorside Road, offering competitive leagues, Friday night socials, and coaching."
+  about: >
+    Located on Moorside Road in Urmston, this friendly club has provided crown green bowls since 1912. The green offers consistent, challenging borrows for league matches and relaxed social bowling. Friday evening social roll-ups welcome novices with free equipment hire.
+
+- slug: "leyland-bowling-club"
+  name: "Leyland Bowling Club"
+  city: "manchester-lancashire"
+  city_name: "Greater Manchester & Lancashire"
+  city_url: "/bowls-clubs/bowls-clubs-in-manchester-and-lancashire/"
+  country: "England"
+  country_code: "GB"
+  area: "Central Lancashire (Leyland)"
+  address: "Worden Park, Leyland, Lancashire"
+  postcode: "PR25 1DJ"
+  surfaces:
+    - "Outdoor Crown Green"
+  formats:
+    - "Crown Green"
+  season: "Outdoor: April &ndash; September"
+  rinks_info: "1 championship crown green in Worden Park"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://www.leylandbowlingclub.co.uk/"
+  maps_query: "Leyland+Bowling+Club+Worden+Park+Leyland+PR25+1DJ"
+  profile_page: true
+  summary: "Picturesque crown green club situated in Worden Park, offering historic parkland bowls, South Ribble leagues, and coaching."
+  about: >
+    Instituted within the grounds of Worden Park in Leyland, this picturesque club offers crown green bowls in a historic country park. Affiliated with BCGBA and South Ribble leagues, Leyland Bowling Club runs weekend beginner sessions with loan bowls provided.
+

@@ -266,7 +266,7 @@ layout: default
                   {% assign has_grass = true %}
                 {% endif %}
                 {% if s contains 'Synthetic' or s contains 'Dome' or s contains 'Carpet' %}
-                  {% if page.country == 'Australia' or page.country_code == 'AU' %}
+                  {% if is_oceania %}
                     {% assign has_synthetic_or_au = true %}
                   {% endif %}
                 {% endif %}
@@ -278,7 +278,7 @@ layout: default
               {% assign has_grass = true %}
             {% endif %}
 
-            {% if page.country == 'Australia' or page.country_code == 'AU' %}
+            {% if is_oceania %}
               {% assign has_synthetic_or_au = true %}
             {% endif %}
 
@@ -297,7 +297,7 @@ layout: default
             </div>
             {% endif %}
 
-            {% if has_grass and page.country != 'Australia' and page.country_code != 'AU' %}
+            {% if has_grass and is_oceania == false %}
             <div class="club-matchmaker__card club-matchmaker__card--highlight">
               <span class="club-matchmaker__card-tag">Outdoor Grass Recommendation</span>
               <h3 class="club-matchmaker__card-title">Grass Greens (10&ndash;13 Second Pace)</h3>
@@ -314,10 +314,10 @@ layout: default
 
             {% if has_synthetic_or_au %}
             <div class="club-matchmaker__card club-matchmaker__card--highlight">
-              <span class="club-matchmaker__card-tag">Fast Green &amp; Australian Setup</span>
-              <h3 class="club-matchmaker__card-title">Fast Couch &amp; Synthetics (14&ndash;18 Seconds)</h3>
+              <span class="club-matchmaker__card-tag">Fast Green &amp; Southern Hemisphere Setup</span>
+              <h3 class="club-matchmaker__card-title">Fast Couch, Cotula &amp; Synthetics (14&ndash;18 Seconds)</h3>
               <p class="club-matchmaker__card-text">
-                Australian couch turf and modern woven synthetic carpets run significantly quicker. Narrower, tight-drawing bowls stop your line from blowing excessively wide into adjoining rinks.
+                Australian couch turf, New Zealand cotula greens, and modern woven synthetic carpets run significantly quicker. Narrower, tight-drawing bowls stop your line from blowing excessively wide into adjoining rinks.
               </p>
               <div class="club-matchmaker__card-links">
                 <a href="{{ '/guide/best-lawn-bowls-for-fast-greens/' | relative_url }}">Guide: Best Bowls for Fast Greens</a>

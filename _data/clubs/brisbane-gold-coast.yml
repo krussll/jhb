@@ -1,0 +1,738 @@
+- slug: "merthyr-bowls-club"
+  name: "Merthyr Bowls Club"
+  city: "brisbane-gold-coast"
+  city_name: "Brisbane & Gold Coast"
+  city_url: "/bowls-clubs/bowls-clubs-in-brisbane-and-gold-coast/"
+  country: "Australia"
+  country_code: "AU"
+  area: "Inner East / New Farm"
+  address: "60 Oxlade Drive, New Farm"
+  postcode: "QLD 4005"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Barefoot Bowls"
+    - "Pennant"
+    - "Social Bowls"
+  season: "Year-round"
+  rinks_info: "Championship couch grass greens with direct river frontage"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://merthyrbowlsclub.com.au/"
+  maps_query: "Merthyr+Bowls+Club+Oxlade+Drive+New+Farm+QLD+4005"
+  profile_page: true
+  summary: "Situated directly on the banks of the Brisbane River in New Farm, Queensland's most famous barefoot bowls club for sunset roll-ups and BBQs."
+  about: >
+    Merthyr Bowls Club is an iconic Queensland bowls institution. Backing directly onto the Brisbane River in New Farm, players enjoy panoramic river views, cooling breezes, and natural couch greens. Famous for its relaxed weekend barefoot bowls sessions, riverfront BBQ packages, and cold beers, Merthyr welcomes casual bowlers and pennant players alike.
+
+- slug: "new-farm-bowls-club"
+  name: "New Farm Bowls Club"
+  city: "brisbane-gold-coast"
+  city_name: "Brisbane & Gold Coast"
+  city_url: "/bowls-clubs/bowls-clubs-in-brisbane-and-gold-coast/"
+  country: "Australia"
+  country_code: "AU"
+  area: "Inner East / New Farm"
+  address: "969 Brunswick Street, New Farm"
+  postcode: "QLD 4005"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Pennant"
+    - "Barefoot Bowls"
+    - "Social Bowls"
+  season: "Year-round"
+  rinks_info: "2 natural grass greens (Tifdwarf couch) in New Farm Park"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://newfarmbowls.com.au/"
+  maps_query: "New+Farm+Bowls+Club+Brunswick+Street+New+Farm+QLD+4005"
+  profile_page: true
+  summary: "Est. 1907 inside beautiful New Farm Park beside the Brisbane Powerhouse, providing manicured couch greens and sunny barefoot bowls."
+  about: >
+    Founded in 1907, New Farm Bowls Club is set in historic New Farm Park right next to the Brisbane Powerhouse arts centre. The club offers two high-quality hybrid couch grass greens, vibrant social barefoot bowls, and competitive pennant divisions under subtropical sunshine.
+
+- slug: "the-boo-bowls-club"
+  name: "The Boo (Booroodabin Bowls Club)"
+  city: "brisbane-gold-coast"
+  city_name: "Brisbane & Gold Coast"
+  city_url: "/bowls-clubs/bowls-clubs-in-brisbane-and-gold-coast/"
+  country: "Australia"
+  country_code: "AU"
+  area: "Inner North / Newstead"
+  address: "126 Breakfast Creek Road, Newstead"
+  postcode: "QLD 4006"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Barefoot Bowls"
+    - "Social Bowls"
+    - "Corporate Bowls"
+  season: "Year-round"
+  rinks_info: "2 natural grass greens under floodlights"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://theboo.net.au/"
+  maps_query: "Booroodabin+Bowls+Club+Breakfast+Creek+Road+Newstead+QLD+4006"
+  profile_page: true
+  summary: "Queensland's oldest bowls club (est. 1888), reimagined as 'The Boo' with craft beer, gourmet burgers, floodlit barefoot bowls, and urban vitality."
+  about: >
+    Established in 1888, Booroodabin Bowls Club (known affectionately as 'The Boo') is the oldest bowls club in Queensland. Located in inner-city Newstead, the club has transformed into an entertainment precinct pairing heritage bowling greens with craft beers, wood-smoked meats, and floodlit evening barefoot bowls.
+
+- slug: "broadbeach-bowls-club"
+  name: "Broadbeach Bowls Club"
+  city: "brisbane-gold-coast"
+  city_name: "Brisbane & Gold Coast"
+  city_url: "/bowls-clubs/bowls-clubs-in-brisbane-and-gold-coast/"
+  country: "Australia"
+  country_code: "AU"
+  area: "Central Gold Coast / Broadbeach"
+  address: "169 Surf Parade, Broadbeach"
+  postcode: "QLD 4218"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "World Championships"
+    - "Pennant"
+    - "Barefoot Bowls"
+    - "Social Bowls"
+  season: "Year-round"
+  rinks_info: "4 world-championship grass greens (Tifdwarf couch)"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://broadbeachbowlsclub.com/"
+  maps_query: "Broadbeach+Bowls+Club+Surf+Parade+Broadbeach+QLD+4218"
+  profile_page: true
+  summary: "World-famous venue that hosted the 2018 Commonwealth Games and World Bowls Championships, featuring four world-class couch greens."
+  about: >
+    Broadbeach Bowls Club is universally regarded as one of the premier bowls venues on the planet. Host of the 2018 Gold Coast Commonwealth Games and 2023 World Bowls Championships, its four championship natural couch greens are maintained to impeccable standards. Visitors can enjoy barefoot bowls, world-class pennants, and dining metres from Broadbeach.
+
+- slug: "club-helensvale"
+  name: "Club Helensvale"
+  city: "brisbane-gold-coast"
+  city_name: "Brisbane & Gold Coast"
+  city_url: "/bowls-clubs/bowls-clubs-in-brisbane-and-gold-coast/"
+  country: "Australia"
+  country_code: "AU"
+  area: "Northern Gold Coast / Helensvale"
+  address: "20-28 Discovery Drive, Helensvale"
+  postcode: "QLD 4212"
+  surfaces:
+    - "Covered Dome"
+    - "Outdoor Grass"
+  formats:
+    - "Pennant"
+    - "Premier League"
+    - "Social Bowls"
+    - "Barefoot Bowls"
+  season: "Year-round (Undercover covered green)"
+  rinks_info: "Elite undercover dome green and 2 championship couch greens"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://clubhelensvale.com.au/"
+  maps_query: "Club+Helensvale+Discovery+Drive+Helensvale+QLD+4212"
+  profile_page: true
+  summary: "Gold Coast bowling powerhouse (Helensvale Hawks) featuring an architectural undercover canopy green, elite national players, and modern dining."
+  about: >
+    Home to the famous Helensvale Hawks, Club Helensvale is a dominant force in Australian bowls. The club features a state-of-the-art undercover canopy green sheltering bowlers from tropical sun and rain, alongside championship outdoor couch greens. The complex offers premier dining, entertainment, and welcoming social roll-ups.
+
+- slug: "musgrave-hill-bowls-club"
+  name: "Musgrave Hill Bowls Club"
+  city: "brisbane-gold-coast"
+  city_name: "Brisbane & Gold Coast"
+  city_url: "/bowls-clubs/bowls-clubs-in-brisbane-and-gold-coast/"
+  country: "Australia"
+  country_code: "AU"
+  area: "Central Gold Coast / Southport"
+  address: "104 Musgrave Avenue, Southport"
+  postcode: "QLD 4215"
+  surfaces:
+    - "Covered Dome"
+    - "Outdoor Grass"
+  formats:
+    - "Pennant"
+    - "State Tournaments"
+    - "Social Bowls"
+    - "Barefoot Bowls"
+  season: "Year-round"
+  rinks_info: "3 greens including massive all-weather covered canopy green"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://musgravebowls.com.au/"
+  maps_query: "Musgrave+Hill+Bowls+Club+Musgrave+Avenue+Southport+QLD+4215"
+  profile_page: true
+  summary: "Major Gold Coast club featuring three championship greens, an undercover covered dome green, elite coaching, and social barefoot bowls."
+  about: >
+    Musgrave Hill Bowls Club in Southport is one of the Gold Coast's largest bowls facilities. Boasting three championship greens, including an architecturally engineered undercover canopy green, Musgrave Hill ensures bowling in any weather. The club hosts major state tournaments and welcomes casual barefoot roll-ups.
+
+- slug: "pine-rivers-bowls-club"
+  name: "Pine Rivers Bowls Club"
+  city: "brisbane-gold-coast"
+  city_name: "Brisbane & Gold Coast"
+  city_url: "/bowls-clubs/bowls-clubs-in-brisbane-and-gold-coast/"
+  country: "Australia"
+  country_code: "AU"
+  area: "Moreton Bay / Brendale"
+  address: "Cnr Sparkes & Bray Roads, Brendale"
+  postcode: "QLD 4500"
+  surfaces:
+    - "Covered Dome"
+    - "Outdoor Grass"
+  formats:
+    - "Bowls Premier League"
+    - "Pennant"
+    - "Social Bowls"
+    - "Barefoot Bowls"
+  season: "Year-round"
+  rinks_info: "Renowned indoor covered dome arena plus 2 outdoor grass greens"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://pineriversbowls.com.au/"
+  maps_query: "Pine+Rivers+Bowls+Club+Sparkes+Road+Brendale+QLD+4500"
+  profile_page: true
+  summary: "Home of the famous undercover air-conditioned dome arena, host of televised Bowls Premier League (BPL) matches and elite championships."
+  about: >
+    Pine Rivers Bowls Club in Brendale is internationally celebrated as the home of the Bowls Premier League (BPL). Its iconic undercover dome complex provides climate-controlled, broadcast-ready bowling conditions. With outdoor couch turf greens, a bistro, and regular social sessions, Pine Rivers is a flagship Queensland venue.
+
+- slug: "camp-hill-bowls-club"
+  name: "Camp Hill Bowls Club"
+  city: "brisbane-gold-coast"
+  city_name: "Brisbane & Gold Coast"
+  city_url: "/bowls-clubs/bowls-clubs-in-brisbane-and-gold-coast/"
+  country: "Australia"
+  country_code: "AU"
+  area: "South Brisbane / Camp Hill"
+  address: "150 Ferguson Road, Camp Hill"
+  postcode: "QLD 4152"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Barefoot Bowls"
+    - "Pennant"
+    - "Social Bowls"
+  season: "Year-round"
+  rinks_info: "2 natural grass couch greens under floodlights"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://camphillbowlsclub.com.au/"
+  maps_query: "Camp+Hill+Bowls+Club+Ferguson+Road+Camp+Hill+QLD+4152"
+  profile_page: true
+  summary: "Southside Brisbane community favourite with floodlit grass greens, lively weekend barefoot bowls, craft beers, and great food."
+  about: >
+    Camp Hill Bowls Club has served the southeast suburbs of Brisbane since 1948. Offering two floodlit natural grass greens, the club is known for its warm hospitality, regular Friday and weekend barefoot roll-ups, craft beers on tap, and competitive division pennants.
+
+- slug: "norman-park-bowls-club"
+  name: "Norman Park Bowls Club"
+  city: "brisbane-gold-coast"
+  city_name: "Brisbane & Gold Coast"
+  city_url: "/bowls-clubs/bowls-clubs-in-brisbane-and-gold-coast/"
+  country: "Australia"
+  country_code: "AU"
+  area: "Inner East / Norman Park"
+  address: "43 Norman Avenue, Norman Park"
+  postcode: "QLD 4170"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Barefoot Bowls"
+    - "Social Bowls"
+    - "Community Bowls"
+  season: "Year-round"
+  rinks_info: "Natural couch grass rinks"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://normanparkbowls.com.au/"
+  maps_query: "Norman+Park+Bowls+Club+Norman+Avenue+Norman+Park+QLD+4170"
+  profile_page: true
+  summary: "Charming community-run bowls club with relaxed barefoot roll-ups, local food pop-ups, craft beer taps, and family-friendly greens."
+  about: >
+    Norman Park Bowls Club is a beloved local community hub in Brisbane's inner east. The club champions an unpretentious, family-friendly vibe with lush natural turf greens, food truck nights, cold craft beer, and accessible barefoot bowls for all ages.
+
+- slug: "bardon-bowls-club"
+  name: "Bardon Bowls Club"
+  city: "brisbane-gold-coast"
+  city_name: "Brisbane & Gold Coast"
+  city_url: "/bowls-clubs/bowls-clubs-in-brisbane-and-gold-coast/"
+  country: "Australia"
+  country_code: "AU"
+  area: "Inner West / Bardon"
+  address: "69 Bowman Parade, Bardon"
+  postcode: "QLD 4065"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Barefoot Bowls"
+    - "Social Bowls"
+    - "Community Bowls"
+  season: "Year-round"
+  rinks_info: "2 natural grass greens nestled in Bowman Park"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://bardonbowls.com.au/"
+  maps_query: "Bardon+Bowls+Club+Bowman+Parade+Bardon+QLD+4065"
+  profile_page: true
+  summary: "Nestled in the lush foothills of Mount Coot-tha, offering chilled barefoot bowls, woodfired pizzas, local craft beers, and natural bushland surrounds."
+  about: >
+    Surrounded by native gum trees and parklands at the foot of Mount Coot-tha, Bardon Bowls Club is one of Brisbane's most picturesque barefoot bowls spots. The club pairs manicured natural grass greens with authentic woodfired pizzas, craft brews, and laidback weekend roll-ups.
+
+- slug: "burleigh-heads-bowls-club"
+  name: "Burleigh Heads Bowls Club"
+  city: "brisbane-gold-coast"
+  city_name: "Brisbane & Gold Coast"
+  city_url: "/bowls-clubs/bowls-clubs-in-brisbane-and-gold-coast/"
+  country: "Australia"
+  country_code: "AU"
+  area: "Southern Gold Coast / Burleigh Heads"
+  address: "Connor Street, Burleigh Heads"
+  postcode: "QLD 4220"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Pennant"
+    - "Barefoot Bowls"
+    - "Social Bowls"
+  season: "Year-round"
+  rinks_info: "2 championship natural grass greens (couch)"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://burleighbowls.org.au/"
+  maps_query: "Burleigh+Heads+Bowls+Club+Connor+Street+Burleigh+Heads+QLD+4220"
+  profile_page: true
+  summary: "Located right in the heart of Burleigh Heads moments from the surf, famous for vibrant barefoot bowls, Sunday sessions, and competitive pennants."
+  about: >
+    Positioned just a short stroll from the world-famous surf break of Burleigh Point, Burleigh Heads Bowls Club is an essential Gold Coast experience. Featuring two pristine couch greens, the club hosts lively barefoot bowls roll-ups, live weekend entertainment, and strong pennant squads.
+
+- slug: "tugun-bowls-club"
+  name: "Tugun Bowls Club"
+  city: "brisbane-gold-coast"
+  city_name: "Brisbane & Gold Coast"
+  city_url: "/bowls-clubs/bowls-clubs-in-brisbane-and-gold-coast/"
+  country: "Australia"
+  country_code: "AU"
+  area: "Southern Gold Coast / Tugun"
+  address: "Kaleena Street, Tugun"
+  postcode: "QLD 4224"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Pennant"
+    - "Barefoot Bowls"
+    - "Social Bowls"
+  season: "Year-round"
+  rinks_info: "2 natural couch grass greens"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://tugunbowls.com.au/"
+  maps_query: "Tugun+Bowls+Club+Kaleena+Street+Tugun+QLD+4224"
+  profile_page: true
+  summary: "Relaxed southern Gold Coast bowls club close to Tugun Beach with great natural greens, barefoot bowls, and bistro dining."
+  about: >
+    Tugun Bowls Club provides a welcoming, beachside atmosphere on the southern Gold Coast. Offering two couch turf greens running quick and true, the club caters to pennant competitions and casual barefoot bowls with affordable green fees and loan equipment.
+
+- slug: "coolangatta-bowls-club"
+  name: "Coolangatta Bowls Club"
+  city: "brisbane-gold-coast"
+  city_name: "Brisbane & Gold Coast"
+  city_url: "/bowls-clubs/bowls-clubs-in-brisbane-and-gold-coast/"
+  country: "Australia"
+  country_code: "AU"
+  area: "Southern Gold Coast / Coolangatta"
+  address: "Scott Street, Coolangatta"
+  postcode: "QLD 4225"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Pennant"
+    - "Barefoot Bowls"
+    - "Social Bowls"
+  season: "Year-round"
+  rinks_info: "2 championship natural grass greens near Kirra Beach"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://coolangattabowls.com.au/"
+  maps_query: "Coolangatta+Bowls+Club+Scott+Street+Coolangatta+QLD+4225"
+  profile_page: true
+  summary: "State-border bowling club moments from Kirra Beach, featuring fast ocean-breeze greens, barefoot roll-ups, and regular tournaments."
+  about: >
+    Established on the Queensland–New South Wales border in Coolangatta, this historic club sits moments from iconic Kirra Beach. Bowlers navigate fast coastal couch greens influenced by ocean breezes. The club offers competitive pennants, barefoot roll-ups, and a relaxed beach clubhouse.
+
+- slug: "enoggera-bowls-club"
+  name: "Enoggera Bowls Club"
+  city: "brisbane-gold-coast"
+  city_name: "Brisbane & Gold Coast"
+  city_url: "/bowls-clubs/bowls-clubs-in-brisbane-and-gold-coast/"
+  country: "Australia"
+  country_code: "AU"
+  area: "North Brisbane / Enoggera"
+  address: "72 Pickering Street, Enoggera"
+  postcode: "QLD 4051"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Pennant"
+    - "Barefoot Bowls"
+    - "Social Bowls"
+  season: "Year-round"
+  rinks_info: "2 championship natural grass greens"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://enoggerabowls.com.au/"
+  maps_query: "Enoggera+Bowls+Club+Pickering+Street+Enoggera+QLD+4051"
+  profile_page: true
+  summary: "North Brisbane community hub featuring quality couch grass greens, vibrant barefoot bowls packages, and active pennant teams."
+  about: >
+    Enoggera Bowls Club is a thriving northern Brisbane sporting club. Its two natural grass greens are maintained in top condition, hosting regular pennant matches alongside weekend barefoot roll-ups, corporate functions, and beginner coaching clinics.
+
+- slug: "chermside-bowls-club"
+  name: "Chermside Bowls Club"
+  city: "brisbane-gold-coast"
+  city_name: "Brisbane & Gold Coast"
+  city_url: "/bowls-clubs/bowls-clubs-in-brisbane-and-gold-coast/"
+  country: "Australia"
+  country_code: "AU"
+  area: "North Brisbane / Chermside"
+  address: "468 Hamilton Road, Chermside"
+  postcode: "QLD 4032"
+  surfaces:
+    - "Outdoor Grass"
+    - "Outdoor Synthetic"
+  formats:
+    - "Pennant"
+    - "Barefoot Bowls"
+    - "Social Bowls"
+  season: "Year-round"
+  rinks_info: "3 greens (natural couch turf and synthetic carpet)"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://chermsidebowls.com.au/"
+  maps_query: "Chermside+Bowls+Club+Hamilton+Road+Chermside+QLD+4032"
+  profile_page: true
+  summary: "Large northside bowls complex with three greens, offering competitive pennants, synthetic all-weather rinks, and barefoot bowls."
+  about: >
+    Chermside Bowls Club is a prominent northern suburbs club boasting three greens (natural grass and synthetic). With strong coaching programs and regular social barefoot tournaments, Chermside welcomes novices and experienced bowlers alike.
+
+- slug: "salisbury-bowls-club"
+  name: "Salisbury Bowls Club"
+  city: "brisbane-gold-coast"
+  city_name: "Brisbane & Gold Coast"
+  city_url: "/bowls-clubs/bowls-clubs-in-brisbane-and-gold-coast/"
+  country: "Australia"
+  country_code: "AU"
+  area: "South Brisbane / Salisbury"
+  address: "37 Cripps Street, Salisbury"
+  postcode: "QLD 4107"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Barefoot Bowls"
+    - "Pennant"
+    - "Social Bowls"
+  season: "Year-round"
+  rinks_info: "2 natural grass greens"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://salisburybowlsclub.com.au/"
+  maps_query: "Salisbury+Bowls+Club+Cripps+Street+Salisbury+QLD+4107"
+  profile_page: true
+  summary: "South Brisbane community gem with craft beers, weekend barefoot bowls, food trucks, and welcoming beginner sessions."
+  about: >
+    Salisbury Bowls Club is an inner-south favourite known for its casual charm. Combining authentic grass greens with food truck pop-ups, craft beers on tap, and affordable barefoot packages, it has introduced hundreds of local newcomers to the sport of bowls.
+
+- slug: "paradise-point-bowls-club"
+  name: "Paradise Point Bowls Club"
+  city: "brisbane-gold-coast"
+  city_name: "Brisbane & Gold Coast"
+  city_url: "/bowls-clubs/bowls-clubs-in-brisbane-and-gold-coast/"
+  country: "Australia"
+  country_code: "AU"
+  area: "Northern Gold Coast / Paradise Point"
+  address: "22 Thrush Avenue, Paradise Point"
+  postcode: "QLD 4216"
+  surfaces:
+    - "Outdoor Grass"
+    - "Outdoor Synthetic"
+  formats:
+    - "Pennant"
+    - "Barefoot Bowls"
+    - "Social Bowls"
+  season: "Year-round"
+  rinks_info: "3 greens including championship couch grass and synthetic rinks"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://paradisepointbowls.com.au/"
+  maps_query: "Paradise+Point+Bowls+Club+Thrush+Avenue+Paradise+Point+QLD+4216"
+  profile_page: true
+  summary: "Broadwater coastal club featuring 3 greens, top-division pennants, ocean breezes, and social barefoot bowls in paradise."
+  about: >
+    Located alongside the tranquil Gold Coast Broadwater, Paradise Point Bowls Club features three championship bowling greens. Offering grass and synthetic rinks, the club enjoys refreshing water breezes, modern clubhouse dining, and popular social roll-ups.
+
+- slug: "southport-bowls-club"
+  name: "Southport Bowls Club"
+  city: "brisbane-gold-coast"
+  city_name: "Brisbane & Gold Coast"
+  city_url: "/bowls-clubs/bowls-clubs-in-brisbane-and-gold-coast/"
+  country: "Australia"
+  country_code: "AU"
+  area: "Central Gold Coast / Southport"
+  address: "Marine Parade, Southport"
+  postcode: "QLD 4215"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Pennant"
+    - "Barefoot Bowls"
+    - "Social Bowls"
+  season: "Year-round"
+  rinks_info: "Championship greens overlooking the Southport Broadwater"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://southportbowls.com.au/"
+  maps_query: "Southport+Bowls+Club+Marine+Parade+Southport+QLD+4215"
+  profile_page: true
+  summary: "The oldest club on the Gold Coast (est. 1914), situated on Marine Parade overlooking the Broadwater with historic grass greens."
+  about: >
+    Established in 1914, Southport Bowls Club is the foundation club of lawn bowls on the Gold Coast. Overlooking the scenic Southport Broadwater parklands, the club pairs deep sporting history with pristine natural turf rinks, competitive pennants, and barefoot bowls.
+
+- slug: "club-tweed"
+  name: "Club Tweed (Tweed Heads)"
+  city: "brisbane-gold-coast"
+  city_name: "Brisbane & Gold Coast"
+  city_url: "/bowls-clubs/bowls-clubs-in-brisbane-and-gold-coast/"
+  country: "Australia"
+  country_code: "AU"
+  area: "Gold Coast Border / Tweed Heads"
+  address: "Florence Street, Tweed Heads"
+  postcode: "NSW 2485"
+  surfaces:
+    - "Indoor Carpet"
+    - "Outdoor Grass"
+    - "Outdoor Synthetic"
+  formats:
+    - "World Championships"
+    - "Indoor Stadium"
+    - "Pennant"
+    - "Social Bowls"
+  season: "Year-round (Indoor 8-rink stadium + outdoor greens)"
+  rinks_info: "World-class 8-rink indoor stadium and 3 outdoor greens"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://clubtweed.com.au/"
+  maps_query: "Club+Tweed+Florence+Street+Tweed+Heads+NSW+2485"
+  profile_page: true
+  summary: "World-renowned international bowls complex on the Gold Coast border, boasting a climate-controlled 8-rink indoor stadium and 3 outdoor greens."
+  about: >
+    Located on the border of Queensland and New South Wales, Club Tweed is an internationally celebrated lawn bowls mecca. Its air-conditioned, climate-controlled 8-rink indoor stadium hosts world championships, Australian indoor titles, and broadcast matches. Together with three outdoor greens, Club Tweed offers a complete bowls experience.
+
+- slug: "moorooka-bowls-club"
+  name: "Moorooka Bowls Club"
+  city: "brisbane-gold-coast"
+  city_name: "Brisbane & Gold Coast"
+  city_url: "/bowls-clubs/bowls-clubs-in-brisbane-and-gold-coast/"
+  country: "Australia"
+  country_code: "AU"
+  area: "South Brisbane / Moorooka"
+  address: "76 Koala Road, Moorooka"
+  postcode: "QLD 4105"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Barefoot Bowls"
+    - "Pennant"
+    - "Social Bowls"
+  season: "Year-round"
+  rinks_info: "2 natural couch grass greens"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://moorookabowlsclub.com.au/"
+  maps_query: "Moorooka+Bowls+Club+Koala+Road+Moorooka+QLD+4105"
+  profile_page: true
+  summary: "Southside Brisbane club with top grass greens, popular Friday night food trucks, live music, and barefoot roll-ups."
+  about: >
+    Moorooka Bowls Club is an energetic southern suburbs community hub. Bowlers enjoy two natural grass greens, Friday evening barefoot bowls with food trucks and craft beers, and active pennants on weekends.
+
+- slug: "toowong-bowls-club"
+  name: "Toowong Bowls Club"
+  city: "brisbane-gold-coast"
+  city_name: "Brisbane & Gold Coast"
+  city_url: "/bowls-clubs/bowls-clubs-in-brisbane-and-gold-coast/"
+  country: "Australia"
+  country_code: "AU"
+  area: "Inner West / Toowong"
+  address: "Perrin Park, Gailey Road, Toowong"
+  postcode: "QLD 4066"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Barefoot Bowls"
+    - "Social Bowls"
+    - "Pennant"
+  season: "Year-round"
+  rinks_info: "2 natural grass greens inside Perrin Park"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://toowongbowlsclub.com.au/"
+  maps_query: "Toowong+Bowls+Club+Gailey+Road+Toowong+QLD+4066"
+  profile_page: true
+  summary: "Inner-west Brisbane club located in Perrin Park near UQ, popular with students and young professionals for social barefoot bowls."
+  about: >
+    Situated inside leafy Perrin Park close to the University of Queensland, Toowong Bowls Club is a friendly inner-west venue. It provides natural grass greens, budget-friendly barefoot bowls packages, student roll-ups, and weekend pennant competition.
+
+- slug: "ferny-grove-bowls-club"
+  name: "Ferny Grove Bowls Club"
+  city: "brisbane-gold-coast"
+  city_name: "Brisbane & Gold Coast"
+  city_url: "/bowls-clubs/bowls-clubs-in-brisbane-and-gold-coast/"
+  country: "Australia"
+  country_code: "AU"
+  area: "North-West / Ferny Grove"
+  address: "20 Samford Road, Ferny Grove"
+  postcode: "QLD 4055"
+  surfaces:
+    - "Outdoor Grass"
+    - "Outdoor Synthetic"
+  formats:
+    - "Pennant"
+    - "Barefoot Bowls"
+    - "Social Bowls"
+  season: "Year-round"
+  rinks_info: "2 greens (natural couch turf and synthetic carpet)"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://fernygrovebowls.com.au/"
+  maps_query: "Ferny+Grove+Bowls+Club+Samford+Road+Ferny+Grove+QLD+4055"
+  profile_page: true
+  summary: "Northwestern Brisbane sporting club with scenic mountain backdrop, grass and synthetic greens, and family barefoot sessions."
+  about: >
+    Framed by the foothills of the D'Aguilar Range in Brisbane's northwest, Ferny Grove Bowls Club offers grass and synthetic greens. The club is known for its friendly, welcoming membership, junior development, and active barefoot bowls scene.
+
+- slug: "benowa-bowls-club"
+  name: "Benowa Bowls Club (Club Benowa)"
+  city: "brisbane-gold-coast"
+  city_name: "Brisbane & Gold Coast"
+  city_url: "/bowls-clubs/bowls-clubs-in-brisbane-and-gold-coast/"
+  country: "Australia"
+  country_code: "AU"
+  area: "Central Gold Coast / Benowa"
+  address: "Sir Bruce Small Park, Ashmore Road, Benowa"
+  postcode: "QLD 4217"
+  surfaces:
+    - "Outdoor Grass"
+    - "Outdoor Synthetic"
+  formats:
+    - "Pennant"
+    - "Barefoot Bowls"
+    - "Social Bowls"
+  season: "Year-round"
+  rinks_info: "2 greens in Sir Bruce Small Park"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://clubbenowa.com.au/"
+  maps_query: "Benowa+Bowls+Club+Ashmore+Road+Benowa+QLD+4217"
+  profile_page: true
+  summary: "Central Gold Coast bowls club situated in Sir Bruce Small Park, offering grass and synthetic greens, pennants, and barefoot bowls."
+  about: >
+    Located centrally in Sir Bruce Small Park, Club Benowa caters to bowlers across the Gold Coast. Featuring both natural couch grass and synthetic rinks, the club supports competitive pennants and relaxed barefoot roll-ups with clubhouse amenities.
+
+- slug: "mudgeeraba-bowls-club"
+  name: "Mudgeeraba Bowls Club"
+  city: "brisbane-gold-coast"
+  city_name: "Brisbane & Gold Coast"
+  city_url: "/bowls-clubs/bowls-clubs-in-brisbane-and-gold-coast/"
+  country: "Australia"
+  country_code: "AU"
+  area: "Gold Coast Hinterland / Mudgeeraba"
+  address: "Somerset Drive, Mudgeeraba"
+  postcode: "QLD 4213"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Pennant"
+    - "Barefoot Bowls"
+    - "Social Bowls"
+  season: "Year-round"
+  rinks_info: "2 natural couch grass greens in hinterland setting"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://mudgeerababowls.com.au/"
+  maps_query: "Mudgeeraba+Bowls+Club+Somerset+Drive+Mudgeeraba+QLD+4213"
+  profile_page: true
+  summary: "Hinterland bowls club with lush couch greens, country club charm, friendly barefoot sessions, and active competitive teams."
+  about: >
+    Set against the scenic backdrop of the Gold Coast Hinterland, Mudgeeraba Bowls Club provides a welcoming community atmosphere. Its couch turf greens run smooth and true, supporting weekly pennant competition and laidback social barefoot roll-ups.
+
+- slug: "tarragindi-bowls-club"
+  name: "Tarragindi Bowls Club"
+  city: "brisbane-gold-coast"
+  city_name: "Brisbane & Gold Coast"
+  city_url: "/bowls-clubs/bowls-clubs-in-brisbane-and-gold-coast/"
+  country: "Australia"
+  country_code: "AU"
+  area: "South Brisbane / Tarragindi"
+  address: "171 Chataway Street, Carina / Tarragindi"
+  postcode: "QLD 4121"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Barefoot Bowls"
+    - "Social Bowls"
+    - "Pennant"
+  season: "Year-round"
+  rinks_info: "2 natural grass couch greens"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://tarragindibowls.com.au/"
+  maps_query: "Tarragindi+Bowls+Club+Chataway+Street+Tarragindi+QLD+4121"
+  profile_page: true
+  summary: "Friendly southside community club offering grass greens, craft beers on tap, sunny barefoot roll-ups, and weekend BBQs."
+  about: >
+    Tarragindi Bowls Club provides a relaxed, community-focused lawn bowls experience on Brisbane's southside. With two manicured couch grass greens, the club is a favourite for casual weekend barefoot bowls, birthday celebrations, and local pennant fixtures.

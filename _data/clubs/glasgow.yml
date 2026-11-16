@@ -1,0 +1,622 @@
+- slug: "west-of-scotland-indoor-bowling-club"
+  name: "West of Scotland Indoor Bowling Club"
+  city: "glasgow"
+  city_name: "Glasgow & West of Scotland"
+  city_url: "/bowls-clubs/bowls-clubs-in-glasgow/"
+  country: "Scotland"
+  country_code: "GB"
+  area: "Southside (Dumbreck / Bellahouston)"
+  address: "30-36 Bellahouston Drive, Glasgow"
+  postcode: "G52 1HQ"
+  surfaces:
+    - "Indoor Carpet"
+  formats:
+    - "Indoor"
+    - "Flat Green"
+  season: "Year-round (Main Season September &ndash; April)"
+  rinks_info: "8-rink championship laser-level indoor carpet arena"
+  beginner_friendly: true
+  barefoot_social: false
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://www.westofscotlandindoorbowlingclub.co.uk/"
+  maps_query: "West+of+Scotland+Indoor+Bowling+Club+Bellahouston+Drive+Glasgow+G52+1HQ"
+  profile_page: true
+  summary: "Glasgow's flagship indoor bowls complex, offering an 8-rink arena hosting national competitions, winter leagues, and structured beginner coaching."
+  about: >
+    Situated adjacent to Bellahouston Park on Glasgow's Southside, West of Scotland Indoor Bowling Club is the premier winter bowls stadium in Greater Glasgow. Operating eight championship-grade indoor carpet rinks under high-efficiency broadcast lighting, the club hosts SIBA national play-offs, national squad training, and extensive mixed leagues from September through April. A fully licensed bar, restaurant, locker facilities, and a dedicated coaching academy with free loan equipment make it the centrepiece of West of Scotland indoor bowls.
+
+- slug: "kelvingrove-bowling-club"
+  name: "Kelvingrove Bowling and Lawn Tennis Club"
+  city: "glasgow"
+  city_name: "Glasgow & West of Scotland"
+  city_url: "/bowls-clubs/bowls-clubs-in-glasgow/"
+  country: "Scotland"
+  country_code: "GB"
+  area: "West End (Kelvingrove Park)"
+  address: "Kelvingrove Park, Kelvin Way, Glasgow"
+  postcode: "G3 7TA"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Flat Green"
+  season: "Outdoor: April &ndash; September"
+  rinks_info: "Championship greens with spectator pavilion, host of the 2014 Commonwealth Games"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://www.glasgowlife.org.uk/sport/kelvingrove-lawn-bowls-centre"
+  maps_query: "Kelvingrove+Lawn+Bowls+Centre+Kelvin+Way+Glasgow+G3+7TA"
+  profile_page: true
+  summary: "World-class bowling green complex set within Kelvingrove Park, famed for hosting the Glasgow 2014 Commonwealth Games lawn bowls competition."
+  about: >
+    Perched in the heart of Kelvingrove Park against the architectural backdrop of Glasgow University and Kelvingrove Art Gallery, this iconic venue staged the 2014 Commonwealth Games. Maintained by Glasgow Life in partnership with local clubs, the five international-standard natural grass greens offer immaculate playing surfaces throughout the summer. Public pay-and-play sessions, free bowl hire, and active club roll-ups welcome casual newcomers and seasoned competitors alike.
+
+- slug: "queens-park-bowling-club"
+  name: "Queen's Park Bowling Club"
+  city: "glasgow"
+  city_name: "Glasgow & West of Scotland"
+  city_url: "/bowls-clubs/bowls-clubs-in-glasgow/"
+  country: "Scotland"
+  country_code: "GB"
+  area: "Southside (Queen's Park)"
+  address: "381 Victoria Road, Glasgow"
+  postcode: "G42 8NT"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Flat Green"
+  season: "Outdoor: April &ndash; September"
+  rinks_info: "2 manicured outdoor grass greens (12 rinks total)"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://www.queensparkbowlingclub.com/"
+  maps_query: "Queens+Park+Bowling+Club+Victoria+Road+Glasgow+G42+8NT"
+  profile_page: true
+  summary: "Historic Southside club founded in 1867, boasting two classic natural turf greens, an active social calendar, and regular beginner taster sessions."
+  about: >
+    Instituted in 1867, Queen's Park Bowling Club is one of Glasgow's most storied and welcoming community sports institutions. Located beside Queen's Park in Glasgow's vibrant Southside, the club features two 6-rink natural turf greens, a traditional clubhouse with licensed bar and function hall, and competitive men's, women's, and senior teams in the Glasgow Bowling Association leagues. Free coaching and loan sets are provided for prospective members every spring.
+
+- slug: "mount-florida-bowling-club"
+  name: "Mount Florida Bowling Club"
+  city: "glasgow"
+  city_name: "Glasgow & West of Scotland"
+  city_url: "/bowls-clubs/bowls-clubs-in-glasgow/"
+  country: "Scotland"
+  country_code: "GB"
+  area: "Southside (Mount Florida / Hampden)"
+  address: "10 Carmunnock Road, Glasgow"
+  postcode: "G44 4TZ"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Flat Green"
+  season: "Outdoor: April &ndash; September"
+  rinks_info: "6-rink tournament natural grass green"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://www.mountfloridabowlingclub.co.uk/"
+  maps_query: "Mount+Florida+Bowling+Club+10+Carmunnock+Road+Glasgow+G44+4TZ"
+  profile_page: true
+  summary: "Friendly, progressive Southside club near Hampden Park with a thriving social membership, junior programme, and weekly casual bowls."
+  about: >
+    Situated moments from Hampden Park in Mount Florida, this energetic club was founded in 1910 and has evolved into one of Glasgow's most progressive community bowls hubs. With a pristine 6-rink grass green, newly refurbished bar, craft beer selections, and weekend social roll-ups, Mount Florida actively introduces new generations to the sport while competing strongly in South Glasgow inter-club fixtures.
+
+- slug: "titwood-bowling-club"
+  name: "Titwood Bowling Club"
+  city: "glasgow"
+  city_name: "Glasgow & West of Scotland"
+  city_url: "/bowls-clubs/bowls-clubs-in-glasgow/"
+  country: "Scotland"
+  country_code: "GB"
+  area: "Southside (Pollokshields)"
+  address: "68 Glencairn Drive, Glasgow"
+  postcode: "G41 4PS"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Flat Green"
+  season: "Outdoor: April &ndash; September"
+  rinks_info: "6-rink championship natural turf green"
+  beginner_friendly: true
+  barefoot_social: false
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://www.titwoodbowlingclub.co.uk/"
+  maps_query: "Titwood+Bowling+Club+68+Glencairn+Drive+Glasgow+G41+4PS"
+  profile_page: true
+  summary: "Prestigious Pollokshields club established in 1890, renowned for its beautifully tended green and competitive pedigree in Glasgow leagues."
+  about: >
+    Founded in 1890 in the Victorian conservation district of Pollokshields, Titwood Bowling Club is celebrated for its warm club traditions and consistently quick outdoor green. The club maintains a 6-rink natural grass bowling surface bordered by manicured floral gardens, a Victorian clubhouse, and vibrant social events. Beginners receive personal mentoring from Bowls Scotland qualified coaches with club bowls provided.
+
+- slug: "willowbank-bowling-club"
+  name: "Willowbank Bowling Club"
+  city: "glasgow"
+  city_name: "Glasgow & West of Scotland"
+  city_url: "/bowls-clubs/bowls-clubs-in-glasgow/"
+  country: "Scotland"
+  country_code: "GB"
+  area: "West End (Woodlands / Charing Cross)"
+  address: "Dowanhill Street / Eldon Street, Glasgow"
+  postcode: "G3 6PE"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Flat Green"
+  season: "Outdoor: April &ndash; September"
+  rinks_info: "6-rink outdoor lawn green"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://www.willowbankbowlingclub.co.uk/"
+  maps_query: "Willowbank+Bowling+Club+Glasgow+G3+6PE"
+  profile_page: true
+  summary: "Enchanting West End club tucked near Kelvinbridge, offering social roll-ups, student tasters, and a secluded green amid Victorian terraces."
+  about: >
+    Instituted in 1863, Willowbank Bowling Club is one of Glasgow's oldest and most atmospheric bowls clubs. Hidden away in the leafy West End near Kelvinbridge, the club provides an urban oasis for flat green bowling. With regular Friday evening social roll-ups, guest coaching, barbecue nights, and free loan bowls, Willowbank is ideal for university students, young professionals, and experienced bowlers alike.
+
+- slug: "whitevale-bowling-club"
+  name: "Whitevale Bowling Club"
+  city: "glasgow"
+  city_name: "Glasgow & West of Scotland"
+  city_url: "/bowls-clubs/bowls-clubs-in-glasgow/"
+  country: "Scotland"
+  country_code: "GB"
+  area: "East End (Dennistoun)"
+  address: "18 Whitevale Street, Glasgow"
+  postcode: "G31 1QW"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Flat Green"
+  season: "Outdoor: April &ndash; September"
+  rinks_info: "6-rink manicured natural grass green"
+  beginner_friendly: true
+  barefoot_social: false
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://www.facebook.com/WhitevaleBC/"
+  maps_query: "Whitevale+Bowling+Club+18+Whitevale+Street+Glasgow+G31+1QW"
+  profile_page: true
+  summary: "Proud Dennistoun flat green bowling club founded in 1888, known for its strong community ethos and spirited Glasgow East leagues."
+  about: >
+    Located in the heart of Dennistoun in Glasgow's East End, Whitevale Bowling Club has served local bowlers since 1888. The club maintains a pristine 6-rink natural grass bowling surface, a comfortable clubhouse with function suite and licensed bar, and multiple league teams competing in the Glasgow East End associations. Prospective members are warmly welcomed for introductory spring roll-ups.
+
+- slug: "partick-bowling-club"
+  name: "Partick Bowling Club"
+  city: "glasgow"
+  city_name: "Glasgow & West of Scotland"
+  city_url: "/bowls-clubs/bowls-clubs-in-glasgow/"
+  country: "Scotland"
+  country_code: "GB"
+  area: "West End (Partick)"
+  address: "30 Hamilton Crescent, Glasgow"
+  postcode: "G11 6BE"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Flat Green"
+  season: "Outdoor: April &ndash; September"
+  rinks_info: "Historic 6-rink natural turf green"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://www.partickbowlingclub.org.uk/"
+  maps_query: "Partick+Bowling+Club+30+Hamilton+Crescent+Glasgow+G11+6BE"
+  profile_page: true
+  summary: "Historic West End club sharing Hamilton Crescent grounds with West of Scotland Cricket Club, offering premier turf and beginner welcome days."
+  about: >
+    Formed in 1845, Partick Bowling Club is among the most historic bowling clubs in Scotland. Located adjacent to the historic Hamilton Crescent sports ground (the site of the world's first international football match in 1872), the club boasts an impeccably groomed 6-rink green. Partick fields competitive teams across Glasgow leagues while hosting relaxed weekend bounce games with equipment available to borrow.
+
+- slug: "hillhead-bowling-club"
+  name: "Hillhead Bowling Club"
+  city: "glasgow"
+  city_name: "Glasgow & West of Scotland"
+  city_url: "/bowls-clubs/bowls-clubs-in-glasgow/"
+  country: "Scotland"
+  country_code: "GB"
+  area: "West End (Hillhead)"
+  address: "99 Cecil Street, Glasgow"
+  postcode: "G12 8RR"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Flat Green"
+  season: "Outdoor: April &ndash; September"
+  rinks_info: "6-rink natural grass green"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://www.hillheadbowlingclub.org.uk/"
+  maps_query: "Hillhead+Bowling+Club+99+Cecil+Street+Glasgow+G12+8RR"
+  profile_page: true
+  summary: "Vibrant club in the heart of Hillhead, featuring excellent green conditions, social evenings, and active student and community participation."
+  about: >
+    Established in 1902 on Cecil Street, Hillhead Bowling Club offers a tranquil bowling green tucked away in one of Glasgow's liveliest residential quarters. Surrounded by mature trees, the 6-rink green provides true, dependable running conditions. The club takes pride in an inclusive atmosphere, hosting popular open taster sessions on Sunday afternoons throughout summer.
+
+- slug: "sandyhills-bowling-club"
+  name: "Sandyhills Bowling Club"
+  city: "glasgow"
+  city_name: "Glasgow & West of Scotland"
+  city_url: "/bowls-clubs/bowls-clubs-in-glasgow/"
+  country: "Scotland"
+  country_code: "GB"
+  area: "East End (Sandyhills / Shettleston)"
+  address: "164 Sandyhills Road, Glasgow"
+  postcode: "G32 9NJ"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Flat Green"
+  season: "Outdoor: April &ndash; September"
+  rinks_info: "6-rink outdoor natural turf green"
+  beginner_friendly: true
+  barefoot_social: false
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://www.facebook.com/SandyhillsBowlingClub/"
+  maps_query: "Sandyhills+Bowling+Club+164+Sandyhills+Road+Glasgow+G32+9NJ"
+  profile_page: true
+  summary: "Established East End bowling club featuring true-running natural grass, competitive inter-club leagues, and an active clubhouse."
+  about: >
+    Founded in 1923, Sandyhills Bowling Club serves bowlers in Shettleston, Sandyhills, and Mount Vernon. The club operates a 6-rink outdoor green with excellent drainage, ensuring consistent green speeds even during wet Scottish summers. A licensed lounge bar, weekly bingo and quiz nights, and free novice coaching make it a social hub for the local community.
+
+- slug: "govan-bowling-club"
+  name: "Govan Bowling Club"
+  city: "glasgow"
+  city_name: "Glasgow & West of Scotland"
+  city_url: "/bowls-clubs/bowls-clubs-in-glasgow/"
+  country: "Scotland"
+  country_code: "GB"
+  area: "South West (Govan)"
+  address: "240 Drive Road, Govan, Glasgow"
+  postcode: "G51 4NW"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Flat Green"
+  season: "Outdoor: April &ndash; September"
+  rinks_info: "6-rink natural grass green"
+  beginner_friendly: true
+  barefoot_social: false
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://www.facebook.com/GovanBowlingClub/"
+  maps_query: "Govan+Bowling+Club+240+Drive+Road+Glasgow+G51+4NW"
+  profile_page: true
+  summary: "Long-standing South West Glasgow club instituted in 1860, deeply embedded in Clyde shipbuilding history with competitive league teams."
+  about: >
+    With roots tracing back to 1860, Govan Bowling Club is steeped in the rich industrial heritage of the River Clyde. The club maintains a competitive 6-rink grass bowling surface and a welcoming community bar. Members contest the South Western Glasgow Bowling Association championships, and the club actively encourages new bowlers of all ages to join their summer roll-ups.
+
+- slug: "bellahouston-bowling-club"
+  name: "Bellahouston Bowling Club"
+  city: "glasgow"
+  city_name: "Glasgow & West of Scotland"
+  city_url: "/bowls-clubs/bowls-clubs-in-glasgow/"
+  country: "Scotland"
+  country_code: "GB"
+  area: "South West (Bellahouston / Mosspark)"
+  address: "47 Mosspark Boulevard, Glasgow"
+  postcode: "G52 1HN"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Flat Green"
+  season: "Outdoor: April &ndash; September"
+  rinks_info: "6-rink outdoor grass green"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://www.bellahoustonbowlingclub.co.uk/"
+  maps_query: "Bellahouston+Bowling+Club+47+Mosspark+Boulevard+Glasgow+G52+1HN"
+  profile_page: true
+  summary: "Scenic outdoor club situated beside Bellahouston Park, hosting vibrant summer tournaments, social bowls, and qualified coaching."
+  about: >
+    Formed in 1912, Bellahouston Bowling Club occupies an enviable position on Mosspark Boulevard facing Bellahouston Park. The club provides a beautifully presented 6-rink outdoor grass green alongside a modernised bar and social lounge. Bellahouston hosts friendly roll-ups, corporate days, and league bowling, welcoming novices with free coaching and club loan bowls.
+
+- slug: "shawlands-bowling-club"
+  name: "Shawlands Bowling Club"
+  city: "glasgow"
+  city_name: "Glasgow & West of Scotland"
+  city_url: "/bowls-clubs/bowls-clubs-in-glasgow/"
+  country: "Scotland"
+  country_code: "GB"
+  area: "Southside (Shawlands)"
+  address: "186 Pollokshaws Road, Glasgow"
+  postcode: "G41 3NZ"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Flat Green"
+  season: "Outdoor: April &ndash; September"
+  rinks_info: "6-rink natural grass green"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://www.shawlandsbowlingclub.co.uk/"
+  maps_query: "Shawlands+Bowling+Club+186+Pollokshaws+Road+Glasgow+G41+3NZ"
+  profile_page: true
+  summary: "Thriving Southside community club founded in 1883, known for its friendly social scene, quality greens, and inclusive membership."
+  about: >
+    Shawlands Bowling Club has been an integral part of South Glasgow's community life since 1883. Boasting a well-kept 6-rink turf green, the club offers an ideal balance of competitive league play and casual, social weekend bowling. Its location in the lively Shawlands district makes it popular with local residents discovering the sport for the first time.
+
+- slug: "cathcart-bowling-club"
+  name: "Cathcart Bowling Club"
+  city: "glasgow"
+  city_name: "Glasgow & West of Scotland"
+  city_url: "/bowls-clubs/bowls-clubs-in-glasgow/"
+  country: "Scotland"
+  country_code: "GB"
+  area: "Southside (Cathcart / Muirend)"
+  address: "24 Rhannan Road, Glasgow"
+  postcode: "G44 3AZ"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Flat Green"
+  season: "Outdoor: April &ndash; September"
+  rinks_info: "6-rink natural grass green"
+  beginner_friendly: true
+  barefoot_social: false
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://www.cathcartbowlingclub.co.uk/"
+  maps_query: "Cathcart+Bowling+Club+24+Rhannan+Road+Glasgow+G44+3AZ"
+  profile_page: true
+  summary: "Picturesque Southside club in Cathcart dating to 1888, offering high-standard greens, competitive fixtures, and coaching support."
+  about: >
+    Cathcart Bowling Club was instituted in 1888 and is located in a quiet, leafy residential enclave on Rhannan Road. The club's 6-rink bowling green has a reputation for true, smooth running surfaces. With active gents, ladies, and senior sections, Cathcart provides structured coaching for newcomers and a bustling clubhouse bar for post-match hospitality.
+
+- slug: "woodend-bowling-and-tennis-club"
+  name: "Woodend Bowling and Tennis Club"
+  city: "glasgow"
+  city_name: "Glasgow & West of Scotland"
+  city_url: "/bowls-clubs/bowls-clubs-in-glasgow/"
+  country: "Scotland"
+  country_code: "GB"
+  area: "West End (Jordanhill)"
+  address: "30 Chamberlain Road, Jordanhill, Glasgow"
+  postcode: "G13 1PN"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Flat Green"
+  season: "Outdoor: April &ndash; September"
+  rinks_info: "6-rink outdoor turf green plus all-weather tennis courts"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://www.woodendbltc.co.uk/"
+  maps_query: "Woodend+Bowling+and+Tennis+Club+30+Chamberlain+Road+Glasgow+G13+1PN"
+  profile_page: true
+  summary: "Popular dual-sport club in Jordanhill with immaculate grass rinks, vibrant social membership, and family-friendly coaching."
+  about: >
+    Located on Chamberlain Road in leafy Jordanhill, Woodend Bowling & Tennis Club offers fantastic sporting and social facilities. Established in the early 20th century, the club maintains an immaculate 6-rink flat green, a spacious clubhouse with licensed bar, and regular social roll-ups where equipment is available for beginners.
+
+- slug: "pollokshields-bowling-club"
+  name: "Pollokshields Bowling Club"
+  city: "glasgow"
+  city_name: "Glasgow & West of Scotland"
+  city_url: "/bowls-clubs/bowls-clubs-in-glasgow/"
+  country: "Scotland"
+  country_code: "GB"
+  area: "Southside (Pollokshields)"
+  address: "65 McCulloch Street, Glasgow"
+  postcode: "G41 1NX"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Flat Green"
+  season: "Outdoor: April &ndash; September"
+  rinks_info: "6-rink outdoor grass green"
+  beginner_friendly: true
+  barefoot_social: false
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://www.pollokshieldsbowlingclub.org.uk/"
+  maps_query: "Pollokshields+Bowling+Club+65+McCulloch+Street+Glasgow+G41+1NX"
+  profile_page: true
+  summary: "Traditional flat green club in East Pollokshields, founded in 1878, featuring competitive bowling and community social events."
+  about: >
+    Founded in 1878, Pollokshields Bowling Club is a friendly community club nestled among Glasgow's traditional red sandstone tenements. The club's 6-rink green provides true conditions for weekly matches and club competitions. Qualified members provide guidance on grip and bowl delivery for new players during introductory roll-up afternoons.
+
+- slug: "jordanhill-bowling-club"
+  name: "Jordanhill Bowling Club"
+  city: "glasgow"
+  city_name: "Glasgow & West of Scotland"
+  city_url: "/bowls-clubs/bowls-clubs-in-glasgow/"
+  country: "Scotland"
+  country_code: "GB"
+  area: "West End (Jordanhill)"
+  address: "109 Southbrae Drive, Glasgow"
+  postcode: "G13 1TU"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Flat Green"
+  season: "Outdoor: April &ndash; September"
+  rinks_info: "6-rink championship natural turf green"
+  beginner_friendly: true
+  barefoot_social: false
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://www.jordanhillbowlingclub.co.uk/"
+  maps_query: "Jordanhill+Bowling+Club+109+Southbrae+Drive+Glasgow+G13+1TU"
+  profile_page: true
+  summary: "Respected West End bowling club established in 1904, known for its pristine natural turf, league success, and welcoming atmosphere."
+  about: >
+    Instituted in 1904 on Southbrae Drive, Jordanhill Bowling Club features an exceptionally well-maintained 6-rink natural grass green. The club is a regular contender in the Glasgow and District Bowling Association competitions and provides welcoming social bounce games for novices throughout the outdoor season.
+
+- slug: "scotstounhill-bowling-club"
+  name: "Scotstounhill Bowling Club"
+  city: "glasgow"
+  city_name: "Glasgow & West of Scotland"
+  city_url: "/bowls-clubs/bowls-clubs-in-glasgow/"
+  country: "Scotland"
+  country_code: "GB"
+  area: "North West (Scotstounhill)"
+  address: "26 Kingsway, Scotstounhill, Glasgow"
+  postcode: "G14 9YS"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Flat Green"
+  season: "Outdoor: April &ndash; September"
+  rinks_info: "6-rink natural grass green"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://www.scotstounhillbowlingclub.co.uk/"
+  maps_query: "Scotstounhill+Bowling+Club+26+Kingsway+Glasgow+G14+9YS"
+  profile_page: true
+  summary: "Community-driven club in North West Glasgow, offering social roll-ups, corporate hire, and summer coaching for beginners."
+  about: >
+    Formed in 1906, Scotstounhill Bowling Club is situated just off Kingsway in North West Glasgow. The club boasts a fine 6-rink outdoor green and a modern clubhouse with licensed bar. Scotstounhill promotes bowls as a sport for all, hosting regular taster days and community social events.
+
+- slug: "hyndland-bowling-club"
+  name: "Hyndland Bowling Club"
+  city: "glasgow"
+  city_name: "Glasgow & West of Scotland"
+  city_url: "/bowls-clubs/bowls-clubs-in-glasgow/"
+  country: "Scotland"
+  country_code: "GB"
+  area: "West End (Hyndland)"
+  address: "Queensborough Gardens, Glasgow"
+  postcode: "G12 9TT"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Flat Green"
+  season: "Outdoor: April &ndash; September"
+  rinks_info: "6-rink outdoor lawn green"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://www.hyndlandbowlingclub.co.uk/"
+  maps_query: "Hyndland+Bowling+Club+Queensborough+Gardens+Glasgow+G12+9TT"
+  profile_page: true
+  summary: "Idyllic West End club nestled in Queensborough Gardens, popular for summer roll-ups, social evenings, and beginner sessions."
+  about: >
+    Located in one of Glasgow West End's most desirable residential streets, Hyndland Bowling Club dates from 1904. The 6-rink natural grass green is framed by handsome tenements and mature trees. The club provides a friendly gateway to the sport, offering loan bowls and coaching tips for anyone wishing to try lawn bowling.
+
+- slug: "baillieston-bowling-club"
+  name: "Baillieston Bowling Club"
+  city: "glasgow"
+  city_name: "Glasgow & West of Scotland"
+  city_url: "/bowls-clubs/bowls-clubs-in-glasgow/"
+  country: "Scotland"
+  country_code: "GB"
+  area: "East End (Baillieston)"
+  address: "31 Church Street, Baillieston, Glasgow"
+  postcode: "G69 6ER"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Flat Green"
+  season: "Outdoor: April &ndash; September"
+  rinks_info: "6-rink natural turf green"
+  beginner_friendly: true
+  barefoot_social: false
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://www.facebook.com/BailliestonBC/"
+  maps_query: "Baillieston+Bowling+Club+31+Church+Street+Baillieston+Glasgow+G69+6ER"
+  profile_page: true
+  summary: "Historic East End club founded in 1891, featuring a pristine 6-rink green, licensed lounge, and active competitive leagues."
+  about: >
+    Founded in 1891, Baillieston Bowling Club is an East End bowls cornerstone. Offering a top-quality 6-rink natural grass surface and a warm community clubhouse, the club competes across Lanarkshire and Glasgow leagues. Novices are encouraged to join the club's coaching sessions with bowls provided.
+
+- slug: "burnside-bowling-club"
+  name: "Burnside Bowling Club"
+  city: "glasgow"
+  city_name: "Glasgow & West of Scotland"
+  city_url: "/bowls-clubs/bowls-clubs-in-glasgow/"
+  country: "Scotland"
+  country_code: "GB"
+  area: "Southside (Burnside / Rutherglen)"
+  address: "16-18 Buchanan Drive, Rutherglen, Glasgow"
+  postcode: "G73 3PE"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Flat Green"
+  season: "Outdoor: April &ndash; September"
+  rinks_info: "2 manicured outdoor turf greens (12 rinks)"
+  beginner_friendly: true
+  barefoot_social: false
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://www.burnsidebowlingclub.co.uk/"
+  maps_query: "Burnside+Bowling+Club+Buchanan+Drive+Rutherglen+Glasgow+G73+3PE"
+  profile_page: true
+  summary: "Large, active Southside club with two 6-rink natural grass greens, extensive clubhouse facilities, and competitive league bowling."
+  about: >
+    Instituted in 1909 in Burnside near Rutherglen, Burnside Bowling Club is one of Greater Glasgow's premier outdoor clubs. Possessing two full-sized 6-rink grass greens, Burnside accommodates large championship tournaments, club leagues, and relaxed weekend roll-ups with loan equipment available.
+
+- slug: "clarkston-bowling-club"
+  name: "Clarkston Bowling Club"
+  city: "glasgow"
+  city_name: "Glasgow & West of Scotland"
+  city_url: "/bowls-clubs/bowls-clubs-in-glasgow/"
+  country: "Scotland"
+  country_code: "GB"
+  area: "East Renfrewshire (Clarkston)"
+  address: "26 Eastwoodmains Road, Clarkston, Glasgow"
+  postcode: "G76 7EU"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Flat Green"
+  season: "Outdoor: April &ndash; September"
+  rinks_info: "6-rink outdoor turf green"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://www.clarkstonbowlingclub.co.uk/"
+  maps_query: "Clarkston+Bowling+Club+Eastwoodmains+Road+Clarkston+Glasgow+G76+7EU"
+  profile_page: true
+  summary: "Active East Renfrewshire club established in 1912, providing high-quality outdoor rinks, family social events, and junior bowls."
+  about: >
+    Located on Eastwoodmains Road in Clarkston, this vibrant club has provided flat green lawn bowls since 1912. The club maintains a 6-rink turf green, function hall, and bar. Clarkston welcomes new members of all ages, running regular open weekends and providing coaching equipment.
+
+- slug: "kirkhill-bowling-club"
+  name: "Kirkhill Bowling Club"
+  city: "glasgow"
+  city_name: "Glasgow & West of Scotland"
+  city_url: "/bowls-clubs/bowls-clubs-in-glasgow/"
+  country: "Scotland"
+  country_code: "GB"
+  area: "South Lanarkshire (Cambuslang)"
+  address: "17 Grenville Drive, Cambuslang, Glasgow"
+  postcode: "G72 8DY"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Flat Green"
+  season: "Outdoor: April &ndash; September"
+  rinks_info: "6-rink natural grass green"
+  beginner_friendly: true
+  barefoot_social: false
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://www.facebook.com/KirkhillBC/"
+  maps_query: "Kirkhill+Bowling+Club+Grenville+Drive+Cambuslang+Glasgow+G72+8DY"
+  profile_page: true
+  summary: "Friendly Cambuslang bowling club founded in 1905, offering high-standard grass greens, social tournaments, and beginner mentoring."
+  about: >
+    Instituted in 1905 in Cambuslang, Kirkhill Bowling Club is renowned for its welcoming atmosphere and competitive bowling pedigree. The club features a 6-rink natural grass green, modernised clubhouse, and active men's and ladies' sections. Loan bowls and tailored tuition are readily offered to prospective members.
+

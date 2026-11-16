@@ -1,0 +1,741 @@
+- slug: "melbourne-bowling-club"
+  name: "Melbourne Bowling Club"
+  city: "melbourne"
+  city_name: "Melbourne"
+  city_url: "/bowls-clubs/bowls-clubs-in-melbourne/"
+  country: "Australia"
+  country_code: "AU"
+  area: "Inner East / Windsor"
+  address: "138-160 Union Street, Windsor"
+  postcode: "VIC 3181"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Pennant"
+    - "Barefoot Bowls"
+    - "Social Bowls"
+  season: "Year-round (Pennant Oct–Apr, Barefoot Year-round)"
+  rinks_info: "3 championship natural grass greens (Tifdwarf couch)"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://melbournebowlingclub.com/"
+  maps_query: "Melbourne+Bowling+Club+Union+Street+Windsor+VIC+3181"
+  profile_page: true
+  summary: "Australia's oldest bowls club (est. 1864), located in Windsor with pristine couch greens, vibrant Friday barefoot bowls, and premier pennant competition."
+  about: >
+    Established on 11 March 1864, Melbourne Bowling Club is officially recognized as the oldest bowls club in Australia. Known affectionately as 'The Oldest Club in the Land', the venue features three beautifully manicured natural grass greens in the heart of Windsor. It combines rich historical heritage with a thriving modern culture, welcoming casual barefoot bowlers, corporate functions, and high-division Bowls Victoria Saturday pennant squads.
+
+- slug: "st-kilda-sports-club"
+  name: "St Kilda Sports Club"
+  city: "melbourne"
+  city_name: "Melbourne"
+  city_url: "/bowls-clubs/bowls-clubs-in-melbourne/"
+  country: "Australia"
+  country_code: "AU"
+  area: "Bayside / St Kilda"
+  address: "66 Fitzroy Street, St Kilda"
+  postcode: "VIC 3182"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Barefoot Bowls"
+    - "Pennant"
+    - "Social Bowls"
+  season: "Year-round (Peak barefoot bowls Sep–May)"
+  rinks_info: "2 natural grass greens (hybrid couch)"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://stkildasportsclub.com.au/"
+  maps_query: "St+Kilda+Sports+Club+Fitzroy+Street+St+Kilda+VIC+3182"
+  profile_page: true
+  summary: "Iconic bayside sporting institution established in 1865, famous for lively barefoot bowls, BBQ packages, live music, and relaxed coastal vibes."
+  about: >
+    Founded in 1865 just off vibrant Fitzroy Street in St Kilda, the St Kilda Sports Club is one of Melbourne's most famous barefoot bowls institutions. Bowlers can roll in bare feet on natural couch turf greens while enjoying cold craft beers and barbecues. The club hosts lively weekend barefoot roll-ups, corporate parties, and competitive pennants, making it an essential stop in Melbourne's lawn bowls landscape.
+
+- slug: "fitzroy-victoria-bowling-sports-club"
+  name: "Fitzroy Victoria Bowling & Sports Club"
+  city: "melbourne"
+  city_name: "Melbourne"
+  city_url: "/bowls-clubs/bowls-clubs-in-melbourne/"
+  country: "Australia"
+  country_code: "AU"
+  area: "Inner North / Fitzroy North"
+  address: "578 Brunswick Street, Fitzroy North"
+  postcode: "VIC 3068"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Barefoot Bowls"
+    - "Pennant"
+    - "Social Bowls"
+  season: "Year-round"
+  rinks_info: "2 manicured couch grass greens"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://fvbsc.com.au/"
+  maps_query: "Fitzroy+Victoria+Bowling+Sports+Club+Brunswick+Street+Fitzroy+North+VIC+3068"
+  profile_page: true
+  summary: "Situated in scenic Edinburgh Gardens, Fitzroy Victoria is Melbourne's cultural hotspot for sunny barefoot bowls, craft beer taps, and inclusive social leagues."
+  about: >
+    Surrounded by the leafy canopy of Edinburgh Gardens in Fitzroy North, Fitzroy Victoria Bowling & Sports Club is a beloved community institution. Offering pristine couch greens, top local craft beers on tap, and a bustling kitchen, it is celebrated across Melbourne as a premier barefoot bowls venue. The club actively competes in Bowls Victoria pennant leagues while welcoming novices, student roll-ups, and family gatherings.
+
+- slug: "middle-park-bowling-club"
+  name: "Middle Park Bowling Club"
+  city: "melbourne"
+  city_name: "Melbourne"
+  city_url: "/bowls-clubs/bowls-clubs-in-melbourne/"
+  country: "Australia"
+  country_code: "AU"
+  area: "Bayside / Middle Park"
+  address: "Canterbury Road, Middle Park"
+  postcode: "VIC 3206"
+  surfaces:
+    - "Outdoor Grass"
+    - "Outdoor Synthetic"
+  formats:
+    - "Pennant"
+    - "Barefoot Bowls"
+    - "Social Bowls"
+  season: "Year-round"
+  rinks_info: "1 natural grass green and 1 all-weather woven synthetic green under floodlights"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://middleparkbowls.com.au/"
+  maps_query: "Middle+Park+Bowling+Club+Canterbury+Road+Middle+Park+VIC+3206"
+  profile_page: true
+  summary: "Bayside club in the Albert Park reserve with championship grass and synthetic greens, floodlit barefoot bowls, and views toward the city skyline."
+  about: >
+    Middle Park Bowling Club sits beside Albert Park Lake, offering a friendly, relaxed bowling experience between the city and Port Phillip Bay. Featuring both natural grass and an all-weather floodlit synthetic carpet green, the club supports year-round bowling. Barefoot bowls is popular throughout the week, complemented by a licensed bar and competitive Saturday and midweek pennants.
+
+- slug: "richmond-union-bowling-club"
+  name: "Richmond Union Bowling Club"
+  city: "melbourne"
+  city_name: "Melbourne"
+  city_url: "/bowls-clubs/bowls-clubs-in-melbourne/"
+  country: "Australia"
+  country_code: "AU"
+  area: "Inner East / Richmond"
+  address: "2 Gleadell Street, Richmond"
+  postcode: "VIC 3121"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Pennant"
+    - "Barefoot Bowls"
+    - "Social Bowls"
+  season: "Year-round (Pennant Oct–Apr, Barefoot Year-round)"
+  rinks_info: "2 natural grass greens (hybrid couch)"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://rubc.com.au/"
+  maps_query: "Richmond+Union+Bowling+Club+Gleadell+Street+Richmond+VIC+3121"
+  profile_page: true
+  summary: "Inner-city community favourite located off Bridge Road, offering sunny couch greens, Friday evening barefoot roll-ups, and lively club atmosphere."
+  about: >
+    Established in 1904 behind the Richmond Recreation Centre and Citizens Park, Richmond Union Bowling Club is a vibrant urban club. Its two manicured couch greens host competitive pennants on weekends and lively barefoot sessions on Friday evenings and weekends. The retro clubhouse bar and outdoor picnic tables make it a favourite for birthdays, corporate gatherings, and casual games.
+
+- slug: "northcote-bowling-club"
+  name: "Northcote Bowling Club"
+  city: "melbourne"
+  city_name: "Melbourne"
+  city_url: "/bowls-clubs/bowls-clubs-in-melbourne/"
+  country: "Australia"
+  country_code: "AU"
+  area: "Inner North / Northcote"
+  address: "100 Pearl Street, Northcote"
+  postcode: "VIC 3070"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Barefoot Bowls"
+    - "Pennant"
+    - "Social Bowls"
+  season: "Year-round"
+  rinks_info: "2 natural grass greens"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://northcotebowlsclub.com.au/"
+  maps_query: "Northcote+Bowling+Club+Pearl+Street+Northcote+VIC+3070"
+  profile_page: true
+  summary: "Popular northern suburbs community hub known for weekend barefoot bowls, craft beer, food trucks, and welcoming beginner sessions."
+  about: >
+    Perched on a quiet residential corner in Northcote, Northcote Bowling Club is renowned for its laid-back atmosphere. It balances strong competitive pennant teams with one of Melbourne's most active social bowls programs. Visitors can enjoy street food, local craft ales, and grass rinks in a family and dog-friendly setting.
+
+- slug: "princes-park-bowls-club"
+  name: "Princes Park Bowls Club"
+  city: "melbourne"
+  city_name: "Melbourne"
+  city_url: "/bowls-clubs/bowls-clubs-in-melbourne/"
+  country: "Australia"
+  country_code: "AU"
+  area: "Inner North / Carlton North"
+  address: "109 Bowen Crescent, Carlton North"
+  postcode: "VIC 3054"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Barefoot Bowls"
+    - "Pennant"
+    - "Social Bowls"
+  season: "Year-round"
+  rinks_info: "2 natural grass greens in Princes Park"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://princesparkbowls.com.au/"
+  maps_query: "Princes+Park+Bowls+Club+Bowen+Crescent+Carlton+North+VIC+3054"
+  profile_page: true
+  summary: "Nestled in Carlton's historic Princes Park, providing lush couch greens, student-friendly barefoot bowls, and relaxed clubhouse facilities."
+  about: >
+    Princes Park Bowls Club offers a tranquil green oasis just minutes from Melbourne University and the CBD. Operating inside Princes Park, the club welcomes social bowlers of all backgrounds with affordable barefoot packages, BBQ hire, and comprehensive loan bowl sets. It also fields teams in Bowls Victoria weekend competitions.
+
+- slug: "city-of-melbourne-bowls-club"
+  name: "City of Melbourne Bowls Club"
+  city: "melbourne"
+  city_name: "Melbourne"
+  city_url: "/bowls-clubs/bowls-clubs-in-melbourne/"
+  country: "Australia"
+  country_code: "AU"
+  area: "CBD / West Melbourne"
+  address: "Flagstaff Gardens, Dudley Street, West Melbourne"
+  postcode: "VIC 3003"
+  surfaces:
+    - "Outdoor Synthetic"
+  formats:
+    - "Pennant"
+    - "Barefoot Bowls"
+    - "Corporate Bowls"
+  season: "Year-round"
+  rinks_info: "Championship 8-rink synthetic green under floodlights"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://citybowls.net/"
+  maps_query: "City+of+Melbourne+Bowls+Club+Flagstaff+Gardens+Dudley+Street+West+Melbourne+VIC+3003"
+  profile_page: true
+  summary: "The CBD's home of lawn bowls, set within Flagstaff Gardens featuring an all-weather floodlit synthetic green and premier corporate function rooms."
+  about: >
+    Located inside historic Flagstaff Gardens on the northern edge of Melbourne's CBD, City of Melbourne Bowls Club provides unmatched convenience for city workers, visitors, and corporate functions. Its laser-level synthetic surface runs fast and true year-round under high-powered floodlights, supported by modern clubhouse facilities and catering.
+
+- slug: "albert-park-bowls-club"
+  name: "Albert Park Bowls Club"
+  city: "melbourne"
+  city_name: "Melbourne"
+  city_url: "/bowls-clubs/bowls-clubs-in-melbourne/"
+  country: "Australia"
+  country_code: "AU"
+  area: "Bayside / Albert Park"
+  address: "St Vincent Gardens, Albert Park"
+  postcode: "VIC 3206"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Pennant"
+    - "Social Bowls"
+    - "Barefoot Bowls"
+  season: "September to May"
+  rinks_info: "2 championship natural grass greens (couch)"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://albertparkbowlsclubs.com.au/"
+  maps_query: "Albert+Park+Bowls+Club+St+Vincent+Gardens+Albert+Park+VIC+3206"
+  profile_page: true
+  summary: "Historic club founded in 1873 inside St Vincent Gardens, boasting immaculate couch greens and traditional Victorian clubhouse charm."
+  about: >
+    Set inside the heritage-listed St Vincent Gardens in Albert Park, this historic club was instituted in 1873. Surrounded by towering palms and Victorian terraces, Albert Park Bowls Club offers pristine couch grass rinks, competitive pennant divisions, and welcoming summer social roll-ups.
+
+- slug: "south-melbourne-bowling-club"
+  name: "South Melbourne Bowling Club"
+  city: "melbourne"
+  city_name: "Melbourne"
+  city_url: "/bowls-clubs/bowls-clubs-in-melbourne/"
+  country: "Australia"
+  country_code: "AU"
+  area: "Inner Bayside / South Melbourne"
+  address: "Ferrars Street, South Melbourne"
+  postcode: "VIC 3205"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Pennant"
+    - "Barefoot Bowls"
+    - "Social Bowls"
+  season: "Year-round"
+  rinks_info: "2 natural grass greens"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://southmelbournebowls.com.au/"
+  maps_query: "South+Melbourne+Bowling+Club+Ferrars+Street+South+Melbourne+VIC+3205"
+  profile_page: true
+  summary: "Welcoming inner-bayside club close to South Melbourne Market, delivering competitive pennants, barefoot packages, and licensed bar."
+  about: >
+    Established in 1874, South Melbourne Bowling Club has served local bowlers for over 150 years. Minutes from the South Melbourne Market, the club combines rich sporting tradition with friendly barefoot bowls packages, modern coaching for novices, and active participation in Bowls Victoria Saturday pennants.
+
+- slug: "darebin-city-bowls-club"
+  name: "Darebin City Bowls Club"
+  city: "melbourne"
+  city_name: "Melbourne"
+  city_url: "/bowls-clubs/bowls-clubs-in-melbourne/"
+  country: "Australia"
+  country_code: "AU"
+  area: "North / Thornbury"
+  address: "281 Darebin Road, Thornbury"
+  postcode: "VIC 3071"
+  surfaces:
+    - "Covered Dome"
+    - "Outdoor Grass"
+    - "Outdoor Synthetic"
+  formats:
+    - "Pennant"
+    - "State Tournaments"
+    - "Social Bowls"
+    - "Barefoot Bowls"
+  season: "Year-round (All-weather covered dome)"
+  rinks_info: "State headquarters with 16 undercover synthetic rinks and 2 outdoor greens"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://darebincitybowlsclub.com.au/"
+  maps_query: "Darebin+City+Bowls+Club+Darebin+Road+Thornbury+VIC+3071"
+  profile_page: true
+  summary: "The premier bowls complex in Victoria and headquarters of Bowls Victoria, featuring an iconic 16-rink undercover dome arena and outdoor greens."
+  about: >
+    Darebin City Bowls Club in Thornbury is one of Australia's most impressive lawn bowling complexes. As the home of Bowls Victoria state championships, it features a massive covered tensile canopy sheltering 16 championship synthetic rinks from rain, wind, and heat. The venue also features outdoor greens, expansive function facilities, and regular social competitions.
+
+- slug: "clayton-bowls-club"
+  name: "Clayton Bowls Club"
+  city: "melbourne"
+  city_name: "Melbourne"
+  city_url: "/bowls-clubs/bowls-clubs-in-melbourne/"
+  country: "Australia"
+  country_code: "AU"
+  area: "South East / Clayton"
+  address: "37A Springs Road, Clayton"
+  postcode: "VIC 3168"
+  surfaces:
+    - "Covered Dome"
+    - "Outdoor Grass"
+  formats:
+    - "Pennant"
+    - "Premier League"
+    - "Barefoot Bowls"
+    - "Social Bowls"
+  season: "Year-round"
+  rinks_info: "Undercover championship dome green plus natural couch greens"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://claytonbowls.com.au/"
+  maps_query: "Clayton+Bowls+Club+Springs+Road+Clayton+VIC+3168"
+  profile_page: true
+  summary: "State-level competitive powerhouse in Melbourne's south-east, featuring an elite undercover canopy green, top division pennants, and social roll-ups."
+  about: >
+    Clayton Bowls Club is a renowned competitive powerhouse in Victorian lawn bowls, fielding multiple Premier Division pennant squads. With an architecturally engineered undercover dome green alongside pristine outdoor couch rinks, Clayton bowlers practice and play in any weather. It also offers popular barefoot bowls packages, modern bistro dining, and accredited coaching.
+
+- slug: "moonee-ponds-bowling-club"
+  name: "Moonee Ponds Bowling Club"
+  city: "melbourne"
+  city_name: "Melbourne"
+  city_url: "/bowls-clubs/bowls-clubs-in-melbourne/"
+  country: "Australia"
+  country_code: "AU"
+  area: "Inner North-West / Moonee Ponds"
+  address: "776 Mount Alexander Road, Moonee Ponds"
+  postcode: "VIC 3039"
+  surfaces:
+    - "Outdoor Grass"
+    - "Outdoor Synthetic"
+  formats:
+    - "Pennant"
+    - "Social Bowls"
+    - "Barefoot Bowls"
+  season: "Year-round"
+  rinks_info: "2 natural grass greens and 1 synthetic all-weather green"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://mooneepondsbowlingclub.com.au/"
+  maps_query: "Moonee+Ponds+Bowling+Club+Mount+Alexander+Road+Moonee+Ponds+VIC+3039"
+  profile_page: true
+  summary: "Historic club located inside Queens Park, featuring couch greens, all-weather synthetic rinks, and active barefoot and pennant communities."
+  about: >
+    Set inside the lush parklands of Queens Park in Moonee Ponds, this club has been a cornerstone of northwest Melbourne bowls since 1891. Offering three bowling greens (couch turf and woven synthetic), Moonee Ponds hosts strong Saturday and midweek pennant sides alongside relaxed barefoot roll-ups with clubhouse BBQ facilities.
+
+- slug: "essendon-bowls-club"
+  name: "Essendon Bowls Club"
+  city: "melbourne"
+  city_name: "Melbourne"
+  city_url: "/bowls-clubs/bowls-clubs-in-melbourne/"
+  country: "Australia"
+  country_code: "AU"
+  area: "North-West / Essendon"
+  address: "50 Raleigh Street, Essendon"
+  postcode: "VIC 3040"
+  surfaces:
+    - "Outdoor Grass"
+    - "Outdoor Synthetic"
+  formats:
+    - "Pennant"
+    - "Barefoot Bowls"
+    - "Social Bowls"
+  season: "Year-round"
+  rinks_info: "2 championship natural grass greens and 1 floodlit synthetic rink"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://essendonbowlsclub.com.au/"
+  maps_query: "Essendon+Bowls+Club+Raleigh+Street+Essendon+VIC+3040"
+  profile_page: true
+  summary: "Established in 1885, Essendon Bowls Club combines rich sporting tradition with floodlit synthetic greens, summer barefoot bowls, and top-tier pennants."
+  about: >
+    Essendon Bowls Club was founded in 1885 and has grown into one of Melbourne's premier northwest clubs. Featuring both natural couch grass and synthetic rinks, the club caters to pennant bowlers across all grades while offering friendly barefoot bowls, corporate event hire, and beginner coaching programs.
+
+- slug: "dandenong-club"
+  name: "Dandenong Club (Bowls)"
+  city: "melbourne"
+  city_name: "Melbourne"
+  city_url: "/bowls-clubs/bowls-clubs-in-melbourne/"
+  country: "Australia"
+  country_code: "AU"
+  area: "South East / Dandenong"
+  address: "1579 Heatherton Road, Dandenong"
+  postcode: "VIC 3175"
+  surfaces:
+    - "Covered Dome"
+    - "Outdoor Synthetic"
+  formats:
+    - "Premier League"
+    - "Pennant"
+    - "Social Bowls"
+    - "Barefoot Bowls"
+  season: "Year-round"
+  rinks_info: "World-class undercover dome facility housing international standard greens"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://dandenongclub.com.au/"
+  maps_query: "Dandenong+Club+Heatherton+Road+Dandenong+VIC+3175"
+  profile_page: true
+  summary: "Premier entertainment and bowls complex featuring a world-class covered dome, regular host of national and international televised bowls tournaments."
+  about: >
+    The Dandenong Club boasts one of the most advanced undercover lawn bowling facilities in the Southern Hemisphere. Its state-of-the-art canopy protects players from the elements while providing laser-measured synthetic surfaces that run exceptionally true. Home to Australian Open qualifiers and Bowls Premier League events, the venue offers elite sport and outstanding member amenities.
+
+- slug: "mcc-bowls-club"
+  name: "MCC Bowls Club"
+  city: "melbourne"
+  city_name: "Melbourne"
+  city_url: "/bowls-clubs/bowls-clubs-in-melbourne/"
+  country: "Australia"
+  country_code: "AU"
+  area: "Inner East / Hawthorn"
+  address: "402 Glenferrie Road, Hawthorn"
+  postcode: "VIC 3122"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Premier League"
+    - "Pennant"
+    - "Social Bowls"
+  season: "September to May"
+  rinks_info: "3 pristine championship couch grass greens"
+  beginner_friendly: true
+  barefoot_social: false
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://mccbowls.org/"
+  maps_query: "MCC+Bowls+Club+Glenferrie+Road+Hawthorn+VIC+3122"
+  profile_page: true
+  summary: "Bowls section of the legendary Melbourne Cricket Club, offering championship couch greens, Premier Division pennant squads, and elite facilities."
+  about: >
+    Operating as a sporting section of the historic Melbourne Cricket Club, MCC Bowls is based in Glen Street, Hawthorn. Featuring three meticulously curated natural turf greens, MCC is a perennial title contender in Victorian Premier League pennants. The club also supports extensive social bowls, novice coaching clinics, and heritage club traditions.
+
+- slug: "deer-park-club"
+  name: "Deer Park Club"
+  city: "melbourne"
+  city_name: "Melbourne"
+  city_url: "/bowls-clubs/bowls-clubs-in-melbourne/"
+  country: "Australia"
+  country_code: "AU"
+  area: "West / Deer Park"
+  address: "780 Ballarat Road, Deer Park"
+  postcode: "VIC 3023"
+  surfaces:
+    - "Covered Dome"
+    - "Outdoor Synthetic"
+  formats:
+    - "Premier League"
+    - "Pennant"
+    - "Barefoot Bowls"
+    - "Social Bowls"
+  season: "Year-round"
+  rinks_info: "Championship covered undercover dome plus outdoor synthetic rinks"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://deerparkclub.com.au/"
+  maps_query: "Deer+Park+Club+Ballarat+Road+Deer+Park+VIC+3023"
+  profile_page: true
+  summary: "Western Melbourne's premier bowls powerhouse, featuring an architectural undercover canopy, elite Premier Division squads, and full entertainment facilities."
+  about: >
+    Deer Park Club is a western Melbourne sporting juggernaut. With a modern undercover dome protecting its championship synthetic rinks from rain and extreme heat, the club offers year-round bowling at the highest standard. It fields top-tier Bowls Victoria pennant teams while providing casual barefoot bowls, dining, and social events.
+
+- slug: "altona-bowling-club"
+  name: "Altona Bowling Club"
+  city: "melbourne"
+  city_name: "Melbourne"
+  city_url: "/bowls-clubs/bowls-clubs-in-melbourne/"
+  country: "Australia"
+  country_code: "AU"
+  area: "West Bayside / Altona"
+  address: "113 Civic Parade, Altona"
+  postcode: "VIC 3018"
+  surfaces:
+    - "Outdoor Grass"
+    - "Outdoor Synthetic"
+  formats:
+    - "Pennant"
+    - "Barefoot Bowls"
+    - "Social Bowls"
+  season: "Year-round"
+  rinks_info: "4 greens (2 natural couch grass, 2 all-weather synthetic)"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://altonabc.com.au/"
+  maps_query: "Altona+Bowling+Club+Civic+Parade+Altona+VIC+3018"
+  profile_page: true
+  summary: "Massive bayside club with four greens, offering high-level competition, year-round synthetic play, ocean breezes, and social barefoot bowls."
+  about: >
+    Located moments from Altona Beach, Altona Bowling Club is one of western Melbourne's largest bowling clubs. Boasting four greens—two championship couch turf and two synthetic—the club supports over 200 pennant bowlers. Its friendly, breezy atmosphere makes it a prime destination for barefoot bowls, functions, and summer roll-ups.
+
+- slug: "sunbury-bowling-club"
+  name: "Sunbury Bowling Club"
+  city: "melbourne"
+  city_name: "Melbourne"
+  city_url: "/bowls-clubs/bowls-clubs-in-melbourne/"
+  country: "Australia"
+  country_code: "AU"
+  area: "North-West / Sunbury"
+  address: "49 Riddell Road, Sunbury"
+  postcode: "VIC 3429"
+  surfaces:
+    - "Covered Dome"
+    - "Outdoor Grass"
+  formats:
+    - "Pennant"
+    - "Social Bowls"
+    - "Barefoot Bowls"
+  season: "Year-round"
+  rinks_info: "State-of-the-art undercover dome green and manicured natural grass"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://sunburybowling.com.au/"
+  maps_query: "Sunbury+Bowling+Club+Riddell+Road+Sunbury+VIC+3429"
+  profile_page: true
+  summary: "Premier regional-metro complex featuring an impressive undercover dome green, championship couch turf, and extensive community hospitality."
+  about: >
+    Sunbury Bowling Club is a standout club in Melbourne's outer northwest. The club features a world-class covered canopy covering synthetic rinks, enabling competitive pennants and social bowls in all seasons. Combined with outdoor natural grass greens and a modern bistro, Sunbury serves bowlers of all ages.
+
+- slug: "yarraville-footscray-bowling-club"
+  name: "Yarraville Footscray Bowling Club"
+  city: "melbourne"
+  city_name: "Melbourne"
+  city_url: "/bowls-clubs/bowls-clubs-in-melbourne/"
+  country: "Australia"
+  country_code: "AU"
+  area: "Inner West / Yarraville"
+  address: "339 Francis Street, Yarraville"
+  postcode: "VIC 3013"
+  surfaces:
+    - "Outdoor Grass"
+    - "Outdoor Synthetic"
+  formats:
+    - "Premier League"
+    - "Pennant"
+    - "Barefoot Bowls"
+    - "Social Bowls"
+  season: "Year-round"
+  rinks_info: "3 greens including championship grass and all-weather synthetic rinks"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://yfbc.com.au/"
+  maps_query: "Yarraville+Footscray+Bowling+Club+Francis+Street+Yarraville+VIC+3013"
+  profile_page: true
+  summary: "Inner-west powerhouse fielding top-tier Premier Division sides, with 3 greens, summer barefoot bowls, and great craft beers."
+  about: >
+    Known locally as YFBC, Yarraville Footscray Bowling Club is a premier lawn bowling venue in Melbourne's inner west. With multiple grass greens and floodlit synthetics, the club is a regular competitor in Bowls Victoria Premier League finals. The relaxed clubhouse, outdoor decking, and welcoming atmosphere attract casual barefoot bowlers year-round.
+
+- slug: "mitcham-bowling-club"
+  name: "Mitcham Bowling Club"
+  city: "melbourne"
+  city_name: "Melbourne"
+  city_url: "/bowls-clubs/bowls-clubs-in-melbourne/"
+  country: "Australia"
+  country_code: "AU"
+  area: "East / Mitcham"
+  address: "26 Lucknow Street, Mitcham"
+  postcode: "VIC 3132"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Pennant"
+    - "Barefoot Bowls"
+    - "Social Bowls"
+  season: "Year-round (Pennant Oct–Apr)"
+  rinks_info: "3 natural couch grass greens"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://mitchambowlingclub.com.au/"
+  maps_query: "Mitcham+Bowling+Club+Lucknow+Street+Mitcham+VIC+3132"
+  profile_page: true
+  summary: "Eastern suburbs staple with three pristine natural grass greens, competitive pennants, and relaxed community barefoot roll-ups."
+  about: >
+    Surrounded by leafy parklands in Mitcham, this club has provided competitive and social bowls to Melbourne's eastern suburbs since 1957. Featuring three championship natural grass greens, Mitcham fields strong Saturday and midweek teams while offering friendly barefoot bowls sessions with BBQ facilities.
+
+- slug: "mentone-bowling-club"
+  name: "Mentone Bowling Club"
+  city: "melbourne"
+  city_name: "Melbourne"
+  city_url: "/bowls-clubs/bowls-clubs-in-melbourne/"
+  country: "Australia"
+  country_code: "AU"
+  area: "Bayside / Mentone"
+  address: "2-4 Swanston Street, Mentone"
+  postcode: "VIC 3194"
+  surfaces:
+    - "Outdoor Grass"
+    - "Outdoor Synthetic"
+  formats:
+    - "Pennant"
+    - "Barefoot Bowls"
+    - "Social Bowls"
+  season: "Year-round"
+  rinks_info: "2 natural grass greens and 1 all-weather synthetic green"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://mentonebowlingclub.com.au/"
+  maps_query: "Mentone+Bowling+Club+Swanston+Street+Mentone+VIC+3194"
+  profile_page: true
+  summary: "Bayside club with natural turf and synthetic greens, walking distance to Mentone Beach, offering lively barefoot roll-ups and competitive pennants."
+  about: >
+    Mentone Bowling Club is an active bayside sporting club situated close to the foreshore. Bowlers enjoy true-running hybrid couch greens alongside an all-weather synthetic carpet. The club welcomes casual barefoot bowlers and beginners with comprehensive coaching and loan gear.
+
+- slug: "camberwell-central-bowls-club"
+  name: "Camberwell Central Bowls Club"
+  city: "melbourne"
+  city_name: "Melbourne"
+  city_url: "/bowls-clubs/bowls-clubs-in-melbourne/"
+  country: "Australia"
+  country_code: "AU"
+  area: "Inner East / Camberwell"
+  address: "14 Bowen Street, Camberwell"
+  postcode: "VIC 3124"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Pennant"
+    - "Barefoot Bowls"
+    - "Social Bowls"
+  season: "September to May"
+  rinks_info: "2 championship natural couch grass greens"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://camberwellbowlsclub.com.au/"
+  maps_query: "Camberwell+Central+Bowls+Club+Bowen+Street+Camberwell+VIC+3124"
+  profile_page: true
+  summary: "Peaceful parkland bowling club in Camberwell with two pristine couch grass greens, community social days, and pennant teams."
+  about: >
+    Nestled near Camberwell Junction, Camberwell Central Bowls Club provides a classic lawn bowling experience in Melbourne's leafy east. Its two couch turf greens are maintained to high tournament standards, catering to both competitive Saturday pennants and weekend barefoot social roll-ups.
+
+- slug: "brunswick-bowling-club"
+  name: "Brunswick Bowling Club"
+  city: "melbourne"
+  city_name: "Melbourne"
+  city_url: "/bowls-clubs/bowls-clubs-in-melbourne/"
+  country: "Australia"
+  country_code: "AU"
+  area: "Inner North / Brunswick"
+  address: "104-106 Victoria Street, Brunswick"
+  postcode: "VIC 3056"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Barefoot Bowls"
+    - "Pennant"
+    - "Social Bowls"
+  season: "Year-round"
+  rinks_info: "2 natural grass greens"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://brunswickbowlingclub.com.au/"
+  maps_query: "Brunswick+Bowling+Club+Victoria+Street+Brunswick+VIC+3056"
+  profile_page: true
+  summary: "Inner-north community favourite featuring relaxed barefoot bowls, craft beer, food trucks, and weekend acoustic music."
+  about: >
+    Brunswick Bowling Club, established in 1904, is one of Melbourne's most vibrant community-focused clubs. It combines authentic lawn bowls with inner-north culture, hosting acoustic sessions, food trucks, and weekend barefoot roll-ups on smooth grass greens.
+
+- slug: "footscray-park-bowling-club"
+  name: "Footscray Park Bowling Club"
+  city: "melbourne"
+  city_name: "Melbourne"
+  city_url: "/bowls-clubs/bowls-clubs-in-melbourne/"
+  country: "Australia"
+  country_code: "AU"
+  area: "Inner West / Footscray"
+  address: "Hoadley Drive, Footscray"
+  postcode: "VIC 3011"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Barefoot Bowls"
+    - "Pennant"
+    - "Social Bowls"
+  season: "Year-round"
+  rinks_info: "2 natural grass greens in Footscray Park"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://footscrayparkbowls.com.au/"
+  maps_query: "Footscray+Park+Bowling+Club+Hoadley+Drive+Footscray+VIC+3011"
+  profile_page: true
+  summary: "Perched inside historic Footscray Park overlooking Flemington Racecourse, providing scenic grass greens and relaxed barefoot bowls."
+  about: >
+    Positioned within heritage-listed Footscray Park with sweeping views across the Maribyrnong River and Flemington Racecourse, Footscray Park Bowling Club is a picturesque inner-west gem. The club offers grass greens, casual barefoot bowls, and competitive pennant divisions in a welcoming park setting.

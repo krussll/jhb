@@ -1,0 +1,624 @@
+- slug: "crystal-palace-indoor-bowls-club"
+  name: "Crystal Palace Indoor Bowls Club"
+  city: "london"
+  city_name: "London"
+  city_url: "/bowls-clubs/bowls-clubs-in-london/"
+  country: "England"
+  country_code: "GB"
+  area: "South London (Crystal Palace)"
+  address: "Ledrington Road, Crystal Palace, London"
+  postcode: "SE19 2BB"
+  surfaces:
+    - "Indoor Carpet"
+  formats:
+    - "Indoor"
+    - "Flat Green"
+  season: "Year-round (Main Season September &ndash; April)"
+  rinks_info: "6-rink championship indoor carpet arena"
+  beginner_friendly: true
+  barefoot_social: false
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://www.crystalpalaceindoorbowls.co.uk/"
+  maps_query: "Crystal+Palace+Indoor+Bowls+Club+Ledrington+Road+London+SE19+2BB"
+  profile_page: true
+  summary: "London's leading dedicated indoor bowls arena, offering 6 laser-level rinks, winter leagues, national competitions, and beginner coaching."
+  about: >
+    Located next to the iconic Crystal Palace National Sports Centre, Crystal Palace Indoor Bowls Club is South London's premier year-round bowls venue. Featuring six laser-level needle-punch carpet rinks, the club runs competitive leagues, EIBA national championships, and winter inter-county matches. The club provides structured coaching for all abilities, a licensed lounge bar, and complimentary loan bowls for prospective members.
+
+- slug: "paddington-sports-club-bowls"
+  name: "Paddington Sports Club Bowls"
+  city: "london"
+  city_name: "London"
+  city_url: "/bowls-clubs/bowls-clubs-in-london/"
+  country: "England"
+  country_code: "GB"
+  area: "Central / West London (Maida Vale)"
+  address: "Castellain Road, Maida Vale, London"
+  postcode: "W9 1HQ"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Flat Green"
+  season: "Outdoor: April &ndash; September"
+  rinks_info: "6-rink pristine natural grass green"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://www.paddingtonsportsclub.org.uk/bowls"
+  maps_query: "Paddington+Sports+Club+Castellain+Road+London+W9+1HQ"
+  profile_page: true
+  summary: "Historic Maida Vale multi-sports club boasting an immaculate 6-rink grass green, vibrant social atmosphere, and relaxed taster sessions."
+  about: >
+    Founded in 1884, Paddington Sports Club is tucked away behind charming Victorian mansions in Maida Vale. The club's 6-rink natural grass bowling green is considered one of the finest and truest in Central London. Operating as a welcoming social and competitive hub, PSC offers Friday evening roll-ups, corporate barefoot bowls days, coaching from Bowls England certified instructors, and full clubhouse bar facilities.
+
+- slug: "finsbury-bowling-club"
+  name: "Finsbury Bowling Club"
+  city: "london"
+  city_name: "London"
+  city_url: "/bowls-clubs/bowls-clubs-in-london/"
+  country: "England"
+  country_code: "GB"
+  area: "North London (Finsbury Park)"
+  address: "Finsbury Park, Endymion Road, London"
+  postcode: "N4 1EE"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Flat Green"
+  season: "Outdoor: April &ndash; September"
+  rinks_info: "6-rink traditional outdoor park green"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://www.finsburybowlingclub.co.uk/"
+  maps_query: "Finsbury+Bowling+Club+Finsbury+Park+Endymion+Road+London+N4+1EE"
+  profile_page: true
+  summary: "Historic North London park club founded in 1903, celebrating inclusive community bowling, weekend roll-ups, and open taster days."
+  about: >
+    Instituted in 1903 in Finsbury Park, Finsbury Bowling Club is one of London's most historic and diverse flat green clubs. Nestled in tranquil park greenery near Manor House, the club welcomes complete beginners, park visitors, and seasoned league bowlers. Sunday roll-up sessions include free equipment hire and delivery coaching in a friendly, relaxed setting.
+
+- slug: "dulwich-bowling-club"
+  name: "Dulwich Bowling Club"
+  city: "london"
+  city_name: "London"
+  city_url: "/bowls-clubs/bowls-clubs-in-london/"
+  country: "England"
+  country_code: "GB"
+  area: "South London (Dulwich / East Dulwich)"
+  address: "Grange Lane, College Road, Dulwich, London"
+  postcode: "SE21 7EJ"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Flat Green"
+  season: "Outdoor: April &ndash; September"
+  rinks_info: "6-rink championship natural grass green"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://www.dulwichbowlingclub.org.uk/"
+  maps_query: "Dulwich+Bowling+Club+Grange+Lane+College+Road+London+SE21+7EJ"
+  profile_page: true
+  summary: "Leafy Dulwich village club founded in 1903, offering superb turf, competitive London & Southwark leagues, and popular social roll-ups."
+  about: >
+    Formed in 1903 on the historic Dulwich Estate, Dulwich Bowling Club enjoys an idyllic woodland setting on Grange Lane. The club maintains an immaculate 6-rink natural turf green that runs at true summer speeds. With regular social roll-ups on Tuesday and Sunday afternoons, qualified coaches provide guidance and loan bowls to help newcomers discover the sport.
+
+- slug: "parsons-green-club"
+  name: "Parsons Green Club"
+  city: "london"
+  city_name: "London"
+  city_url: "/bowls-clubs/bowls-clubs-in-london/"
+  country: "England"
+  country_code: "GB"
+  area: "West London (Fulham / Parsons Green)"
+  address: "31 Broomhouse Lane, Fulham, London"
+  postcode: "SW6 3DP"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Flat Green"
+  season: "Outdoor: April &ndash; September"
+  rinks_info: "6-rink manicured natural grass green"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://www.parsonsgreenclub.com/bowls"
+  maps_query: "Parsons+Green+Club+31+Broomhouse+Lane+London+SW6+3DP"
+  profile_page: true
+  summary: "Prestigious West London members' sports club in Fulham, featuring a premier bowling lawn, summer barbecues, and corporate roll-ups."
+  about: >
+    Set in private grounds on Broomhouse Lane in Fulham, Parsons Green Club has offered bowls, tennis, and social amenities since 1888. The club's 6-rink outdoor lawn green is manicured to tournament standards. A vibrant social scene, licensed clubhouse, riverside proximity, and welcoming introductory sessions make it a standout London bowling destination.
+
+- slug: "ravenscourt-park-bowls-club"
+  name: "Ravenscourt Park Bowls Club"
+  city: "london"
+  city_name: "London"
+  city_url: "/bowls-clubs/bowls-clubs-in-london/"
+  country: "England"
+  country_code: "GB"
+  area: "West London (Hammersmith / Chiswick)"
+  address: "Ravenscourt Park, Paddenswick Road, London"
+  postcode: "W6 0UA"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Flat Green"
+  season: "Outdoor: April &ndash; September"
+  rinks_info: "6-rink scenic park bowling green"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://www.ravenscourtparkbowlsclub.org.uk/"
+  maps_query: "Ravenscourt+Park+Bowls+Club+Paddenswick+Road+London+W6+0UA"
+  profile_page: true
+  summary: "Tranquil park club in Hammersmith established in 1912, welcoming casual players, weekend roll-ups, and league bowlers."
+  about: >
+    Founded in 1912 in Hammersmith's picturesque Ravenscourt Park, this friendly community club offers flat green bowls in a tranquil garden setting. Open to all ages and experience levels, Ravenscourt Park Bowls Club hosts Saturday morning beginner roll-ups, inter-club friendlies, and club tournaments with sets of bowls provided.
+
+- slug: "temple-fortune-bowls-club"
+  name: "Temple Fortune Bowls Club"
+  city: "london"
+  city_name: "London"
+  city_url: "/bowls-clubs/bowls-clubs-in-london/"
+  country: "England"
+  country_code: "GB"
+  area: "North London (Golders Green / Hampstead Garden Suburb)"
+  address: "122 Bridge Lane, Temple Fortune, London"
+  postcode: "NW11 9JS"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Flat Green"
+  season: "Outdoor: April &ndash; September"
+  rinks_info: "6-rink natural grass green"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://www.templefortunebowlsclub.org.uk/"
+  maps_query: "Temple+Fortune+Bowls+Club+122+Bridge+Lane+London+NW11+9JS"
+  profile_page: true
+  summary: "Welcoming North London club near Hampstead Garden Suburb, offering top-tier lawn greens, friendly roll-ups, and novice coaching."
+  about: >
+    Instituted in 1923 on Bridge Lane, Temple Fortune Bowls Club is an active, friendly community sports club serving Golders Green and North London. The 6-rink grass green offers consistent running lines, supported by a comfortable pavilion and bar. The club runs regular open days, social bowls on Wednesday evenings, and tailored coaching.
+
+- slug: "southwark-park-bowling-club"
+  name: "Southwark Park Bowling Club"
+  city: "london"
+  city_name: "London"
+  city_url: "/bowls-clubs/bowls-clubs-in-london/"
+  country: "England"
+  country_code: "GB"
+  area: "South East London (Rotherhithe / Bermondsey)"
+  address: "Southwark Park, Gomm Road, London"
+  postcode: "SE16 2TX"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Flat Green"
+  season: "Outdoor: April &ndash; September"
+  rinks_info: "6-rink park lawn green"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://www.southwarkparkbowlingclub.co.uk/"
+  maps_query: "Southwark+Park+Bowling+Club+Gomm+Road+London+SE16+2TX"
+  profile_page: true
+  summary: "Centenary club in Southwark Park dating to 1910, known for its community engagement, accessible coaching, and public roll-ups."
+  about: >
+    Dating back to 1910 in one of London's oldest public parks, Southwark Park Bowling Club offers lawn bowling in a scenic urban setting near Canada Water. The club welcomes visitors and newcomers with open arms, providing free bowl hire, coaching sessions, and summer social games.
+
+- slug: "bush-hill-park-bowls-club"
+  name: "Bush Hill Park Bowls Club"
+  city: "london"
+  city_name: "London"
+  city_url: "/bowls-clubs/bowls-clubs-in-london/"
+  country: "England"
+  country_code: "GB"
+  area: "North London (Enfield)"
+  address: "Abbey Road, Enfield, London"
+  postcode: "EN1 2QP"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Flat Green"
+  season: "Outdoor: April &ndash; September"
+  rinks_info: "6-rink championship natural turf green"
+  beginner_friendly: true
+  barefoot_social: false
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://www.bushhillparkbowlsclub.co.uk/"
+  maps_query: "Bush+Hill+Park+Bowls+Club+Abbey+Road+Enfield+EN1+2QP"
+  profile_page: true
+  summary: "Historic North London club established in 1912, featuring championship-standard greens, Middlesex league play, and beginner open days."
+  about: >
+    Founded in 1912 in Enfield, Bush Hill Park Bowls Club is affiliated with Bowls England and Middlesex Bowls. The club boasts an outstanding 6-rink natural grass green, a dedicated coaching committee, and a sociable clubhouse. New members receive free introductory coaching sessions and use of club bowls.
+
+- slug: "herne-hill-bowling-club"
+  name: "Herne Hill Bowling Club"
+  city: "london"
+  city_name: "London"
+  city_url: "/bowls-clubs/bowls-clubs-in-london/"
+  country: "England"
+  country_code: "GB"
+  area: "South London (Herne Hill / Dulwich)"
+  address: "107 Burbage Road, London"
+  postcode: "SE24 9HP"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Flat Green"
+  season: "Outdoor: April &ndash; September"
+  rinks_info: "6-rink outdoor grass green"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://www.hernehillbowls.co.uk/"
+  maps_query: "Herne+Hill+Bowling+Club+107+Burbage+Road+London+SE24+9HP"
+  profile_page: true
+  summary: "Vibrant South London club on Burbage Road, featuring friendly social bowling, youth sessions, and competitive Southwark leagues."
+  about: >
+    Located on Burbage Road near the famous Herne Hill Velodrome, Herne Hill Bowling Club provides flat green lawn bowling in a welcoming, family-friendly setting. The 6-rink natural turf green is complemented by a licensed bar, sunny patio, and weekly beginner sessions with all gear provided.
+
+- slug: "parliament-hill-bowling-club"
+  name: "Parliament Hill Bowling Club"
+  city: "london"
+  city_name: "London"
+  city_url: "/bowls-clubs/bowls-clubs-in-london/"
+  country: "England"
+  country_code: "GB"
+  area: "North London (Hampstead Heath)"
+  address: "Parliament Hill, Highgate Road, London"
+  postcode: "NW5 1QR"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Flat Green"
+  season: "Outdoor: April &ndash; September"
+  rinks_info: "6-rink scenic park green on Hampstead Heath"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://www.parliamenthillbowls.org.uk/"
+  maps_query: "Parliament+Hill+Bowling+Club+Highgate+Road+London+NW5+1QR"
+  profile_page: true
+  summary: "Stunning bowling green perched on the southern edge of Hampstead Heath, offering public roll-ups and community bowls."
+  about: >
+    Situated on the edge of Hampstead Heath near the Parliament Hill Lido, this scenic green is managed in partnership with the City of London. The club welcomes members of the public, novices, and experienced competitors for weekend social games and league fixtures with equipment readily available.
+
+- slug: "putney-bowling-club"
+  name: "Putney Bowling Club"
+  city: "london"
+  city_name: "London"
+  city_url: "/bowls-clubs/bowls-clubs-in-london/"
+  country: "England"
+  country_code: "GB"
+  area: "South West London (Putney)"
+  address: "Upper Richmond Road, Putney, London"
+  postcode: "SW15 6SQ"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Flat Green"
+  season: "Outdoor: April &ndash; September"
+  rinks_info: "6-rink outdoor turf green"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://www.putneybowls.co.uk/"
+  maps_query: "Putney+Bowling+Club+Upper+Richmond+Road+London+SW15+6SQ"
+  profile_page: true
+  summary: "Traditional South West London club founded in 1908, offering excellent summer turf, Friday socials, and qualified instruction."
+  about: >
+    Founded in 1908, Putney Bowling Club is situated just off Upper Richmond Road. The club maintains a 6-rink natural grass green and comfortable clubhouse. Known for its warm welcome to novices, Putney offers free trial sessions with loan equipment and coaching throughout May and June.
+
+- slug: "poplar-bowling-club"
+  name: "Poplar Bowling Club"
+  city: "london"
+  city_name: "London"
+  city_url: "/bowls-clubs/bowls-clubs-in-london/"
+  country: "England"
+  country_code: "GB"
+  area: "East London (Poplar / Tower Hamlets)"
+  address: "Poplar Recreation Ground, Hale Street, London"
+  postcode: "E14 0BS"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Flat Green"
+  season: "Outdoor: April &ndash; September"
+  rinks_info: "6-rink community park green"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://www.facebook.com/PoplarBowlingClub/"
+  maps_query: "Poplar+Bowling+Club+Poplar+Recreation+Ground+Hale+Street+London+E14+0BS"
+  profile_page: true
+  summary: "East London community club near Canary Wharf, delivering accessible lawn bowls and open days in Poplar Recreation Ground."
+  about: >
+    Instituted in 1910 within Poplar Recreation Ground, this club brings lawn bowls to East London. Located within sight of Canary Wharf's towers, Poplar Bowling Club champions accessible sport, hosting free coaching sessions and social roll-ups for residents of all ages.
+
+- slug: "clissold-park-bowling-club"
+  name: "Clissold Park Bowling Club"
+  city: "london"
+  city_name: "London"
+  city_url: "/bowls-clubs/bowls-clubs-in-london/"
+  country: "England"
+  country_code: "GB"
+  area: "North London (Stoke Newington / Hackney)"
+  address: "Clissold Park, Church Street, London"
+  postcode: "N16 9HJ"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Flat Green"
+  season: "Outdoor: April &ndash; September"
+  rinks_info: "6-rink community lawn green in Clissold Park"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://www.clissoldparkbowls.co.uk/"
+  maps_query: "Clissold+Park+Bowling+Club+Church+Street+London+N16+9HJ"
+  profile_page: true
+  summary: "Lively Hackney park club offering inclusive roll-ups, craft beers, and summer bowls in popular Clissold Park."
+  about: >
+    Nestled inside historic Clissold Park in Stoke Newington, this progressive club introduces hundreds of Londoners to bowls every summer. With Sunday drop-in sessions, loan bowls, and a casual, welcoming vibe, Clissold Park Bowls Club is a modern reinvention of traditional lawn bowling.
+
+- slug: "kings-bowling-club-battersea"
+  name: "King's Bowling Club (Battersea Park)"
+  city: "london"
+  city_name: "London"
+  city_url: "/bowls-clubs/bowls-clubs-in-london/"
+  country: "England"
+  country_code: "GB"
+  area: "South West London (Battersea Park)"
+  address: "Battersea Park, Carriage Drive North, London"
+  postcode: "SW11 4NJ"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Flat Green"
+  season: "Outdoor: April &ndash; September"
+  rinks_info: "6-rink classic park lawn green"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://www.kingsbowlingclub.org.uk/"
+  maps_query: "Kings+Bowling+Club+Battersea+Park+London+SW11+4NJ"
+  profile_page: true
+  summary: "Historic green located in stunning Battersea Park, welcoming park visitors, corporate roll-ups, and league matches."
+  about: >
+    Situated in the heart of Battersea Park beside the Thames, King's Bowling Club offers one of the most picturesque bowling greens in central London. The club accommodates both competitive league players and weekend leisure bowlers, with equipment hire and informal coaching available.
+
+- slug: "finchley-bowling-club"
+  name: "Finchley Bowling Club"
+  city: "london"
+  city_name: "London"
+  city_url: "/bowls-clubs/bowls-clubs-in-london/"
+  country: "England"
+  country_code: "GB"
+  area: "North London (Church End Finchley)"
+  address: "Victoria Park, Ballards Lane, London"
+  postcode: "N3 2LE"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Flat Green"
+  season: "Outdoor: April &ndash; September"
+  rinks_info: "6-rink outdoor turf green"
+  beginner_friendly: true
+  barefoot_social: false
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://www.finchleybowlingclub.co.uk/"
+  maps_query: "Finchley+Bowling+Club+Victoria+Park+Ballards+Lane+London+N3+2LE"
+  profile_page: true
+  summary: "Active North London club founded in 1922 in Victoria Park, offering competitive league bowls and friendly roll-ups."
+  about: >
+    Founded in 1922, Finchley Bowling Club is based in Victoria Park, Church End Finchley. The club maintains a 6-rink grass green, playing in Middlesex County and Finchley & District leagues. Prospective bowlers can join free taster sessions with all equipment supplied.
+
+- slug: "century-bowling-club"
+  name: "Century Bowling Club"
+  city: "london"
+  city_name: "London"
+  city_url: "/bowls-clubs/bowls-clubs-in-london/"
+  country: "England"
+  country_code: "GB"
+  area: "North West London (Wembley / Kingsbury)"
+  address: "Logan Road, Wembley, London"
+  postcode: "HA9 8PY"
+  surfaces:
+    - "Indoor Carpet"
+    - "Outdoor Grass"
+  formats:
+    - "Indoor"
+    - "Flat Green"
+  season: "Year-round (Outdoor Apr&ndash;Sep, Indoor Sep&ndash;Apr)"
+  rinks_info: "6-rink outdoor grass green plus dedicated indoor carpet rinks"
+  beginner_friendly: true
+  barefoot_social: false
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://www.centurybowls.co.uk/"
+  maps_query: "Century+Bowling+Club+Logan+Road+Wembley+HA9+8PY"
+  profile_page: true
+  summary: "Premier dual-facility club in Wembley featuring both outdoor greens and indoor carpet rinks for year-round bowls in North London."
+  about: >
+    Century Bowling Club in Wembley is one of Greater London's rare dual-facility bowling centres. Bowlers enjoy an outdoor 6-rink grass green in summer and dedicated indoor carpet rinks during the winter months. With a licensed clubhouse, active coaching setup, and full competition schedule, Century caters to bowlers in all seasons.
+
+- slug: "southgate-bowling-club"
+  name: "Southgate Bowling Club"
+  city: "london"
+  city_name: "London"
+  city_url: "/bowls-clubs/bowls-clubs-in-london/"
+  country: "England"
+  country_code: "GB"
+  area: "North London (Southgate)"
+  address: "Waterfall Road, Southgate, London"
+  postcode: "N14 7JL"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Flat Green"
+  season: "Outdoor: April &ndash; September"
+  rinks_info: "6-rink natural grass green"
+  beginner_friendly: true
+  barefoot_social: false
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://www.southgatebowlingclub.com/"
+  maps_query: "Southgate+Bowling+Club+Waterfall+Road+London+N14+7JL"
+  profile_page: true
+  summary: "Established North London club founded in 1937, offering high-grade turf, active Middlesex leagues, and free novice coaching."
+  about: >
+    Instituted in 1937, Southgate Bowling Club is situated on Waterfall Road adjacent to the Walker Cricket Ground. The club's 6-rink lawn green is maintained to a high standard, supporting competitive inter-club fixtures and relaxed internal club roll-ups. Beginners are welcomed with complimentary trial sessions.
+
+- slug: "ladywell-bowling-club"
+  name: "Ladywell Bowling Club"
+  city: "london"
+  city_name: "London"
+  city_url: "/bowls-clubs/bowls-clubs-in-london/"
+  country: "England"
+  country_code: "GB"
+  area: "South East London (Lewisham / Ladywell)"
+  address: "Ladywell Fields, Dressington Avenue, London"
+  postcode: "SE4 1JE"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Flat Green"
+  season: "Outdoor: April &ndash; September"
+  rinks_info: "6-rink natural grass green"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://www.ladywellbowlingclub.org.uk/"
+  maps_query: "Ladywell+Bowling+Club+Ladywell+Fields+Dressington+Avenue+London+SE4+1JE"
+  profile_page: true
+  summary: "Friendly parkland club in Ladywell Fields founded in 1907, providing social roll-ups, coaching, and a historic green."
+  about: >
+    Formed in 1907 in Ladywell Fields, this welcoming South East London club provides flat green bowls amidst park trees. The club actively recruits new players through free spring coaching days, offering loan bowls and flat shoe loaners.
+
+- slug: "west-london-bowling-club"
+  name: "West London Bowling Club"
+  city: "london"
+  city_name: "London"
+  city_url: "/bowls-clubs/bowls-clubs-in-london/"
+  country: "England"
+  country_code: "GB"
+  area: "West London (North Kensington / Notting Hill)"
+  address: "Highlever Road, North Kensington, London"
+  postcode: "W10 6PN"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Flat Green"
+  season: "Outdoor: April &ndash; September"
+  rinks_info: "6-rink secluded grass green"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://www.westlondonbowlingclub.com/"
+  maps_query: "West+London+Bowling+Club+Highlever+Road+London+W10+6PN"
+  profile_page: true
+  summary: "Charming club in the St Quintin conservation area of North Kensington, featuring social bowls, barbecues, and loan equipment."
+  about: >
+    Instituted in 1903 in the leafy St Quintin conservation area of North Kensington, West London Bowling Club is a true urban sanctuary. With a 6-rink grass green, sunny terrace, bar, and regular barefoot social sessions, it is one of the most relaxed places to bowl in West London.
+
+- slug: "bounds-green-bowling-and-tennis-club"
+  name: "Bounds Green Bowling & Tennis Club"
+  city: "london"
+  city_name: "London"
+  city_url: "/bowls-clubs/bowls-clubs-in-london/"
+  country: "England"
+  country_code: "GB"
+  area: "North London (Bounds Green / Wood Green)"
+  address: "Goring Road, Bounds Green, London"
+  postcode: "N11 2DD"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Flat Green"
+  season: "Outdoor: April &ndash; September"
+  rinks_info: "6-rink natural grass green plus tennis courts"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://www.boundsgreenbowlingandtennisclub.co.uk/"
+  maps_query: "Bounds+Green+Bowling+Club+Goring+Road+London+N11+2DD"
+  profile_page: true
+  summary: "Thriving dual-sport club in North London offering immaculate grass rinks, vibrant social membership, and beginner coaching."
+  about: >
+    Founded in 1913, Bounds Green Bowling and Tennis Club provides outstanding sports facilities on Goring Road. The 6-rink natural turf green offers true, dependable running, supported by a busy social calendar, clubhouse bar, and introductory roll-ups for newcomers.
+
+- slug: "bishops-park-bowls-club"
+  name: "Bishop's Park Bowls Club"
+  city: "london"
+  city_name: "London"
+  city_url: "/bowls-clubs/bowls-clubs-in-london/"
+  country: "England"
+  country_code: "GB"
+  area: "West London (Fulham / Bishop's Park)"
+  address: "Bishop's Park, Bishop's Avenue, Fulham, London"
+  postcode: "SW6 6EA"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Flat Green"
+  season: "Outdoor: April &ndash; September"
+  rinks_info: "6-rink outdoor green alongside the Thames"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://www.bishopsparkbowlsclub.co.uk/"
+  maps_query: "Bishops+Park+Bowls+Club+Bishops+Avenue+London+SW6+6EA"
+  profile_page: true
+  summary: "Picturesque riverside club in Bishop's Park next to Fulham Palace, popular for sunny summer roll-ups and social bowls."
+  about: >
+    Located next to Fulham Palace along the River Thames, Bishop's Park Bowls Club offers one of London's most scenic sporting locations. The club maintains a 6-rink grass green and welcomes park strollers, families, and novice bowlers for casual roll-ups with loan sets available.
+
+- slug: "blackheath-greenwich-bowling-club"
+  name: "Blackheath & Greenwich Bowling Club"
+  city: "london"
+  city_name: "London"
+  city_url: "/bowls-clubs/bowls-clubs-in-london/"
+  country: "England"
+  country_code: "GB"
+  area: "South East London (Blackheath / Greenwich)"
+  address: "St John's Park, Blackheath, London"
+  postcode: "SE3 7TH"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Flat Green"
+  season: "Outdoor: April &ndash; September"
+  rinks_info: "6-rink championship natural turf green"
+  beginner_friendly: true
+  barefoot_social: false
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://www.blackheathbowlingclub.org.uk/"
+  maps_query: "Blackheath+and+Greenwich+Bowling+Club+St+Johns+Park+London+SE3+7TH"
+  profile_page: true
+  summary: "Historic South East London club dating to 1891, featuring pristine greens, Kent league competition, and structured tuition."
+  about: >
+    Instituted in 1891, Blackheath & Greenwich Bowling Club is situated in peaceful St John's Park in Blackheath. The club boasts an outstanding 6-rink natural grass green, licensed clubhouse, and competitive men's and ladies' teams playing in Kent and London competitions. Prospective members receive expert guidance and loan bowls.
+
