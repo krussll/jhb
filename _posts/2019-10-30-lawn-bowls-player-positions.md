@@ -5,9 +5,9 @@ seo_title: "Lawn Bowls Player Positions: Roles and Duties"
 author: reece
 categories: [ help ]
 featured: false
-description: ""
+description: "A guide to the different positions in a lawn bowls team. Covering all roles and duties for each position Improve your game by doing the things that matter."
 date: 2019-10-30 13:00:00 -0400
-last_modified_at: 2026-11-04 15:05:00 +0000
+last_modified_at: 2026-11-15 11:15:00 +0000
 ---
     
 

@@ -4,8 +4,8 @@ title:  "Should Lawn Bowls Be Polished? | ANSWERED"
 author: reece
 categories: [ help ]
 featured: false
-description: ""
-last_modified_at: 2026-10-30 10:25:00 +0000
+description: "So, you've just spent £300 on a brand new set of bowls, and you want to protect them and keep them performing at their best, or you've just bought a cheap."
+last_modified_at: 2026-11-15 11:15:00 +0000
 date: 2022-11-01 13:00:00 -0400
 ---
     

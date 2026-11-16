@@ -4,8 +4,8 @@ title:  "Taylor Legacy SL Lawn Bowls Review"
 author: reece
 categories: [ review, bowls ]
 featured: false
-description: ""
-last_modified_at: 2026-11-05 15:30:00 +0000
+description: "9 reasons to buy/NOT buy Taylor Legacy SL lawn bowls. Bottom line FOR Slim line design makes the bowl easier to hold Taylor's Progrip added as standard."
+last_modified_at: 2026-11-15 11:15:00 +0000
 date: 2019-06-06 13:00:00 -0400
 review:
   name: "Taylor Legacy SL Lawn Bowls"

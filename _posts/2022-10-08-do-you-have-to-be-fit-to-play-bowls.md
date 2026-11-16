@@ -5,8 +5,8 @@ seo_title: "Do You Have to Be Fit to Play Lawn Bowls?"
 author: reece
 categories: [ help ]
 featured: false
-description: ""
-last_modified_at: 2026-11-04 15:05:00 +0000
+description: "Bowls is a sport for all, regardless of your age, gender or physical ability. However, many older people don't feel they are 'fit' enough to play."
+last_modified_at: 2026-11-15 11:15:00 +0000
 date: 2022-10-08 13:00:00 -0400
 ---
     

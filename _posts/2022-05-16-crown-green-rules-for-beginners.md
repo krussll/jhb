@@ -4,8 +4,8 @@ title:  "Crown Green Rules for Beginners | A Complete Guide"
 author: reece
 categories: [ crown-green-bowls ]
 featured: false
-description: ""
-last_modified_at: 2026-10-29 15:45:00 +0000
+description: "A perfect mixture of sports, nature, fresh air, and bowls, crown green bowling could become your next favorite thing if you learn to play it well."
+last_modified_at: 2026-11-15 11:15:00 +0000
 date: 2022-05-16 13:00:00 -0400
 ---
     

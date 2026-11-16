@@ -1,15 +1,16 @@
 ---
 layout: post
 title:  "Drakes Pride D-TEC vs Drakes Pride XP | Which is Best?"
+seo_title: "Drakes Pride d-tec vs Drakes Pride XP: Bias, Grip & Price Comparison"
+model_a: "drakes-pride-d-tec"
+model_b: "drakes-pride-xp"
 author: reece
 categories: [ guide ]
 featured: false
-description: "Drakes Pride D-Tec vs Drakes Pride XP: narrow bias indoor specialist vs wide bias outdoor heavyweight comparison and verdict."
-last_modified_at: 2026-10-29 15:45:00 +0000
+description: "Compare Drakes Pride d-tec vs Drakes Pride XP: narrow bias vs wide bias line (2.0 vs 7.5) tested on indoor carpet surfaces. £375 vs £380 RRP (used £110–£115)."
+last_modified_at: 2026-11-15 09:05:42 +0000
 date: 2023-03-06 13:00:00 -0400
 ---
-    
-
 <p>Hey there! If you're new to lawn bowling, choosing the right bowl can feel like a daunting task. But don't worry - we're here to help. </p>
 
 <figure class="wp-block-image size-large"><img src="{{ '/img/posts/drakes-pride-d-tec-vs-drakes-pride-xp-1024x576.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Drakes Pride D-Tec vs Drakes Pride XP comparison" class="wp-image-1916"/></figure>
@@ -23,16 +24,6 @@ date: 2023-03-06 13:00:00 -0400
   </ul>
 </div>
 
-### Side-by-Side Comparison
-
-| Feature / Specification | Drakes Pride D-Tec | Drakes Pride XP |
-| :--- | :--- | :--- |
-| **Bias Rating** | Ultra-Narrow Bias | Wide Bias |
-| **Primary Surface** | Fast Indoor Carpets (15s+) | Slow Outdoor Grass (10–13s) |
-| **Best Position** | Lead, Second, Indoor Singles | Third, Skip |
-| **Grip Options** | Standard dimple, Plain | Standard dimple, Plain |
-| **Size Range** | Size 0000 to 5 | Size 0000 to 5 |
-| **Price Bracket** | £370 – £410 | £380 – £420 |
 
 <p>In this blog post, I'll be comparing two popular models of lawn bowls: the Drakes Pride D-TEC and the Drakes Pride XP. We'll look at specs, bias, grip options, price, and who these bowls are best suited for. By the end of this guide, you'll have a better idea of which bowl will work best for you.</p>
 

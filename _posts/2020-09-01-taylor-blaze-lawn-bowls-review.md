@@ -119,7 +119,7 @@ review:
 
 <h3><a href="#the-premier-grip"></a>The Premier Grip</h3>
 
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/premier-grip-taylor.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="Taylor Premier Grip"/></a></figure>
+<figure class="wp-block-image"><img src="{{ '/img/posts/premier-grip-taylor.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="Taylor Premier Grip"/></figure>
 
 <p>The premier grip is similar to a standard dimple grip found on most models, however the indents are a more oblong shape.</p>
 
@@ -127,7 +127,7 @@ review:
 
 <h3><a href="#the-progrip"></a>The Progrip</h3>
 
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/progrip-grip-taylor.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="Taylor Progrip Grip"/></a></figure>
+<figure class="wp-block-image"><img src="{{ '/img/posts/progrip-grip-taylor.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="Taylor Progrip Grip"/></figure>
 
 <p>Until recently the Progrip was Taylor’s only premium grip. If you have come across the Ace or Vector VS models you may be familiar with it, as it comes as standard on these models.</p>
 
@@ -137,7 +137,7 @@ review:
 
 <h3><a href="#the-xtreme-grip"></a>The Xtreme Grip</h3>
 
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/xtreme-grip-taylor.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="Taylor Xtreme Grip"/></a></figure>
+<figure class="wp-block-image"><img src="{{ '/img/posts/xtreme-grip-taylor.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="Taylor Xtreme Grip"/></figure>
 
 <p>The Xtreme grip is new to Taylor in 2020. This is brought out to compete with the Aero Z-Scoop and the Drakes Pride PRO-50.</p>
 

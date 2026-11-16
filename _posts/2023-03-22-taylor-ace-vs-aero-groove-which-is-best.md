@@ -1,15 +1,16 @@
 ---
 layout: post
 title:  "Taylor Ace vs Aero GrooVe | Which is Best?"
+seo_title: "Taylor Ace vs Aero GrooVe: Bias, Grip & Price Comparison"
+model_a: "taylor-ace"
+model_b: "aero-groove"
 author: reece
 categories: [ review, bowls ]
 featured: false
-description: "Taylor Ace vs Aero Groove lawn bowls comparison: traditional Scottish craftsmanship vs robotic lathe precision, bias lines, and verdict."
-last_modified_at: 2026-10-29 15:45:00 +0000
+description: "Compare Taylor Ace vs Aero GrooVe: Taylor Ace draws tighter than Aero GrooVe (5.0 vs 5.5 bias) for outdoor grass play. £395 vs £430 RRP (used £120–£160)."
+last_modified_at: 2026-11-15 09:05:42 +0000
 date: 2023-03-22 13:00:00 -0400
 ---
-    
-
 <p>Are you struggling to find the perfect lawn bowl? As a beginner, it can be overwhelming to navigate through the various options available. But don't worry, I'm here to help! In this blog post, we'll be comparing two of the most popular lawn bowls in the market - Taylor Ace and Aero GrooVe. </p>
 
 <figure class="wp-block-image size-large"><img src="{{ '/img/posts/taylor-ace-vs-aero-groove-1024x576.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Taylor Ace vs Aero Groove lawn bowls comparison" class="wp-image-2022"/></figure>
@@ -23,16 +24,6 @@ date: 2023-03-22 13:00:00 -0400
   </ul>
 </div>
 
-### Side-by-Side Comparison
-
-| Feature / Specification | Taylor Ace | Aero Groove |
-| :--- | :--- | :--- |
-| **Bias Rating** | Mid Bias (Traditional Scottish arc) | Mid Bias (Robotic trajectory arc) |
-| **Primary Surface** | Outdoor Grass (12–15s) & Indoor | Outdoor Grass (12–16s) & Indoor |
-| **Best Position** | All positions (Lead to Skip) | All positions (Lead to Skip) |
-| **Grip Options** | Progrip, Half-Pipe, Plain | Z-Scoop, Denticulated, Plain rings |
-| **Size Range** | Size 00 to 5 | Size 00 to 5 |
-| **Price Bracket** | £380 – £420 | £410 – £460 |
 
 <p>I'll be breaking down the specifications of these bowls, their bias, grip options, and of course, pricing. By the end of this guide, you'll have a clear understanding of which bowl is the perfect fit for you. Let's get started!</p>
 

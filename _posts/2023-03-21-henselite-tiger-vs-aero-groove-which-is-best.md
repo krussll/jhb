@@ -1,15 +1,16 @@
 ---
 layout: post
 title:  "Henselite Tiger vs Aero GrooVe | Which is Best?"
+seo_title: "Henselite Tiger vs Aero GrooVe: Bias, Grip & Price Comparison"
+model_a: "henselite-tiger"
+model_b: "aero-groove"
 author: reece
 categories: [ review, bowls ]
 featured: false
-description: ""
-last_modified_at: 2026-10-29 15:45:00 +0000
+description: "Compare Henselite Tiger vs Aero GrooVe: mid-wide bias vs mid bias line (6.2 vs 5.5) tested on outdoor grass surfaces. Compare £425 vs £430 RRP (from £130 used)."
+last_modified_at: 2026-11-15 09:05:42 +0000
 date: 2023-03-21 13:00:00 -0400
 ---
-    
-
 <p>Hey there! If you're new to lawn bowling, you might find it overwhelming to choose the right bowl. That's why I'm here to help! In this blog post, I will be comparing two of the most popular models available - the Henselite Tiger and the Aero GrooVe. </p>
 
 <figure class="wp-block-image size-large"><img src="{{ '/img/posts/henselite-tiger-vs-aero-groove-1024x576.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Henselite Tiger VS Aero Groove lawn bowls comparison" class="wp-image-1939"/></figure>

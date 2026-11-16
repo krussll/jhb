@@ -5,9 +5,9 @@ seo_title: "Lawn Bowls Green Speed: What It Is & How to Measure"
 author: reece
 categories: [ help ]
 featured: false
-description: ""
+description: "Green speed can also affect what bowl model you use. Some models are designed for specific conditions, so it’s important to understand what affects."
 date: 2021-02-09 13:00:00 -0400
-last_modified_at: 2026-11-04 15:05:00 +0000
+last_modified_at: 2026-11-15 11:15:00 +0000
 ---
     
 

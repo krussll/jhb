@@ -5,9 +5,9 @@ seo_title: "Is Lawn Bowls a Dying Sport? How to Revive It"
 author: reece
 categories: [ help ]
 featured: false
-description: ""
+description: "Lawn bowls could be gone at an amatuer level in less than 15 years. Much is needed to save it. Here are my suggestions. Is lawn bowls a dying sport?"
 date: 2021-01-28 13:00:00 -0400
-last_modified_at: 2026-11-04 15:05:00 +0000
+last_modified_at: 2026-11-15 11:15:00 +0000
 ---
     
 
@@ -59,7 +59,7 @@ last_modified_at: 2026-11-04 15:05:00 +0000
 
 <p>Due to the restrictions put in place due to COVID-19 we are seeing bowls disproportionately affected. No members playing means more clubs going under.</p>
 
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/cramlington-bowling-club-lawn-bowls-northumberland-header2-250px.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="cramlington bowls club closes for 2020 season"/></a></figure>
+<figure class="wp-block-image"><img src="{{ '/img/posts/cramlington-bowling-club-lawn-bowls-northumberland-header2-250px.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="cramlington bowls club closes for 2020 season"/></figure>
 
 <blockquote class="wp-block-quote"><p><a href="https://www.cramlingtonbowlingclub.co.uk/cramlington-bowling-green-closure/">Cramlington Bowls Club</a> was one of many bowls clubs that had to close for the 2020 season</p></blockquote>
 

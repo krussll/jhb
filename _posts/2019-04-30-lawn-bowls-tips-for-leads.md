@@ -4,9 +4,9 @@ title:  "Lawn Bowls Tips For Leads"
 author: reece
 categories: [ help ]
 featured: false
-description: ""
+description: "Take your lead play to the next lead will our tips. Play better, more consistently with our top drills. Being a lead of a bowls team requires focus,."
 date: 2019-04-30 13:00:00 -0400
-last_modified_at: 2026-11-05 15:30:00 +0000
+last_modified_at: 2026-11-15 11:15:00 +0000
 ---
     
 

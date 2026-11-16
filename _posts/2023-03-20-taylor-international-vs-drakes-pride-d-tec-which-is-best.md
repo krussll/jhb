@@ -1,15 +1,16 @@
 ---
 layout: post
 title:  "Taylor International vs Drakes Pride D-TEC | Which is Best?"
+seo_title: "Taylor International vs Drakes Pride d-tec: Bias, Grip & Price Comparison"
+model_a: "taylor-international"
+model_b: "drakes-pride-d-tec"
 author: reece
 categories: [ review, bowls ]
 featured: false
-description: ""
-last_modified_at: 2026-10-29 15:45:00 +0000
+description: "Compare Taylor International vs Drakes Pride d-tec: wide bias vs narrow bias line (7.2 vs 2.0) for slow outdoor play. Compare £375 vs £375 RRP (from £95 used)."
+last_modified_at: 2026-11-15 09:05:42 +0000
 date: 2023-03-20 13:00:00 -0400
 ---
-    
-
 <p>Are you new to lawn bowling and feeling overwhelmed by the sheer number of options available? Don't worry, we've got you covered!</p>
 
 <figure class="wp-block-image size-large"><img src="{{ '/img/posts/taylor-international-vs-drakes-pride-d-tec-1024x576.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Taylor International VS Drakes Pride D Tec lawn bowls comparison" class="wp-image-2007"/></figure>

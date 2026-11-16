@@ -4,8 +4,9 @@ title:  "Lawn Bowls Tips For Skips | A Helpful Guide"
 author: reece
 categories: [ help ]
 featured: false
-description: ""
+description: "Playing skip is a great responsibility. Here are my top tips for lawn bowl skips. Playing skip for the first time is a huge step up."
 date: 2022-02-23 13:00:00 -0400
+last_modified_at: 2026-11-15 11:15:00 +0000
 ---
     
 

@@ -1,15 +1,16 @@
 ---
 layout: post
 title:  "Aero GrooVe vs Drakes Pride Professional | Which is Best?"
+seo_title: "Aero GrooVe vs Drakes Pride Professional: Bias, Grip & Price Comparison"
+model_a: "aero-groove"
+model_b: "drakes-pride-professional"
 author: reece
 categories: [ guide ]
 featured: false
-description: ""
-last_modified_at: 2026-10-29 15:45:00 +0000
+description: "Compare Aero GrooVe vs Drakes Pride Professional: mid bias vs mid bias line (5.5 vs 5.2) tested on outdoor grass surfaces. £430 vs £375 RRP (used £100–£160)."
+last_modified_at: 2026-11-15 09:05:42 +0000
 date: 2023-03-22 13:00:00 -0400
 ---
-    
-
 <p>Are you a beginner struggling with choosing the right lawn bowl? With so many options available, it can be a daunting task. That's why I'm here to help! In this blog post, I'll be comparing two popular models - the Aero GrooVe and the Drakes Pride Professional. </p>
 
 <figure class="wp-block-image size-large"><img src="{{ '/img/posts/aero-groove-vs-drakes-pride-professional-1024x576.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Aero Groove VS Drakes Pride Professional lawn bowls comparison" class="wp-image-1925"/></figure>

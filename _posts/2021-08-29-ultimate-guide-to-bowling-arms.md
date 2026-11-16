@@ -5,9 +5,9 @@ seo_title: "The Ultimate Guide to Lawn Bowling Arms"
 author: reece
 categories: [ help ]
 featured: false
-description: ""
+description: "A bowling arm is a clever device useful for disabled and elderly bowlers as it allows them to deliver the bowl from a standing position."
 date: 2021-08-29 13:00:00 -0400
-last_modified_at: 2026-11-06 13:55:13 +0000
+last_modified_at: 2026-11-15 11:15:00 +0000
 ---
     
 

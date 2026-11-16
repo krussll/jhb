@@ -1,15 +1,16 @@
 ---
 layout: post
 title:  "Aero Quantum vs Aero Sonic | Which is Best?"
+seo_title: "Aero Quantum vs Aero Sonic: Bias, Grip & Price Comparison"
+model_a: "aero-quantum"
+model_b: "aero-sonic"
 author: reece
 categories: [ guide ]
 featured: false
-description: ""
-last_modified_at: 2026-10-29 15:45:00 +0000
+description: "Compare Aero Quantum vs Aero Sonic: Aero Quantum draws tighter than Aero Sonic (4.2 vs 6.8 bias) for outdoor grass play. £425 vs £435 RRP (used £160–£160)."
+last_modified_at: 2026-11-15 09:05:42 +0000
 date: 2023-03-22 13:00:00 -0400
 ---
-    
-
 <p>Are you a beginner who's feeling overwhelmed by the sheer number of lawn bowls available? Don't worry, I'm here to help! </p>
 
 <figure class="wp-block-image size-large"><img src="{{ '/img/posts/aero-quantum-vs-aero-sonic-1024x576.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Aero Quantum VS Aero Sonic lawn bowls comparison" class="wp-image-1932"/></figure>

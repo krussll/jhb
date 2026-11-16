@@ -2,10 +2,10 @@
 layout: post
 title:  "Aero Sonic Lawn Bowl Review"
 author: reece
-categories: [ guide ]
+categories: [ review, bowls ]
 featured: false
 description: "Aero Sonic lawn bowl review: mid-to-wide trajectory test, wind stability, and head-to-head comparison with Groove and Quantum."
-last_modified_at: 2026-10-30 09:15:00 +0000
+last_modified_at: 2026-11-15 11:15:00 +0000
 date: 2023-03-22 13:00:00 -0400
 review:
   name: "Aero Sonic Lawn Bowls"

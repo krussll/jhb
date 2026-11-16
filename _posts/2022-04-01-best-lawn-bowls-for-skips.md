@@ -5,25 +5,49 @@ author: reece
 categories: [ guide ]
 featured: false
 description: "The best lawn bowls for skips compared: wider-bias and mid-bias models engineered to navigate busy heads, play weighted trail shots, and hold line on drives."
-last_modified_at: 2026-11-06 13:55:13 +0000
+last_modified_at: 2026-11-15 11:15:00 +0000
 date: 2022-04-01 13:00:00 -0400
 items:
-  - name: "Taylor International"
+  - model_id: "taylor-international"
+    name: "Taylor International"
     award: "Best for Heavy Traffic & Outdoor Heads"
     verdict: "Wide-bias workhorse that swings gracefully around short bowls while holding its line when playing trail weight."
     url: "/review/bowls/taylor-international-lawn-bowls-review/"
-  - name: "Aero Sonic"
+    price_new: 395
+    price_used_low: 120
+    price_used_high: 180
+  - model_id: "aero-sonic"
+    name: "Aero Sonic"
     award: "Best All-Surface Skip Model"
     verdict: "Wider drawing trajectory with pinpoint predictability on uneven club greens and windy afternoons."
-    url: "/guide/aero-sonic-lawn-bowl-review/"
-  - name: "Henselite Tiger"
+    url: "/review/bowls/aero-sonic-lawn-bowl-review//"
+    price_new: 445
+    price_used_low: 160
+    price_used_high: 220
+  - model_id: "henselite-tiger"
+    name: "Henselite Tiger"
     award: "Best for Weighted Drives & Controlled Running Shots"
     verdict: "Flatter shoulder arc that holds true under firm weight, allowing skips to disturb the head with surgical accuracy."
-    url: "/guide/henselite-tiger-lawn-bowls-review/"
-  - name: "Taylor Ace"
+    url: "/review/bowls/henselite-tiger-lawn-bowls-review//"
+    price_new: 410
+    price_used_low: 110
+    price_used_high: 170
+  - model_id: "taylor-ace"
+    name: "Taylor Ace"
     award: "Best Indoor & Mid-Bias Skip Bowl"
     verdict: "The ideal balance of draw and weight control for skips playing indoors or on true summer greens."
     url: "/review/bowls/taylor-ace-review/"
+    price_new: 395
+    price_used_low: 120
+    price_used_high: 190
+  - model_id: "drakes-pride-professional"
+    name: "Drakes Pride Professional"
+    award: "Best Value All-Round Skip Bowl"
+    verdict: "Continuous, forgiving draw arc providing steady weight sensitivity on natural outdoor turf."
+    url: "/review/bowls/drakes-pride-professional-review/"
+    price_new: 375
+    price_used_low: 100
+    price_used_high: 165
 faqs:
   - question: "Why do skips generally prefer wider-bias lawn bowls?"
     answer: "Skips bowl last when the head is congested with short woods and blockers. Wider-bias models (like the Taylor International or Aero Sonic) allow skips to swing around short bowls and still reach the jack, while holding line under added weight for trail and conversion shots."
@@ -39,75 +63,16 @@ faqs:
 
 <figure class="wp-block-image size-full"><img src="{{ '/img/posts/Best-lawn-bowls-for-skips.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Best lawn bowls for skips - Best Lawn Bowls For Skips | A Complete Guide" class="wp-image-680"/></figure>
 
-<div class="alert alert-success border-success my-4 p-3 rounded" style="border-left: 4px solid #1F2B5F;">
+<div class="alert alert-success border-success my-4 p-3" style="border-left: 4px solid #1F2B5F; border-radius: 0;">
   <h3 class="h5 font-weight-bold text-success mb-2"><i class="fas fa-crown mr-1"></i> Quick Verdict: Best Bowls for Skips</h3>
-  <p class="mb-2">For outdoor skips navigating congested heads on natural turf, the <strong>Taylor International</strong> and <strong>Aero Sonic</strong> provide the generous swing required to bend around short guards. For indoor skips or fast summer greens, the <strong>Taylor Ace</strong> offers the perfect balance of draw and weight control.</p>
+  <p class="mb-0">For outdoor skips navigating congested heads on natural turf, the <strong>Taylor International</strong> and <strong>Aero Sonic</strong> provide the generous swing required to bend around short guards. For indoor skips or fast summer greens, the <strong>Taylor Ace</strong> offers the perfect balance of draw and weight control.</p>
 </div>
+
+{% include roundup-product-grid.html %}
 
 <h2>Top 5 Bowls for Skips Compared</h2>
 
-<div class="table-responsive my-3">
-  <table class="table table-bordered table-hover">
-    <thead class="thead-light">
-      <tr>
-        <th scope="col">Model</th>
-        <th scope="col">Best For</th>
-        <th scope="col">Bias Rating</th>
-        <th scope="col">Running Arc</th>
-        <th scope="col">Weighted Shot Behavior</th>
-        <th scope="col">Price Guide (New / Used)</th>
-        <th scope="col">Full Review</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><strong>Taylor International</strong></td>
-        <td><span class="badge badge-success">#1 Outdoor Pick</span></td>
-        <td>Wide (7.5/10)</td>
-        <td>Generous, swinging arc</td>
-        <td>Holds line under positive weight</td>
-        <td>£395 / £120–£180</td>
-        <td><a href="{{ '/review/bowls/taylor-international-lawn-bowls-review/' | relative_url }}">Read Review &rarr;</a></td>
-      </tr>
-      <tr>
-        <td><strong>Aero Sonic</strong></td>
-        <td><span class="badge badge-primary">Uneven Greens</span></td>
-        <td>Mid-Wide (7/10)</td>
-        <td>Smooth, predictable hook</td>
-        <td>Excellent stability in wind</td>
-        <td>£445 / £160–£220</td>
-        <td><a href="{{ '/guide/aero-sonic-lawn-bowl-review/' | relative_url }}">Read Review &rarr;</a></td>
-      </tr>
-      <tr>
-        <td><strong>Henselite Tiger</strong></td>
-        <td><span class="badge badge-warning text-dark">Drives &amp; Running Shots</span></td>
-        <td>Mid-Wide (6.5/10)</td>
-        <td>Consistent banana arc</td>
-        <td>Flattens predictably on fast drives</td>
-        <td>£410 / £110–£170</td>
-        <td><a href="{{ '/guide/henselite-tiger-lawn-bowls-review/' | relative_url }}">Read Review &rarr;</a></td>
-      </tr>
-      <tr>
-        <td><strong>Taylor Ace</strong></td>
-        <td><span class="badge badge-info">Indoors &amp; Fast Turf</span></td>
-        <td>Mid Bias (5/10)</td>
-        <td>Standard progressive arc</td>
-        <td>Versatile all-position control</td>
-        <td>£395 / £110–£160</td>
-        <td><a href="{{ '/review/bowls/taylor-ace-review/' | relative_url }}">Read Review &rarr;</a></td>
-      </tr>
-      <tr>
-        <td><strong>Drakes Pride Professional</strong></td>
-        <td><span class="badge badge-secondary">All-Round Value</span></td>
-        <td>Mid-Narrow (4.5/10)</td>
-        <td>Gradual, continuous curve</td>
-        <td>Forgiving on weight adjustments</td>
-        <td>£365 / £70–£120</td>
-        <td><a href="{{ '/review/bowls/drakes-pride-professional-review/' | relative_url }}">Read Review &rarr;</a></td>
-      </tr>
-    </tbody>
-  </table>
-</div>
+{% include roundup-comparison-table.html %}
 
 <h2>How to choose a model as a skip</h2>
 

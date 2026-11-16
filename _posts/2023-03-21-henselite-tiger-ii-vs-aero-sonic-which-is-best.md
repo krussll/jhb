@@ -1,15 +1,16 @@
 ---
 layout: post
 title:  "Henselite Tiger II vs Aero Sonic | Which is Best?"
+seo_title: "Henselite Tiger II vs Aero Sonic: Bias, Grip & Price Comparison"
+model_a: "henselite-tiger-ii"
+model_b: "aero-sonic"
 author: reece
 categories: [ review, bowls ]
 featured: false
-description: ""
-last_modified_at: 2026-10-29 15:45:00 +0000
+description: "Compare Henselite Tiger II vs Aero Sonic: mid bias vs mid-wide bias line (4.8 vs 6.8) tested on outdoor grass surfaces. £435 vs £435 RRP (used £150–£160)."
+last_modified_at: 2026-11-15 09:05:42 +0000
 date: 2023-03-21 13:00:00 -0400
 ---
-    
-
 <p>Hey there, if you're a beginner in lawn bowling, choosing the right bowl can be quite overwhelming. But you don't have to worry anymore! In this blog post, I'll be comparing two of the most popular lawn bowls - the Henselite Tiger II and the Aero Sonic. </p>
 
 <figure class="wp-block-image size-large"><img src="{{ '/img/posts/henselite-tiger-ii-vs-aero-sonic-1024x576.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Henselite Tiger II VS Aero Sonic lawn bowls comparison" class="wp-image-1962"/></figure>

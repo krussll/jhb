@@ -1,15 +1,16 @@
 ---
 layout: post
 title:  "Taylor Ace vs Henselite Tiger II | Which is Best?"
+seo_title: "Taylor Ace vs Henselite Tiger II: Bias, Grip & Price Comparison"
+model_a: "taylor-ace"
+model_b: "henselite-tiger-ii"
 author: reece
 categories: [ review, bowls ]
 featured: false
-description: "Taylor Ace vs Henselite Tiger II lawn bowls comparison: bias profile differences, outdoor vs indoor suitability, grips, and verdict."
-last_modified_at: 2026-10-29 15:45:00 +0000
+description: "Compare Taylor Ace vs Henselite Tiger II: both feature balanced mid bias draw trajectories tested on outdoor grass surfaces. £395 vs £435 RRP (used £120–£150)."
+last_modified_at: 2026-11-15 09:05:42 +0000
 date: 2023-02-24 13:00:00 -0400
 ---
-    
-
 <p>The Taylor Ace and the Henselite Tiger II are two of the most popular models of bowls in the world. But what makes them so great, and which is best for you?</p>
 
 <figure class="wp-block-image size-large"><img src="{{ '/img/posts/Taylor-Ace-vs-Henselite-Tiger-II-1024x576.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Taylor Ace vs Henselite Tiger II lawn bowls comparison" class="wp-image-1642"/></figure>
@@ -23,16 +24,6 @@ date: 2023-02-24 13:00:00 -0400
   </ul>
 </div>
 
-### Side-by-Side Comparison
-
-| Feature / Specification | Taylor Ace | Henselite Tiger II |
-| :--- | :--- | :--- |
-| **Bias Rating** | Mid Bias (Wider drawing arc) | Narrow-to-Mid Bias (Straighter line) |
-| **Primary Surface** | Outdoor Grass (Slow to Medium-Fast) | Fast Grass, Synthetic & Indoor Rinks |
-| **Best Team Position** | All positions (Lead to Skip) | Lead, Second, Singles Draw Bowlers |
-| **Grip Options** | Progrip, Half-Pipe, Plain | Ergo Extreme, Diamond Grip |
-| **Size Range** | Size 00 to 5 (Medium, Heavy, X-Heavy) | Size 00 to 5 (Medium, Heavy) |
-| **Price Bracket** | £380 – £420 | £390 – £430 |
 
 <p>When choosing a set of bowls you want to make sure you are not wasting your money - I've helped many bowlers, and this is something I hear a lot. </p>
 

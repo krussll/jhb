@@ -4,8 +4,8 @@ title:  "Taylor International Lawn Bowls Review"
 author: reece
 categories: [ review, bowls ]
 featured: false
-description: ""
-last_modified_at: 2026-11-05 15:30:00 +0000
+description: "The Taylor International is a versatile outdoor bowl. The strong finish will favour those playing backend positions, but might not be one for the lead purists."
+last_modified_at: 2026-11-15 11:15:00 +0000
 date: 2021-04-27 13:00:00 -0400
 review:
   name: "Taylor International Lawn Bowls"
@@ -87,7 +87,7 @@ review:
 
 <p>I personally quite like this, as it’s great for playing around short/off-centre bowls. Hooked finished models are going out of fashion with manufacturers, as many point out that they can be susceptible to unpredictable lines, especially on outdoor rinks.</p>
 
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/taylor-international.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Taylor international - Taylor International Lawn Bowls Review"/></a></figure>
+<figure class="wp-block-image"><img src="{{ '/img/posts/taylor-international.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Taylor international - Taylor International Lawn Bowls Review"/></figure>
 
 <h2><a href="#taylor-international-trajectory-guide"></a>Taylor International Trajectory Guide</h2>
 
@@ -100,7 +100,7 @@ review:
 
 </ul>
 
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/taylor-international-colour.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Taylor international colour - Taylor International Lawn Bowls Review"/></a></figure>
+<figure class="wp-block-image"><img src="{{ '/img/posts/taylor-international-colour.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Taylor international colour - Taylor International Lawn Bowls Review"/></figure>
 
 <p>I tested with a set of size 1 Internationals. I normally play with size 2s but wanted to try a size down to see if it could help my grip. I found the sizing to be great, and it fitted in the hand really well.</p>
 
@@ -112,7 +112,7 @@ review:
 
 <p>Available in Taylor’s range of 18 colours. Colour choices are also available on the emblem and rings on the bowl, making it easy for you to find the exact look you are after.</p>
 
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/taylor-international-grip.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Taylor International Grip for lawn bowls"/></a></figure>
+<figure class="wp-block-image"><img src="{{ '/img/posts/taylor-international-grip.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Taylor International Grip for lawn bowls"/></figure>
 
 <p>The set I am testing with are in the “White Steel” option. This is a speckled option with a base of white, with a splattering of black throughout.</p>
 

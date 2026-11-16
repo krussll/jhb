@@ -4,8 +4,9 @@ title:  "World Bowls Player Rankings 2019/2020"
 author: reece
 categories: [ guide ]
 featured: false
-description: ""
+description: "Complete list of the top 21 players in the world. The top players decided by World Bowls points. Lawn bowls world rankings 2019/2020 Pos Player Total."
 date: 2020-10-01 13:00:00 -0400
+last_modified_at: 2026-11-15 11:15:00 +0000
 ---
     
 

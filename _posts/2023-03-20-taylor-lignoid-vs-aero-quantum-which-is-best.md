@@ -1,15 +1,16 @@
 ---
 layout: post
 title:  "Taylor Lignoid vs Aero Quantum | Which is Best?"
+seo_title: "Taylor Lignoid vs Aero Quantum: Bias, Grip & Price Comparison"
+model_a: "taylor-lignoid"
+model_b: "aero-quantum"
 author: reece
 categories: [ review, bowls ]
 featured: false
-description: ""
-last_modified_at: 2026-10-29 15:45:00 +0000
+description: "Compare Taylor Lignoid vs Aero Quantum: wide bias vs mid-narrow bias line (8.5 vs 4.2) tested on heavy outdoor grass surfaces. £365 vs £425 RRP (used £80–£160)."
+last_modified_at: 2026-11-15 09:05:42 +0000
 date: 2023-03-20 13:00:00 -0400
 ---
-    
-
 <p>Hey there! Are you a beginner in the world of lawn bowling? If you are, then you might be feeling overwhelmed with all the options out there. Choosing the right lawn bowl is crucial if you want to perform your best and enjoy the game. </p>
 
 <figure class="wp-block-image size-large"><img src="{{ '/img/posts/taylor-lignoid-vs-aero-quantum-1024x576.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Taylor Lignoid VS Aero Quantum lawn bowls comparison" class="wp-image-1985"/></figure>

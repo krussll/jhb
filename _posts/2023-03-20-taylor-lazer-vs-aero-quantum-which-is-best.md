@@ -1,15 +1,16 @@
 ---
 layout: post
 title:  "Taylor Lazer vs Aero Quantum | Which is Best?"
+seo_title: "Taylor Lazer vs Aero Quantum: Bias, Grip & Price Comparison"
+model_a: "taylor-lazer"
+model_b: "aero-quantum"
 author: reece
 categories: [ review, bowls ]
 featured: false
-description: ""
-last_modified_at: 2026-10-29 15:45:00 +0000
+description: "Compare Taylor Lazer vs Aero Quantum: Taylor Lazer draws tighter than Aero Quantum (2.5 vs 4.2 bias) for indoor carpet play. £385 vs £425 RRP (used £120–£160)."
+last_modified_at: 2026-11-15 09:05:42 +0000
 date: 2023-03-20 13:00:00 -0400
 ---
-    
-
 <p>Are you a beginner lawn bowler feeling overwhelmed by the variety of options on the market? Choosing the right lawn bowl can be tricky, but worry not, because in this blog post, I'll be comparing the Taylor Lazer and Aero Quantum - two popular models. </p>
 
 <figure class="wp-block-image size-large"><img src="{{ '/img/posts/taylor-lazer-vs-aero-quantum-1024x576.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Taylor Lazer VS Aero Quantum lawn bowls comparison" class="wp-image-2070"/></figure>

@@ -1,15 +1,16 @@
 ---
 layout: post
 title:  "Taylor Legacy SL vs Henselite Tiger Pro | Which is Best?"
+seo_title: "Taylor Legacy SL vs Henselite Tiger Pro: Bias, Grip & Price Comparison"
+model_a: "taylor-legacy-sl"
+model_b: "henselite-tiger-pro"
 author: reece
 categories: [ review, bowls ]
 featured: false
-description: ""
-last_modified_at: 2026-10-29 15:45:00 +0000
+description: "Compare Taylor Legacy SL vs Henselite Tiger Pro: wide bias vs mid bias line (8.0 vs 5.4) tested on outdoor grass surfaces. £365 vs £435 RRP (used £85–£160)."
+last_modified_at: 2026-11-15 09:05:42 +0000
 date: 2023-03-20 13:00:00 -0400
 ---
-    
-
 <p>Are you a beginner struggling to choose the perfect lawn bowl for your game? Don't worry, I've got you covered. </p>
 
 <figure class="wp-block-image size-large"><img src="{{ '/img/posts/taylor-legacy-sl-vs-henselite-tiger-pro-1024x576.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Taylor Legacy SL VS Henselite Tiger Pro lawn bowls comparison" class="wp-image-2000"/></figure>

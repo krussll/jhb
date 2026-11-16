@@ -1,15 +1,16 @@
 ---
 layout: post
 title:  "Taylor Vector VS vs Drakes Pride XP | Which is Best?"
+seo_title: "Taylor Vector VS vs Drakes Pride XP: Bias, Grip & Price Comparison"
+model_a: "taylor-vector-vs"
+model_b: "drakes-pride-xp"
 author: reece
 categories: [ review, bowls ]
 featured: false
-description: ""
-last_modified_at: 2026-10-29 15:45:00 +0000
+description: "Compare Taylor Vector VS vs Drakes Pride XP: narrow bias vs wide bias line (3.2 vs 7.5) tested on indoor carpet surfaces. £385 vs £380 RRP (used £110–£110)."
+last_modified_at: 2026-11-15 09:05:42 +0000
 date: 2023-03-19 13:00:00 -0400
 ---
-    
-
 <p>Are you new to lawn bowling and feeling overwhelmed with all the options out there? Don't worry, I've got you covered! </p>
 
 <figure class="wp-block-image size-large"><img src="{{ '/img/posts/taylor-vector-vs-vs-drakes-pride-xp-1024x576.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Taylor Vector VS VS Drakes Pride XP lawn bowls comparison" class="wp-image-2047"/></figure>

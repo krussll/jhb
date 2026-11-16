@@ -1,15 +1,16 @@
 ---
 layout: post
 title:  "Aero Sonic vs Drakes Pride D-TEC | Which is Best?"
+seo_title: "Aero Sonic vs Drakes Pride d-tec: Bias, Grip & Price Comparison"
+model_a: "aero-sonic"
+model_b: "drakes-pride-d-tec"
 author: reece
 categories: [ guide ]
 featured: false
-description: ""
-last_modified_at: 2026-10-29 15:45:00 +0000
+description: "Compare Aero Sonic vs Drakes Pride d-tec: mid-wide bias vs narrow bias line (6.8 vs 2.0) tested on outdoor grass surfaces. £435 vs £375 RRP (used £115–£160)."
+last_modified_at: 2026-11-15 09:05:42 +0000
 date: 2023-03-22 13:00:00 -0400
 ---
-    
-
 <p>Hey there! Are you new to the game of lawn bowls and feeling overwhelmed by the various choices out there? Trust me, I know the feeling! That's why I'm excited to walk you through a comparison of two of the most popular options - the Aero Sonic and the Drakes Pride D-TEC. </p>
 
 <figure class="wp-block-image size-large"><img src="{{ '/img/posts/aero-sonic-vs-drakes-pride-d-tec-1024x576.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Aero Sonic VS Drakes Pride D Tec lawn bowls comparison" class="wp-image-1922"/></figure>

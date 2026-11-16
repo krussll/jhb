@@ -4,8 +4,8 @@ title:  "Taylor Lazer Lawn Bowls Review"
 author: reece
 categories: [ review, bowls ]
 featured: false
-description: ""
-last_modified_at: 2026-11-05 15:30:00 +0000
+description: "6 reasons to buy/NOT buy Taylor Lazer lawn bowls. Bottom line FOR Ideal for indoor bowling Can be used outdoors when greens are running particularly fast."
+last_modified_at: 2026-11-15 11:15:00 +0000
 date: 2020-07-07 13:00:00 -0400
 review:
   name: "Taylor Lazer Lawn Bowls"

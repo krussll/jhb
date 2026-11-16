@@ -1,15 +1,16 @@
 ---
 layout: post
 title:  "Taylor Vector VS vs Taylor Legacy SL | Which is Best?"
+seo_title: "Taylor Vector VS vs Taylor Legacy SL: Bias, Grip & Price Comparison"
+model_a: "taylor-vector-vs"
+model_b: "taylor-legacy-sl"
 author: reece
 categories: [ review, bowls ]
 featured: false
-description: ""
-last_modified_at: 2026-10-29 15:45:00 +0000
+description: "Compare Taylor Vector VS vs Taylor Legacy SL: narrow bias vs wide bias line (3.2 vs 8.0) tested on indoor carpet surfaces. £385 vs £365 RRP (used £85–£110)."
+last_modified_at: 2026-11-15 09:05:42 +0000
 date: 2023-03-19 13:00:00 -0400
 ---
-    
-
 <p>Are you finding it difficult to choose the perfect lawn bowl for your game? It can be overwhelming, especially when you’re new to the sport and unaware of the various models available. But don't worry, I’m here to help. </p>
 
 <figure class="wp-block-image size-large"><img src="{{ '/img/posts/taylor-vector-vs-vs-taylor-legacy-sl-1024x576.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Taylor Vector VS VS Taylor Legacy SL lawn bowls comparison" class="wp-image-2060"/></figure>

@@ -1,15 +1,16 @@
 ---
 layout: post
 title:  "Aero Quantum vs Drakes Pride PRO-50 | Which is Best?"
+seo_title: "Aero Quantum vs Drakes Pride PRO-50: Bias, Grip & Price Comparison"
+model_a: "aero-quantum"
+model_b: "drakes-pride-pro-50"
 author: reece
 categories: [ guide ]
 featured: false
-description: ""
-last_modified_at: 2026-10-29 15:45:00 +0000
+description: "Compare Aero Quantum vs Drakes Pride PRO-50: mid-narrow bias vs mid bias line (4.2 vs 5.2) tested on outdoor grass surfaces. £425 vs £395 RRP (used £140–£160)."
+last_modified_at: 2026-11-15 09:05:42 +0000
 date: 2023-03-22 13:00:00 -0400
 ---
-    
-
 <p>Hey there! Are you a beginner feeling overwhelmed by the countless options when choosing a lawn bowl? Fear not, because in this blog post, I'm here to help! </p>
 
 <figure class="wp-block-image size-large"><img src="{{ '/img/posts/aero-quantum-vs-drakes-pride-pro-50-1024x576.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Aero Quantum VS Drakes Pride Pro lawn bowls comparison" class="wp-image-1929"/></figure>

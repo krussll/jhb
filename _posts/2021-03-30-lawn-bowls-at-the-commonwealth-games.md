@@ -4,9 +4,9 @@ title:  "A Guide To Lawn Bowls At The Commonwealth Games"
 author: reece
 categories: [ help ]
 featured: false
-description: ""
+description: "A guide taking you through the basics of lawn bowls at the Commonwealth games. Lawn Bowls is one of the core sports at The Commonwealth Games, having."
 date: 2021-03-30 13:00:00 -0400
-last_modified_at: 2026-10-30 10:25:00 +0000
+last_modified_at: 2026-11-15 11:15:00 +0000
 ---
     
 

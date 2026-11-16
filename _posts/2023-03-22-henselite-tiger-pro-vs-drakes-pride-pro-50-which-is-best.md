@@ -1,15 +1,16 @@
 ---
 layout: post
 title:  "Henselite Tiger Pro vs Drakes Pride PRO-50 | Which is Best?"
+seo_title: "Henselite Tiger Pro vs Drakes Pride PRO-50: Bias, Grip & Price Comparison"
+model_a: "henselite-tiger-pro"
+model_b: "drakes-pride-pro-50"
 author: reece
 categories: [ review, bowls ]
 featured: false
-description: ""
-last_modified_at: 2026-10-29 15:45:00 +0000
+description: "Compare Henselite Tiger Pro vs Drakes Pride PRO-50: both feature balanced mid bias draw trajectories for outdoor grass play. £435 vs £395 RRP (used £140–£160)."
+last_modified_at: 2026-11-15 09:05:42 +0000
 date: 2023-03-22 13:00:00 -0400
 ---
-    
-
 <p>Are you a beginner struggling to choose the perfect lawn bowl for yourself? Well, fret no more because in this blog post, I will help you compare two of the most sought-after lawn bowl models - the Henselite Tiger Pro and the Drakes Pride PRO-50. </p>
 
 <figure class="wp-block-image size-large"><img src="{{ '/img/posts/henselite-tiger-pro-vs-drakes-pride-pro-50-1024x576.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Henselite Tiger Pro VS Drakes Pride Pro lawn bowls comparison" class="wp-image-1950"/></figure>

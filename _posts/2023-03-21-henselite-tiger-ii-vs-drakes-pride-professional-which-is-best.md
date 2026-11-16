@@ -1,15 +1,16 @@
 ---
 layout: post
 title:  "Henselite Tiger II vs Drakes Pride Professional | Which is Best?"
+seo_title: "Henselite Tiger II vs Drakes Pride Professional: Bias, Grip & Price Comparison"
+model_a: "henselite-tiger-ii"
+model_b: "drakes-pride-professional"
 author: reece
 categories: [ review, bowls ]
 featured: false
-description: ""
-last_modified_at: 2026-10-29 15:45:00 +0000
+description: "Compare Henselite Tiger II vs Drakes Pride Professional: mid bias vs mid bias line (4.8 vs 5.2) for outdoor grass play. £435 vs £375 RRP (used £100–£150)."
+last_modified_at: 2026-11-15 09:05:42 +0000
 date: 2023-03-21 13:00:00 -0400
 ---
-    
-
 <p>Have you been struggling to choose the perfect lawn bowl for your game? If you're a beginner, you may not know where to start or even what your options are. But don't worry - I'm here to help. </p>
 
 <figure class="wp-block-image size-large"><img src="{{ '/img/posts/henselite-tiger-ii-vs-drakes-pride-professional-1024x576.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Henselite Tiger II VS Drakes Pride Professional lawn bowls comparison" class="wp-image-1960"/></figure>

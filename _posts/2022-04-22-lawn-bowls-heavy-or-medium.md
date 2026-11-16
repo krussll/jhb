@@ -5,9 +5,9 @@ seo_title: "Heavy or Medium Lawn Bowls: Which Should You Get?"
 author: reece
 categories: [ help ]
 featured: false
-description: ""
+description: "When selecting a new set of bowls it can be tricky to learn all the different terminology and the difference between different specifications."
 date: 2022-04-22 13:00:00 -0400
-last_modified_at: 2026-11-04 15:05:00 +0000
+last_modified_at: 2026-11-15 11:15:00 +0000
 ---
     
 

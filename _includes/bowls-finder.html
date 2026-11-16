@@ -1,0 +1,344 @@
+{% comment %}
+==============================================================================
+Interactive Bowls Finder & Cross-Brand Bias Comparison Spectrum Component
+Strictly follows AGENTS.md & brand-colours.md:
+- Sharp square box & button geometry (border-radius: 0)
+- Rounded pills (border-radius: 9999px) exclusively for badges and tags
+- Real-time client-side vanilla JS filtering across all 32 models
+==============================================================================
+{% endcomment %}
+
+{% assign widget_id = include.id | default: "main" %}
+{% assign initial_bias = include.initial_bias | default: "all" %}
+{% assign initial_surface = include.initial_surface | default: "all" %}
+{% assign initial_position = include.initial_position | default: "all" %}
+{% assign initial_small_hands = include.initial_small_hands | default: "false" %}
+
+<section class="bowls-finder-widget" data-component="bowls-finder" id="bowls-finder-{{ widget_id }}"
+  data-initial-bias="{{ initial_bias }}" data-initial-surface="{{ initial_surface }}"
+  data-initial-position="{{ initial_position }}" data-initial-small-hands="{{ initial_small_hands }}"
+  aria-label="Interactive Bowls Finder and Cross-Brand Bias Comparison Chart">
+
+  <!-- Header -->
+  <div class="finder-header">
+    <span class="finder-badge"><i class="fas fa-bullseye mr-1" aria-hidden="true"></i> Interactive Equipment Tool</span>
+    <h2 class="finder-title">{{ include.title | default: "Interactive Bowls Finder & Cross-Brand Bias Chart" }}</h2>
+    <p class="finder-subtitle">
+      {{ include.subtitle | default: "Compare bias trajectories, surface suitability, and New vs. Used eBay price ranges
+      across 30+ leading models from <strong>Taylor</strong>, <strong>Henselite</strong>, <strong>Drakes Pride</strong>,
+      and <strong>Aero</strong>." }}
+    </p>
+  </div>
+
+  <!-- Filter Controls Toolbar -->
+  <div class="finder-controls-panel">
+    <div class="finder-controls-grid">
+      <!-- Playing Surface Filter -->
+      <div class="finder-control-group">
+        <label for="finder-surface-{{ widget_id }}" class="finder-label">
+          <i class="fas fa-layer-group mr-1" aria-hidden="true"></i> Playing Surface
+        </label>
+        <select id="finder-surface-{{ widget_id }}" class="finder-select" data-filter="surface">
+          <option value="all" {% if initial_surface=="all" %}selected{% endif %}>All Surfaces</option>
+          <option value="indoor" {% if initial_surface=="indoor" %}selected{% endif %}>Indoor Carpet &amp; Needlefelt
+          </option>
+          <option value="fast-outdoor" {% if initial_surface=="fast-outdoor" %}selected{% endif %}>Fast Outdoor Grass
+            &amp; Synthetics</option>
+          <option value="slow-outdoor" {% if initial_surface=="slow-outdoor" %}selected{% endif %}>Slow / Heavy UK Grass
+          </option>
+          <option value="crown-green" {% if initial_surface=="crown-green" %}selected{% endif %}>Crown Green</option>
+        </select>
+      </div>
+
+      <!-- Team Position Filter -->
+      <div class="finder-control-group">
+        <label for="finder-position-{{ widget_id }}" class="finder-label">
+          <i class="fas fa-user-tag mr-1" aria-hidden="true"></i> Team Position
+        </label>
+        <select id="finder-position-{{ widget_id }}" class="finder-select" data-filter="position">
+          <option value="all" {% if initial_position=="all" %}selected{% endif %}>All Positions</option>
+          <option value="lead" {% if initial_position=="lead" %}selected{% endif %}>Lead (Front-End)</option>
+          <option value="second" {% if initial_position=="second" %}selected{% endif %}>Second</option>
+          <option value="third" {% if initial_position=="third" %}selected{% endif %}>Third / Vice-Skip</option>
+          <option value="skip" {% if initial_position=="skip" %}selected{% endif %}>Skip (Back-End)</option>
+          <option value="singles" {% if initial_position=="singles" %}selected{% endif %}>Singles</option>
+        </select>
+      </div>
+
+      <!-- Bias Profile Filter -->
+      <div class="finder-control-group">
+        <label for="finder-bias-{{ widget_id }}" class="finder-label">
+          <i class="fas fa-compass mr-1" aria-hidden="true"></i> Bias Profile
+        </label>
+        <select id="finder-bias-{{ widget_id }}" class="finder-select" data-filter="bias">
+          <option value="all" {% if initial_bias=="all" %}selected{% endif %}>All Biases (1.0 – 10.0)</option>
+          <option value="narrow" {% if initial_bias=="narrow" %}selected{% endif %}>Narrow / Straight (1.0 – 3.5)
+          </option>
+          <option value="mid" {% if initial_bias=="mid" %}selected{% endif %}>Mid-Bias All-Rounder (3.6 – 6.0)</option>
+          <option value="wide" {% if initial_bias=="wide" %}selected{% endif %}>Wide / Hook Draw (6.1 – 10.0)</option>
+        </select>
+      </div>
+
+      <!-- Small Hands Checkbox Filter -->
+      <div class="finder-control-group finder-control-group--checkbox">
+        <label class="finder-checkbox-label" for="finder-small-hands-{{ widget_id }}">
+          <input type="checkbox" id="finder-small-hands-{{ widget_id }}" data-filter="small-hands" {% if
+            initial_small_hands=="true" %}checked{% endif %}>
+          <span><i class="fas fa-hand-paper mr-1" aria-hidden="true"></i> Small Hands / Deep Grip</span>
+        </label>
+      </div>
+
+      <!-- Reset Filters Button -->
+      <div class="finder-control-group finder-control-group--reset">
+        <button type="button" class="finder-reset-btn" data-action="reset">
+          <i class="fas fa-undo mr-1" aria-hidden="true"></i> Reset Filters
+        </button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Status & Active Chips Bar -->
+  <div class="finder-status-bar d-flex align-items-center justify-content-between flex-wrap">
+    <div class="finder-status-count" data-finder-status aria-live="polite">
+      Showing <strong><span data-finder-count>{{ site.data.bowls_models.size }}</span></strong> of {{
+      site.data.bowls_models.size }} models
+    </div>
+    <div class="finder-active-chips" data-finder-chips aria-label="Active filter tags"></div>
+  </div>
+
+  <!-- Cross-Brand Bias Comparison Spectrum -->
+  <div class="finder-spectrum-section">
+    <div class="finder-spectrum-header">
+      <div class="finder-spectrum-title">
+        <i class="fas fa-chart-line mr-1" aria-hidden="true"></i> Cross-Brand Bias Spectrum (1.0 Narrow to 10.0 Wide)
+      </div>
+      <div class="finder-spectrum-legend">
+        <span class="legend-item"><span class="legend-swatch legend-swatch--narrow"></span> Narrow / Straight
+          (1.0–3.5)</span>
+        <span class="legend-item"><span class="legend-swatch legend-swatch--mid"></span> Mid-Bias (3.6–6.0)</span>
+        <span class="legend-item"><span class="legend-swatch legend-swatch--wide"></span> Wide / Swing (6.1–10.0)</span>
+      </div>
+    </div>
+
+    <div class="finder-spectrum-scroll">
+      <div class="finder-spectrum-matrix">
+        <!-- Zone Category Labels Row -->
+        <div class="spectrum-zones-row">
+          <div class="spectrum-brand-spacer" aria-hidden="true"></div>
+          <div class="spectrum-zones-track">
+            <div class="zone-block zone-block--narrow">
+              <span class="zone-name">Narrow / Fast Turf</span>
+              <span class="zone-range">(1.0–3.5)</span>
+            </div>
+            <div class="zone-block zone-block--mid">
+              <span class="zone-name">Mid-Bias All-Rounder</span>
+              <span class="zone-range">(3.6–6.0)</span>
+            </div>
+            <div class="zone-block zone-block--wide">
+              <span class="zone-name">Wide / Heavy Grass</span>
+              <span class="zone-range">(6.1–10.0)</span>
+            </div>
+          </div>
+        </div>
+
+        <!-- Numeric Ticks & Scale Row -->
+        <div class="spectrum-axis-row">
+          <div class="spectrum-brand-spacer">Brand</div>
+          <div class="spectrum-track-axis">
+            <div class="spectrum-tick" style="left: 0%;">
+              <span class="tick-label">1.0</span>
+              <span class="tick-notch"></span>
+            </div>
+            <div class="spectrum-tick" style="left: 11.11%;">
+              <span class="tick-label">2.0</span>
+              <span class="tick-notch"></span>
+            </div>
+            <div class="spectrum-tick" style="left: 22.22%;">
+              <span class="tick-label">3.0</span>
+              <span class="tick-notch"></span>
+            </div>
+            <div class="spectrum-tick" style="left: 33.33%;">
+              <span class="tick-label">4.0</span>
+              <span class="tick-notch"></span>
+            </div>
+            <div class="spectrum-tick" style="left: 44.44%;">
+              <span class="tick-label">5.0</span>
+              <span class="tick-notch"></span>
+            </div>
+            <div class="spectrum-tick" style="left: 55.55%;">
+              <span class="tick-label">6.0</span>
+              <span class="tick-notch"></span>
+            </div>
+            <div class="spectrum-tick" style="left: 66.66%;">
+              <span class="tick-label">7.0</span>
+              <span class="tick-notch"></span>
+            </div>
+            <div class="spectrum-tick" style="left: 77.77%;">
+              <span class="tick-label">8.0</span>
+              <span class="tick-notch"></span>
+            </div>
+            <div class="spectrum-tick" style="left: 88.88%;">
+              <span class="tick-label">9.0</span>
+              <span class="tick-notch"></span>
+            </div>
+            <div class="spectrum-tick" style="left: 100%;">
+              <span class="tick-label">10.0</span>
+              <span class="tick-notch"></span>
+            </div>
+          </div>
+        </div>
+
+        <!-- Brand Rows -->
+        {% assign brands = "Taylor Bowls,Drakes Pride,Henselite,Aero Bowls" | split: "," %}
+        {% for brand in brands %}
+        <div class="spectrum-brand-row">
+          <div class="spectrum-brand-name">{{ brand }}</div>
+          <div class="spectrum-row-track">
+            {% for entry in site.data.bowls_models %}
+            {% assign m = entry[1] %}
+            {% if m.brand == brand %}
+            {% if m.surfaces contains "Crown Green" or m.bias_label contains "Crown Green" or m.id contains "crown-green" %}
+              {% continue %}
+            {% endif %}
+            {% assign pct = m.bias_score | minus: 1.0 | times: 100.0 | divided_by: 9.0 %}
+            {% assign short_name = m.name | replace: 'Taylor ', '' | replace: 'Drakes Pride ', '' | replace: 'Henselite
+            ', '' | replace: 'Aero ', '' %}
+            <button type="button"
+              class="spectrum-marker {% cycle 'marker_pos': 'spectrum-marker--top', 'spectrum-marker--bottom' %}"
+              data-marker-id="{{ m.id }}" data-brand="{{ m.brand }}" data-bias="{{ m.bias_score }}"
+              data-surfaces="{{ m.surfaces | join: '|' | downcase }}"
+              data-positions="{{ m.ideal_positions | join: '|' | downcase }}"
+              data-small-hands="{{ m.small_hands_friendly }}" style="left: {{ pct }}%;"
+              title="{{ m.name }} (Bias {{ m.bias_score }}) - Click to jump to details">
+              <span class="marker-dot"></span>
+              <span class="marker-pill">{{ short_name }} <small>{{ m.bias_score }}</small></span>
+            </button>
+            {% endif %}
+            {% endfor %}
+          </div>
+        </div>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+
+  <!-- Model Cards Grid -->
+  <div class="finder-cards-grid" data-finder-grid>
+    {% for entry in site.data.bowls_models %}
+    {% assign model = entry[1] %}
+    {% assign meter_pct = model.bias_score | minus: 1.0 | times: 100.0 | divided_by: 9.0 %}
+    {% assign bias_cat = "mid" %}
+    {% if model.bias_score <= 3.5 %} {% assign bias_cat="narrow" %} {% elsif model.bias_score> 6.0 %}
+      {% assign bias_cat = "wide" %}
+      {% endif %}
+
+      <article class="finder-card" id="card-{{ model.id }}" data-id="{{ model.id }}" data-brand="{{ model.brand }}"
+        data-bias="{{ model.bias_score }}" data-bias-category="{{ bias_cat }}"
+        data-surfaces="{{ model.surfaces | join: '|' | downcase }}"
+        data-positions="{{ model.ideal_positions | join: '|' | downcase }}"
+        data-small-hands="{{ model.small_hands_friendly }}">
+
+        <!-- Card Header -->
+        <div class="finder-card-header">
+          <span class="card-brand-badge">{{ model.brand }}</span>
+          {% if bias_cat == "narrow" %}
+          <span class="card-bias-badge card-bias-badge--narrow"><i class="fas fa-compress-arrows-alt mr-1"
+              aria-hidden="true"></i> Bias {{ model.bias_score }} (Narrow)</span>
+          {% elsif bias_cat == "mid" %}
+          <span class="card-bias-badge card-bias-badge--mid"><i class="fas fa-bullseye mr-1" aria-hidden="true"></i>
+            Bias {{ model.bias_score }} (Mid-Bias)</span>
+          {% else %}
+          <span class="card-bias-badge card-bias-badge--wide"><i class="fas fa-expand-arrows-alt mr-1"
+              aria-hidden="true"></i> Bias {{ model.bias_score }} (Wide)</span>
+          {% endif %}
+        </div>
+
+        <!-- Card Thumbnail -->
+        <div class="finder-card-thumb">
+          {% if model.image %}
+          <img src="{{ model.image | relative_url }}" alt="{{ model.name }} lawn bowls" loading="lazy">
+          {% else %}
+          <div class="text-muted"><i class="fas fa-circle-notch fa-3x" aria-hidden="true"></i></div>
+          {% endif %}
+        </div>
+
+        <!-- Card Body -->
+        <div class="finder-card-body">
+          <h3 class="card-model-title">
+            <a href="{{ model.review_url | relative_url }}">{{ model.name }}</a>
+          </h3>
+
+          <!-- Mini Bias Meter Bar -->
+          <div class="card-bias-meter" aria-label="Bias score {{ model.bias_score }} out of 10">
+            <div class="meter-label-row">
+              <span>Bias Arc Spectrum</span>
+              <span><strong>{{ model.bias_score }}</strong> / 10 &middot; {{ model.bias_label }}</span>
+            </div>
+            <div class="meter-track">
+              <div class="meter-fill" style="width: {{ meter_pct }}%;"></div>
+            </div>
+          </div>
+
+          <!-- Trajectory Finish Description -->
+          <p class="card-finish-desc">{{ model.finish_profile }}</p>
+
+          <!-- Spec Pills -->
+          <div class="card-specs-list" aria-label="Model specifications">
+            {% for surface in model.surfaces %}
+            <span class="finder-pill finder-pill--blue"><i class="fas fa-layer-group mr-1" aria-hidden="true"></i> {{
+              surface }}</span>
+            {% endfor %}
+            {% for position in model.ideal_positions %}
+            <span class="finder-pill"><i class="fas fa-user-tag mr-1" aria-hidden="true"></i> {{ position }}</span>
+            {% endfor %}
+            {% if model.small_hands_friendly %}
+            <span class="finder-pill finder-pill--highlight"><i class="fas fa-hand-paper mr-1" aria-hidden="true"></i>
+              Small Hands Friendly</span>
+            {% endif %}
+            {% if model.grips and model.grips.size > 0 %}
+            <span class="finder-pill"><i class="fas fa-grip-lines mr-1" aria-hidden="true"></i> Grips: {{ model.grips |
+              join: ', ' }}</span>
+            {% endif %}
+          </div>
+
+          <!-- Dual Pricing Box -->
+          <div class="card-pricing-box">
+            <div class="pricing-item">
+              <span class="pricing-label">New Set RRP (2026):</span>
+              <span class="pricing-val">~£{{ model.price_new_gbp }}</span>
+            </div>
+            <div class="pricing-item pricing-item--used">
+              <span class="pricing-label">Second-Hand (eBay Est.):</span>
+              <span class="pricing-val pricing-val--used">£{{ model.price_used_low_gbp }}–£{{ model.price_used_high_gbp
+                }}</span>
+            </div>
+          </div>
+        </div>
+
+        <!-- Action Buttons -->
+        <div class="finder-card-actions">
+          <a href="{{ model.review_url | relative_url }}" class="finder-btn finder-btn--primary">
+            Read Review <i class="fas fa-arrow-right ml-1" aria-hidden="true"></i>
+          </a>
+          {% assign ebay_query = model.ebay_search_query | default: model.name %}
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw={{ ebay_query | url_encode }}&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;siteid=3"
+            target="_blank" rel="noopener noreferrer sponsored" class="finder-btn finder-btn--secondary"
+            title="Search second-hand {{ model.name }} on eBay">
+            Find Used <i class="fas fa-external-link-alt ml-1" aria-hidden="true"></i>
+          </a>
+        </div>
+      </article>
+      {% endfor %}
+
+      <!-- No Results Box -->
+      <div class="finder-no-results d-none" data-finder-no-results>
+        <div class="no-results-icon"><i class="fas fa-filter" aria-hidden="true"></i></div>
+        <h4 class="no-results-title">No matching lawn bowls found</h4>
+        <p class="no-results-text">No bowls models match your exact combination of playing surface, position, bias arc,
+          and grip preferences. Try relaxing one of the filter criteria.</p>
+        <button type="button" class="no-results-reset-btn" data-action="reset">
+          <i class="fas fa-undo mr-1" aria-hidden="true"></i> Reset All Filters
+        </button>
+      </div>
+  </div>
+</section>

@@ -4,8 +4,8 @@ title:  "Crown Green Bowls Tips For Beginners | A Complete Guide"
 author: reece
 categories: [ crown-green-bowls ]
 featured: false
-description: ""
-last_modified_at: 2026-10-29 15:45:00 +0000
+description: "Being physically active is such a rare sight to see within this age of people obsessively staring at their screens, not moving their eyes from their."
+last_modified_at: 2026-11-15 11:15:00 +0000
 date: 2022-05-16 13:00:00 -0400
 ---
     

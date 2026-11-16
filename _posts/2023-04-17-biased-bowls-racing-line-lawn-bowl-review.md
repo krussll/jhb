@@ -2,10 +2,10 @@
 layout: post
 title:  "Biased Bowls Racing Line Lawn Bowl Review"
 author: reece
-categories: [ guide ]
+categories: [ review, bowls ]
 featured: false
-description: ""
-last_modified_at: 2026-10-30 09:15:00 +0000
+description: "Biased Bowls may have only been around since 2020, but their range of racing inspired bowls certainly make an impact. But just how good is the Racing Line."
+last_modified_at: 2026-11-15 11:15:00 +0000
 date: 2023-04-17 13:00:00 -0400
 review:
   name: "Biased Bowls Racing Line Lawn Bowls"

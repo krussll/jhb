@@ -6,8 +6,17 @@ author: reece
 categories: [ help ]
 featured: false
 description: "What is the best size of bowls for a lady? Step-by-step hand sizing guide, 2-hand finger test, and weight recommendations to find your ideal fit without wrist strain."
-last_modified_at: 2026-11-04 15:05:00 +0000
+last_modified_at: 2026-11-14 08:15:00 +0000
 date: 2022-10-14 13:00:00 -0400
+faqs:
+  - question: "What is the average lawn bowl size for a lady?"
+    answer: "On average, female bowlers in the UK use a size 1 or size 2 Heavy bowl. Beginners and bowlers with smaller hands often begin with size 00 or 0, while players with longer fingers may comfortably use a size 3."
+  - question: "How do I measure my hand for lawn bowls?"
+    answer: "Wrap both hands around the widest running circumference of the bowl with your thumbs touching on the underside. If your middle fingertips comfortably meet on the top without straining or overlapping excessively, the bowl is the correct size."
+  - question: "Is it better for a lady to choose a smaller or larger bowl?"
+    answer: "You should choose the largest bowl you can hold and deliver comfortably for 20 seconds without wrist or forearm tension. Larger bowls carry more weight, resist being pushed out of the head by opponents, and reach long jacks with less effort."
+  - question: "What if I can't hold a size 1 bowl comfortably?"
+    answer: "If a standard size 1 feels too large, look for models with deep inset grips (like the Aero Z-Scoop or Drakes Pride PRO-50 Channel grip) or consider smaller sizes like 0, 00, or Taylor's 000/0000 range."
 ---
     
 
@@ -135,6 +144,91 @@ date: 2022-10-14 13:00:00 -0400
 <p>You should be able to keep hold of the bowl without straining, or worrying about it slipping out.</p>
 
 <p>If it does slip out, or if you are really struggling to hold the bowl, try a smaller size.</p>
+
+<h2>Lawn Bowls Size Chart (Sizes 0000 to 5)</h2>
+
+<p>The standard World Bowls sizing chart below illustrates the diameter, typical weights, and player fit across sizes 0000 through 5:</p>
+
+<div class="table-responsive my-4" style="border: 1px solid rgba(31, 43, 95, 0.14); border-radius: 0;">
+  <table class="table table-hover mb-0" style="font-family: 'Open Sans', sans-serif; font-size: 0.88rem;">
+    <thead style="background-color: #1F2B5F; color: #ffffff;">
+      <tr>
+        <th scope="col">Bowl Size</th>
+        <th scope="col">Diameter</th>
+        <th scope="col">Typical Heavy Weight</th>
+        <th scope="col">Typical Medium Weight</th>
+        <th scope="col">Player Profile</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><strong>0000</strong></td>
+        <td>114 mm (4 1/2")</td>
+        <td>~1.18 kg (2 lb 9 oz)</td>
+        <td>~1.14 kg (2 lb 8 oz)</td>
+        <td>Juniors &amp; very petite hand spans</td>
+      </tr>
+      <tr>
+        <td><strong>000</strong></td>
+        <td>115 mm (4 17/32")</td>
+        <td>~1.22 kg (2 lb 11 oz)</td>
+        <td>~1.17 kg (2 lb 9 oz)</td>
+        <td>Petite female bowlers</td>
+      </tr>
+      <tr>
+        <td><strong>00</strong></td>
+        <td>116 mm (4 9/16")</td>
+        <td>~1.26 kg (2 lb 12 oz)</td>
+        <td>~1.21 kg (2 lb 10 oz)</td>
+        <td>Ladies with smaller hands &amp; beginner players</td>
+      </tr>
+      <tr>
+        <td><strong>0</strong></td>
+        <td>118 mm (4 5/8")</td>
+        <td>~1.30 kg (2 lb 14 oz)</td>
+        <td>~1.25 kg (2 lb 12 oz)</td>
+        <td>Standard small ladies fit</td>
+      </tr>
+      <tr>
+        <td><strong>1</strong></td>
+        <td>120 mm (4 23/32")</td>
+        <td>~1.35 kg (2 lb 15 oz)</td>
+        <td>~1.30 kg (2 lb 14 oz)</td>
+        <td><strong>Most common female club size</strong></td>
+      </tr>
+      <tr>
+        <td><strong>2</strong></td>
+        <td>122 mm (4 13/16")</td>
+        <td>~1.40 kg (3 lb 1 oz)</td>
+        <td>~1.35 kg (2 lb 15 oz)</td>
+        <td>Standard female fit / smaller men</td>
+      </tr>
+      <tr>
+        <td><strong>3</strong></td>
+        <td>124 mm (4 7/8")</td>
+        <td>~1.46 kg (3 lb 3 oz)</td>
+        <td>~1.40 kg (3 lb 1 oz)</td>
+        <td>Medium hand spans</td>
+      </tr>
+      <tr>
+        <td><strong>4</strong></td>
+        <td>126 mm (4 31/32")</td>
+        <td>~1.52 kg (3 lb 5 oz)</td>
+        <td>~1.45 kg (3 lb 3 oz)</td>
+        <td>Standard male fit / taller ladies</td>
+      </tr>
+      <tr>
+        <td><strong>5</strong></td>
+        <td>128 mm (5 1/16")</td>
+        <td>~1.58 kg (3 lb 8 oz)</td>
+        <td>~1.50 kg (3 lb 5 oz)</td>
+        <td>Large hand spans</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<p>Looking for specific model recommendations? Check out our curated buyer's guide to the <a href="{{ '/help/best-lawn-bowls-for-ladies/' | relative_url }}">best lawn bowls for ladies</a>, or explore fatigue-reducing inset grips in our guide to the <a href="{{ '/guide/best-lawn-bowls-for-small-hands/' | relative_url }}">best lawn bowls for small hands</a>.</p>
 
 <h2>Conclusion</h2>
 

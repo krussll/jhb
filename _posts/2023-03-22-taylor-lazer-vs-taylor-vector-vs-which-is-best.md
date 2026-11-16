@@ -1,15 +1,16 @@
 ---
 layout: post
 title:  "Taylor Lazer vs Taylor Vector VS | Which is Best?"
+seo_title: "Taylor Lazer vs Taylor Vector VS: Bias, Grip & Price Comparison"
+model_a: "taylor-lazer"
+model_b: "taylor-vector-vs"
 author: reece
 categories: [ guide ]
 featured: false
-description: ""
-last_modified_at: 2026-10-29 15:45:00 +0000
+description: "Compare Taylor Lazer vs Taylor Vector VS: narrow bias vs narrow bias line (2.5 vs 3.2) tested on indoor carpet surfaces. £385 vs £385 RRP (used £110–£120)."
+last_modified_at: 2026-11-15 09:05:42 +0000
 date: 2023-03-22 13:00:00 -0400
 ---
-    
-
 <p>Are you new to lawn bowling and feeling overwhelmed with all the choices out there? Don't worry - I've got you covered. In this blog post, we'll be taking a closer look at two of the most popular models: the Taylor Lazer and the Taylor Vector VS. </p>
 
 <figure class="wp-block-image size-large"><img src="{{ '/img/posts/taylor-lazer-vs-taylor-vector-vs-1024x576.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Taylor Lazer VS Taylor Vector VS lawn bowls comparison" class="wp-image-2080"/></figure>

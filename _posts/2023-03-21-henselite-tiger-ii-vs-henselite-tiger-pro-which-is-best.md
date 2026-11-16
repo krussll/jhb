@@ -1,15 +1,16 @@
 ---
 layout: post
 title:  "Henselite Tiger II vs Henselite Tiger Pro | Which is Best?"
+seo_title: "Henselite Tiger II vs Henselite Tiger Pro: Bias, Grip & Price Comparison"
+model_a: "henselite-tiger-ii"
+model_b: "henselite-tiger-pro"
 author: reece
 categories: [ review, bowls ]
 featured: false
-description: ""
-last_modified_at: 2026-10-29 15:45:00 +0000
+description: "Compare Henselite Tiger II vs Henselite Tiger Pro: mid bias vs mid bias line (4.8 vs 5.4) tested on outdoor grass surfaces. £435 vs £435 RRP (used £150–£160)."
+last_modified_at: 2026-11-15 09:05:42 +0000
 date: 2023-03-21 13:00:00 -0400
 ---
-    
-
 <p>Are you a beginner struggling to choose the perfect lawn bowl? Don't worry, I've got you covered. In this blog post, I'll be introducing you to two popular models of lawn bowls - the Henselite Tiger II and the Henselite Tiger Pro. </p>
 
 <figure class="wp-block-image size-large"><img src="{{ '/img/posts/henselite-tiger-ii-vs-henselite-tiger-pro-1024x576.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Henselite Tiger II VS Henselite Tiger Pro lawn bowls comparison" class="wp-image-1967"/></figure>

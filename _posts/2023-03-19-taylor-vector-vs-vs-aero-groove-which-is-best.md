@@ -1,15 +1,16 @@
 ---
 layout: post
 title:  "Taylor Vector VS vs Aero GrooVe | Which is Best?"
+seo_title: "Taylor Vector VS vs Aero GrooVe: Bias, Grip & Price Comparison"
+model_a: "taylor-vector-vs"
+model_b: "aero-groove"
 author: reece
 categories: [ review, bowls ]
 featured: false
-description: ""
-last_modified_at: 2026-10-29 15:45:00 +0000
+description: "Compare Taylor Vector VS vs Aero GrooVe: narrow bias vs mid bias line (3.2 vs 5.5) on indoor carpet and outdoor grass greens. £385 vs £430 RRP (used £110–£160)."
+last_modified_at: 2026-11-15 09:05:42 +0000
 date: 2023-03-19 13:00:00 -0400
 ---
-    
-
 <p>Are you a beginner struggling to choose the right lawn bowl? Don't worry, I've got you covered. In this blog post, I'll be comparing two of the most popular lawn bowls - the Taylor Vector VS and the Aero GrooVe. </p>
 
 <figure class="wp-block-image size-large"><img src="{{ '/img/posts/taylor-vector-vs-vs-aero-groove-1024x576.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Taylor Vector VS VS Aero Groove lawn bowls comparison" class="wp-image-2052"/></figure>

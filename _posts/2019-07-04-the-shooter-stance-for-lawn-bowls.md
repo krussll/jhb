@@ -5,8 +5,8 @@ seo_title: "The Shooter Stance in Lawn Bowls Explained"
 author: reece
 categories: [ help ]
 featured: false
-description: ""
-last_modified_at: 2026-11-05 15:30:00 +0000
+description: "Is this the best way to improve your line control? Greater balance produces greater control, and repeatability this is the key to the perfect bowls delivery."
+last_modified_at: 2026-11-15 11:15:00 +0000
 date: 2019-07-04 13:00:00 -0400
 ---
     

@@ -4,9 +4,9 @@ title:  "5 Tips And Tricks To Improve Your Lawn Bowls Delivery"
 author: reece
 categories: [ review ]
 featured: false
-description: ""
+description: "Here is some of the guidance I have had, as well as some of the learnings I have made through practice. These are fixes for the 5 most common issues that."
 date: 2021-05-09 13:00:00 -0400
-last_modified_at: 2026-11-05 15:30:00 +0000
+last_modified_at: 2026-11-15 11:15:00 +0000
 ---
     
 

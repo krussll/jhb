@@ -1,15 +1,16 @@
 ---
 layout: post
 title:  "Taylor Blaze vs Henselite Tiger | Which is Best?"
+seo_title: "Taylor Blaze vs Henselite Tiger: Bias, Grip & Price Comparison"
+model_a: "taylor-blaze"
+model_b: "henselite-tiger"
 author: reece
 categories: [ review, bowls ]
 featured: false
-description: ""
-last_modified_at: 2026-10-29 15:45:00 +0000
+description: "Compare Taylor Blaze vs Henselite Tiger: mid bias vs mid-wide bias line (5.8 vs 6.2) tested on outdoor grass surfaces. £395 vs £425 RRP (used £130–£130)."
+last_modified_at: 2026-11-15 09:05:42 +0000
 date: 2023-03-20 13:00:00 -0400
 ---
-    
-
 <p>Are you a beginner looking to invest in a lawn bowl but feeling overwhelmed by the options available? Look no further! In this blog post, I'll be comparing two popular models for you: the Taylor Blaze and the Henselite Tiger. </p>
 
 <figure class="wp-block-image size-large"><img src="{{ '/img/posts/taylor-blaze-vs-henselite-tiger-1024x576.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Taylor Blaze VS Henselite Tiger lawn bowls comparison" class="wp-image-2038"/></figure>

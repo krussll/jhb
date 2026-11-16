@@ -4,8 +4,8 @@ title:  "Why Do Lawn Bowlers Wear White? | A Clear Guide"
 author: reece
 categories: [ help ]
 featured: false
-description: ""
-last_modified_at: 2026-10-29 15:45:00 +0000
+description: "Modern lawn bowlers have one sacred tenet: Never mess up the green. Thus, while dress codes in modern lawn bowls are now full of variety, one thing."
+last_modified_at: 2026-11-15 11:15:00 +0000
 date: 2022-07-22 13:00:00 -0400
 ---
     

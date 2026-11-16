@@ -2,10 +2,10 @@
 layout: post
 title:  "Henselite Tiger Lawn Bowls Review"
 author: reece
-categories: [ guide ]
+categories: [ review, bowls ]
 featured: false
 description: "Henselite Tiger lawn bowls review: classic mid-bias draw, outdoor green adaptability, and comparison with Tiger II and Tiger Pro."
-last_modified_at: 2026-10-30 09:30:00 +0000
+last_modified_at: 2026-11-15 11:15:00 +0000
 date: 2023-03-07 13:00:00 -0400
 review:
   name: "Henselite Tiger Lawn Bowls"

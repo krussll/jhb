@@ -98,7 +98,7 @@ review:
 
 <p>If you are looking for something a bit wider, then the Aero Groove will be ideal.</p>
 
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/aero-quantum-set.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Aero quantum set - Aero Quantum Lawn Bowls Review"/></a></figure>
+<figure class="wp-block-image"><img src="{{ '/img/posts/aero-quantum-set.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Aero quantum set - Aero Quantum Lawn Bowls Review"/></figure>
 
 <h2 class="wp-block-heading"><a href="#line-analysis"></a>Line analysis</h2>
 
@@ -128,7 +128,7 @@ review:
 
 <p>For the first two tests the Quantums performed fantastically. In the dry conditions they offered a decent amount of turn, and even when the dew developed late in the evening game - which can often change the line of a bowl - the draw line was hardly affected.</p>
 
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/aero-quantum-single.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Aero quantum single - Aero Quantum Lawn Bowls Review"/></a></figure>
+<figure class="wp-block-image"><img src="{{ '/img/posts/aero-quantum-single.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Aero quantum single - Aero Quantum Lawn Bowls Review"/></figure>
 
 <p>As expected, on the heavy wet green the line did narrow up. The draw would be too narrow for some - however overall I would not want others to be put off by the Quantums, especially if you are a lead and play predominantly on good quality greens.</p>
 
@@ -153,7 +153,7 @@ review:
 
 <p>I played with a set of size 2 heavy. The size 2 felt much heavier than size twos from other brands. I compared them to an old set of Drake's Pride Professionals and the Quantums were heavier. The Quantum bowl was only 30g heavier than the older Professional model, but this would almost be the equivalent of an extra half size. This could be due to them being a new set compared to an older model - however this should be something to look out for if you are upgrading from an old set.</p>
 
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/aero-quantum-side.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Aero quantum side - Aero Quantum Lawn Bowls Review"/></a></figure>
+<figure class="wp-block-image"><img src="{{ '/img/posts/aero-quantum-side.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Aero quantum side - Aero Quantum Lawn Bowls Review"/></figure>
 
 <p>I personally loved the extra weight in the hand. It ment my shots carried more momentum, meaning I didn't have to "push" so much in my action. This is especially true for the slightly heavier early season greens I have played on so far.</p>
 
@@ -178,7 +178,7 @@ review:
 
 <p>The depth is subtle, so it doesn't feel too strange in your hand, and it doesn't restrict your finger placement. But the bowl does feel smaller in the hand - this is great as it helps when playing on days when your grip doesn't feel as secure as normal - such as in the wet.</p>
 
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/aero-quantum-grip.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Aero Quantum Grip for lawn bowls"/></a></figure>
+<figure class="wp-block-image"><img src="{{ '/img/posts/aero-quantum-grip.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Aero Quantum Grip for lawn bowls"/></figure>
 
 <p>Previously I have used dimple grips in the past, so was entrigued to see how the Zigzag grip would perform. I was really surprised by how well my fingers slotted into the grooves of the Zigzags.</p>
 
@@ -205,7 +205,7 @@ review:
 
 <p>I got my Quantums in the "Arctic" Trifecta option. The colour looks great in the sun, and distribution of the speckles is nice and even.</p>
 
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/aero-quantum-surface.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Aero quantum surface - Aero Quantum Lawn Bowls Review"/></a></figure>
+<figure class="wp-block-image"><img src="{{ '/img/posts/aero-quantum-surface.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Aero quantum surface - Aero Quantum Lawn Bowls Review"/></figure>
 
 <p>The "Build a Bowl" feature only shows how the affect looks from the side, and doesn't show what the running surface looks like. It's a shame as the join of the colours on the running surface is one of my favourite features.</p>
 

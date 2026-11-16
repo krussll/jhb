@@ -1,15 +1,16 @@
 ---
 layout: post
 title:  "Henselite Tiger EVO vs Drakes Pride PRO-50 | Which is Best?"
+seo_title: "Henselite Tiger EVO vs Drakes Pride PRO-50: Bias, Grip & Price Comparison"
+model_a: "henselite-tiger-evo"
+model_b: "drakes-pride-pro-50"
 author: reece
 categories: [ review, bowls ]
 featured: false
-description: ""
-last_modified_at: 2026-10-29 15:45:00 +0000
+description: "Compare Henselite Tiger EVO vs Drakes Pride PRO-50: mid-wide bias vs mid bias line (6.5 vs 5.2) for outdoor grass play. £445 vs £395 RRP (used £140–£180)."
+last_modified_at: 2026-11-15 09:05:42 +0000
 date: 2023-03-22 13:00:00 -0400
 ---
-    
-
 <p>Are you feeling overwhelmed by the countless options available when it comes to choosing the perfect lawn bowl? As a beginner, it can be tough to know where to start. </p>
 
 <figure class="wp-block-image size-large"><img src="{{ '/img/posts/henselite-tiger-evo-vs-drakes-pride-pro-50-1024x576.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Henselite Tiger Evo VS Drakes Pride Pro lawn bowls comparison" class="wp-image-1942"/></figure>

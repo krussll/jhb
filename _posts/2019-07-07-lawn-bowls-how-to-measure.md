@@ -5,9 +5,9 @@ seo_title: "How to Measure in Lawn Bowls: Step-by-Step Guide"
 author: reece
 categories: [ help ]
 featured: false
-description: ""
+description: "Measuring is an important skill that any bowler must learn. Follow our simple step-by-step guide to get you started. Deciding who has won shot at the."
 date: 2019-07-07 13:00:00 -0400
-last_modified_at: 2026-11-04 15:05:00 +0000
+last_modified_at: 2026-11-15 11:15:00 +0000
 ---
     
 

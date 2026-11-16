@@ -1,15 +1,16 @@
 ---
 layout: post
 title:  "Taylor Vector VS vs Taylor International | Which is Best?"
+seo_title: "Taylor Vector VS vs Taylor International: Bias, Grip & Price Comparison"
+model_a: "taylor-vector-vs"
+model_b: "taylor-international"
 author: reece
 categories: [ review, bowls ]
 featured: false
-description: ""
-last_modified_at: 2026-10-29 15:45:00 +0000
+description: "Compare Taylor Vector VS vs Taylor International: narrow bias vs wide bias line (3.2 vs 7.2) tested on indoor carpet surfaces. £385 vs £375 RRP (used £95–£110)."
+last_modified_at: 2026-11-15 09:05:42 +0000
 date: 2023-03-20 13:00:00 -0400
 ---
-    
-
 <p>Are you a beginner struggling to choose the perfect lawn bowl? Look no further! In this post, I'll be comparing two popular models - the Taylor Vector VS and the Taylor International. </p>
 
 <figure class="wp-block-image size-large"><img src="{{ '/img/posts/taylor-vector-vs-vs-taylor-international-1024x576.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Taylor Vector VS VS Taylor International lawn bowls comparison" class="wp-image-2061"/></figure>

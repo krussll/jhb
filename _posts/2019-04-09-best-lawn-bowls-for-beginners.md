@@ -9,24 +9,40 @@ skill_level: Beginner
 pathway: choose-your-bowls
 next_step: /guide/how-to-choose-a-set-of-lawn-bowls/
 date: 2019-04-09 13:00:00 -0400
-last_modified_at: 2026-11-12 08:26:00 +0000
+last_modified_at: 2026-11-14 09:18:00 +0000
 items:
-  - name: "Taylor Ace"
+  - model_id: "taylor-ace"
+    name: "Taylor Ace"
     award: "Best All-Rounder & Club Standard"
     verdict: "The benchmark mid-bias bowl in the UK. Smooth, forgiving draw arc suitable for every green condition and rink position."
     url: "/review/bowls/taylor-ace-review/"
-  - name: "Drakes Pride Professional"
+    price_new: 395
+    price_used_low: 120
+    price_used_high: 190
+  - model_id: "drakes-pride-professional"
+    name: "Drakes Pride Professional"
     award: "Best Outdoor Value"
     verdict: "Legendary English club favourite. Predictable, gradual finish that forgives delivery inconsistencies on heavier outdoor greens."
     url: "/review/bowls/drakes-pride-professional-review/"
-  - name: "Taylor Vector VS"
+    price_new: 375
+    price_used_low: 100
+    price_used_high: 165
+  - model_id: "taylor-vector-vs"
+    name: "Taylor Vector VS"
     award: "Best for Fast Greens & Leads"
     verdict: "Narrow running line engineered for fast outdoor grass and indoor needlefelt carpets, giving front-end players pinpoint draw accuracy."
     url: "/review/bowls/taylor-vector-vs-review/"
-  - name: "Aero Quantum"
+    price_new: 385
+    price_used_low: 110
+    price_used_high: 175
+  - model_id: "aero-quantum"
+    name: "Aero Quantum"
     award: "Best Modern Mid-Narrow"
     verdict: "Precision engineered with an exceptionally flat finish and Aero's proprietary Z-Scoop grip for effortless control."
     url: "/review/bowls/aero-quantum-review/"
+    price_new: 425
+    price_used_low: 160
+    price_used_high: 240
 faqs:
   - question: "Which model of lawn bowls is best for a beginner?"
     answer: "The Taylor Ace and Drakes Pride Professional are widely considered the two best models for beginner lawn bowlers. Both feature a predictable mid-bias trajectory, forgiving draw curves, and versatile performance across both indoor surfaces and outdoor greens."
@@ -42,10 +58,12 @@ faqs:
 
 <figure class="wp-block-image size-full"><img src="{{ '/img/posts/best-lawn-bowls-for-beginners.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Best lawn bowls for beginners" class="wp-image-365"/></figure>
 
-<div class="alert alert-success border-success my-4 p-3 rounded" style="border-left: 4px solid #1F2B5F;">
+<div class="alert alert-success border-success my-4 p-3" style="border-left: 4px solid #1F2B5F; border-radius: 0;">
   <h3 class="h5 font-weight-bold text-success mb-2"><i class="fas fa-trophy mr-1"></i> Quick Verdict: Best Bowls for Beginners</h3>
-  <p class="mb-2">If you want one set of bowls that can handle damp early-season outdoor greens, fast summer turf, and indoor rinks, choose the <strong>Taylor Ace</strong> or <strong>Drakes Pride Professional</strong>. Both are forgiving mid-bias models that allow you to develop consistent line and length without fighting an extreme swing.</p>
+  <p class="mb-0">If you want one set of bowls that can handle damp early-season outdoor greens, fast summer turf, and indoor rinks, choose the <strong>Taylor Ace</strong> or <strong>Drakes Pride Professional</strong>. Both are forgiving mid-bias models that allow you to develop consistent line and length without fighting an extreme swing.</p>
 </div>
+
+{% include roundup-product-grid.html %}
 
 <h2>Top Recommended Bowls for Beginners Compared</h2>
 
@@ -54,6 +72,10 @@ faqs:
 <p>Once you've learnt the <a href="{{ '/help/lawn-bowls-rules' | relative_url }}">rules of lawn bowls</a>, and you've decided you want to take up the sport, you'll need to get your own set of bowls.</p>
 
 <p>Selecting your first set of bowls can be a bit of a minefield. With over 30 models currently on sale, all with unique characteristics, in 8 different sizes, and a multitude of colours to choose from it’s no wonder we get intimidated!</p>
+
+<p>To help you navigate all options across major brands, use our interactive bowls finder and cross-brand bias chart below. Filter by your club green speed, rink role, or hand size to find the ideal match:</p>
+
+{% include bowls-finder.html id="beginners" initial_bias="mid" %}
 
 <p>Choosing a set of woods will eventually come down to a mixture of personal preference, and the demands of how you play. These demands can include:</p>
 

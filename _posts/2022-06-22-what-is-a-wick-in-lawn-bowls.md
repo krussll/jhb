@@ -4,8 +4,8 @@ title:  "What Is A Wick In Lawn Bowls? | Simply Explained!"
 author: reece
 categories: [ help ]
 featured: false
-description: ""
-last_modified_at: 2026-10-30 10:25:00 +0000
+description: "Lawn bowls is a game of skill, and quite a bit of luck! Sometimes you can play badly, and still win. When you see someone play a lucky shot you will often."
+last_modified_at: 2026-11-15 11:15:00 +0000
 date: 2022-06-22 13:00:00 -0400
 ---
     

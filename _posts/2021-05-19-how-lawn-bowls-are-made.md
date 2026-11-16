@@ -4,9 +4,9 @@ title:  "How Lawn Bowls Are Made | A Simple Guide"
 author: reece
 categories: [ help ]
 featured: false
-description: ""
+description: "Anyone can play lawn bowls since it is a very easy game to learn. Bowling is relaxing and competitive at the same time, depending on how active the players are."
 date: 2021-05-19 13:00:00 -0400
-last_modified_at: 2026-10-30 10:25:00 +0000
+last_modified_at: 2026-11-15 11:15:00 +0000
 ---
     
 

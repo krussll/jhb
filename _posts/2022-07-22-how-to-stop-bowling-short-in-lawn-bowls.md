@@ -5,8 +5,8 @@ seo_title: "How to Stop Bowling Short in Lawn Bowls"
 author: reece
 categories: [ help ]
 featured: false
-description: ""
-last_modified_at: 2026-11-05 15:30:00 +0000
+description: "Lawn bowls looks dead easy to anyone who has never played it. After all, if folks manage to partake in the game well past 80, it must be a no-brainer?"
+last_modified_at: 2026-11-15 11:15:00 +0000
 date: 2022-07-22 13:00:00 -0400
 ---
     

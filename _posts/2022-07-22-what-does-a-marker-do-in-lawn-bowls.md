@@ -5,8 +5,8 @@ seo_title: "What Does a Marker Do in Lawn Bowls?"
 author: reece
 categories: [ help ]
 featured: false
-description: ""
-last_modified_at: 2026-11-04 15:05:00 +0000
+description: "The marker has several vital functions in lawn bowls that ensure the rules of lawn bowls are correctly applied, and the scoring is fair."
+last_modified_at: 2026-11-15 11:15:00 +0000
 date: 2022-07-22 13:00:00 -0400
 ---
     

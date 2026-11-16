@@ -4,9 +4,9 @@ title:  "Using Aiming Points In Lawn Bowls | A Complete Guide"
 author: reece
 categories: [ guide ]
 featured: false
-description: ""
+description: "Finding the line to bowl is one of the foundations of bowls. When you find it, and are able to stay on it, it can make the rest of your game much easier."
 date: 2019-07-14 13:00:00 -0400
-last_modified_at: 2026-11-05 15:30:00 +0000
+last_modified_at: 2026-11-15 11:15:00 +0000
 ---
     
 

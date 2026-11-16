@@ -5,9 +5,9 @@ seo_title: "How to Prepare for a New Lawn Bowls Season"
 author: reece
 categories: [ help ]
 featured: false
-description: ""
+description: "A helpful guide on how to prepare for a new season. Make the most of the time you have to get your game back in shape fast."
 date: 2020-11-07 13:00:00 -0400
-last_modified_at: 2026-11-05 15:30:00 +0000
+last_modified_at: 2026-11-15 11:15:00 +0000
 ---
     
 

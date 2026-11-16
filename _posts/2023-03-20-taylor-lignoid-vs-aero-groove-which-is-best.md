@@ -1,15 +1,16 @@
 ---
 layout: post
 title:  "Taylor Lignoid vs Aero GrooVe | Which is Best?"
+seo_title: "Taylor Lignoid vs Aero GrooVe: Bias, Grip & Price Comparison"
+model_a: "taylor-lignoid"
+model_b: "aero-groove"
 author: reece
 categories: [ review, bowls ]
 featured: false
-description: ""
-last_modified_at: 2026-10-29 15:45:00 +0000
+description: "Compare Taylor Lignoid vs Aero GrooVe: wide bias vs mid bias line (8.5 vs 5.5) tested on heavy outdoor grass surfaces. Compare £365 vs £430 RRP (from £80 used)."
+last_modified_at: 2026-11-15 09:05:42 +0000
 date: 2023-03-20 13:00:00 -0400
 ---
-    
-
 <p>Hey there! Are you having a hard time choosing the perfect lawn bowl for you? Especially if you're new to the game, it can be a bit overwhelming to navigate through the various options that are available. But don't worry, I've got your back. </p>
 
 <figure class="wp-block-image size-large"><img src="{{ '/img/posts/taylor-lignoid-vs-aero-groove-1024x576.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Taylor Lignoid VS Aero Groove lawn bowls comparison" class="wp-image-1984"/></figure>

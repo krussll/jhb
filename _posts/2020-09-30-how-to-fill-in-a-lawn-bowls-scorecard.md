@@ -5,8 +5,8 @@ seo_title: "How to Fill In a Lawn Bowls Scorecard"
 author: reece
 categories: [ help ]
 featured: false
-description: ""
-last_modified_at: 2026-11-04 15:05:00 +0000
+description: "We cover how to fill in a lawn bowls scorecard. This is a helpful illustrated guide for anyone unsure on how to do it. What does a scorecard look like?"
+last_modified_at: 2026-11-15 11:15:00 +0000
 date: 2020-09-30 13:00:00 -0400
 ---
     
@@ -17,7 +17,7 @@ date: 2020-09-30 13:00:00 -0400
 
 <h2>What does a scorecard look like?</h2>
 
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/scorecard.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="Lawn bowls scorecard layout example"/></a></figure>
+<figure class="wp-block-image"><img src="{{ '/img/posts/scorecard.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="Lawn bowls scorecard layout example"/></figure>
 
 <h3><a href="#the-sections-of-a-scorecard"></a>The sections of a scorecard</h3>
 
@@ -25,19 +25,19 @@ date: 2020-09-30 13:00:00 -0400
 
 <h4><a href="#the-game"></a>The Game</h4>
 
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/game-details.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="Game details - How To Fill In A Lawn Bowls Scorecard | A Helpful Illustrated Guide"/></a></figure>
+<figure class="wp-block-image"><img src="{{ '/img/posts/game-details.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="Game details - How To Fill In A Lawn Bowls Scorecard | A Helpful Illustrated Guide"/></figure>
 
 <p>The top section normally consists of the game being played. From our example, we would need to add in the competition, the date, who was playing (home team going first), and what number rink they are playing on.</p>
 
 <h4><a href="#the-teams"></a>The Teams</h4>
 
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/team-details.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="Team details - How To Fill In A Lawn Bowls Scorecard | A Helpful Illustrated Guide"/></a></figure>
+<figure class="wp-block-image"><img src="{{ '/img/posts/team-details.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="Team details - How To Fill In A Lawn Bowls Scorecard | A Helpful Illustrated Guide"/></figure>
 
 <p>Next comes the teams. Each member of the team is listed in position order. If you are playing triples, you would only fill in “1”, “2”, and “SKIP” as no “3” is playing.</p>
 
 <h3><a href="#the-score"></a>The Score</h3>
 
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/shots-details.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="Shots details - How To Fill In A Lawn Bowls Scorecard | A Helpful Illustrated Guide"/></a></figure>
+<figure class="wp-block-image"><img src="{{ '/img/posts/shots-details.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="Shots details - How To Fill In A Lawn Bowls Scorecard | A Helpful Illustrated Guide"/></figure>
 
 <p>Each row represents a single end. After each end, you write the shots scored for the winning team in the SHOTS column and a dash (“-”) for the losing team’s SHOTS column. You write and the cumulative score for each team in the TOTALS column.</p>
 
@@ -45,7 +45,7 @@ date: 2020-09-30 13:00:00 -0400
 
 <h4><a href="#the-result"></a>The Result</h4>
 
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/result-details.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="Result details - How To Fill In A Lawn Bowls Scorecard | A Helpful Illustrated Guide"/></a></figure>
+<figure class="wp-block-image"><img src="{{ '/img/posts/result-details.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="Result details - How To Fill In A Lawn Bowls Scorecard | A Helpful Illustrated Guide"/></figure>
 
 <p>Once the game is completed, either from total ends or total shots, the final score is written in the bottom section.</p>
 
@@ -62,15 +62,15 @@ date: 2020-09-30 13:00:00 -0400
 
 <h3><a href="#before-the-game"></a>Before the game</h3>
 
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/game-details-completed.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="Game details completed - How To Fill In A Lawn Bowls Scorecard | A Helpful Illustrated Guide"/></a></figure>
+<figure class="wp-block-image"><img src="{{ '/img/posts/game-details-completed.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="Game details completed - How To Fill In A Lawn Bowls Scorecard | A Helpful Illustrated Guide"/></figure>
 
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/team-details-completed.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="Team details completed - How To Fill In A Lawn Bowls Scorecard | A Helpful Illustrated Guide"/></a></figure>
+<figure class="wp-block-image"><img src="{{ '/img/posts/team-details-completed.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="Team details completed - How To Fill In A Lawn Bowls Scorecard | A Helpful Illustrated Guide"/></figure>
 
 <p>We need to fill in the details of the game, and the teams. Here we show the inputs for our example.</p>
 
 <h3><a href="#end-1"></a>End 1</h3>
 
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/scores-details-end1.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="Scores details end1 - How To Fill In A Lawn Bowls Scorecard | A Helpful Illustrated Guide"/></a></figure>
+<figure class="wp-block-image"><img src="{{ '/img/posts/scores-details-end1.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="Scores details end1 - How To Fill In A Lawn Bowls Scorecard | A Helpful Illustrated Guide"/></figure>
 
 <p>Team A scores 2. So we put “2” in the left SHOTS column and “-” in the right SHOTS column.</p>
 
@@ -78,7 +78,7 @@ date: 2020-09-30 13:00:00 -0400
 
 <h3><a href="#end-2"></a>End 2</h3>
 
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/scores-details-end2.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="Scores details end2 - How To Fill In A Lawn Bowls Scorecard | A Helpful Illustrated Guide"/></a></figure>
+<figure class="wp-block-image"><img src="{{ '/img/posts/scores-details-end2.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="Scores details end2 - How To Fill In A Lawn Bowls Scorecard | A Helpful Illustrated Guide"/></figure>
 
 <p>Team A scores 2. So we put “2” in the left SHOTS column and “-” in the right SHOTS column.</p>
 
@@ -86,7 +86,7 @@ date: 2020-09-30 13:00:00 -0400
 
 <h3><a href="#end-3"></a>End 3</h3>
 
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/scores-details-end3.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="Scores details end3 - How To Fill In A Lawn Bowls Scorecard | A Helpful Illustrated Guide"/></a></figure>
+<figure class="wp-block-image"><img src="{{ '/img/posts/scores-details-end3.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="Scores details end3 - How To Fill In A Lawn Bowls Scorecard | A Helpful Illustrated Guide"/></figure>
 
 <p>Team A scores 1. So we put “1” in the left SHOTS column and “-” in the right SHOTS column.</p>
 
@@ -94,7 +94,7 @@ date: 2020-09-30 13:00:00 -0400
 
 <h3><a href="#end-4"></a>End 4</h3>
 
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/scores-details-end4.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="Scores details end4 - How To Fill In A Lawn Bowls Scorecard | A Helpful Illustrated Guide"/></a></figure>
+<figure class="wp-block-image"><img src="{{ '/img/posts/scores-details-end4.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="Scores details end4 - How To Fill In A Lawn Bowls Scorecard | A Helpful Illustrated Guide"/></figure>
 
 <p>Team B scores 2. So we put “-” in the left SHOTS column and “2” in the right SHOTS column.</p>
 
@@ -102,7 +102,7 @@ date: 2020-09-30 13:00:00 -0400
 
 <h3><a href="#end-5"></a>End 5</h3>
 
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/scores-details-end5.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="Scores details end5 - How To Fill In A Lawn Bowls Scorecard | A Helpful Illustrated Guide"/></a></figure>
+<figure class="wp-block-image"><img src="{{ '/img/posts/scores-details-end5.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="Scores details end5 - How To Fill In A Lawn Bowls Scorecard | A Helpful Illustrated Guide"/></figure>
 
 <p>Team A scores 2. So we put “2” in the left SHOTS column and “-” in the right SHOTS column.</p>
 
@@ -110,7 +110,7 @@ date: 2020-09-30 13:00:00 -0400
 
 <h3><a href="#end-6"></a>End 6</h3>
 
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/scores-details-end6.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="Scores details end6 - How To Fill In A Lawn Bowls Scorecard | A Helpful Illustrated Guide"/></a></figure>
+<figure class="wp-block-image"><img src="{{ '/img/posts/scores-details-end6.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="Scores details end6 - How To Fill In A Lawn Bowls Scorecard | A Helpful Illustrated Guide"/></figure>
 
 <p>Team B scores 4. So we put “-” in the left SHOTS column and “4” in the right SHOTS column.</p>
 
@@ -118,7 +118,7 @@ date: 2020-09-30 13:00:00 -0400
 
 <h3><a href="#end-7"></a>End 7</h3>
 
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/scores-details-end7.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="Scores details end7 - How To Fill In A Lawn Bowls Scorecard | A Helpful Illustrated Guide"/></a></figure>
+<figure class="wp-block-image"><img src="{{ '/img/posts/scores-details-end7.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="Scores details end7 - How To Fill In A Lawn Bowls Scorecard | A Helpful Illustrated Guide"/></figure>
 
 <p>Team A scores 1. So we put “1” in the left SHOTS column and “-” in the right SHOTS column.</p>
 
@@ -126,13 +126,13 @@ date: 2020-09-30 13:00:00 -0400
 
 <h3><a href="#the-result-1"></a>The result</h3>
 
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/result-details-completed.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="Result details completed - How To Fill In A Lawn Bowls Scorecard | A Helpful Illustrated Guide"/></a></figure>
+<figure class="wp-block-image"><img src="{{ '/img/posts/result-details-completed.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="Result details completed - How To Fill In A Lawn Bowls Scorecard | A Helpful Illustrated Guide"/></figure>
 
 <p>Team A wins by 8 shots to 6. So we put the final score in the bottom section, and we’re done!</p>
 
 <p>Some scorecards require the Skips to sign it, however, this will depend on the <a href="{{ '/help/lawn-bowls-rules' | relative_url }}">rules of the competition being played</a>.</p>
 
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/scorecard-completed.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="Lawn bowls scorecard layout example"/></a></figure>
+<figure class="wp-block-image"><img src="{{ '/img/posts/scorecard-completed.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="Lawn bowls scorecard layout example"/></figure>
 
 <p>As you can see the scorecard is pretty straight forward once you’ve got the hang of it! And as always, don’t be afraid to ask if you ever get stuck, there will always be someone experienced around to help.</p>
 

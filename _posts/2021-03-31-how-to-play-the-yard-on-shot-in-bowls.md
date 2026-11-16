@@ -5,9 +5,9 @@ seo_title: "How to Play a Yard-On Shot in Lawn Bowls"
 author: reece
 categories: [ help ]
 featured: false
-description: ""
+description: "The yard-on shot is one of the productive shots to play in lawn bowls, but is the hardest to master. My guide will help you to play the shot better."
 date: 2021-03-31 13:00:00 -0400
-last_modified_at: 2026-11-05 15:30:00 +0000
+last_modified_at: 2026-11-15 11:15:00 +0000
 ---
     
 

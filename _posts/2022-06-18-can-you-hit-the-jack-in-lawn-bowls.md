@@ -5,8 +5,8 @@ seo_title: "Can You Hit the Jack in Lawn Bowls? Rules Explained"
 author: reece
 categories: [ help ]
 featured: false
-description: ""
-last_modified_at: 2026-11-04 15:05:00 +0000
+description: "As a beginner you will often have a bunch of questions on how to play the game, and what happens when certain things happen."
+last_modified_at: 2026-11-15 11:15:00 +0000
 date: 2022-06-18 13:00:00 -0400
 ---
     

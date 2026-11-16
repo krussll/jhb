@@ -1,15 +1,16 @@
 ---
 layout: post
 title:  "Taylor Vector VS vs Drakes Pride D-TEC | Which is Best?"
+seo_title: "Taylor Vector VS vs Drakes Pride d-tec: Bias, Grip & Price Comparison"
+model_a: "taylor-vector-vs"
+model_b: "drakes-pride-d-tec"
 author: reece
 categories: [ review, bowls ]
 featured: false
-description: ""
-last_modified_at: 2026-10-29 15:45:00 +0000
+description: "Compare Taylor Vector VS vs Drakes Pride d-tec: narrow bias vs narrow bias line (3.2 vs 2.0) for indoor carpet play. Compare £385 vs £375 RRP (from £110 used)."
+last_modified_at: 2026-11-15 09:05:42 +0000
 date: 2023-03-19 13:00:00 -0400
 ---
-    
-
 <p>Hey there! Have you been feeling a bit overwhelmed when it comes to choosing the perfect lawn bowl? You're not alone! As a beginner, it can be tough to navigate the various options out there. That's why I'm here to help. </p>
 
 <figure class="wp-block-image size-large"><img src="{{ '/img/posts/taylor-vector-vs-vs-drakes-pride-d-tec-1024x576.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Taylor Vector VS VS Drakes Pride D Tec lawn bowls comparison" class="wp-image-2050"/></figure>

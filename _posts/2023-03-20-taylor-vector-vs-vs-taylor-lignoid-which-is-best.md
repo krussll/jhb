@@ -1,15 +1,16 @@
 ---
 layout: post
 title:  "Taylor Vector VS vs Taylor Lignoid | Which is Best?"
+seo_title: "Taylor Vector VS vs Taylor Lignoid: Bias, Grip & Price Comparison"
+model_a: "taylor-vector-vs"
+model_b: "taylor-lignoid"
 author: reece
 categories: [ review, bowls ]
 featured: false
-description: ""
-last_modified_at: 2026-10-29 15:45:00 +0000
+description: "Compare Taylor Vector VS vs Taylor Lignoid: narrow bias vs wide bias line (3.2 vs 8.5) tested on indoor carpet surfaces. £385 vs £365 RRP (used £80–£110)."
+last_modified_at: 2026-11-15 09:05:42 +0000
 date: 2023-03-20 13:00:00 -0400
 ---
-    
-
 <p>Are you new to the world of lawn bowls and feeling overwhelmed by the many options available? Don't worry, I'm here to help you! In this blog post, I'll be comparing two top lawn bowl models – the Taylor Vector VS and the Taylor Lignoid. </p>
 
 <figure class="wp-block-image size-large"><img src="{{ '/img/posts/taylor-vector-vs-vs-taylor-lignoid-1024x576.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Taylor Vector VS VS Taylor Lignoid lawn bowls comparison" class="wp-image-2059"/></figure>

@@ -1,15 +1,16 @@
 ---
 layout: post
 title:  "Taylor Lignoid vs Aero Sonic | Which is Best?"
+seo_title: "Taylor Lignoid vs Aero Sonic: Bias, Grip & Price Comparison"
+model_a: "taylor-lignoid"
+model_b: "aero-sonic"
 author: reece
 categories: [ review, bowls ]
 featured: false
-description: ""
-last_modified_at: 2026-10-29 15:45:00 +0000
+description: "Compare Taylor Lignoid vs Aero Sonic: wide bias vs mid-wide bias line (8.5 vs 6.8) tested on heavy outdoor grass surfaces. £365 vs £435 RRP (used £80–£160)."
+last_modified_at: 2026-11-15 09:05:42 +0000
 date: 2023-03-20 13:00:00 -0400
 ---
-    
-
 <p>Are you a beginner when it comes to lawn bowls and feeling overwhelmed by the different options available? It can be a daunting task, but don't worry - I'm here to help. </p>
 
 <figure class="wp-block-image size-large"><img src="{{ '/img/posts/taylor-lignoid-vs-aero-sonic-1024x576.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Taylor Lignoid VS Aero Sonic lawn bowls comparison" class="wp-image-1983"/></figure>

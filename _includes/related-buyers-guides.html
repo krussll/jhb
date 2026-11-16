@@ -1,0 +1,69 @@
+{% comment %}
+==============================================================================
+Related Buyer's Guides Callout Component
+Bidirectional internal link consolidation for individual bowl reviews and comparisons.
+Adheres strictly to AGENTS.md square corner geometry (border-radius: 0) and brand colors.
+==============================================================================
+{% endcomment %}
+
+{% if page.categories contains 'review' and page.categories contains 'bowls' %}
+<aside class="card my-4 p-3 bg-light border-0 shadow-sm related-buyers-guides" style="border-left: 4px solid #1F2B5F !important; border-radius: 0 !important;" aria-label="Recommended Buyer's Guides">
+  <div class="d-flex align-items-center mb-1">
+    <i class="fas fa-compass text-warning mr-2" aria-hidden="true"></i>
+    <h3 class="h6 font-weight-bold mb-0 text-dark">Looking for the Best Bowls for Your Game &amp; Playing Role?</h3>
+  </div>
+  <p class="small mb-3 text-muted">Choosing the right model depends on your rink position, hand size, and typical surface speeds. Explore our curated buyer's guides:</p>
+  
+  <div class="row small">
+    <div class="col-md-6">
+      <ul class="list-unstyled mb-0">
+        <li class="py-1">
+          <i class="fas fa-chevron-right text-success mr-1" aria-hidden="true"></i>
+          <a href="{{ '/guide/best-lawn-bowls-for-beginners/' | relative_url }}" class="font-weight-bold text-dark">Best Bowls for Beginners</a>
+          <span class="text-muted d-block pl-3 small">Forgiving all-round lines for newer club bowlers</span>
+        </li>
+        <li class="py-1">
+          <i class="fas fa-chevron-right text-success mr-1" aria-hidden="true"></i>
+          <a href="{{ '/guide/best-straight-lawn-bowls/' | relative_url }}" class="font-weight-bold text-dark">7 Best Narrow &amp; Straight Bowls</a>
+          <span class="text-muted d-block pl-3 small">Holding tight lines on indoor carpets and fast turf</span>
+        </li>
+        <li class="py-1">
+          <i class="fas fa-chevron-right text-success mr-1" aria-hidden="true"></i>
+          <a href="{{ '/guide/best-mid-bias-lawn-bowls/' | relative_url }}" class="font-weight-bold text-dark">Best Mid-Bias Lawn Bowls</a>
+          <span class="text-muted d-block pl-3 small">Versatile benchmark models for varied green speeds</span>
+        </li>
+        <li class="py-1">
+          <i class="fas fa-chevron-right text-success mr-1" aria-hidden="true"></i>
+          <a href="{{ '/guide/best-lawn-bowls-for-indoors/' | relative_url }}" class="font-weight-bold text-dark">Best Bowls for Indoors</a>
+          <span class="text-muted d-block pl-3 small">Narrow-running draw profiles engineered for fast carpets</span>
+        </li>
+      </ul>
+    </div>
+    <div class="col-md-6">
+      <ul class="list-unstyled mb-0">
+        <li class="py-1">
+          <i class="fas fa-chevron-right text-success mr-1" aria-hidden="true"></i>
+          <a href="{{ '/guide/best-rated-bowls-for-leads/' | relative_url }}" class="font-weight-bold text-dark">Best Rated Bowls for Leads</a>
+          <span class="text-muted d-block pl-3 small">Precision draw shot control for front-end players</span>
+        </li>
+        <li class="py-1">
+          <i class="fas fa-chevron-right text-success mr-1" aria-hidden="true"></i>
+          <a href="{{ '/guide/best-lawn-bowls-for-skips/' | relative_url }}" class="font-weight-bold text-dark">Best Lawn Bowls for Skips</a>
+          <span class="text-muted d-block pl-3 small">Weight, turn, and tactical versatility around the head</span>
+        </li>
+        <li class="py-1">
+          <i class="fas fa-chevron-right text-success mr-1" aria-hidden="true"></i>
+          <a href="{{ '/guide/best-lawn-bowls-for-small-hands/' | relative_url }}" class="font-weight-bold text-dark">Best Bowls for Small Hands</a>
+          <span class="text-muted d-block pl-3 small">Slim grip profiles and deep inset channels for secure delivery</span>
+        </li>
+        <li class="py-1">
+          <i class="fas fa-chevron-right text-success mr-1" aria-hidden="true"></i>
+          <a href="{{ '/guide/best-lawn-bowls-for-fast-greens/' | relative_url }}" class="font-weight-bold text-dark">Best Bowls for Fast Greens</a>
+          <span class="text-muted d-block pl-3 small">Consistent trajectories for quick outdoor turf &amp; synthetic rinks</span>
+        </li>
+      </ul>
+    </div>
+  </div>
+</aside>
+{% endif %}
+

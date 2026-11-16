@@ -1,14 +1,16 @@
 ---
 layout: post
 title:  "Taylor Blaze vs Taylor International | Which is Best?"
+seo_title: "Taylor Blaze vs Taylor International: Bias, Grip & Price Comparison"
+model_a: "taylor-blaze"
+model_b: "taylor-international"
 author: reece
 categories: [ review, bowls ]
 featured: false
-description: ""
+description: "Compare Taylor Blaze vs Taylor International: mid bias vs wide bias line (5.8 vs 7.2) tested on outdoor grass surfaces. £395 vs £375 RRP (used £95–£130)."
 date: 2023-03-20 13:00:00 -0400
----
-    
 
+last_modified_at: 2026-11-15 09:05:42 +0000---
 <p>Are you a beginner struggling to choose the right lawn bowl? It can be overwhelming with so many options out there. That's why I'm here to help. </p>
 
 <figure class="wp-block-image size-large"><img src="{{ '/img/posts/taylor-blaze-vs-taylor-international-1024x576.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Taylor Blaze vs Taylor International" class="wp-image-2045"/></figure>

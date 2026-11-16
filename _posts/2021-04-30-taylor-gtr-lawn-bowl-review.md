@@ -4,8 +4,8 @@ title:  "Taylor GTR Lawn Bowls Review"
 author: reece
 categories: [ review, bowls ]
 featured: false
-description: ""
-last_modified_at: 2026-11-05 15:30:00 +0000
+description: "Ideal for either indoor or outdoor surfaces, the GTR offers a consistent flat finishing draw shot, and will suit any Southern Hemisphere green."
+last_modified_at: 2026-11-15 11:15:00 +0000
 date: 2021-04-30 13:00:00 -0400
 review:
   name: "Taylor GTR Lawn Bowls"

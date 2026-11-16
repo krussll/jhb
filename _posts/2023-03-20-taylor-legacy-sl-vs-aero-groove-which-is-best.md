@@ -1,15 +1,16 @@
 ---
 layout: post
 title:  "Taylor Legacy SL vs Aero GrooVe | Which is Best?"
+seo_title: "Taylor Legacy SL vs Aero GrooVe: Bias, Grip & Price Comparison"
+model_a: "taylor-legacy-sl"
+model_b: "aero-groove"
 author: reece
 categories: [ review, bowls ]
 featured: false
-description: ""
-last_modified_at: 2026-10-29 15:45:00 +0000
+description: "Compare Taylor Legacy SL vs Aero GrooVe: wide bias vs mid bias line (8.0 vs 5.5) on outdoor grass and outdoor grass greens. £365 vs £430 RRP (used £85–£160)."
+last_modified_at: 2026-11-15 09:05:42 +0000
 date: 2023-03-20 13:00:00 -0400
 ---
-    
-
 <p>Are you a beginner struggling to choose the right lawn bowl? It can be overwhelming with all the different options available. But don't worry, I'm here to help. In this blog post, I'll be comparing two of the most popular models - the Taylor Legacy SL and the Aero GrooVe. </p>
 
 <figure class="wp-block-image size-large"><img src="{{ '/img/posts/taylor-legacy-sl-vs-aero-groove-1024x576.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Taylor Legacy SL VS Aero Groove lawn bowls comparison" class="wp-image-1996"/></figure>

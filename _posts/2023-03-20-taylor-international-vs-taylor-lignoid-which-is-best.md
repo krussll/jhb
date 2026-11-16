@@ -1,15 +1,16 @@
 ---
 layout: post
 title:  "Taylor International vs Taylor Lignoid | Which is Best?"
+seo_title: "Taylor International vs Taylor Lignoid: Bias, Grip & Price Comparison"
+model_a: "taylor-international"
+model_b: "taylor-lignoid"
 author: reece
 categories: [ review, bowls ]
 featured: false
-description: ""
-last_modified_at: 2026-10-29 15:45:00 +0000
+description: "Compare Taylor International vs Taylor Lignoid: wide bias vs wide bias line (7.2 vs 8.5) tested on slow outdoor surfaces. £375 vs £365 RRP (used £80–£95)."
+last_modified_at: 2026-11-15 09:05:42 +0000
 date: 2023-03-20 13:00:00 -0400
 ---
-    
-
 <p>Are you a beginner struggling with selecting the right lawn bowl? Don't worry, I have got you covered! In this blog post, we will be discussing two popular models of lawn bowls - the Taylor International and the Taylor Lignoid. </p>
 
 <figure class="wp-block-image size-large"><img src="{{ '/img/posts/taylor-international-vs-taylor-lignoid-1024x576.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Taylor International VS Taylor Lignoid lawn bowls comparison" class="wp-image-2016"/></figure>

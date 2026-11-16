@@ -1,15 +1,16 @@
 ---
 layout: post
 title:  "Drakes Pride PRO-50 vs Drakes Pride XP | Which is Best?"
+seo_title: "Drakes Pride PRO-50 vs Drakes Pride XP: Bias, Grip & Price Comparison"
+model_a: "drakes-pride-pro-50"
+model_b: "drakes-pride-xp"
 author: reece
 categories: [ review, bowls ]
 featured: false
-description: ""
-last_modified_at: 2026-10-29 15:45:00 +0000
+description: "Compare Drakes Pride PRO-50 vs Drakes Pride XP: mid bias vs wide bias line (5.2 vs 7.5) tested on outdoor grass surfaces. £395 vs £380 RRP (used £110–£140)."
+last_modified_at: 2026-11-15 09:05:42 +0000
 date: 2023-03-22 13:00:00 -0400
 ---
-    
-
 <p>Are you new to the world of lawn bowling and feeling overwhelmed by the numerous options available? Don't worry, I'm here to help! In this post, I'll be introducing you to two popular models - the Drakes Pride PRO-50 and the Drakes Pride XP. </p>
 
 <figure class="wp-block-image size-large"><img src="{{ '/img/posts/drakes-pride-pro-50-vs-drakes-pride-xp-1024x576.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Drakes Pride Pro 50 VS Drakes Pride XP lawn bowls comparison" class="wp-image-1913"/></figure>

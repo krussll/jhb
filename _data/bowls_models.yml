@@ -396,7 +396,7 @@ drakes-pride-crown-green:
   brand: "Drakes Pride"
   name: "Drakes Pride Standard Deluxe Crown Green"
   slug: "drakes-pride-crown-green"
-  review_url: "/guide/best-crown-green-bowls-for-beginners-a-complete-buyers-guide/"
+  review_url: "/crown-green-bowls/best-crown-green-bowls-for-beginners-a-complete-buyers-guide/"
   image: "/img/posts/Best-Make-Of-Crown-Green-Bowls.jpg"
   bias_score: 5.0
   bias_label: "Crown Green Bias"
@@ -771,3 +771,109 @@ aero-optima:
   price_used_high_gbp: 220
   ebay_search_query: "Aero Optima lawn bowls"
   rating: 8.8
+
+taylor-crown-green:
+  id: "taylor-crown-green"
+  brand: "Taylor Bowls"
+  name: "Thomas Taylor Crown Green Deluxe"
+  slug: "taylor-crown-green"
+  review_url: "/crown-green-bowls/best-crown-green-bowls-for-beginners-a-complete-buyers-guide/"
+  image: "/img/posts/Best-Make-Of-Crown-Green-Bowls.jpg"
+  bias_score: 5.0
+  bias_label: "Crown Green Bias"
+  finish_profile: "High sole profile designed to peg high and track predictably across natural slopes"
+  surfaces:
+    - "Crown Green"
+  ideal_positions:
+    - "Singles"
+    - "Pairs"
+  grips:
+    - "Deluxe Grip"
+    - "205/6"
+    - "Plain"
+  small_hands_friendly: true
+  sizes: "2lb 4oz to 2lb 12oz (Standard & Hi-Density)"
+  price_new_gbp: 225
+  price_used_low_gbp: 75
+  price_used_high_gbp: 140
+  ebay_search_query: "Thomas Taylor crown green bowls"
+  rating: 9.3
+
+henselite-crown-green:
+  id: "henselite-crown-green"
+  brand: "Henselite"
+  name: "Henselite 21st Century Crown Green"
+  slug: "henselite-crown-green"
+  review_url: "/guide/best-make-of-crown-green-bowls/"
+  image: "/img/posts/Best-Make-Of-Crown-Green-Bowls.jpg"
+  bias_score: 5.0
+  bias_label: "Crown Green Bias"
+  finish_profile: "Consistent full 2-bias curve with ergonomic Super Grip"
+  surfaces:
+    - "Crown Green"
+  ideal_positions:
+    - "Singles"
+    - "Pairs"
+  grips:
+    - "Super Grip"
+    - "Plain"
+  small_hands_friendly: true
+  sizes: "2lb 4oz to 2lb 10oz"
+  price_new_gbp: 210
+  price_used_low_gbp: 65
+  price_used_high_gbp: 125
+  ebay_search_query: "Henselite crown green bowls"
+  rating: 9.0
+
+taylor-junior-ace:
+  id: "taylor-junior-ace"
+  brand: "Taylor Bowls"
+  name: "Taylor Junior Ace"
+  slug: "taylor-junior-ace"
+  review_url: "/guide/best-junior-lawn-bowls/"
+  image: "/img/posts/best-junior-lawn-bowls.jpeg"
+  bias_score: 4.5
+  bias_label: "Junior Draw Bias"
+  finish_profile: "True junior-scale draw arc replicating adult Ace flight for developing mechanics"
+  surfaces:
+    - "Outdoor Grass"
+    - "Indoor Carpet"
+  ideal_positions:
+    - "Junior Development"
+    - "Club Training"
+  grips:
+    - "Plain"
+  small_hands_friendly: true
+  sizes: "Junior 98.5mm"
+  price_new_gbp: 155
+  price_used_low_gbp: 50
+  price_used_high_gbp: 85
+  ebay_search_query: "Taylor Junior Ace lawn bowls"
+  rating: 9.1
+
+drakes-pride-junior-professional:
+  id: "drakes-pride-junior-professional"
+  brand: "Drakes Pride"
+  name: "Drakes Pride Junior Professional"
+  slug: "drakes-pride-junior-professional"
+  review_url: "/guide/best-junior-lawn-bowls/"
+  image: "/img/posts/best-junior-lawn-bowls.jpeg"
+  bias_score: 4.5
+  bias_label: "Junior Draw Bias"
+  finish_profile: "Gentle draw arc in durable high-visibility composite colours"
+  surfaces:
+    - "Outdoor Grass"
+    - "Indoor Carpet"
+  ideal_positions:
+    - "Primary School Starters"
+    - "Junior Development"
+  grips:
+    - "Plain"
+  small_hands_friendly: true
+  sizes: "Junior 98.5mm"
+  price_new_gbp: 150
+  price_used_low_gbp: 45
+  price_used_high_gbp: 80
+  ebay_search_query: "Drakes Pride junior bowls"
+  rating: 8.9
+

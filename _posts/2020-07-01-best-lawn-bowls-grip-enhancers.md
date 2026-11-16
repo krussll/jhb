@@ -4,112 +4,186 @@ title:  "Best Lawn Bowls Grip Enhancers"
 author: reece
 categories: [ guide ]
 featured: false
-description: "Compare the best lawn bowls grip enhancers, waxes, and polishes. Expert review of Grippo, Crack-a-Jack, Bulldog, and sprays for wet and humid bowling conditions."
-last_modified_at: 2026-11-02 17:19:00 +0000
+description: "Compare the best lawn bowls grip enhancers, waxes, and polishes. Expert review of Grippo, Taylor Touch, WilGrip, Henselite Grippit, and Crack-A-Jack for wet and humid bowling conditions."
 date: 2020-07-01 13:00:00 -0400
+last_modified_at: 2026-11-14 08:36:00 +0000
+items:
+  - name: "Henselite Grippo"
+    brand: "Henselite"
+    award: "Best All-Round Bowls Polish & Grip"
+    verdict: "The world's most popular bowls polish in a convenient tube format; restores shine while providing mild, reliable surface tackiness."
+    url: "#henselite-grippo"
+    image: "/img/posts/grippo.jpg"
+    price_low: 6
+    price_high: 9
+  - name: "Taylor Touch"
+    brand: "Taylor"
+    award: "Best Clean-Hand Wax Paste"
+    verdict: "Specially formulated non-staining bowls wax paste that provides controlled fingertip grip in damp, humid conditions without oily residue."
+    url: "#taylor-touch"
+    image: "/img/posts/best-lawn-bowls-grip-enhancers.jpg"
+    price_low: 5
+    price_high: 8
+  - name: "Henselite Grippit Cloth"
+    brand: "Henselite"
+    award: "Best Mess-Free Tackifying Cloth"
+    verdict: "Reusable beeswax-impregnated cloth kept in the pocket; rub onto fingertips for instant non-slip tackiness without applying wax to the bowl."
+    url: "#henselite-grippit-cloth"
+    image: "/img/posts/grip-it-lawn-bowls-wax.jpg"
+    price_low: 7
+    price_high: 10
+  - name: "WilGrip Paste"
+    brand: "WilGrip"
+    award: "Best Heavy-Rain Anti-Slip Paste"
+    verdict: "Renowned tackifying paste engineered for extreme wet-weather matches where water prevents standard polishes from gripping."
+    url: "#wilgrip-paste"
+    image: "/img/posts/bulldog.jpg"
+    price_low: 6
+    price_high: 9
+  - name: "Drakes Pride Crack-A-Jack"
+    brand: "Drakes Pride"
+    award: "Best Traditional Bowl Conditioner"
+    verdict: "Classic protective wax paste that enhances bowl luster while offering a mild tacky grip for outdoor greens."
+    url: "#drakes-pride-crack-a-jack"
+    image: "/img/posts/crack-a-jack-lawn-bowls-wax.jpg"
+    price_low: 5
+    price_high: 8
+faqs:
+  - question: "What is the difference between a bowl polish and a fingertip grip enhancer?"
+    answer: "A bowl polish (like Henselite Grippo or Crack-A-Jack) is applied directly to the running surface and buffed with a cloth to protect the composite and provide subtle tackiness. A fingertip enhancer (like Henselite Grippit cloth or Taylor Touch wax) is rubbed onto your fingers to provide instant friction without transferring residue onto the green."
+  - question: "Are grip enhancers allowed on indoor bowling carpets?"
+    answer: "Most indoor bowling clubs ban liquid polishes, heavy waxes, and pastes (including Grippo) because residue transfers from the bowl to the synthetic carpet fibers, causing permanent stains and erratic running lines. Tackifying cloths like Grippit or chalk-based grip aids are usually permitted."
+  - question: "How do grip enhancers help in wet or rainy bowling conditions?"
+    answer: "Rain coats the polished surface of a lawn bowl with a slick film of water that breaks friction between your fingertips and the wood. Grip enhancers like WilGrip or Grippit cloths repel moisture and maintain a tacky interface so you can deliver smoothly without tightening your grip."
+  - question: "Why shouldn't I just lick my fingers to improve my grip?"
+    answer: "Licking your fingers is a common habit, but lawn bowling greens are frequently treated with commercial fertilizers, weedkillers, wetting agents, and pesticides. Licking your fingers after touching grass or bowls risks ingesting toxic chemical residue."
 ---
-    
 
-<p>What are the best lawn bowls grip enhancers? Our list of products will ensure you have the most reliable grip possible.</p>
+<p class="lead">Bowlers spend hours honing their delivery technique, yet a slippery bowl on a damp or humid afternoon can ruin release consistency. We review the best lawn bowls grip enhancers, polishes, waxes, and cloths to keep your delivery rock-solid in all conditions.</p>
 
-<figure class="wp-block-image size-full"><img src="{{ '/img/posts/best-lawn-bowls-grip-enhancers.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Best lawn bowls grip enhancers" class="wp-image-279"/></figure>
+<figure class="my-4"><img src="{{ '/img/posts/best-lawn-bowls-grip-enhancers.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Best lawn bowls grip enhancers" class="img-fluid"/></figure>
 
-<p>Bowlers put in plenty of hours practicing, and honing their technique. However all this work can be un-done if you are unable to grip your bowl properly. Playing during a British summer often means playing in the rain, which is the worst nightmare for anyone you have issues with slippery bowls.</p>
+<div class="alert alert-success border-success my-4 p-3" style="border-left: 4px solid #1F2B5F; border-radius: 0;">
+  <h3 class="h5 font-weight-bold text-success mb-2"><i class="fas fa-hand-holding mr-1"></i> Quick Verdict: Best Lawn Bowls Grip Enhancers</h3>
+  <p class="mb-0">For general outdoor bowl maintenance and consistent draw tackiness, <strong>Henselite Grippo</strong> is the global standard. If you bowl indoors or prefer a completely mess-free solution that stays in your pocket, the <strong>Henselite Grippit Cloth</strong> provides instant fingertip friction without leaving wax on the carpet.</p>
+</div>
 
-<p>In order to combat this, a bowler has many tools at their disposal. Each one designed to improve your overall grip, and to help you deliver your bowl consistently. Here we look at the most popular products available to help you find one that works for you.</p>
+{% include roundup-product-grid.html %}
 
-<p>So, get a grip! And let’s begin.</p>
+<h2>Grip Enhancers & Polishes Compared</h2>
 
-<h2><a href="#what-are-grip-enhancers"></a>What are grip enhancers?</h2>
+<div class="table-responsive my-4" style="border: 1px solid rgba(31, 43, 95, 0.14);">
+  <table class="table table-hover mb-0" style="font-family: 'Open Sans', sans-serif; font-size: 0.9rem;">
+    <thead style="background-color: #1F2B5F; color: #ffffff;">
+      <tr>
+        <th scope="col">Product</th>
+        <th scope="col">Type</th>
+        <th scope="col">Application</th>
+        <th scope="col">Indoor Friendly</th>
+        <th scope="col">Typical Price</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><strong>Henselite Grippo</strong></td>
+        <td>Polish & Wax Cream</td>
+        <td>Direct onto bowl (buff with cloth)</td>
+        <td>No (Outdoor grass only)</td>
+        <td>£6–£9</td>
+      </tr>
+      <tr>
+        <td><strong>Taylor Touch</strong></td>
+        <td>Wax Paste</td>
+        <td>Direct onto bowl or fingers</td>
+        <td>Check club rules</td>
+        <td>£5–£8</td>
+      </tr>
+      <tr>
+        <td><strong>Henselite Grippit Cloth</strong></td>
+        <td>Tackifying Resin Cloth</td>
+        <td>Rub onto fingertips</td>
+        <td>Yes (Clean & mess-free)</td>
+        <td>£7–£10</td>
+      </tr>
+      <tr>
+        <td><strong>WilGrip Paste</strong></td>
+        <td>Heavy Tack Paste</td>
+        <td>Rub onto fingertips / bowl</td>
+        <td>No (Outdoor wet matches)</td>
+        <td>£6–£9</td>
+      </tr>
+      <tr>
+        <td><strong>Drakes Pride Crack-A-Jack</strong></td>
+        <td>Conditioning Wax</td>
+        <td>Direct onto bowl from tub</td>
+        <td>No (Outdoor grass only)</td>
+        <td>£5–£8</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
-<p>Grip enhancers are a product applied to the bowl, or a product applied to the fingertips to help you grip on to the bowl. They are often used sparingly, and will make the bowl feel slightly tacky.</p>
+<p>A reliable grip is the foundation of a smooth, repeatable release. When your fingers have confident traction, your hand and wrist remain relaxed. Relaxed muscles allow a true pendulum swing, preventing the dreaded "wobble" that throws bowls off their intended running line. For strategies on handling wet turf, read our complete guide on <a href="{{ '/help/playing-lawn-bowls-in-wet-conditions/' | relative_url }}">playing lawn bowls in wet conditions</a>.</p>
 
-<p>They can come in many forms, from creams and wax applied to the bowl. Or can be a material or block that you press your fingers into.</p>
+<h2>Types of Grip Enhancers Explained</h2>
 
-<h2><a href="#why-use-grip-enhancers"></a>Why use grip enhancers?</h2>
+<ul>
+  <li><strong>Bowls Polishes & Creams:</strong> Formulated with mild abrasive cleaners and carnauba wax to buff out micro-scratches on composite woods while providing a gentle tacky grip.</li>
+  <li><strong>Tackifying Cloths:</strong> Fabric squares impregnated with non-toxic beeswax and resins. You squeeze the cloth in your pocket to transfer tackiness directly to your fingers without greasy buildup.</li>
+  <li><strong>Heavy-Weather Waxes & Pastes:</strong> Dense resinous pastes like WilGrip designed to cut through rain and dew, ensuring bowls do not slip from your hand during severe downpours.</li>
+</ul>
 
-<p>Good control of the bowl starts with a reliable grip. This allows the hand and fingers to stay relaxed. Relaxed hands are important for a smooth release. Tense fingers are also a cause of bowls wobbling after release.</p>
+<hr class="my-5">
 
-<p><a href="{{ '/help/playing-lawn-bowls-in-wet-conditions' | relative_url }}">Playing in wet conditions</a> can also be tricky. Whilst some moisture is good for making your bowls tacky, excessive water makes them slippery and impossible to control consistently.</p>
+<h2>Detailed Reviews: Top 5 Bowls Grip Enhancers</h2>
 
-<p>A good grip enhancer helps with both these issues. They provide a solid, reliable grip on a dry bowl, as well as removing the slipperiness from a wet one.</p>
+<h3 id="henselite-grippo">1. Henselite Grippo &mdash; <span class="badge badge-success">World #1 Bowls Polish</span></h3>
 
-<h2><a href="#best-grip-enhancer-products"></a>Best grip enhancer products</h2>
+<figure class="my-3 text-center" style="max-width: 320px;">
+  <img src="{{ '/img/posts/grippo.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Henselite Grippo for lawn bowls" class="img-fluid border" style="border-radius: 0;"/>
+</figure>
 
-<h3><a href="#grip-it-cloth"></a>Grip-it Cloth</h3>
+<p><strong>Henselite Grippo</strong> is universally recognized as the world's most popular lawn bowls polish. Packaged in an easy-squeeze tube, a pea-sized dab applied to each wood and buffed with a duster removes dirt, restores high-gloss luster, and imparts a dependable non-slip feel.</p>
 
-<div class="wp-block-image"><figure class="alignright"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/grip-it-lawn-bowls-wax.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Grip It Lawn Bowls Wax for lawn bowls"/></a></figure></div>
+<p>Because Grippo deposits a micro-layer of protective wax, it should only be used on outdoor natural grass greens. Most indoor facilities strictly prohibit it to prevent carpet contamination.</p>
 
-<p><a href="https://www.amazon.co.uk/gp/product/B07HQSSMLH/ref=as_li_qf_asin_il_tl?ie=UTF8&amp;tag=jackhighbow0a-21&amp;creative=6738&amp;linkCode=as2&amp;creativeASIN=B07HQSSMLH&amp;linkId=14bae9b7b748392b500ef8286fa8058a" target="_blank" rel="sponsored nofollow noopener noreferrer">See current deals</a></p>
+<h3 id="taylor-touch">2. Taylor Touch &mdash; <span class="badge badge-primary">Best Non-Staining Wax</span></h3>
 
-<p>Grip-It is a “tackifying cloth”, which you keep in your pocket when you play. If you are having trouble with your grip you simply rub it between your fingers.</p>
+<p>Formulated by Scottish bowls manufacturer Thomas Taylor, <strong>Taylor Touch</strong> is an exceptionally clean wax paste. It provides an immediate tacky grip without leaving oily smears or attracting dust from the ditch.</p>
 
-<p>Its main benefit is that it’s mess free. Many other products require rubbing wax onto your bowls, which can get everywhere. Not nice!</p>
+<p>It can be applied either directly to the grip indentations of the bowl or rubbed lightly across your fingertips before stepping onto the mat.</p>
 
-<p>A bag of Grip-It cloths can be cut up into smaller pieces, so you only use what you need in a game. The bag as a whole can last a regular bowler up to 3 months.</p>
+<h3 id="henselite-grippit-cloth">3. Henselite Grippit Cloth &mdash; <span class="badge badge-info">Best Mess-Free Solution</span></h3>
 
-<p>Grip-It is also great for indoor bowls. Many clubs ban the use of bowl polishers (some of which are included below) as they can damage the carpet, so this is a great alternative.</p>
+<figure class="my-3 text-center" style="max-width: 320px;">
+  <img src="{{ '/img/posts/grip-it-lawn-bowls-wax.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Henselite Grippit Cloth" class="img-fluid border" style="border-radius: 0;"/>
+</figure>
 
-<blockquote class="wp-block-quote"><p>Useful even in the dry, gives me confidence of not letting wood slip, so I can concentrate on direction and strength.</p><p>Amazon verified customer</p></blockquote>
+<p>For bowlers who want maximum grip without getting wax under their fingernails, the <strong>Henselite Grippit Cloth</strong> (also sold as Grip-It) is unbeatable. Kept conveniently in your trousers pocket, you simply squeeze the cloth between your fingers whenever moisture or dry skin threatens your hold.</p>
 
-<h3><a href="#grippo"></a>Grippo</h3>
+<p>Because no wax is applied directly to the bowl surface, it is one of the few grip aids permitted across indoor carpet venues.</p>
 
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/grippo.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Grippo for lawn bowls"/></a></figure>
+<h3 id="wilgrip-paste">4. WilGrip Paste &mdash; <span class="badge badge-secondary">Best for Heavy Rain</span></h3>
 
-<p><a href="https://www.amazon.co.uk/gp/product/B004UQV7YS/ref=as_li_qf_asin_il_tl?ie=UTF8&amp;tag=jackhighbow0a-21&amp;creative=6738&amp;linkCode=as2&amp;creativeASIN=B004UQV7YS&amp;linkId=94116a280d33baff3a73915f3c5d616c" target="_blank" rel="sponsored nofollow noopener noreferrer">See current deals</a></p>
+<figure class="my-3 text-center" style="max-width: 320px;">
+  <img src="{{ '/img/posts/bulldog.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="WilGrip and Bulldog wax for lawn bowls" class="img-fluid border" style="border-radius: 0;"/>
+</figure>
 
-<p>Grippo is produced by Henselite, and is currently the most popular bowls polish in the world. When used regularly it can help keep your bowls in great shape, as well as providing some tackiness to help with your grip.</p>
+<p>When downpours strike and water films make woods nearly impossible to hold, <strong>WilGrip</strong> (and comparable products like Bulldog wax) provides intense tackiness. It repels surface water and gives your fingertips an immovable anchor on the running sole.</p>
 
-<p>We recommend buying Grippo in tubes, and not in pots. This allows you to place the product directly onto your bowls. SImply use a small amount directly onto the bowl, and then polish into the surface with a cloth.</p>
+<h3 id="drakes-pride-crack-a-jack">5. Drakes Pride Crack-A-Jack &mdash; <span class="badge badge-dark">Best Traditional Conditioner</span></h3>
 
-<p>It isn’t advisable to use Grippo if you play indoors as this is a polishing product, and will be banned in many indoor rinks.</p>
+<figure class="my-3 text-center" style="max-width: 320px;">
+  <img src="{{ '/img/posts/crack-a-jack-lawn-bowls-wax.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Drakes Pride Crack-A-Jack Wax" class="img-fluid border" style="border-radius: 0;"/>
+</figure>
 
-<blockquote class="wp-block-quote"><p>Grippo makes a big difference to my delivery of my woods when I play as previously I was prone to losing my control of delivering the ball.</p><p>Amazon verified customer</p></blockquote>
+<p>Produced by Drakes Pride in a distinctive round tub, <strong>Crack-A-Jack</strong> is a traditional hard paste wax favoured by generations of English outdoor bowlers. It conditions composite woods, fills micro-scratches, and delivers a comfortable subtle grip on dry turf.</p>
 
-<h3><a href="#crack-a-jack-wax"></a>Crack-A-Jack Wax</h3>
+<h2>Frequently Asked Questions</h2>
 
-<div class="wp-block-image"><figure class="alignright is-resized"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/crack-a-jack-lawn-bowls-wax.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Crack A Jack Lawn Bowls Wax for lawn bowls" width="400" height="400"/></a></figure></div>
-
-<p><a href="https://www.amazon.co.uk/gp/product/B0027Y62KO/ref=as_li_qf_asin_il_tl?ie=UTF8&amp;tag=jackhighbow0a-21&amp;creative=6738&amp;linkCode=as2&amp;creativeASIN=B0027Y62KO&amp;linkId=499566ac22901d2a99d98cba7960345e" target="_blank" rel="sponsored nofollow noopener noreferrer">See current deals</a></p>
-
-<p>Crack-A-Jack is another popular bowls polish. Made by Drake’s Pride, it comes in a small yellow tube and can be applied to the bowl with a clean cloth.</p>
-
-<p>Unlike Grippo, Crack-A-Jack is only available in tubs which can lead to a bit of a mess when you try and get some onto a cloth. All that aside, Crack-A-Jack is ideal for any outdoor bowler. Again, we must note that this is a bowls polish, so will be restricted to outdoor use only.</p>
-
-<blockquote class="wp-block-quote"><p>Only a small amount needed to put a great protective polish on your bowls and it really does help with grip. My father has used other popular bowls polishes but after having this one says he will only use this from now on!</p><p>Amazon verified customer</p></blockquote>
-
-<h3><a href="#bulldog-bowls-grip-wax"></a>Bulldog Bowls Grip Wax</h3>
-
-<div class="wp-block-image"><figure class="alignright is-resized"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/bulldog.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Bulldog - Best Lawn Bowls Grip Enhancers" width="780" height="1040"/></a></figure></div>
-
-<p><a href="https://www.amazon.co.uk/Henselite-Bulldog-Sports-Grip/dp/B07HB4SCZ3/ref=as_li_ss_tl?dchild=1&amp;keywords=Bulldog+Bowls+Grip+Wax&amp;qid=1595588930&amp;sr=8-1-fkmr0&amp;linkCode=ll1&amp;tag=jackhighbow0a-21&amp;linkId=a1a649b1ee01ac8f8a1c27b3cdf8c1b6" target="_blank" rel="sponsored nofollow noopener noreferrer">See current deals</a></p>
-
-<p>These are small blocks that you keep in your pocket as you play. Simply soften one up in your hands, and then roll it between your fingers. This leaves a thin layer over your fingers to help <a href="{{ '/guide/best-lawn-bowl-grips' | relative_url }}">grip the bowl</a>.</p>
-
-<p>This product has been designed for use in wet weather conditions, so won’t wash away when gripping the bowl.</p>
-
-<p>I personally use this as a back-up to use alongside one of the other options listed above when things get a bit damp. However, it can be used by itself in the dry if you find it works for you.</p>
-
-<blockquote class="wp-block-quote"><p>Very effective way of giving grip on bowls. I find it much better than having a damp cloth. It works in all situations - if your hand gets too dry or too sweaty.</p><p>Amazon verified customer</p></blockquote>
-
-<h2><a href="#alternatives"></a>Alternatives</h2>
-
-<p>There are alternatives to the dedicated products available. With a bit of ingenuity you can get the same benefit, but without the price tag.</p>
-
-<h3><a href="#saliva"></a>Saliva</h3>
-
-<p>This is an old-school option. Why buy a tube of Grippo when you can just lick your fingers?</p>
-
-<p>This should come with a word of warning, however. Many greens are now chemically treated, and licking your fingers after touching a bowl can mean you ingest them. We wouldn’t recommend starting using this method as it can make you quite ill if you’re not careful. Been doing it for the last 20 years? Who are we to stop you now!</p>
-
-<h3><a href="#rubber-ear-plugs"></a>Rubber ear plugs</h3>
-
-<p>This one I have seen a few times. If you, or a relative works in a noisy environment, then you may be familiar with the soft, squidgy ear plugs that are given to employees. If you squeeze them, and roll them around enough they turn into a sticky blob, which can then be applied to your fingers.</p>
-
-<p>Just keep it in your pocket, and roll it around before you begin your delivery routine.</p>
-
-<p>I hope we have helped clear up the different options available. Give a few a go, and find the one that works best for you.</p>
-
-<p>Have a favourite that’s not featured? Then let us know by sending an email via our contact page.</p>
-
-    
+{% for faq in page.faqs %}
+<div class="mb-4">
+  <h4 class="h5 font-weight-bold text-primary">{{ faq.question }}</h4>
+  <p>{{ faq.answer }}</p>
+</div>
+{% endfor %}

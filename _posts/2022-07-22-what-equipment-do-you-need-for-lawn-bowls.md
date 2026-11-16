@@ -5,8 +5,8 @@ seo_title: "What Equipment Do You Need for Lawn Bowls?"
 author: reece
 categories: [ guide ]
 featured: false
-description: ""
-last_modified_at: 2026-11-04 15:05:00 +0000
+description: "Lawn bowls is not a sport that requires a great deal of expensive equipment. If you have difficulty bending at the knees or back problems, some simple."
+last_modified_at: 2026-11-15 11:15:00 +0000
 date: 2022-07-22 13:00:00 -0400
 ---
     

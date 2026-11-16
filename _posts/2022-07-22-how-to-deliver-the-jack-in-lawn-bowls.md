@@ -5,8 +5,8 @@ seo_title: "How to Deliver the Jack in Lawn Bowls"
 author: reece
 categories: [ help ]
 featured: false
-description: ""
-last_modified_at: 2026-11-04 15:05:00 +0000
+description: "'Where do you want the jack?' The question of whom is delivering the jack excites some while striking fear into others. Like breaking in pool, how the."
+last_modified_at: 2026-11-15 11:15:00 +0000
 date: 2022-07-22 13:00:00 -0400
 ---
     

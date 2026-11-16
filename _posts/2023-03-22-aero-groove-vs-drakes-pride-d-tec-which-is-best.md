@@ -1,15 +1,16 @@
 ---
 layout: post
 title:  "Aero GrooVe vs Drakes Pride D-TEC | Which is Best?"
+seo_title: "Aero GrooVe vs Drakes Pride d-tec: Bias, Grip & Price Comparison"
+model_a: "aero-groove"
+model_b: "drakes-pride-d-tec"
 author: reece
 categories: [ guide ]
 featured: false
-description: ""
-last_modified_at: 2026-10-29 15:45:00 +0000
+description: "Compare Aero GrooVe vs Drakes Pride d-tec: mid bias vs narrow bias line (5.5 vs 2.0) tested on outdoor grass surfaces. £430 vs £375 RRP (used £115–£160)."
+last_modified_at: 2026-11-15 09:05:42 +0000
 date: 2023-03-22 13:00:00 -0400
 ---
-    
-
 <p>Are you a beginner lawn bowler struggling to choose the perfect lawn bowl? It can be quite overwhelming with so many options available. That's why I will be comparing two of the most popular models - the Aero GrooVe and the Drakes Pride D-TEC - in this blog post. </p>
 
 <figure class="wp-block-image size-large"><img src="{{ '/img/posts/aero-groove-vs-drakes-pride-d-tec-1024x576.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Aero Groove VS Drakes Pride D Tec lawn bowls comparison" class="wp-image-1926"/></figure>

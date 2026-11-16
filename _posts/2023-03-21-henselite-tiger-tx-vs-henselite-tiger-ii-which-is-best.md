@@ -1,15 +1,16 @@
 ---
 layout: post
 title:  "Henselite Tiger TX vs Henselite Tiger II | Which is Best?"
+seo_title: "Henselite Tiger TX vs Henselite Tiger II: Bias, Grip & Price Comparison"
+model_a: "henselite-tiger-tx"
+model_b: "henselite-tiger-ii"
 author: reece
 categories: [ review, bowls ]
 featured: false
-description: ""
-last_modified_at: 2026-10-29 15:45:00 +0000
+description: "Compare Henselite Tiger TX vs Henselite Tiger II: narrow bias vs mid bias line (3.5 vs 4.8) tested on indoor carpet surfaces. £435 vs £435 RRP (used £150–£165)."
+last_modified_at: 2026-11-15 09:05:42 +0000
 date: 2023-03-21 13:00:00 -0400
 ---
-    
-
 <p>Hey there! If you're new to the game of lawn bowls, you may be feeling a bit overwhelmed by all the different options out there. But don't worry, I'm here to help. </p>
 
 <figure class="wp-block-image size-large"><img src="{{ '/img/posts/henselite-tiger-tx-vs-henselite-tiger-ii-1024x576.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Henselite Tiger TX VS Henselite Tiger II lawn bowls comparison" class="wp-image-1978"/></figure>

@@ -7,7 +7,7 @@ categories: [ guide ]
 featured: false
 description: "Looking for the best narrow and straight lawn bowls in 2026? Compare the 7 narrowest-bias models from Drakes Pride, Taylor, Aero, and Henselite with New vs. Used prices."
 date: 2020-10-29 13:00:00 -0400
-last_modified_at: 2026-11-12 15:20:05 +0000
+last_modified_at: 2026-11-14 09:18:00 +0000
 items:
   - model_id: "drakes-pride-d-tec"
     name: "Drakes Pride d-tec"
@@ -86,6 +86,10 @@ faqs:
 <h2>Top 7 Narrow &amp; Straight Lawn Bowls Compared</h2>
 
 {% include roundup-comparison-table.html %}
+
+<p>Use our interactive bowls finder and cross-brand bias chart below to explore how straight and narrow-bias models plot against wider options across Taylor, Henselite, Drakes Pride, and Aero:</p>
+
+{% include bowls-finder.html id="straight" initial_bias="narrow" %}
 
 <p>Bowls is all about getting close to the jack. Your draw shot is your bread and butter, and will often be the difference between winning and losing, so it is imperative to be constantly looking for ways to improve it.</p>
 

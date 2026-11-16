@@ -5,8 +5,8 @@ seo_title: "What Are the Straightest Lawn Bowls?"
 author: reece
 categories: [ guide ]
 featured: false
-description: ""
-last_modified_at: 2026-11-04 15:05:00 +0000
+description: "Finding the right model of bowl can be a tricky business. There are so many to choose from, and it can be hard to find the exact bias profile you want."
+last_modified_at: 2026-11-15 11:15:00 +0000
 date: 2022-07-06 13:00:00 -0400
 ---
     

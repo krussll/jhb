@@ -4,8 +4,8 @@ title:  "Average Age Of Lawn Bowls Players | A Simple Guide"
 author: reece
 categories: [ help ]
 featured: false
-description: ""
-last_modified_at: 2026-10-29 15:45:00 +0000
+description: "Some people derisively call lawn bowls ‘old man’s marbles’ and regard it as a sport for pensioners. They don’t realise it requires a surprising level of."
+last_modified_at: 2026-11-15 11:15:00 +0000
 date: 2022-07-22 13:00:00 -0400
 ---
     

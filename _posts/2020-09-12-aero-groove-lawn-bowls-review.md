@@ -97,7 +97,7 @@ review:
 
 <p>Line outdoors offers enough bias to play most positions without it becoming unmanageable to control indoors. Aero also offers great colour and grip choices which are unique to them.</p>
 
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/aero-groove-set-of-four.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Aero groove set of four - Aero GrooVe Lawn Bowls Review"/></a></figure>
+<figure class="wp-block-image"><img src="{{ '/img/posts/aero-groove-set-of-four.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Aero groove set of four - Aero GrooVe Lawn Bowls Review"/></figure>
 
 <h2><a href="#line-analysis"></a>Line analysis</h2>
 
@@ -115,7 +115,7 @@ review:
 
 <p>Aero Grooves are available in sizes 00 through 5, including half sizes - which is very rare and is something we’ve only seen done “as standard” by Aero.</p>
 
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/aero-groove-set-of-four-running-surface.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Aero groove set of four running surface - Aero GrooVe Lawn Bowls Review"/></a></figure>
+<figure class="wp-block-image"><img src="{{ '/img/posts/aero-groove-set-of-four-running-surface.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Aero groove set of four running surface - Aero GrooVe Lawn Bowls Review"/></figure>
 
 <p>Only available in heavyweight.</p>
 
@@ -123,7 +123,7 @@ review:
 
 <p>Aero offers the widest range of colour options. We are big fans of the gradient and stripped effects. They also offer unique emblem options, with the choice of a standard sized emblem, or in “large”. This large option makes the emblem take up the entirety of the area within the gripped shoulder - and is a very unique look. It's a bit of a grower and one we have grown fond of!</p>
 
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/aero-groove-set-of-four-colour.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Aero groove set of four colour - Aero GrooVe Lawn Bowls Review"/></a></figure>
+<figure class="wp-block-image"><img src="{{ '/img/posts/aero-groove-set-of-four-colour.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Aero groove set of four colour - Aero GrooVe Lawn Bowls Review"/></figure>
 
 <p>Three unique grips only available with Aero:</p>
 
@@ -138,23 +138,23 @@ review:
 
 <h3><a href="#z-scoop-grip"></a>Z Scoop Grip</h3>
 
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/z-scoop-grip-aero.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="Aero Z Scoop Grip"/></a></figure>
+<figure class="wp-block-image"><img src="{{ '/img/posts/z-scoop-grip-aero.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="Aero Z Scoop Grip"/></figure>
 
 <p>The Z Scoop grip is Aero's unique grip offering. This is a grip embedded within the shoulder of the bowl. A small channel is carved out for the grip pattern to sit in. This means that your fingers will sit slightly within the bowl making it feel smaller. This feeling, paired with Aero's unique half sizes, means that many bowlers can play with a larger bowl.</p>
 
 <p>The pattern itself isn't just a generic dimple grip, but a zig zag design. If you are used to the classic grip patterns this may take some getting used to, but we think it's well worth the effort in adapting.</p>
 
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/aero-groove-grip.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Aero Groove Grip for lawn bowls"/></a></figure>
+<figure class="wp-block-image"><img src="{{ '/img/posts/aero-groove-grip.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Aero Groove Grip for lawn bowls"/></figure>
 
 <h3><a href="#zig-zag-grip"></a>Zig-Zag Grip</h3>
 
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/zig-zag-grip-aero.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="Aero Zig-Zag Grip"/></a></figure>
+<figure class="wp-block-image"><img src="{{ '/img/posts/zig-zag-grip-aero.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="Aero Zig-Zag Grip"/></figure>
 
 <p>The Zig Zap grip option is the same design for the Z Scoop, but without the shoulder adjustment. This is a great choice for many bowlers, as the embedded shoulders don't work for everyone.</p>
 
 <h3><a href="#dentations-grip"></a>Dentations Grip</h3>
 
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/dentations-grip-aero.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="Aero Dentations Grip"/></a></figure>
+<figure class="wp-block-image"><img src="{{ '/img/posts/dentations-grip-aero.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="Aero Dentations Grip"/></figure>
 
 <p>The Dentations Grip is a relatively new design from Aero, and we haven't seen anything like this from any other manufacturer!</p>
 
@@ -162,6 +162,6 @@ review:
 
 <p>So, in conclusion the Aero Groove is a fantastic model, and one I believe will/should be seen far more often on British greens. We love it's even draw, as well as the boundry pushing colours and grips. We highly recommend you try these out in person, as they may not be to everyone's taste, but do give them a good go!</p>
 
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/aero-groove-set-of-four-tertiary.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Aero groove set of four tertiary - Aero GrooVe Lawn Bowls Review"/></a></figure>
+<figure class="wp-block-image"><img src="{{ '/img/posts/aero-groove-set-of-four-tertiary.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Aero groove set of four tertiary - Aero GrooVe Lawn Bowls Review"/></figure>
 
     

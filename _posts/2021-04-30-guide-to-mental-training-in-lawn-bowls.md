@@ -5,9 +5,9 @@ seo_title: "Ultimate Guide to Mental Training in Lawn Bowls"
 author: reece
 categories: [ help ]
 featured: false
-description: ""
+description: "The strength of a good lawn bowler isn’t in the technique, but in the mind. In this guide I'll take you through the best exercises to help improve your."
 date: 2021-04-30 13:00:00 -0400
-last_modified_at: 2026-11-06 13:55:13 +0000
+last_modified_at: 2026-11-15 11:15:00 +0000
 ---
     
 

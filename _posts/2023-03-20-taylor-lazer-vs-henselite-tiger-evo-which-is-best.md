@@ -1,15 +1,16 @@
 ---
 layout: post
 title:  "Taylor Lazer vs Henselite Tiger EVO | Which is Best?"
+seo_title: "Taylor Lazer vs Henselite Tiger EVO: Bias, Grip & Price Comparison"
+model_a: "taylor-lazer"
+model_b: "henselite-tiger-evo"
 author: reece
 categories: [ review, bowls ]
 featured: false
-description: ""
-last_modified_at: 2026-10-29 15:45:00 +0000
+description: "Compare Taylor Lazer vs Henselite Tiger EVO: narrow bias vs mid-wide bias line (2.5 vs 6.5) tested on indoor carpet surfaces. £385 vs £445 RRP (used £120–£180)."
+last_modified_at: 2026-11-15 09:05:42 +0000
 date: 2023-03-20 13:00:00 -0400
 ---
-    
-
 <p>Hey there! If you're new to lawn bowling, choosing the right equipment can feel overwhelming. That's where we come in - in this post, I'm going to compare two popular lawn bowls models: the Taylor Lazer and the Henselite Tiger EVO. </p>
 
 <figure class="wp-block-image size-large"><img src="{{ '/img/posts/taylor-lazer-vs-henselite-tiger-evo-1024x576.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Taylor Lazer VS Henselite Tiger Evo lawn bowls comparison" class="wp-image-2072"/></figure>

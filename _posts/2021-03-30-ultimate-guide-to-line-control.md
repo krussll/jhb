@@ -5,9 +5,9 @@ seo_title: "Ultimate Guide to Line Control in Lawn Bowls"
 author: reece
 categories: [ help ]
 featured: false
-description: ""
+description: "Line control is the fundamental skill of lawn bowls. This guide will take you through the basics, as well as some drills to help improve your line control."
 date: 2021-03-30 13:00:00 -0400
-last_modified_at: 2026-11-05 15:30:00 +0000
+last_modified_at: 2026-11-15 11:15:00 +0000
 ---
     
 

@@ -1,15 +1,16 @@
 ---
 layout: post
 title:  "Taylor Lignoid vs Drakes Pride PRO-50 | Which is Best?"
+seo_title: "Taylor Lignoid vs Drakes Pride PRO-50: Bias, Grip & Price Comparison"
+model_a: "taylor-lignoid"
+model_b: "drakes-pride-pro-50"
 author: reece
 categories: [ review, bowls ]
 featured: false
-description: ""
-last_modified_at: 2026-10-29 15:45:00 +0000
+description: "Compare Taylor Lignoid vs Drakes Pride PRO-50: wide bias vs mid bias line (8.5 vs 5.2) tested on heavy outdoor grass surfaces. £365 vs £395 RRP (used £80–£140)."
+last_modified_at: 2026-11-15 09:05:42 +0000
 date: 2023-03-20 13:00:00 -0400
 ---
-    
-
 <p>Are you a beginner looking for the perfect lawn bowl but don't know where to start? Don't worry - I have got you covered! In this blog post, we will be comparing two of the most popular models of lawn bowls - the Taylor Lignoid and the Drakes Pride PRO-50. </p>
 
 <figure class="wp-block-image size-large"><img src="{{ '/img/posts/taylor-lignoid-vs-drakes-pride-pro-50-1024x576.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Taylor Lignoid VS Drakes Pride Pro lawn bowls comparison" class="wp-image-1980"/></figure>

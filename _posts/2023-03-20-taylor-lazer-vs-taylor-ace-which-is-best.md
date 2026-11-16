@@ -1,15 +1,16 @@
 ---
 layout: post
 title:  "Taylor Lazer vs Taylor Ace | Which is Best?"
+seo_title: "Taylor Lazer vs Taylor Ace: Bias, Grip & Price Comparison"
+model_a: "taylor-lazer"
+model_b: "taylor-ace"
 author: reece
 categories: [ review, bowls ]
 featured: false
-description: ""
-last_modified_at: 2026-10-29 15:45:00 +0000
+description: "Compare Taylor Lazer vs Taylor Ace: Taylor Lazer draws tighter than Taylor Ace (2.5 vs 5.0 bias) for indoor carpet play. £385 vs £395 RRP (used £120–£120)."
+last_modified_at: 2026-11-15 09:05:42 +0000
 date: 2023-03-20 13:00:00 -0400
 ---
-    
-
 <p>Are you a beginner when it comes to lawn bowls? The process of choosing the right one can be overwhelming, with so many different options available. </p>
 
 <figure class="wp-block-image size-large"><img src="{{ '/img/posts/taylor-lazer-vs-taylor-ace-1024x576.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Taylor Lazer VS Taylor Ace lawn bowls comparison" class="wp-image-2078"/></figure>

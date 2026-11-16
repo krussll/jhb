@@ -4,9 +4,9 @@ title:  "Lawn Bowls Dress Code | A Complete Guide"
 author: reece
 categories: [ help ]
 featured: false
-description: ""
+description: "Each club will have their own guidelines depending on the type of game is being played, however there are usually some common rules in lawn bowls that you."
 date: 2019-07-30 13:00:00 -0400
-last_modified_at: 2026-10-30 10:25:00 +0000
+last_modified_at: 2026-11-15 11:15:00 +0000
 ---
     
 

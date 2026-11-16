@@ -5,9 +5,9 @@ seo_title: "How to Judge the Length of a Jack in Lawn Bowls"
 author: reece
 categories: [ help ]
 featured: false
-description: ""
+description: "Being able to judge the length of the jack is one of the key skills in bowls. IN this guide I look through why it's so important, and how you can get."
 date: 2022-03-06 13:00:00 -0400
-last_modified_at: 2026-11-04 15:05:00 +0000
+last_modified_at: 2026-11-15 11:15:00 +0000
 ---
     
 

@@ -5,9 +5,9 @@ seo_title: "How to Cheat at Lawn Bowls: 6 Ways People Cheat"
 author: reece
 categories: [ help ]
 featured: false
-description: ""
+description: "Lawn bowls is a sport of respect - both towards your opponent but also the tradition of the game. Therefore cheating is definitely frowned upon."
 date: 2022-04-01 13:00:00 -0400
-last_modified_at: 2026-11-04 15:05:00 +0000
+last_modified_at: 2026-11-15 11:15:00 +0000
 ---
     
 

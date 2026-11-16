@@ -1,15 +1,16 @@
 ---
 layout: post
 title:  "Taylor Vector VS vs Taylor Ace | Which is Best?"
+seo_title: "Taylor Vector VS vs Taylor Ace: Bias, Grip & Price Comparison"
+model_a: "taylor-vector-vs"
+model_b: "taylor-ace"
 author: reece
 categories: [ review, bowls ]
 featured: false
-description: "Taylor Vector VS vs Taylor Ace: side-by-side comparison of bias width, position suitability, green speeds, and buyer recommendations."
-last_modified_at: 2026-10-29 15:45:00 +0000
+description: "Compare Taylor Vector VS vs Taylor Ace: narrow bias vs mid bias line (3.2 vs 5.0) on indoor carpet and outdoor grass greens. £385 vs £395 RRP (used £110–£120)."
+last_modified_at: 2026-11-15 09:05:42 +0000
 date: 2023-03-19 13:00:00 -0400
 ---
-    
-
 <p>Are you a beginner struggling to pick the right lawn bowl? It can be overwhelming with so many options out there. That's where I come in. </p>
 
 <figure class="wp-block-image size-large"><img src="{{ '/img/posts/taylor-vector-vs-vs-taylor-ace-1024x576.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Taylor Vector VS vs Taylor Ace comparison" class="wp-image-2062"/></figure>
@@ -23,16 +24,6 @@ date: 2023-03-19 13:00:00 -0400
   </ul>
 </div>
 
-### Side-by-Side Comparison
-
-| Feature / Specification | Taylor Vector VS | Taylor Ace |
-| :--- | :--- | :--- |
-| **Bias Rating** | Narrow Bias | Mid Bias (Wider drawing line) |
-| **Primary Surface** | Fast Grass (14s+) & Indoor Carpets | Outdoor Grass (12–15s) & Indoor |
-| **Best Position** | Lead, Second, Indoor Singles | Lead, Second, Third, Skip |
-| **Grip Options** | Progrip, Half-Pipe, Plain | Progrip, Half-Pipe, Plain |
-| **Size Range** | Size 00 to 5 | Size 00 to 5 |
-| **Price Bracket** | £380 – £410 | £380 – £420 |
 
 <p>In this blog post, I'll be comparing two of the most popular models - the Taylor Vector VS and the Taylor Ace. We'll go over everything from specs to grip options, to price and who each bowl is best suited for. By the end of this guide, you'll have a much clearer idea of which lawn bowl will be perfect for you.</p>
 

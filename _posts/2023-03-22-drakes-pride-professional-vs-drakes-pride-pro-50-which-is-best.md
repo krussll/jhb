@@ -1,15 +1,16 @@
 ---
 layout: post
 title:  "Drakes Pride Professional vs Drakes Pride PRO-50 | Which is Best?"
+seo_title: "Drakes Pride Professional vs Drakes Pride PRO-50: Bias, Grip & Price Comparison"
+model_a: "drakes-pride-professional"
+model_b: "drakes-pride-pro-50"
 author: reece
 categories: [ review, bowls ]
 featured: false
-description: ""
-last_modified_at: 2026-10-29 15:45:00 +0000
+description: "Compare Drakes Pride Professional vs Drakes Pride PRO-50: both offer versatile mid bias profiles for outdoor grass play. £375 vs £395 RRP (used £100–£140)."
+last_modified_at: 2026-11-15 09:05:42 +0000
 date: 2023-03-22 13:00:00 -0400
 ---
-    
-
 <p>Hey there! If you're a beginner looking to buy a new lawn bowl, you might be feeling a little overwhelmed with all the options out there. But don't worry - I'm here to help you out. </p>
 
 <figure class="wp-block-image size-large"><img src="{{ '/img/posts/drakes-pride-professional-vs-drakes-pride-pro-50-1024x576.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Drakes Pride Professional VS Drakes Pride Pro lawn bowls comparison" class="wp-image-1915"/></figure>

@@ -1,15 +1,16 @@
 ---
 layout: post
 title:  "Taylor Legacy SL vs Taylor Lignoid | Which is Best?"
+seo_title: "Taylor Legacy SL vs Taylor Lignoid: Bias, Grip & Price Comparison"
+model_a: "taylor-legacy-sl"
+model_b: "taylor-lignoid"
 author: reece
 categories: [ review, bowls ]
 featured: false
-description: ""
-last_modified_at: 2026-10-29 15:45:00 +0000
+description: "Compare Taylor Legacy SL vs Taylor Lignoid: wide bias vs wide bias line (8.0 vs 8.5) tested on outdoor grass surfaces. Compare £365 vs £365 RRP (from £80 used)."
+last_modified_at: 2026-11-15 09:05:42 +0000
 date: 2023-03-20 13:00:00 -0400
 ---
-    
-
 <p>Are you a new lawn bowler struggling to decide which bowl is right for you? Don't worry, I've got you covered! In this post, I'll be comparing the Taylor Legacy SL and the Taylor Lignoid - two of the most popular models of lawn bowls out there. </p>
 
 <figure class="wp-block-image size-large"><img src="{{ '/img/posts/taylor-legacy-sl-vs-taylor-lignoid-1024x576.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Taylor Legacy SL VS Taylor Lignoid lawn bowls comparison" class="wp-image-2003"/></figure>

@@ -1,15 +1,16 @@
 ---
 layout: post
 title:  "Aero GrooVe vs Drakes Pride XP | Which is Best?"
+seo_title: "Aero GrooVe vs Drakes Pride XP: Bias, Grip & Price Comparison"
+model_a: "aero-groove"
+model_b: "drakes-pride-xp"
 author: reece
 categories: [ guide ]
 featured: false
-description: ""
-last_modified_at: 2026-10-29 15:45:00 +0000
+description: "Compare Aero GrooVe vs Drakes Pride XP: mid bias vs wide bias line (5.5 vs 7.5) tested on outdoor grass surfaces. Compare £430 vs £380 RRP (from £110 used)."
+last_modified_at: 2026-11-15 09:05:42 +0000
 date: 2023-03-22 13:00:00 -0400
 ---
-    
-
 <p>If you’re new to lawn bowling, choosing the right bowl can feel overwhelming with all the options out there. That’s why I’ve put together this blog post comparing two popular models - the Aero GrooVe and the Drakes Pride XP. </p>
 
 <figure class="wp-block-image size-large"><img src="{{ '/img/posts/aero-groove-vs-drakes-pride-xp-1024x576.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Aero Groove VS Drakes Pride XP lawn bowls comparison" class="wp-image-1923"/></figure>

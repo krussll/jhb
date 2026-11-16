@@ -1,15 +1,16 @@
 ---
 layout: post
 title:  "Taylor Vector VS vs Henselite Tiger EVO | Which is Best?"
+seo_title: "Taylor Vector VS vs Henselite Tiger EVO: Bias, Grip & Price Comparison"
+model_a: "taylor-vector-vs"
+model_b: "henselite-tiger-evo"
 author: reece
 categories: [ review, bowls ]
 featured: false
-description: ""
-last_modified_at: 2026-10-29 15:45:00 +0000
+description: "Compare Taylor Vector VS vs Henselite Tiger EVO: narrow bias vs mid-wide bias line (3.2 vs 6.5) for indoor carpet play. £385 vs £445 RRP (used £110–£180)."
+last_modified_at: 2026-11-15 09:05:42 +0000
 date: 2023-03-20 13:00:00 -0400
 ---
-    
-
 <p>Hey there, are you a beginner who is intimidated by the process of choosing the right lawn bowl? I understand how overwhelming it can be, especially with all the different options available. That's why in this blog post, I want to help you compare two of the most popular models - the Taylor Vector VS and the Henselite Tiger EVO.</p>
 
 <figure class="wp-block-image size-large"><img src="{{ '/img/posts/taylor-vector-vs-vs-henselite-tiger-evo-1024x576.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Taylor Vector VS VS Henselite Tiger Evo lawn bowls comparison" class="wp-image-2055"/></figure>

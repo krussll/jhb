@@ -5,9 +5,9 @@ seo_title: "Are Short Mat Bowls Different to Lawn Bowls?"
 author: reece
 categories: [ help ]
 featured: false
-description: ""
+description: "Are short mat bowls the same as lawn bowls ? This is my guide to the two games, and what is required to play both games."
 date: 2022-02-22 13:00:00 -0400
-last_modified_at: 2026-11-04 15:05:00 +0000
+last_modified_at: 2026-11-15 11:15:00 +0000
 ---
     
 

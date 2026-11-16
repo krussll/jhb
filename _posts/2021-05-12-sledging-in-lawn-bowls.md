@@ -5,9 +5,9 @@ seo_title: "Sledging in Lawn Bowls: Is It Ever Acceptable?"
 author: reece
 categories: [ help ]
 featured: false
-description: ""
+description: "This article defines sledging and discusses why it is practised, the different types of sledging, and its moral implications in lawn bowls and other sports."
 date: 2021-05-12 13:00:00 -0400
-last_modified_at: 2026-11-04 15:05:00 +0000
+last_modified_at: 2026-11-15 11:15:00 +0000
 ---
     
 

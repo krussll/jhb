@@ -1,15 +1,16 @@
 ---
 layout: post
 title:  "Taylor International vs Legacy SL | Which is Best?"
+seo_title: "Taylor International vs Taylor Legacy SL: Bias, Grip & Price Comparison"
+model_a: "taylor-international"
+model_b: "taylor-legacy-sl"
 author: reece
 categories: [ review, bowls ]
 featured: false
-description: ""
-last_modified_at: 2026-10-29 15:45:00 +0000
+description: "Compare Taylor International vs Taylor Legacy SL: wide bias vs wide bias line (7.2 vs 8.0) tested on slow outdoor surfaces. £375 vs £365 RRP (used £85–£95)."
+last_modified_at: 2026-11-15 09:05:42 +0000
 date: 2023-03-20 13:00:00 -0400
 ---
-    
-
 <p>Are you feeling overwhelmed by the plethora of lawn bowl choices out there? As a beginner, it can be tough to navigate the market and decide which bowl is right for you. That's why I'm here to compare two of the most popular models - the Taylor International and the Taylor Legacy SL.</p>
 
 <figure class="wp-block-image size-large"><img src="{{ '/img/posts/taylor-international-vs-taylor-legacy-sl-1024x576.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Taylor International VS Taylor Legacy SL lawn bowls comparison" class="wp-image-2017"/></figure>

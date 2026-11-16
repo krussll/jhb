@@ -5,8 +5,8 @@ seo_title: "Lawn Bowls Bowling Aids for Disabled Players"
 author: reece
 categories: [ guide ]
 featured: false
-description: ""
-last_modified_at: 2026-11-04 15:05:00 +0000
+description: "Lawn bowls is an inclusive sport, suitable for all. It is ideal way to keep active for those who may be getting on in years, or those who are not fully mobile."
+last_modified_at: 2026-11-15 11:15:00 +0000
 date: 2022-06-07 13:00:00 -0400
 ---
     

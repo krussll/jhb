@@ -1,16 +1,16 @@
 ---
 layout: post
 title:  "Taylor International vs Drakes Pride Professional | Which is Best?"
-seo_title: "Taylor International vs Drakes Pride Professional"
+seo_title: "Taylor International vs Drakes Pride Professional: Bias, Grip & Price Comparison"
+model_a: "taylor-international"
+model_b: "drakes-pride-professional"
 author: reece
 categories: [ review, bowls ]
 featured: false
-description: ""
-last_modified_at: 2026-11-06 13:55:13 +0000
+description: "Compare Taylor International vs Drakes Pride Professional: wide bias vs mid bias line (7.2 vs 5.2) for slow outdoor play. £375 vs £375 RRP (used £95–£100)."
+last_modified_at: 2026-11-15 09:05:42 +0000
 date: 2023-03-20 13:00:00 -0400
 ---
-    
-
 <p>Hey there! If you're a beginner, I know choosing the right lawn bowl for you can be overwhelming. With so many options out there, it's tough to know where to start. </p>
 
 <figure class="wp-block-image size-large"><img src="{{ '/img/posts/taylor-international-vs-drakes-pride-professional-1024x576.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Taylor International VS Drakes Pride Professional lawn bowls comparison" class="wp-image-2006"/></figure>

@@ -4,8 +4,8 @@ title:  "Why Do Lawn Bowls Curve? | A Complete Guide"
 author: reece
 categories: [ help ]
 featured: false
-description: ""
-last_modified_at: 2026-10-29 15:45:00 +0000
+description: "If you’ve ever rolled a lawn bowl, you will know that it never travels in a straight line. It usually curves either to the left or right of the spot you."
+last_modified_at: 2026-11-15 11:15:00 +0000
 date: 2022-07-22 13:00:00 -0400
 ---
     

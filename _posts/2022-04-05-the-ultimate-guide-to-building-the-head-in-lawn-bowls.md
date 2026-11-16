@@ -5,8 +5,8 @@ seo_title: "Building the Head in Lawn Bowls: Beginner's Guide"
 author: reece
 categories: [ help ]
 featured: false
-description: ""
-last_modified_at: 2026-11-04 15:05:00 +0000
+description: "Bowls can seem like a game of luck. Your opponent goes and moves the jack, but it never seems to end up by your bowls. No matter what you do you find your."
+last_modified_at: 2026-11-15 11:15:00 +0000
 date: 2022-04-05 13:00:00 -0400
 ---
     

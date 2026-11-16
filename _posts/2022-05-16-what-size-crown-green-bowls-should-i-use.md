@@ -4,8 +4,8 @@ title:  "What Size Crown Green Bowls Should I Use? | A Complete Guide"
 author: reece
 categories: [ crown-green-bowls ]
 featured: false
-description: ""
-last_modified_at: 2026-10-29 15:45:00 +0000
+description: "What better way to relax in your free time or build a career than a sports activity such as crown green bowling? Played in nature, this outdoor game will."
+last_modified_at: 2026-11-15 11:15:00 +0000
 date: 2022-05-16 13:00:00 -0400
 ---
     

@@ -4,9 +4,9 @@ title:  "Rules Of Short Mat Bowls | A Complete Guide"
 author: reece
 categories: [ help ]
 featured: false
-description: ""
+description: "The rules of short mat bowls are simple. What is short mat bowls? Short mat bowls is a target sport. The aim is to roll your bowl so that it gets closest."
 date: 2020-11-10 13:00:00 -0400
-last_modified_at: 2026-10-30 10:25:00 +0000
+last_modified_at: 2026-11-15 11:15:00 +0000
 ---
     
 

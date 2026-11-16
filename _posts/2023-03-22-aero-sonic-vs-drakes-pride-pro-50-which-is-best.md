@@ -1,15 +1,16 @@
 ---
 layout: post
 title:  "Aero Sonic vs Drakes Pride PRO-50 | Which is Best?"
+seo_title: "Aero Sonic vs Drakes Pride PRO-50: Bias, Grip & Price Comparison"
+model_a: "aero-sonic"
+model_b: "drakes-pride-pro-50"
 author: reece
 categories: [ guide ]
 featured: false
-description: ""
-last_modified_at: 2026-10-29 15:45:00 +0000
+description: "Compare Aero Sonic vs Drakes Pride PRO-50: mid-wide bias vs mid bias line (6.8 vs 5.2) tested on outdoor grass surfaces. £435 vs £395 RRP (used £140–£160)."
+last_modified_at: 2026-11-15 09:05:42 +0000
 date: 2023-03-22 13:00:00 -0400
 ---
-    
-
 <p>Hey there! Are you a beginner lawn bowler who's feeling a bit overwhelmed by the variety of options out there? Choosing the right lawn bowl can seem like a daunting task, but don't worry - I'm here to help! In this blog post, I'll be comparing two popular models of lawn bowls: the Aero Sonic and the Drakes Pride PRO-50. </p>
 
 <figure class="wp-block-image size-large"><img src="{{ '/img/posts/aero-sonic-vs-drakes-pride-pro-50-1024x576.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Aero Sonic VS Drakes Pride Pro lawn bowls comparison" class="wp-image-1920"/></figure>

@@ -1,15 +1,16 @@
 ---
 layout: post
 title:  "Taylor Vector VS vs Drakes Pride PRO-50 | Which is Best?"
+seo_title: "Taylor Vector VS vs Drakes Pride PRO-50: Bias, Grip & Price Comparison"
+model_a: "taylor-vector-vs"
+model_b: "drakes-pride-pro-50"
 author: reece
 categories: [ review, bowls ]
 featured: false
-description: ""
-last_modified_at: 2026-10-29 15:45:00 +0000
+description: "Compare Taylor Vector VS vs Drakes Pride PRO-50: narrow bias vs mid bias line (3.2 vs 5.2) tested on indoor carpet surfaces. £385 vs £395 RRP (used £110–£140)."
+last_modified_at: 2026-11-15 09:05:42 +0000
 date: 2023-03-19 13:00:00 -0400
 ---
-    
-
 <p>Hey there! If you're new to lawn bowls, choosing the right one can be quite overwhelming with all the options available. That's why I'm here to help! In this blog post, I want to discuss two popular models of lawn bowls - the Taylor Vector VS and the Drakes Pride PRO-50. </p>
 
 <figure class="wp-block-image size-large"><img src="{{ '/img/posts/taylor-vector-vs-vs-drakes-pride-pro-50-1024x576.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Taylor Vector VS VS Drakes Pride Pro lawn bowls comparison" class="wp-image-2048"/></figure>

@@ -4,9 +4,9 @@ title:  "How Much Does Lawn Bowls Cost? | A Complete Guide"
 author: reece
 categories: [ help ]
 featured: false
-description: ""
+description: "Is lawn bowls expensive? How much do I need to start playing lawn bowls? This cost guide will tell you how much you will need as a beginner, Lawn bowls is."
 date: 2020-06-16 13:00:00 -0400
-last_modified_at: 2026-10-30 10:25:00 +0000
+last_modified_at: 2026-11-15 11:15:00 +0000
 ---
     
 

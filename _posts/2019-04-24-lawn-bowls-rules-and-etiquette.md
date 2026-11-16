@@ -31,7 +31,7 @@ last_modified_at: 2026-11-05 14:45:00 +0000
 
 <p>Ensure that you know the dress code for the game to avoid looking confused. Stay informed and pack your gear in good time to avoid forgetting the essentials. Remember not to arrive in your bowling shoes in case you carry harmful fungus to the greens.</p>
 
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/lawn_bowls_etiquette_one.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Lawn bowls etiquette one - Lawn Bowls Rules And Etiquette"/></a></figure>
+<figure class="wp-block-image"><img src="{{ '/img/posts/lawn_bowls_etiquette_one.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Lawn bowls etiquette one - Lawn Bowls Rules And Etiquette"/></figure>
 
 <h3><a href="#3-stand-still-when-someone-is-about-to-bowl"></a>3. Stand Still When Someone is About to Bowl</h3>
 
@@ -45,7 +45,7 @@ last_modified_at: 2026-11-05 14:45:00 +0000
 
 <p>According to the rules, after you have delivered a bowl, you have two choices. If you desire to track your bowl, you must be at the head when it stops. If you choose to stay at the mat, you must be there when the bowl stops. By observing this rule, you ensure that the next player gets to play immediately when your turn is over. Avoid frustrating other players by following the rules. The rules also state that the rink shall belong to the team whose bowl is being played. While playing, players in possession of the rink shall not be disturbed or interfered with. If you have business to conduct at the clubhouse, wait till after the game and start a conversation over drinks.</p>
 
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/lawn_bowls_etiquette_two.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Lawn bowls etiquette two - Lawn Bowls Rules And Etiquette"/></a></figure>
+<figure class="wp-block-image"><img src="{{ '/img/posts/lawn_bowls_etiquette_two.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Lawn bowls etiquette two - Lawn Bowls Rules And Etiquette"/></figure>
 
 <h3><a href="#6-acknowledgments-are-in-order"></a>6. Acknowledgments are in Order</h3>
 
@@ -59,7 +59,7 @@ last_modified_at: 2026-11-05 14:45:00 +0000
 
 <p>The rules are simple. Once it is your time to bowl, come into the mat from the left side and once you are done bowling, step off from the right side of the mat. It is customary to observe this rule to avoid bumping into other players as you exit the mat.</p>
 
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/lawn_bowls_etiquette_three.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Lawn bowls etiquette three - Lawn Bowls Rules And Etiquette"/></a></figure>
+<figure class="wp-block-image"><img src="{{ '/img/posts/lawn_bowls_etiquette_three.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Lawn bowls etiquette three - Lawn Bowls Rules And Etiquette"/></figure>
 
 <h3><a href="#9-send-signals-from-the-head-end"></a>9. Send Signals from the Head End</h3>
 
@@ -73,7 +73,7 @@ last_modified_at: 2026-11-05 14:45:00 +0000
 
 <p>Perhaps your green was not as smooth as you expected, or you are at loggerheads with one of your team players. It would be wise not to complain about any green, including yours, or about other people, especially at the bowl club. As earlier stated, bowling is a game of propriety, and pointless complaining is impolite.</p>
 
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/lawn_bowls_etiquette_four.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Lawn bowls etiquette four - Lawn Bowls Rules And Etiquette"/></a></figure>
+<figure class="wp-block-image"><img src="{{ '/img/posts/lawn_bowls_etiquette_four.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Lawn bowls etiquette four - Lawn Bowls Rules And Etiquette"/></figure>
 
 <h2><a href="#how-to-handle-wrong-doing"></a>How to Handle Wrong-Doing</h2>
 

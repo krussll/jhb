@@ -1,15 +1,16 @@
 ---
 layout: post
 title:  "Taylor Lazer vs Aero GrooVe | Which is Best?"
+seo_title: "Taylor Lazer vs Aero GrooVe: Bias, Grip & Price Comparison"
+model_a: "taylor-lazer"
+model_b: "aero-groove"
 author: reece
 categories: [ review, bowls ]
 featured: false
-description: ""
-last_modified_at: 2026-10-29 15:45:00 +0000
+description: "Compare Taylor Lazer vs Aero GrooVe: Taylor Lazer draws tighter than Aero GrooVe (2.5 vs 5.5 bias) for indoor carpet play. £385 vs £430 RRP (used £120–£160)."
+last_modified_at: 2026-11-15 09:05:42 +0000
 date: 2023-03-20 13:00:00 -0400
 ---
-    
-
 <p>Are you new to lawn bowling and feeling overwhelmed with the variety of options available? Don't worry, I've got you covered. In this blog post, I'll walk you through the differences between two popular models - the Taylor Lazer and the Aero GrooVe. </p>
 
 <figure class="wp-block-image size-large"><img src="{{ '/img/posts/taylor-lazer-vs-aero-groove-1024x576.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Taylor Lazer VS Aero Groove lawn bowls comparison" class="wp-image-2069"/></figure>

@@ -1,15 +1,16 @@
 ---
 layout: post
 title:  "Henselite Tiger vs Aero Quantum | Which is Best?"
+seo_title: "Henselite Tiger vs Aero Quantum: Bias, Grip & Price Comparison"
+model_a: "henselite-tiger"
+model_b: "aero-quantum"
 author: reece
 categories: [ review, bowls ]
 featured: false
-description: ""
-last_modified_at: 2026-10-29 15:45:00 +0000
+description: "Compare Henselite Tiger vs Aero Quantum: mid-wide bias vs mid-narrow bias line (6.2 vs 4.2) tested on outdoor grass surfaces. £425 vs £425 RRP (used £130–£160)."
+last_modified_at: 2026-11-15 09:05:42 +0000
 date: 2023-03-21 13:00:00 -0400
 ---
-    
-
 <p>Are you a beginner trying to choose the right lawn bowl? It can be a daunting task when you're not familiar with the different options available. But don't worry, in this blog post, I've got you covered! </p>
 
 <figure class="wp-block-image size-large"><img src="{{ '/img/posts/henselite-tiger-vs-aero-quantum-1024x576.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Henselite Tiger VS Aero Quantum lawn bowls comparison" class="wp-image-1940"/></figure>

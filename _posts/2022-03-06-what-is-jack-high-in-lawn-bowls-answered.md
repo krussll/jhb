@@ -4,8 +4,8 @@ title:  "What Is Jack High In Lawn Bowls? | Answered!"
 author: reece
 categories: [ help ]
 featured: false
-description: ""
-last_modified_at: 2026-10-30 10:25:00 +0000
+description: "'Jack High' is a common term is bowls - both indoor and outdoors. But what does it actually mean? New terms are hard to pick up for beginners, so lets."
+last_modified_at: 2026-11-15 11:15:00 +0000
 date: 2022-03-06 13:00:00 -0400
 ---
     

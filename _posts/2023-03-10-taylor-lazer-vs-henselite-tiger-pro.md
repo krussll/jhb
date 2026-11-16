@@ -1,15 +1,16 @@
 ---
 layout: post
 title:  "Taylor Lazer vs Henselite Tiger Pro | Which is Best?"
+seo_title: "Taylor Lazer vs Henselite Tiger Pro: Bias, Grip & Price Comparison"
+model_a: "taylor-lazer"
+model_b: "henselite-tiger-pro"
 author: reece
 categories: [ review, bowls ]
 featured: false
-description: ""
-last_modified_at: 2026-10-29 15:45:00 +0000
+description: "Compare Taylor Lazer vs Henselite Tiger Pro: narrow bias vs mid bias line (2.5 vs 5.4) tested on indoor carpet surfaces. £385 vs £435 RRP (used £120–£160)."
+last_modified_at: 2026-11-15 09:05:42 +0000
 date: 2023-03-10 13:00:00 -0400
 ---
-    
-
 <p>Are you a beginner struggling to choose the right lawn bowl? With so many different options available, it can be a daunting task. But don't worry, in this guide, I will be comparing two of the most popular models - the Taylor Lazer and the Henselite Tiger Pro.</p>
 
 <figure class="wp-block-image size-full"><img src="{{ '/img/posts/taylor-lazer-vs-henselite-pro.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Taylor Lazer VS Henselite Pro lawn bowls comparison" class="wp-image-1909"/></figure>

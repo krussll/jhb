@@ -1,15 +1,16 @@
 ---
 layout: post
 title:  "Taylor Lignoid vs Henselite Tiger II | Which is Best?"
+seo_title: "Taylor Lignoid vs Henselite Tiger II: Bias, Grip & Price Comparison"
+model_a: "taylor-lignoid"
+model_b: "henselite-tiger-ii"
 author: reece
 categories: [ review, bowls ]
 featured: false
-description: ""
-last_modified_at: 2026-10-29 15:45:00 +0000
+description: "Compare Taylor Lignoid vs Henselite Tiger II: wide bias vs mid bias line (8.5 vs 4.8) tested on heavy outdoor grass surfaces. £365 vs £435 RRP (used £80–£150)."
+last_modified_at: 2026-11-15 09:05:42 +0000
 date: 2023-03-19 13:00:00 -0400
 ---
-    
-
 <p>Are you new to lawn bowling and feeling overwhelmed by the different options available? Don't worry, I've got you covered. </p>
 
 <figure class="wp-block-image size-large"><img src="{{ '/img/posts/taylor-lignoid-vs-henselite-tiger-ii-1024x576.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Taylor Lignoid VS Henselite Tiger II lawn bowls comparison" class="wp-image-1989"/></figure>

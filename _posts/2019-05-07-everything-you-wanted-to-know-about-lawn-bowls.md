@@ -4,9 +4,9 @@ title:  "Lawn Bowls: 13 Things Every Beginner Needs To Know"
 author: reece
 categories: [ help ]
 featured: false
-description: ""
+description: "Answers to the most common questions asked by beginners. What are the balls called in lawn bowls? In lawn bowls the balls are called 'bowls' or 'woods'."
 date: 2019-05-07 13:00:00 -0400
-last_modified_at: 2026-10-30 10:25:00 +0000
+last_modified_at: 2026-11-15 11:15:00 +0000
 ---
     
 
@@ -42,7 +42,7 @@ last_modified_at: 2026-10-30 10:25:00 +0000
 
 <p><strong>The best lawn bowls brands are Aero, Drakes Pride, Thomas Taylor, and Henselite. These 4 brands produce nearly all of the lawn bowls sold Worldwide. Aero and Henselite are the best brands found in Australia, whereas Drakes Pride and Thmas Taylor are the best UK brands.</strong></p>
 
-<p>If you want to find out more about what brands and models suit you, check out our <a href="#">lawn bowl reviews</a>, otherwise, you can see our <a href="#">top lawn bowls brands of 2021</a>.</p>
+<p>If you want to find out more about what brands and models suit you, check out our <a href="/reviews/">lawn bowl reviews</a>, otherwise, you can see our <a href="/guide/best-lawn-bowls-brands/">top lawn bowls brands</a>.</p>
 
 <h2><a href="#how-long-do-lawn-bowls-last"></a>How long do lawn bowls last?</h2>
 

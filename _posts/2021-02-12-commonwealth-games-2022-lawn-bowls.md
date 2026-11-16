@@ -5,9 +5,9 @@ seo_title: "Lawn Bowls at the Commonwealth Games 2022"
 author: reece
 categories: [ help ]
 featured: false
-description: ""
+description: "Lawn bowls have been included since it’s inception in 1930. In this guide, I’ll be taking a deep dive into the lawn bowls events in Birmingham."
 date: 2021-02-12 13:00:00 -0400
-last_modified_at: 2026-11-04 15:05:00 +0000
+last_modified_at: 2026-11-15 11:15:00 +0000
 ---
     
 

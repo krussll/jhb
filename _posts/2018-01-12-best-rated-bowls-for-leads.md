@@ -9,24 +9,40 @@ skill_level: Intermediate
 pathway: choose-your-bowls
 next_step: /help/9-tips-for-how-to-play-bowls-well/
 date: 2018-01-12 13:00:00 -0400
-last_modified_at: 2026-11-06 13:55:13 +0000
+last_modified_at: 2026-11-14 08:15:00 +0000
 items:
-  - name: "Taylor Vector VS"
+  - model_id: "taylor-vector-vs"
+    name: "Taylor Vector VS"
     award: "Best Overall Lead Bowl"
     verdict: "Taylor's premier narrow-bias model. Flat finish and predictable line make it ideal for repeated draw shots on fast turf and indoor carpet."
     url: "/review/bowls/taylor-vector-vs-review/"
-  - name: "Drakes Pride D-Tec"
+    price_new: 385
+    price_used_low: 110
+    price_used_high: 175
+  - model_id: "drakes-pride-d-tec"
+    name: "Drakes Pride d-tec"
     award: "Best Indoor & Fast Surface Specialist"
     verdict: "Extremely narrow, smooth trajectory that allows leads to bowl tight without fighting a hooking finish."
     url: "/review/bowls/drakes-pride-d-tec-review/"
-  - name: "Aero Quantum"
+    price_new: 375
+    price_used_low: 115
+    price_used_high: 175
+  - model_id: "aero-quantum"
+    name: "Aero Quantum"
     award: "Best Wind Resistance & Ergonomics"
     verdict: "Flatter finish with proprietary Z-Scoop grip, providing exceptional control in challenging outdoor conditions."
     url: "/review/bowls/aero-quantum-review/"
-  - name: "Drakes Pride Professional"
+    price_new: 425
+    price_used_low: 160
+    price_used_high: 240
+  - model_id: "drakes-pride-professional"
+    name: "Drakes Pride Professional"
     award: "Best for Slower Outdoor Greens"
     verdict: "Classic mid-narrow model that holds its draw line through damp or heavy grass heads."
     url: "/review/bowls/drakes-pride-professional-review/"
+    price_new: 375
+    price_used_low: 100
+    price_used_high: 165
 faqs:
   - question: "Why do leads prefer narrow-to-mid bias bowls?"
     answer: "Leads bowl when the rink is open and free of obstacles, meaning their primary job is drawing repeatedly to within inches of the jack. Narrow-to-mid bias bowls have a tighter, flatter finish that minimises ditch drift and allows tight line discipline."
@@ -42,66 +58,16 @@ faqs:
 
 <figure class="wp-block-image size-full"><img src="{{ '/img/posts/best-bowls-for-leads.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Best Rated Lawn Bowls For Leads" class="wp-image-389"/></figure>
 
-<div class="alert alert-success border-success my-4 p-3 rounded" style="border-left: 4px solid #1F2B5F;">
+<div class="alert alert-success border-success my-4 p-3" style="border-left: 4px solid #1F2B5F; border-radius: 0;">
   <h3 class="h5 font-weight-bold text-success mb-2"><i class="fas fa-bullseye mr-1"></i> Quick Verdict: Best Bowls for Leads</h3>
-  <p class="mb-2">For competitive leads, the <strong>Taylor Vector VS</strong> remains the gold standard on 14+ second grass and indoor greens thanks to its clean holding finish. If you play on heavier outdoor turf (11–13s), the <strong>Drakes Pride Professional</strong> gives you enough turn to hold line without running wide.</p>
+  <p class="mb-0">For competitive leads, the <strong>Taylor Vector VS</strong> remains the gold standard on 14+ second grass and indoor greens thanks to its clean holding finish. If you play on heavier outdoor turf (11–13s), the <strong>Drakes Pride Professional</strong> gives you enough turn to hold line without running wide.</p>
 </div>
+
+{% include roundup-product-grid.html %}
 
 <h2>Top 4 Bowls for Leads Compared</h2>
 
-<div class="table-responsive my-3">
-  <table class="table table-bordered table-hover">
-    <thead class="thead-light">
-      <tr>
-        <th scope="col">Model</th>
-        <th scope="col">Best For</th>
-        <th scope="col">Bias Rating</th>
-        <th scope="col">Finish Profile</th>
-        <th scope="col">Optimal Surfaces</th>
-        <th scope="col">Price Guide (New / Used)</th>
-        <th scope="col">Full Review</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><strong>Taylor Vector VS</strong></td>
-        <td><span class="badge badge-success">#1 Pick for Leads</span></td>
-        <td>Narrow (3/10)</td>
-        <td>Flat / Holding</td>
-        <td>Fast Grass (14s+) &amp; Indoors</td>
-        <td>£390 / £90–£140</td>
-        <td><a href="{{ '/review/bowls/taylor-vector-vs-review/' | relative_url }}">Read Review &rarr;</a></td>
-      </tr>
-      <tr>
-        <td><strong>Drakes Pride D-Tec</strong></td>
-        <td><span class="badge badge-primary">Indoor Specialist</span></td>
-        <td>Very Narrow (2.5/10)</td>
-        <td>Smooth Holding</td>
-        <td>Indoor Carpets &amp; Quick Synthetic</td>
-        <td>£375 / £80–£130</td>
-        <td><a href="{{ '/review/bowls/drakes-pride-d-tec-review/' | relative_url }}">Read Review &rarr;</a></td>
-      </tr>
-      <tr>
-        <td><strong>Aero Quantum</strong></td>
-        <td><span class="badge badge-warning text-dark">Best Grip Comfort</span></td>
-        <td>Narrow-Mid (3.5/10)</td>
-        <td>Even Arc</td>
-        <td>All-Weather &amp; Fast Greens</td>
-        <td>£440 / £140–£200</td>
-        <td><a href="{{ '/review/bowls/aero-quantum-review/' | relative_url }}">Read Review &rarr;</a></td>
-      </tr>
-      <tr>
-        <td><strong>Drakes Pride Professional</strong></td>
-        <td><span class="badge badge-info">Heavy Greens</span></td>
-        <td>Mid-Narrow (4.5/10)</td>
-        <td>Gradual Arc</td>
-        <td>Holding Outdoor Grass</td>
-        <td>£365 / £70–£120</td>
-        <td><a href="{{ '/review/bowls/drakes-pride-professional-review/' | relative_url }}">Read Review &rarr;</a></td>
-      </tr>
-    </tbody>
-  </table>
-</div>
+{% include roundup-comparison-table.html %}
 
 <p>Whether you are an experienced bowler, or a beginner buying your first set of bowls, it's important to get the right woods with the characteristics you need. Being lead comes with a very specific requirements, make sure you have the right model of bowls to perform at your best! The right choice can make your game a whole lot easier!</p>
 

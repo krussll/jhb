@@ -1,15 +1,16 @@
 ---
 layout: post
 title:  "Taylor Lazer vs Taylor International | Which is Best?"
+seo_title: "Taylor Lazer vs Taylor International: Bias, Grip & Price Comparison"
+model_a: "taylor-lazer"
+model_b: "taylor-international"
 author: reece
 categories: [ review, bowls ]
 featured: false
-description: ""
-last_modified_at: 2026-10-29 15:45:00 +0000
+description: "Compare Taylor Lazer vs Taylor International: narrow bias vs wide bias line (2.5 vs 7.2) tested on indoor carpet surfaces. £385 vs £375 RRP (used £95–£120)."
+last_modified_at: 2026-11-15 09:05:42 +0000
 date: 2023-03-20 13:00:00 -0400
 ---
-    
-
 <p>Are you feeling overwhelmed trying to choose the perfect lawn bowl, especially if you're new to the game? Don't worry, I've got you covered. In this blog post, I'll be comparing two popular options – the Taylor Lazer and the Taylor International. </p>
 
 <figure class="wp-block-image size-large"><img src="{{ '/img/posts/taylor-lazer-vs-taylor-international-1024x576.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Taylor Lazer VS Taylor International lawn bowls comparison" class="wp-image-2077"/></figure>

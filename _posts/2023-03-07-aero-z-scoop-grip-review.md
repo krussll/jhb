@@ -5,8 +5,8 @@ seo_title: "Aero Z-Scoop Grip Review: Is It Any Good?"
 author: reece
 categories: [ guide ]
 featured: false
-description: ""
-last_modified_at: 2026-11-04 15:05:00 +0000
+description: "Aero was the first bowls manufacturer to make an embedded grip when they launched the Z-Scoop. It turned out to be the first of many embedded grips now on."
+last_modified_at: 2026-11-15 11:15:00 +0000
 date: 2023-03-07 13:00:00 -0400
 ---
     

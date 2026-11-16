@@ -5,8 +5,8 @@ seo_title: "The Different Types of Lawn Bowls Explained"
 author: reece
 categories: [ help ]
 featured: false
-description: ""
-last_modified_at: 2026-11-04 15:05:00 +0000
+description: "Working out what set of bowls to use can be confusing - do you want a narrow set? What surface will they work on? Sometimes we make things more."
+last_modified_at: 2026-11-15 11:15:00 +0000
 date: 2022-05-04 13:00:00 -0400
 ---
     

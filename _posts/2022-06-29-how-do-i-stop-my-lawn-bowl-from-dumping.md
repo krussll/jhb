@@ -5,8 +5,8 @@ seo_title: "How to Stop Your Lawn Bowl From Dumping"
 author: reece
 categories: [ help ]
 featured: false
-description: ""
-last_modified_at: 2026-11-05 15:30:00 +0000
+description: "The key to improving your game is a smooth, consistent delivery. However, it often feels like there are always issues with our game, and one of the most."
+last_modified_at: 2026-11-15 11:15:00 +0000
 date: 2022-06-29 13:00:00 -0400
 ---
     

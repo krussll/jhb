@@ -5,9 +5,9 @@ seo_title: "How to Build and Maintain a Lawn Bowls Green"
 author: reece
 categories: [ help ]
 featured: false
-description: ""
+description: "This article is a crash course into the basics of building and maintaining a quality lawn bowls green! In the UK, half a million people participate in."
 date: 2021-04-28 13:00:00 -0400
-last_modified_at: 2026-11-04 15:05:00 +0000
+last_modified_at: 2026-11-15 11:15:00 +0000
 ---
     
 

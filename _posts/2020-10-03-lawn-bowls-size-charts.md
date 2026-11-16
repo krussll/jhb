@@ -4,8 +4,9 @@ title:  "Size Charts For All Major Lawn Bowls Brands"
 author: reece
 categories: [ help ]
 featured: false
-description: ""
+description: "Size and weight graphs for all lawn bowls brands | Aero bowls size chart | Taylor bowls size chart | Drakes bowls Pride size chart | Henselite bowls size chart."
 date: 2020-10-03 13:00:00 -0400
+last_modified_at: 2026-11-15 11:15:00 +0000
 ---
     
 

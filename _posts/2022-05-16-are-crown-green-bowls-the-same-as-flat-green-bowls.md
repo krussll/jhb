@@ -4,8 +4,8 @@ title:  "Are Crown Green Bowls The Same As Flat Green Bowls? | Answered!"
 author: reece
 categories: [ crown-green-bowls ]
 featured: false
-description: ""
-last_modified_at: 2026-10-29 15:45:00 +0000
+description: "Crown green bowling and flat green bowls are not the same. Although crown and flat green bowls are a sport whose goal is to roll little balls as close as."
+last_modified_at: 2026-11-15 11:15:00 +0000
 date: 2022-05-16 13:00:00 -0400
 ---
     

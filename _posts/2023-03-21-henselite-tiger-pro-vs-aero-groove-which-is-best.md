@@ -1,15 +1,16 @@
 ---
 layout: post
 title:  "Henselite Tiger Pro vs Aero GrooVe | Which is Best?"
+seo_title: "Henselite Tiger Pro vs Aero GrooVe: Bias, Grip & Price Comparison"
+model_a: "henselite-tiger-pro"
+model_b: "aero-groove"
 author: reece
 categories: [ review, bowls ]
 featured: false
-description: ""
-last_modified_at: 2026-10-29 15:45:00 +0000
+description: "Compare Henselite Tiger Pro vs Aero GrooVe: both feature balanced mid bias draw trajectories for outdoor grass play. Compare £435 vs £430 RRP (from £160 used)."
+last_modified_at: 2026-11-15 09:05:42 +0000
 date: 2023-03-21 13:00:00 -0400
 ---
-    
-
 <p>Are you a beginner struggling to find the right lawn bowl for you? With so many options out there, it's easy to feel overwhelmed. That's why in this blog post, I'll be comparing two of the most popular models: the Henselite Tiger Pro and the Aero GrooVe.</p>
 
 <figure class="wp-block-image size-large"><img src="{{ '/img/posts/henselite-tiger-pro-vs-aero-groove-1024x576.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Henselite Tiger Pro VS Aero Groove lawn bowls comparison" class="wp-image-1954"/></figure>

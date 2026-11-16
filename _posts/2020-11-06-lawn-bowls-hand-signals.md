@@ -5,8 +5,8 @@ seo_title: "Lawn Bowls Hand Signals: Illustrated Guide"
 author: reece
 categories: [ help ]
 featured: false
-description: ""
-last_modified_at: 2026-11-04 15:05:00 +0000
+description: "A guide to the most common hand signals used in lawn bowls. With videos and diagrams to show what they look like, and what they mean."
+last_modified_at: 2026-11-15 11:15:00 +0000
 date: 2020-11-06 13:00:00 -0400
 ---
     
@@ -49,7 +49,7 @@ date: 2020-11-06 13:00:00 -0400
 
 <h3><a href="#bowl-on-the-forehand"></a>Bowl on the forehand</h3>
 
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/forehand.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="lawn bowls hand signal for bowling on the forehand"/></a></figure>
+<figure class="wp-block-image"><img src="{{ '/img/posts/forehand.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="lawn bowls hand signal for bowling on the forehand"/></figure>
 
 <blockquote class="wp-block-quote"><p>SOURCE: <a href="http://www.pimdlawnbowls.org/">http://www.pimdlawnbowls.org/</a></p></blockquote>
 
@@ -59,7 +59,7 @@ date: 2020-11-06 13:00:00 -0400
 
 <h3><a href="#bowl-on-the-backhand"></a>Bowl on the backhand</h3>
 
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/backhand.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="lawn bowls hand signal for  bowling on the backhand"/></a></figure>
+<figure class="wp-block-image"><img src="{{ '/img/posts/backhand.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="lawn bowls hand signal for  bowling on the backhand"/></figure>
 
 <blockquote class="wp-block-quote"><p>SOURCE: <a href="http://www.pimdlawnbowls.org/">http://www.pimdlawnbowls.org/</a></p></blockquote>
 
@@ -69,7 +69,7 @@ date: 2020-11-06 13:00:00 -0400
 
 <h3><a href="#bowl-to-a-spot"></a>Bowl to a spot</h3>
 
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/bowl-to-a-spot.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="lawn bowls hand signal for bowling to a spot"/></a></figure>
+<figure class="wp-block-image"><img src="{{ '/img/posts/bowl-to-a-spot.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="lawn bowls hand signal for bowling to a spot"/></figure>
 
 <blockquote class="wp-block-quote"><p>SOURCE: <a href="http://www.pimdlawnbowls.org/">http://www.pimdlawnbowls.org/</a></p></blockquote>
 
@@ -81,7 +81,7 @@ date: 2020-11-06 13:00:00 -0400
 
 <h3><a href="#indicating-our-bowl"></a>Indicating “OUR BOWL”</h3>
 
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/our-bowl.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="lawn bowls hand signal for indicating our bowl"/></a></figure>
+<figure class="wp-block-image"><img src="{{ '/img/posts/our-bowl.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="lawn bowls hand signal for indicating our bowl"/></figure>
 
 <blockquote class="wp-block-quote"><p>SOURCE: <a href="http://www.pimdlawnbowls.org/">http://www.pimdlawnbowls.org/</a></p></blockquote>
 
@@ -91,7 +91,7 @@ date: 2020-11-06 13:00:00 -0400
 
 <h3><a href="#indicating-their-bowl"></a>Indicating “THEIR BOWL”</h3>
 
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/their-bowl.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="lawn bowls hand signal for indicating their bowl"/></a></figure>
+<figure class="wp-block-image"><img src="{{ '/img/posts/their-bowl.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="lawn bowls hand signal for indicating their bowl"/></figure>
 
 <blockquote class="wp-block-quote"><p>SOURCE: <a href="http://www.pimdlawnbowls.org/">http://www.pimdlawnbowls.org/</a></p></blockquote>
 
@@ -101,7 +101,7 @@ date: 2020-11-06 13:00:00 -0400
 
 <h3><a href="#bowls-are-touching"></a>Bowls are touching</h3>
 
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/bowls-are-touching.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="lawn bowls hand signal for indicating bowls are touching"/></a></figure>
+<figure class="wp-block-image"><img src="{{ '/img/posts/bowls-are-touching.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="lawn bowls hand signal for indicating bowls are touching"/></figure>
 
 <blockquote class="wp-block-quote"><p>SOURCE: <a href="http://www.pimdlawnbowls.org/">http://www.pimdlawnbowls.org/</a></p></blockquote>
 
@@ -111,7 +111,7 @@ date: 2020-11-06 13:00:00 -0400
 
 <h3><a href="#where-is-the-jack"></a>Where is the jack</h3>
 
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/where-is-the-jack.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="lawn bowls hand signal for showing where the jack is"/></a></figure>
+<figure class="wp-block-image"><img src="{{ '/img/posts/where-is-the-jack.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="lawn bowls hand signal for showing where the jack is"/></figure>
 
 <blockquote class="wp-block-quote"><p>SOURCE: <a href="http://www.pimdlawnbowls.org/">http://www.pimdlawnbowls.org/</a></p></blockquote>
 
@@ -121,7 +121,7 @@ date: 2020-11-06 13:00:00 -0400
 
 <h3><a href="#the-distance-of-a-bowl-in-front-or-behind-the-jack"></a>The distance of a bowl in front OR behind the jack</h3>
 
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/distance-to-jack.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="lawn bowls hand signal for describing the distance between a bowl and the jack"/></a></figure>
+<figure class="wp-block-image"><img src="{{ '/img/posts/distance-to-jack.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="lawn bowls hand signal for describing the distance between a bowl and the jack"/></figure>
 
 <blockquote class="wp-block-quote"><p>SOURCE: <a href="http://www.pimdlawnbowls.org/">http://www.pimdlawnbowls.org/</a></p></blockquote>
 
@@ -143,7 +143,7 @@ date: 2020-11-06 13:00:00 -0400
 
 <h3><a href="#shots-for-us"></a>Shots for us</h3>
 
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/shots-for-us.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="lawn bowls hand signal for 'shots to us'"/></a></figure>
+<figure class="wp-block-image"><img src="{{ '/img/posts/shots-for-us.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="lawn bowls hand signal for 'shots to us'"/></figure>
 
 <blockquote class="wp-block-quote"><p>SOURCE: <a href="http://www.pimdlawnbowls.org/">http://www.pimdlawnbowls.org/</a></p></blockquote>
 
@@ -153,7 +153,7 @@ date: 2020-11-06 13:00:00 -0400
 
 <h3><a href="#shots-against-us"></a>Shots against us</h3>
 
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/shots-against-us.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="lawn bowls hand signal for 'shots against us'"/></a></figure>
+<figure class="wp-block-image"><img src="{{ '/img/posts/shots-against-us.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="lawn bowls hand signal for 'shots against us'"/></figure>
 
 <blockquote class="wp-block-quote"><p>SOURCE: <a href="http://www.pimdlawnbowls.org/">http://www.pimdlawnbowls.org/</a></p></blockquote>
 
@@ -163,7 +163,7 @@ date: 2020-11-06 13:00:00 -0400
 
 <h3><a href="#measure-for-shot"></a>Measure for shot</h3>
 
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/measure-for-shot.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="lawn bowls hand signal for indicating its a measure for shot"/></a></figure>
+<figure class="wp-block-image"><img src="{{ '/img/posts/measure-for-shot.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="lawn bowls hand signal for indicating its a measure for shot"/></figure>
 
 <blockquote class="wp-block-quote"><p>SOURCE: <a href="http://www.pimdlawnbowls.org/">http://www.pimdlawnbowls.org/</a></p></blockquote>
 

@@ -1,14 +1,16 @@
 ---
 layout: post
 title:  "Taylor Ace vs Drakes Pride XP | Which is Best?"
+seo_title: "Taylor Ace vs Drakes Pride XP: Bias, Grip & Price Comparison"
+model_a: "taylor-ace"
+model_b: "drakes-pride-xp"
 author: reece
 categories: [ review, bowls ]
 featured: false
-description: ""
+description: "Compare Taylor Ace vs Drakes Pride XP: mid bias vs wide bias line (5.0 vs 7.5) tested on outdoor grass surfaces. Compare £395 vs £380 RRP (from £110 used)."
 date: 2023-03-20 13:00:00 -0400
----
-    
 
+last_modified_at: 2026-11-15 09:05:42 +0000---
 <p>Are you new to lawn bowling and feeling overwhelmed with all the choices out there? Don't worry, I've got you covered. </p>
 
 <figure class="wp-block-image size-large"><img src="{{ '/img/posts/taylor-ace-vs-drakes-pride-xp-1024x576.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Taylor Ace vs Drakes Pride XP" class="wp-image-2018"/></figure>

@@ -4,8 +4,8 @@ title:  "Why Is Lawn Bowls Not In The Olympics? | ANSWERED"
 author: reece
 categories: [ help ]
 featured: false
-description: ""
-last_modified_at: 2026-10-29 15:45:00 +0000
+description: "The highest level of international competition for lawn bowls at present is the Commonwealth Games. It has been a core feature at these games for decades."
+last_modified_at: 2026-11-15 11:15:00 +0000
 date: 2022-07-22 13:00:00 -0400
 ---
     

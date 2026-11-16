@@ -4,9 +4,9 @@ title:  "Lawn Bowls Fours Tactics | A Complete Guide"
 author: reece
 categories: [ help ]
 featured: false
-description: ""
+description: "Fours is the ultimate test for a bowls team. To get 4 players playing 'as one' is extremely difficult - not to mention the limit on the number of bowls."
 date: 2022-04-05 13:00:00 -0400
-last_modified_at: 2026-10-30 10:25:00 +0000
+last_modified_at: 2026-11-15 11:15:00 +0000
 ---
     
 

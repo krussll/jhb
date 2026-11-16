@@ -1,15 +1,16 @@
 ---
 layout: post
 title:  "Taylor Blaze vs Taylor Ace | Which is Best?"
+seo_title: "Taylor Blaze vs Taylor Ace: Bias, Grip & Price Comparison"
+model_a: "taylor-blaze"
+model_b: "taylor-ace"
 author: reece
 categories: [ review, bowls ]
 featured: false
-description: ""
-last_modified_at: 2026-10-29 15:45:00 +0000
+description: "Compare Taylor Blaze vs Taylor Ace: Taylor Blaze draws wider than Taylor Ace (5.8 vs 5.0 bias) for outdoor grass play. £395 vs £395 RRP (used £120–£130)."
+last_modified_at: 2026-11-15 09:05:42 +0000
 date: 2023-03-20 13:00:00 -0400
 ---
-    
-
 <p>Are you a beginner struggling with choosing the right lawn bowl for your game? I know it can feel overwhelming with all the options out there. That's why I want to help you out today by comparing two of the most popular models - the Taylor Blaze and the Taylor Ace. </p>
 
 <figure class="wp-block-image size-large"><img src="{{ '/img/posts/taylor-blaze-vs-taylor-ace-1024x576.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Taylor Blaze VS Taylor Ace lawn bowls comparison" class="wp-image-2046"/></figure>

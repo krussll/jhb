@@ -1,15 +1,16 @@
 ---
 layout: post
 title:  "Taylor Lignoid vs Drakes Pride D-TEC | Which is Best?"
+seo_title: "Taylor Lignoid vs Drakes Pride d-tec: Bias, Grip & Price Comparison"
+model_a: "taylor-lignoid"
+model_b: "drakes-pride-d-tec"
 author: reece
 categories: [ review, bowls ]
 featured: false
-description: ""
-last_modified_at: 2026-10-29 15:45:00 +0000
+description: "Compare Taylor Lignoid vs Drakes Pride d-tec: wide bias vs narrow bias line (8.5 vs 2.0) for heavy outdoor grass play. Compare £365 vs £375 RRP (from £80 used)."
+last_modified_at: 2026-11-15 09:05:42 +0000
 date: 2023-03-20 13:00:00 -0400
 ---
-    
-
 <p>Are you a beginner struggling to choose the right lawn bowl? You're not alone! With so many options available, it can feel overwhelming. That's why I've created this blog post to compare two popular models - the Taylor Lignoid and the Drakes Pride D-TEC. </p>
 
 <figure class="wp-block-image size-large"><img src="{{ '/img/posts/taylor-lignoid-vs-drakes-pride-d-tec-1024x576.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Taylor Lignoid VS Drakes Pride D Tec lawn bowls comparison" class="wp-image-1982"/></figure>

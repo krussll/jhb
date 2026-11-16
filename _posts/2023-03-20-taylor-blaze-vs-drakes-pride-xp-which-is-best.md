@@ -1,15 +1,16 @@
 ---
 layout: post
 title:  "Taylor Blaze vs Drakes Pride XP | Which is Best?"
+seo_title: "Taylor Blaze vs Drakes Pride XP: Bias, Grip & Price Comparison"
+model_a: "taylor-blaze"
+model_b: "drakes-pride-xp"
 author: reece
 categories: [ review, bowls ]
 featured: false
-description: ""
-last_modified_at: 2026-10-29 15:45:00 +0000
+description: "Compare Taylor Blaze vs Drakes Pride XP: mid bias vs wide bias line (5.8 vs 7.5) tested on outdoor grass surfaces. Compare £395 vs £380 RRP (from £110 used)."
+last_modified_at: 2026-11-15 09:05:42 +0000
 date: 2023-03-20 13:00:00 -0400
 ---
-    
-
 <p>Are you feeling overwhelmed trying to pick out a lawn bowl? Don't worry, we've got you covered. In this blog post, I'll be comparing two of the most popular options for you - the Taylor Blaze and the Drakes Pride XP. </p>
 
 <figure class="wp-block-image size-large"><img src="{{ '/img/posts/taylor-blaze-vs-drakes-pride-xp-1024x576.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Taylor Blaze VS Drakes Pride XP lawn bowls comparison" class="wp-image-2031"/></figure>

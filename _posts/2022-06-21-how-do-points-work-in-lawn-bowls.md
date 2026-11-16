@@ -5,8 +5,8 @@ seo_title: "How Do Points Work in Lawn Bowls? Scoring Explained"
 author: reece
 categories: [ help ]
 featured: false
-description: ""
-last_modified_at: 2026-11-04 15:05:00 +0000
+description: "To win a game of bowls, you need to score more than your opponent. But how do you get points? And how does the scoring work?"
+last_modified_at: 2026-11-15 11:15:00 +0000
 date: 2022-06-21 13:00:00 -0400
 ---
     

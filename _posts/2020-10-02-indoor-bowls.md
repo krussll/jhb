@@ -4,9 +4,9 @@ title:  "Indoor Lawn Bowls | Common Questions Answered"
 author: reece
 categories: [ help ]
 featured: false
-description: ""
+description: "What is the difference between indoor and outdoor bowls? | How long is an indoor bowls green? | What are the rules of indoor bowls?"
 date: 2020-10-02 13:00:00 -0400
-last_modified_at: 2026-10-30 10:25:00 +0000
+last_modified_at: 2026-11-15 11:15:00 +0000
 ---
     
 

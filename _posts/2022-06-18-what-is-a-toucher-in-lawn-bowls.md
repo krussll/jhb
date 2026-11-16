@@ -4,8 +4,8 @@ title:  "What Is A Toucher In Lawn Bowls? | A Simple Guide"
 author: reece
 categories: [ help ]
 featured: false
-description: ""
-last_modified_at: 2026-10-30 10:25:00 +0000
+description: "When people watch bowls for the first time - either on tv or in person - they all wonder 'why are they spraying that bowl?'."
+last_modified_at: 2026-11-15 11:15:00 +0000
 date: 2022-06-18 13:00:00 -0400
 ---
     

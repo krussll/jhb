@@ -1,15 +1,16 @@
 ---
 layout: post
 title:  "Taylor Vector VS vs Henselite Tiger | Which is Best?"
+seo_title: "Taylor Vector VS vs Henselite Tiger: Bias, Grip & Price Comparison"
+model_a: "taylor-vector-vs"
+model_b: "henselite-tiger"
 author: reece
 categories: [ review, bowls ]
 featured: false
-description: ""
-last_modified_at: 2026-10-29 15:45:00 +0000
+description: "Compare Taylor Vector VS vs Henselite Tiger: narrow bias vs mid-wide bias line (3.2 vs 6.2) tested on indoor carpet surfaces. £385 vs £425 RRP (used £110–£130)."
+last_modified_at: 2026-11-15 09:05:42 +0000
 date: 2023-03-19 13:00:00 -0400
 ---
-    
-
 <p>Are you feeling overwhelmed about choosing the perfect lawn bowl for your needs? It can be a tough decision, especially if you're new to the sport. </p>
 
 <figure class="wp-block-image size-large"><img src="{{ '/img/posts/taylor-vector-vs-vs-henselite-tiger-1024x576.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Taylor Vector VS VS Henselite Tiger lawn bowls comparison" class="wp-image-2054"/></figure>

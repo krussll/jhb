@@ -1,15 +1,16 @@
 ---
 layout: post
 title:  "Taylor Vector VS vs Taylor Blaze | Which is Best?"
+seo_title: "Taylor Vector VS vs Taylor Blaze: Bias, Grip & Price Comparison"
+model_a: "taylor-vector-vs"
+model_b: "taylor-blaze"
 author: reece
 categories: [ review, bowls ]
 featured: false
-description: ""
-last_modified_at: 2026-10-29 15:45:00 +0000
+description: "Compare Taylor Vector VS vs Taylor Blaze: narrow bias vs mid bias line (3.2 vs 5.8) tested on indoor carpet surfaces. Compare £385 vs £395 RRP (from £110 used)."
+last_modified_at: 2026-11-15 09:05:42 +0000
 date: 2023-03-19 13:00:00 -0400
 ---
-    
-
 <p>Are you a beginner struggling to find the perfect lawn bowl? Don't worry, I've got you covered. </p>
 
 <figure class="wp-block-image size-large"><img src="{{ '/img/posts/taylor-vector-vs-vs-taylor-blaze-1024x576.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Taylor Vector VS VS Taylor Blaze lawn bowls comparison" class="wp-image-2063"/></figure>

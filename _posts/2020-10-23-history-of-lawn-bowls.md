@@ -4,8 +4,8 @@ title:  "The History Of Lawn Bowls | A Helpful Guide"
 author: reece
 categories: [ help ]
 featured: false
-description: ""
-last_modified_at: 2026-10-30 10:25:00 +0000
+description: "Find out the history of lawn bowls. Our guide goes from it's origins 7000 years ago, to the modern day game. Lawn bowls has a rich history."
+last_modified_at: 2026-11-15 11:15:00 +0000
 date: 2020-10-23 13:00:00 -0400
 ---
     
@@ -22,7 +22,7 @@ date: 2020-10-23 13:00:00 -0400
 
 <p>A version of the game - much closer to what we would understand to be bowls - was played by another great civilisation - in ancient Rome. This version was to become modern-day bocce. It is believed that the Romans brought this game to the rest of Europe, with several countries adapting the rules creating their open version. This includes boules in France and of course <a href="{{ '/help/lawn-bowls-at-the-commonwealth-games' | relative_url }}">lawn bowls</a> in Great Britain.</p>
 
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/bocce-ancient-rome.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Bocce ancient rome - The History Of Lawn Bowls | A Helpful Guide"/></a><figcaption>SOURCE: <a href="https://www.orderisda.org/culture/sports/italian-sport-the-history-of-italys-second-favorite-sport-bocce-ball/">www.orderisda.org</a></figcaption></figure>
+<figure class="wp-block-image"><img src="{{ '/img/posts/bocce-ancient-rome.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Bocce ancient rome - The History Of Lawn Bowls | A Helpful Guide"/><figcaption>SOURCE: <a href="https://www.orderisda.org/culture/sports/italian-sport-the-history-of-italys-second-favorite-sport-bocce-ball/">www.orderisda.org</a></figcaption></figure>
 
 <h2><a href="#history-of-lawn-bowls-in-england"></a>History of lawn bowls in England</h2>
 
@@ -30,23 +30,23 @@ date: 2020-10-23 13:00:00 -0400
 
 <p>The increasing popularity of bowls in England led to a string of kings and queens passing laws restricting its play. The concern was that <a href="{{ '/help/lawn-bowls-rules' | relative_url }}">lawn bowls</a> were taking too much time away from men practising archery. This was important as bowmen were an integral part of any army, and any drop in their effectiveness in battle would have major implications for king and country.</p>
 
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/edward-iii.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="Edward iii - The History Of Lawn Bowls | A Helpful Guide"/></a><figcaption>SOURCE: <a href="https://www.onthisday.com/people/edward-iii">www.onthisday.com</a></figcaption></figure>
+<figure class="wp-block-image"><img src="{{ '/img/posts/edward-iii.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="Edward iii - The History Of Lawn Bowls | A Helpful Guide"/><figcaption>SOURCE: <a href="https://www.onthisday.com/people/edward-iii">www.onthisday.com</a></figcaption></figure>
 
 <p>Edward III in 1261, Richard II in 1388, Henry IV in 1409 and Henry VIII in 1541, and Queen Mary in 1555 all placed statutes restricting the play of bowls. Many of the laws restricted those of lower class from playing. In many cases the laws simply restricted when, and for how long games could take place.</p>
 
 <p>Henry VIII went one step further and specifically forbid the play of bowls for many labourers and “low-born” people. The only time you could play bowls in 1541? On Christmas day “in their master’s presence”. If you were caught playing bowls you would be levied with a large fine - an amount far beyond the income of the underclass.</p>
 
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/henry-VIII.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="Henry viii - The History Of Lawn Bowls | A Helpful Guide"/></a><figcaption>SOURCE: <a href="https://www.britannica.com/biography/Henry-VIII-king-of-England/Loss-of-popularity">www.britannica.com</a></figcaption></figure>
+<figure class="wp-block-image"><img src="{{ '/img/posts/henry-VIII.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="Henry viii - The History Of Lawn Bowls | A Helpful Guide"/><figcaption>SOURCE: <a href="https://www.britannica.com/biography/Henry-VIII-king-of-England/Loss-of-popularity">www.britannica.com</a></figcaption></figure>
 
 <p>Henry’s generosity of allowing bowls at Christmas was deemed too much for Queen Mary, who 1555 banned bowls from the underclass completely. She believed the game was used for “unlawful assemblies, conventiclers, seditions, and conspiracies".</p>
 
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/queen-mary.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="Queen mary - The History Of Lawn Bowls | A Helpful Guide"/></a><figcaption>SOURCE: <a href="https://www.britain-magazine.com/features/happy-birthday-to-the-first-queen-of-england-mary-i/">www.britain-magazine.com</a></figcaption></figure>
+<figure class="wp-block-image"><img src="{{ '/img/posts/queen-mary.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="Queen mary - The History Of Lawn Bowls | A Helpful Guide"/><figcaption>SOURCE: <a href="https://www.britain-magazine.com/features/happy-birthday-to-the-first-queen-of-england-mary-i/">www.britain-magazine.com</a></figcaption></figure>
 
 <p>It wasn’t until 1845 under Queen Victoria, 3 centuries later that these laws would be rescinded.</p>
 
 <p>Whilst the lower classes were restricted during this period it didn’t stop the upper classes enjoying the sport. Shakespeare mentions bowls several times throughout his work, often citing how men and women (presumably of the upper-class!) could be seen playing all over the land.</p>
 
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/shakespeare.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="Shakespeare - The History Of Lawn Bowls | A Helpful Guide"/></a><figcaption>SOURCE: <a href="https://www.britannica.com/biography/William-Shakespeare">www.britannica.com</a></figcaption></figure>
+<figure class="wp-block-image"><img src="{{ '/img/posts/shakespeare.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="Shakespeare - The History Of Lawn Bowls | A Helpful Guide"/><figcaption>SOURCE: <a href="https://www.britannica.com/biography/William-Shakespeare">www.britannica.com</a></figcaption></figure>
 
 <p>This is also backed up by the now-infamous story of Sir Francis Drake. Francis Drake - who was the vice-admiral for Queen Elizebeth’s navy - was playing bowls on Plymouth Hoe. Partway through his game, Drake was interrupted to be informed of the Spanish armada approaching. His response was to say</p>
 
@@ -54,17 +54,17 @@ date: 2020-10-23 13:00:00 -0400
 
 <p>He promptly lost his game of bowls, before beating the Spanish.</p>
 
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/francis-drake-lawn-bowls.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="Francis drake lawn bowls - The History Of Lawn Bowls | A Helpful Guide"/></a><figcaption>SOURCE: <a href="https://www.historic-uk.com/CultureUK/Legend-Of-Drakes-Drum/">www.historic-uk.com</a></figcaption></figure>
+<figure class="wp-block-image"><img src="{{ '/img/posts/francis-drake-lawn-bowls.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="Francis drake lawn bowls - The History Of Lawn Bowls | A Helpful Guide"/><figcaption>SOURCE: <a href="https://www.historic-uk.com/CultureUK/Legend-Of-Drakes-Drum/">www.historic-uk.com</a></figcaption></figure>
 
 <h3><a href="#bowls-the-british-empire-and-the-commonwealth"></a>Bowls, the British Empire and the commonwealth</h3>
 
 <p>As the British empire spread, they brought lawn bowls with them. This introduced the game to new territories such as the USA, Canada, New Zealand and Australia - where the first game was played in Sandy Bay, Tasmania in 1844.</p>
 
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/sandy-bay-tasmania.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="Sandy bay tasmania - The History Of Lawn Bowls | A Helpful Guide"/></a><figcaption>SOURCE: <a href="https://en.wikipedia.org/wiki/Sandy_Bay,_Tasmania">en.wikipedia.org</a></figcaption></figure>
+<figure class="wp-block-image"><img src="{{ '/img/posts/sandy-bay-tasmania.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="Sandy bay tasmania - The History Of Lawn Bowls | A Helpful Guide"/><figcaption>SOURCE: <a href="https://en.wikipedia.org/wiki/Sandy_Bay,_Tasmania">en.wikipedia.org</a></figcaption></figure>
 
 <p>Whilst bowls hasn’t maintained its popularity in the USA compared to other countries within the old empire - clubs had been recorded in several US cities in the early 1600s. Clubs were founded in New Amsterdam (modern-day New York), Boston, Washington and Virginian. A bowling green was even built by George Washington’s father, at the estate in Mount Vernon.</p>
 
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/usa-lawn-bowls.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="Usa lawn bowls - The History Of Lawn Bowls | A Helpful Guide"/></a><figcaption>SOURCE: <a href="https://www.visitsarasota.com/lawn-bowling/sarasota-lawn-bowling-club">www.visitsarasota.com</a></figcaption></figure>
+<figure class="wp-block-image"><img src="{{ '/img/posts/usa-lawn-bowls.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="Usa lawn bowls - The History Of Lawn Bowls | A Helpful Guide"/><figcaption>SOURCE: <a href="https://www.visitsarasota.com/lawn-bowling/sarasota-lawn-bowling-club">www.visitsarasota.com</a></figcaption></figure>
 
 <p>It is likely that the game fell out of popularity following American independence from the British, however, the game was reintroduced in the 19th century by Scottish immigrants. The game is back on the rise with the USA now boasting over 2,700 members across the country (<a href="https://www.bowlsusa.us/divisions.html">https://www.bowlsusa.us/divisions.html</a>)</p>
 
@@ -74,7 +74,7 @@ date: 2020-10-23 13:00:00 -0400
 
 <h3><a href="#green-preparation"></a>Green preparation</h3>
 
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/edwin-beard-budding.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="Edwin beard budding - The History Of Lawn Bowls | A Helpful Guide"/></a><figcaption>SOURCE: <a href="http://worldkings.org/news/new-nominations/world-discovery-p13-edwin-bread-budding-1796-1846-england-the-engineer-invented-the-first-lawn-mower-in-the-world">worldkings.org</a></figcaption></figure>
+<figure class="wp-block-image"><img src="{{ '/img/posts/edwin-beard-budding.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="Edwin beard budding - The History Of Lawn Bowls | A Helpful Guide"/><figcaption>SOURCE: <a href="http://worldkings.org/news/new-nominations/world-discovery-p13-edwin-bread-budding-1796-1846-england-the-engineer-invented-the-first-lawn-mower-in-the-world">worldkings.org</a></figcaption></figure>
 
 <p>The game of bowls took a huge leap forward when in 1830 Edwin Beard Budding invented the lawnmower.</p>
 
@@ -92,7 +92,7 @@ date: 2020-10-23 13:00:00 -0400
 
 <p>From the late 1800s, national bowls associations sprang up to care for the game in their territories. The Australian bowling association (then known as “Royal Victorian Bowling Association”) was formed in 1880, followed by the Scottish Bowling association in 1892</p>
 
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/royal-victorian-bowling-association.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="Royal victorian bowling association - The History Of Lawn Bowls | A Helpful Guide"/></a><figcaption>SOURCE: <a href="https://victoriancollections.net.au/items/56415df92162f10e3895a72b">victoriancollections.net.au</a></figcaption></figure>
+<figure class="wp-block-image"><img src="{{ '/img/posts/royal-victorian-bowling-association.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="Royal victorian bowling association - The History Of Lawn Bowls | A Helpful Guide"/><figcaption>SOURCE: <a href="https://victoriancollections.net.au/items/56415df92162f10e3895a72b">victoriancollections.net.au</a></figcaption></figure>
 
 <p>There are a total of 46 countries across 6 continents that are now members of the WBF (World Bowls Federation). This number is sure to grow over the coming years as its popularity continues to grow in many more.</p>
 

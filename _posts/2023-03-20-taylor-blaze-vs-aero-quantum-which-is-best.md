@@ -1,15 +1,16 @@
 ---
 layout: post
 title:  "Taylor Blaze vs Aero Quantum | Which is Best?"
+seo_title: "Taylor Blaze vs Aero Quantum: Bias, Grip & Price Comparison"
+model_a: "taylor-blaze"
+model_b: "aero-quantum"
 author: reece
 categories: [ review, bowls ]
 featured: false
-description: ""
-last_modified_at: 2026-10-29 15:45:00 +0000
+description: "Compare Taylor Blaze vs Aero Quantum: Taylor Blaze draws wider than Aero Quantum (5.8 vs 4.2 bias) for outdoor grass play. £395 vs £425 RRP (used £130–£160)."
+last_modified_at: 2026-11-15 09:05:42 +0000
 date: 2023-03-20 13:00:00 -0400
 ---
-    
-
 <p>Are you a beginner feeling overwhelmed by the numerous lawn bowl options available? I completely understand - choosing the right one for you can be a daunting task. </p>
 
 <figure class="wp-block-image size-large"><img src="{{ '/img/posts/taylor-blaze-vs-aero-quantum-1024x576.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Taylor Blaze VS Aero Quantum lawn bowls comparison" class="wp-image-2037"/></figure>

@@ -5,8 +5,8 @@ seo_title: "Henselite Mega Grip Review: Is It Any Good?"
 author: reece
 categories: [ guide ]
 featured: false
-description: ""
-last_modified_at: 2026-11-04 15:05:00 +0000
+description: "Embedded grips have been a big talking point in bowls ever since the introduction of the Z-Scoop by Aero. Since then every major brand has tried their own."
+last_modified_at: 2026-11-15 11:15:00 +0000
 date: 2023-03-07 13:00:00 -0400
 ---
     

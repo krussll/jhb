@@ -5,8 +5,8 @@ seo_title: "What the Stamp Means on Lawn Bowls"
 author: reece
 categories: [ help ]
 featured: false
-description: ""
-last_modified_at: 2026-11-04 15:05:00 +0000
+description: "What does the stamp means on lawn bowls? The stamp holds vital information on your bowls, and can be critical for some competitions."
+last_modified_at: 2026-11-15 11:15:00 +0000
 date: 2020-09-30 13:00:00 -0400
 ---
     
@@ -21,9 +21,9 @@ date: 2020-09-30 13:00:00 -0400
 
 <p>Depending on the age of your bowl you may see a stamp that looks like one of these:</p>
 
-<div class="wp-block-image"><figure class="alignright is-resized"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/new-stamp.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="New stamp - What The Stamp Means On Lawn Bowls | A Helpful Illustrated Guide" width="472" height="296"/></a></figure></div>
+<div class="wp-block-image"><figure class="alignright is-resized"><img src="{{ '/img/posts/new-stamp.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="New stamp - What The Stamp Means On Lawn Bowls | A Helpful Illustrated Guide" width="472" height="296"/></figure></div>
 
-<div class="wp-block-image"><figure class="alignright is-resized"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/old-stamp.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="Old stamp - What The Stamp Means On Lawn Bowls | A Helpful Illustrated Guide" width="522" height="282"/></a></figure></div>
+<div class="wp-block-image"><figure class="alignright is-resized"><img src="{{ '/img/posts/old-stamp.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="Old stamp - What The Stamp Means On Lawn Bowls | A Helpful Illustrated Guide" width="522" height="282"/></figure></div>
 
 <p>They will look different depending on when the bowl was manufactured, or when it was last tested, as different designs have been brought out over the years.</p>
 
@@ -43,7 +43,7 @@ date: 2020-09-30 13:00:00 -0400
 
 <h2>The Expiry Year</h2>
 
-<div class="wp-block-image"><figure class="alignright is-resized"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/new-stamp-expiry.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="New stamp expiry - What The Stamp Means On Lawn Bowls | A Helpful Illustrated Guide" width="472" height="296"/></a></figure></div>
+<div class="wp-block-image"><figure class="alignright is-resized"><img src="{{ '/img/posts/new-stamp-expiry.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="New stamp expiry - What The Stamp Means On Lawn Bowls | A Helpful Illustrated Guide" width="472" height="296"/></figure></div>
 
 <p>This is the year the bowl requires re-testing. It is the last two digits of the year, so in this example, our bowl would need to be re-tested in 2021.</p>
 
@@ -51,7 +51,7 @@ date: 2020-09-30 13:00:00 -0400
 
 <h2><a href="#the-trademark"></a>The Trademark</h2>
 
-<div class="wp-block-image"><figure class="alignleft is-resized"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/new-stamp-registered.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="New stamp registered - What The Stamp Means On Lawn Bowls | A Helpful Illustrated Guide" width="472" height="296"/></a></figure></div>
+<div class="wp-block-image"><figure class="alignleft is-resized"><img src="{{ '/img/posts/new-stamp-registered.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="New stamp registered - What The Stamp Means On Lawn Bowls | A Helpful Illustrated Guide" width="472" height="296"/></figure></div>
 
 <p>The “R” shows that the stamp is a registered trademark. This will always be present, but doesn't have any baring on the use of the bowl.</p>
 
@@ -65,7 +65,7 @@ date: 2020-09-30 13:00:00 -0400
 
 <h2>The Standard</h2>
 
-<div class="wp-block-image"><figure class="alignright is-resized"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/new-stamp-standard.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="New stamp standard - What The Stamp Means On Lawn Bowls | A Helpful Illustrated Guide" width="472" height="296"/></a></figure></div>
+<div class="wp-block-image"><figure class="alignright is-resized"><img src="{{ '/img/posts/new-stamp-standard.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="New stamp standard - What The Stamp Means On Lawn Bowls | A Helpful Illustrated Guide" width="472" height="296"/></figure></div>
 
 <p>Prior to the 2002 introduction of the World Bowls stamp, bowls were stamped with the stamps of the International Bowling Board, and prior to 1988 bowls had the stamp of the major country from which the tester was from. This was changed in 2013 so that all bowls had the same standard.</p>
 
@@ -73,7 +73,7 @@ date: 2020-09-30 13:00:00 -0400
 
 <h2><a href="#the-manufacturertester"></a>The Manufacturer/Tester</h2>
 
-<div class="wp-block-image"><figure class="alignright is-resized"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/new-stamp-tester.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="New stamp tester - What The Stamp Means On Lawn Bowls | A Helpful Illustrated Guide" width="472" height="296"/></a></figure></div>
+<div class="wp-block-image"><figure class="alignright is-resized"><img src="{{ '/img/posts/new-stamp-tester.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="New stamp tester - What The Stamp Means On Lawn Bowls | A Helpful Illustrated Guide" width="472" height="296"/></figure></div>
 
 <p>Companies need to be licenced by World Bowls in order to officially stamp bowls. Each one is given a unique letter code which is included on the stamp. This way, if there is a fault from the test it can be traced back.</p>
 

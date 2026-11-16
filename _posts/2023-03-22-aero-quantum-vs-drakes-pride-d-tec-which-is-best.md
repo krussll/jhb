@@ -1,15 +1,16 @@
 ---
 layout: post
 title:  "Aero Quantum vs Drakes Pride D-TEC | Which is Best?"
+seo_title: "Aero Quantum vs Drakes Pride d-tec: Bias, Grip & Price Comparison"
+model_a: "aero-quantum"
+model_b: "drakes-pride-d-tec"
 author: reece
 categories: [ guide ]
 featured: false
-description: ""
-last_modified_at: 2026-10-29 15:45:00 +0000
+description: "Compare Aero Quantum vs Drakes Pride d-tec: mid-narrow bias vs narrow bias line (4.2 vs 2.0) for outdoor grass play. Compare £425 vs £375 RRP (from £115 used)."
+last_modified_at: 2026-11-15 09:05:42 +0000
 date: 2023-03-22 13:00:00 -0400
 ---
-    
-
 <p>Hey there, are you new to the world of lawn bowls and feeling overwhelmed by the variety of options? I totally understand! That's why I wrote this blog post to help you compare two of the most popular models: the Aero Quantum and the Drakes Pride D-TEC. </p>
 
 <figure class="wp-block-image size-large"><img src="{{ '/img/posts/aero-quantum-vs-drakes-pride-d-tec-1024x576.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Aero Quantum VS Drakes Pride D Tec lawn bowls comparison" class="wp-image-1931"/></figure>

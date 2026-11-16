@@ -1,15 +1,16 @@
 ---
 layout: post
 title:  "Henselite Tiger TX vs Henselite Tiger EVO | Which is Best?"
+seo_title: "Henselite Tiger TX vs Henselite Tiger EVO: Bias, Grip & Price Comparison"
+model_a: "henselite-tiger-tx"
+model_b: "henselite-tiger-evo"
 author: reece
 categories: [ review, bowls ]
 featured: false
-description: ""
-last_modified_at: 2026-10-29 15:45:00 +0000
+description: "Compare Henselite Tiger TX vs Henselite Tiger EVO: narrow bias vs mid-wide bias line (3.5 vs 6.5) for indoor carpet play. £435 vs £445 RRP (used £165–£180)."
+last_modified_at: 2026-11-15 09:05:42 +0000
 date: 2023-03-21 13:00:00 -0400
 ---
-    
-
 <p>Are you a beginner struggling to choose the right lawn bowl? Well, look no further because in this post, I'll be comparing two of the most popular models - the Henselite Tiger TX and the Henselite Tiger EVO. </p>
 
 <figure class="wp-block-image size-large"><img src="{{ '/img/posts/henselite-tiger-tx-vs-henselite-tiger-evo-1024x576.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Henselite Tiger TX VS Henselite Tiger Evo lawn bowls comparison" class="wp-image-1976"/></figure>

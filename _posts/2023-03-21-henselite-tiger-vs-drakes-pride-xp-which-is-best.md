@@ -1,15 +1,16 @@
 ---
 layout: post
 title:  "Henselite Tiger vs Drakes Pride XP | Which is Best?"
+seo_title: "Henselite Tiger vs Drakes Pride XP: Bias, Grip & Price Comparison"
+model_a: "henselite-tiger"
+model_b: "drakes-pride-xp"
 author: reece
 categories: [ review, bowls ]
 featured: false
-description: ""
-last_modified_at: 2026-10-29 15:45:00 +0000
+description: "Compare Henselite Tiger vs Drakes Pride XP: mid-wide bias vs wide bias line (6.2 vs 7.5) tested on outdoor grass surfaces. £425 vs £380 RRP (used £110–£130)."
+last_modified_at: 2026-11-15 09:05:42 +0000
 date: 2023-03-21 13:00:00 -0400
 ---
-    
-
 <p>Are you a beginner lawn bowler who feels overwhelmed by the many options available? Choosing the right lawn bowl can be intimidating, especially when you're new to the game. But fear not, this blog post is here to help! </p>
 
 <figure class="wp-block-image size-large"><img src="{{ '/img/posts/henselite-tiger-vs-drakes-pride-xp-1024x576.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Henselite Tiger VS Drakes Pride XP lawn bowls comparison" class="wp-image-1934"/></figure>

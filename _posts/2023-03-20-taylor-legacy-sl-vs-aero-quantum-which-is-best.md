@@ -1,15 +1,16 @@
 ---
 layout: post
 title:  "Taylor Legacy SL vs Aero Quantum | Which is Best?"
+seo_title: "Taylor Legacy SL vs Aero Quantum: Bias, Grip & Price Comparison"
+model_a: "taylor-legacy-sl"
+model_b: "aero-quantum"
 author: reece
 categories: [ review, bowls ]
 featured: false
-description: ""
-last_modified_at: 2026-10-29 15:45:00 +0000
+description: "Compare Taylor Legacy SL vs Aero Quantum: wide bias vs mid-narrow bias line (8.0 vs 4.2) tested on outdoor grass surfaces. £365 vs £425 RRP (used £85–£160)."
+last_modified_at: 2026-11-15 09:05:42 +0000
 date: 2023-03-20 13:00:00 -0400
 ---
-    
-
 <p>Hey there, are you a beginner struggling to choose the right lawn bowl? I know how overwhelming it can be with so many options available. That's why I'm here to help you out! In this blog post, I'll be comparing two popular models of lawn bowls - the Taylor Legacy SL and the Aero Quantum. </p>
 
 <figure class="wp-block-image size-large"><img src="{{ '/img/posts/taylor-legacy-sl-vs-aero-quantum-1024x576.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Taylor Legacy SL VS Aero Quantum lawn bowls comparison" class="wp-image-1997"/></figure>

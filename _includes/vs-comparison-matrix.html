@@ -1,0 +1,180 @@
+{% assign ma = site.data.bowls_models[page.model_a] %}
+{% assign mb = site.data.bowls_models[page.model_b] %}
+
+{% if ma and mb %}
+<section class="vs-matrix-section" aria-labelledby="vs-matrix-heading">
+  <div class="vs-matrix-card">
+    <div class="vs-matrix-header">
+      <span class="vs-matrix-header__badge"><i class="fas fa-balance-scale mr-1" aria-hidden="true"></i> Head-to-Head Specification Matrix</span>
+      <h2 id="vs-matrix-heading" class="vs-matrix-header__title">{{ ma.name }} vs {{ mb.name }}</h2>
+      <p class="vs-matrix-header__subtitle">Side-by-side technical comparison, bias ratings, surface suitability, and price benchmarks.</p>
+    </div>
+
+    <div class="table-responsive vs-matrix-table-wrap">
+      <table class="table vs-matrix-table">
+        <thead>
+          <tr>
+            <th scope="col" class="vs-col-spec">Specification / Feature</th>
+            <th scope="col" class="vs-col-model text-center">
+              <div class="vs-model-header">
+                {% if ma.image %}
+                <div class="vs-model-img">
+                  <img src="{{ ma.image | relative_url }}" alt="{{ ma.name }} lawn bowl" width="70" height="70" loading="lazy">
+                </div>
+                {% endif %}
+                <span class="vs-model-brand">{{ ma.brand }}</span>
+                <span class="vs-model-name">{{ ma.name }}</span>
+                {% if ma.rating %}
+                <span class="vs-model-rating"><i class="fas fa-star text-gold mr-1" aria-hidden="true"></i>{{ ma.rating }} / 10</span>
+                {% endif %}
+              </div>
+            </th>
+            <th scope="col" class="vs-col-model text-center">
+              <div class="vs-model-header">
+                {% if mb.image %}
+                <div class="vs-model-img">
+                  <img src="{{ mb.image | relative_url }}" alt="{{ mb.name }} lawn bowl" width="70" height="70" loading="lazy">
+                </div>
+                {% endif %}
+                <span class="vs-model-brand">{{ mb.brand }}</span>
+                <span class="vs-model-name">{{ mb.name }}</span>
+                {% if mb.rating %}
+                <span class="vs-model-rating"><i class="fas fa-star text-gold mr-1" aria-hidden="true"></i>{{ mb.rating }} / 10</span>
+                {% endif %}
+              </div>
+            </th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <th scope="row" class="vs-spec-name">Manufacturer</th>
+            <td class="text-center font-weight-bold">{{ ma.brand }}</td>
+            <td class="text-center font-weight-bold">{{ mb.brand }}</td>
+          </tr>
+          <tr>
+            <th scope="row" class="vs-spec-name">Bias Rating &amp; Finish</th>
+            <td>
+              <div class="vs-bias-block">
+                <div class="d-flex justify-content-between align-items-center mb-1">
+                  <span class="font-weight-bold text-dark">{{ ma.bias_label }}</span>
+                  <span class="badge vs-score-badge">{{ ma.bias_score }} / 10</span>
+                </div>
+                <div class="vs-bias-bar">
+                  <div class="vs-bias-fill" style="width: {{ ma.bias_score | times: 10 }}%;"></div>
+                </div>
+                {% if ma.finish_profile %}
+                <p class="vs-finish-desc mb-0 mt-1">{{ ma.finish_profile }}</p>
+                {% endif %}
+              </div>
+            </td>
+            <td>
+              <div class="vs-bias-block">
+                <div class="d-flex justify-content-between align-items-center mb-1">
+                  <span class="font-weight-bold text-dark">{{ mb.bias_label }}</span>
+                  <span class="badge vs-score-badge">{{ mb.bias_score }} / 10</span>
+                </div>
+                <div class="vs-bias-bar">
+                  <div class="vs-bias-fill" style="width: {{ mb.bias_score | times: 10 }}%;"></div>
+                </div>
+                {% if mb.finish_profile %}
+                <p class="vs-finish-desc mb-0 mt-1">{{ mb.finish_profile }}</p>
+                {% endif %}
+              </div>
+            </td>
+          </tr>
+          <tr>
+            <th scope="row" class="vs-spec-name">Primary Surfaces</th>
+            <td>
+              <ul class="list-unstyled mb-0 vs-tag-list">
+                {% for surface in ma.surfaces %}
+                <li class="vs-surface-pill">{{ surface }}</li>
+                {% endfor %}
+              </ul>
+            </td>
+            <td>
+              <ul class="list-unstyled mb-0 vs-tag-list">
+                {% for surface in mb.surfaces %}
+                <li class="vs-surface-pill">{{ surface }}</li>
+                {% endfor %}
+              </ul>
+            </td>
+          </tr>
+          <tr>
+            <th scope="row" class="vs-spec-name">Ideal Team Positions</th>
+            <td>
+              <ul class="list-unstyled mb-0 vs-tag-list">
+                {% for pos in ma.ideal_positions %}
+                <li class="vs-position-pill">{{ pos }}</li>
+                {% endfor %}
+              </ul>
+            </td>
+            <td>
+              <ul class="list-unstyled mb-0 vs-tag-list">
+                {% for pos in mb.ideal_positions %}
+                <li class="vs-position-pill">{{ pos }}</li>
+                {% endfor %}
+              </ul>
+            </td>
+          </tr>
+          <tr>
+            <th scope="row" class="vs-spec-name">Available Grips</th>
+            <td>{{ ma.grips | join: ", " }}</td>
+            <td>{{ mb.grips | join: ", " }}</td>
+          </tr>
+          <tr>
+            <th scope="row" class="vs-spec-name">Size Range</th>
+            <td>{{ ma.sizes }}</td>
+            <td>{{ mb.sizes }}</td>
+          </tr>
+          <tr>
+            <th scope="row" class="vs-spec-name">New RRP (2026)</th>
+            <td class="text-center font-weight-bold vs-price-new">£{{ ma.price_new_gbp }}</td>
+            <td class="text-center font-weight-bold vs-price-new">£{{ mb.price_new_gbp }}</td>
+          </tr>
+          <tr>
+            <th scope="row" class="vs-spec-name">Typical Second-Hand (eBay)</th>
+            <td class="text-center">
+              <span class="vs-price-used">£{{ ma.price_used_low_gbp }} – £{{ ma.price_used_high_gbp }}</span>
+              <div class="mt-1">
+                <a href="https://www.ebay.co.uk/sch/i.html?_nkw={{ ma.ebay_search_query | default: ma.name | url_encode }}&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5338870185&amp;toolid=10001&amp;mkevt=1" target="_blank" rel="nofollow noopener sponsored" class="vs-ebay-link">
+                  <i class="fas fa-shopping-bag mr-1" aria-hidden="true"></i>Check eBay
+                </a>
+              </div>
+            </td>
+            <td class="text-center">
+              <span class="vs-price-used">£{{ mb.price_used_low_gbp }} – £{{ mb.price_used_high_gbp }}</span>
+              <div class="mt-1">
+                <a href="https://www.ebay.co.uk/sch/i.html?_nkw={{ mb.ebay_search_query | default: mb.name | url_encode }}&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5338870185&amp;toolid=10001&amp;mkevt=1" target="_blank" rel="nofollow noopener sponsored" class="vs-ebay-link">
+                  <i class="fas fa-shopping-bag mr-1" aria-hidden="true"></i>Check eBay
+                </a>
+              </div>
+            </td>
+          </tr>
+          <tr>
+            <th scope="row" class="vs-spec-name">Full Individual Review</th>
+            <td class="text-center">
+              {% if ma.review_url %}
+              <a href="{{ ma.review_url | relative_url }}" class="btn btn-sm btn-vs-review">
+                Read {{ ma.name }} Review <i class="fas fa-arrow-right ml-1" aria-hidden="true"></i>
+              </a>
+              {% else %}
+              <span class="text-muted small">Review coming soon</span>
+              {% endif %}
+            </td>
+            <td class="text-center">
+              {% if mb.review_url %}
+              <a href="{{ mb.review_url | relative_url }}" class="btn btn-sm btn-vs-review">
+                Read {{ mb.name }} Review <i class="fas fa-arrow-right ml-1" aria-hidden="true"></i>
+              </a>
+              {% else %}
+              <span class="text-muted small">Review coming soon</span>
+              {% endif %}
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</section>
+{% endif %}
+

@@ -5,9 +5,9 @@ seo_title: "Playing Lawn Bowls in Windy Conditions: Top Tips"
 author: reece
 categories: [ help ]
 featured: false
-description: ""
+description: "Playing bowls is tricky enough at the best of times, but throw in a strong wind and you will find it gets much much harder!"
 date: 2022-02-21 13:00:00 -0400
-last_modified_at: 2026-11-04 15:05:00 +0000
+last_modified_at: 2026-11-15 11:15:00 +0000
 ---
     
 

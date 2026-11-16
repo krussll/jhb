@@ -4,9 +4,9 @@ title:  "Guide To Short Mat Bowls | A Complete Guide"
 author: reece
 categories: [ guide ]
 featured: false
-description: ""
+description: "A brief guide to short mat bowls. How to play, why to play and where to play near you. Short mat bowls is a fun adaptation of lawn bowls."
 date: 2018-03-01 13:00:00 -0400
-last_modified_at: 2026-10-30 10:25:00 +0000
+last_modified_at: 2026-11-15 11:15:00 +0000
 ---
     
 
@@ -52,6 +52,6 @@ last_modified_at: 2026-10-30 10:25:00 +0000
 
 <p>There are several sites that list short mat bowls clubs. We suggest checking out the following pages:</p>
 
-<ul><li><a href="#">bowls.co.uk</a></li><li><a href="http://www.sports-clubs.net/Sport/Clubs.aspx?SportID=790&amp;Sport=Bowls%20(Short%20Mat)">sports-clubs.net</a></li><li><a href="http://www.bowlsclub.info/uk">bowlsclub.info</a> (includes all types of bowls clubs including outdoor, indoor and crown green)</li></ul>
+<ul><li><a href="https://www.bowls.co.uk/" target="_blank" rel="noopener noreferrer">bowls.co.uk</a></li><li><a href="http://www.sports-clubs.net/Sport/Clubs.aspx?SportID=790&amp;Sport=Bowls%20(Short%20Mat)">sports-clubs.net</a></li><li><a href="http://www.bowlsclub.info/uk">bowlsclub.info</a> (includes all types of bowls clubs including outdoor, indoor and crown green)</li></ul>
 
     

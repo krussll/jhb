@@ -5,9 +5,9 @@ seo_title: "Best Lawn and Indoor Bowlers in the World"
 author: reece
 categories: [ help ]
 featured: false
-description: ""
+description: "Learn more about your favourite lawn bowlers. Bios with lists of title won, and what brands and models they use. Here is a selection of some of the best."
 date: 2020-11-02 13:00:00 -0400
-last_modified_at: 2026-11-04 15:05:00 +0000
+last_modified_at: 2026-11-15 11:15:00 +0000
 ---
     
 
@@ -19,7 +19,7 @@ last_modified_at: 2026-11-04 15:05:00 +0000
 
 <h2><a href="#stewart-anderson"></a>Stewart ANDERSON</h2>
 
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/stewart-anderson.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Stewart ANDERSON lawn bowls"/></a></figure>
+<figure class="wp-block-image"><img src="{{ '/img/posts/stewart-anderson.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Stewart ANDERSON lawn bowls"/></figure>
 
 <h3><a href="#titles"></a>Titles</h3>
 
@@ -47,7 +47,7 @@ last_modified_at: 2026-11-04 15:05:00 +0000
 
 <h2><a href="#nicky-brett"></a>Nicky BRETT</h2>
 
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/nicky-brett.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Nicky BRETT lawn bowls"/></a></figure>
+<figure class="wp-block-image"><img src="{{ '/img/posts/nicky-brett.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Nicky BRETT lawn bowls"/></figure>
 
 <h3><a href="#titles-1"></a>Titles</h3>
 
@@ -81,7 +81,7 @@ last_modified_at: 2026-11-04 15:05:00 +0000
 
 <h2><a href="#mark-dawes"></a>Mark Dawes</h2>
 
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/mark-dawes.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Mark Dawes lawn bowls"/></a></figure>
+<figure class="wp-block-image"><img src="{{ '/img/posts/mark-dawes.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Mark Dawes lawn bowls"/></figure>
 
 <h3><a href="#titles-2"></a>Titles</h3>
 
@@ -107,7 +107,7 @@ last_modified_at: 2026-11-04 15:05:00 +0000
 
 <h2><a href="#julie-forrest"></a>Julie FORREST</h2>
 
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/julie-forrest.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Julie FORREST lawn bowls"/></a></figure>
+<figure class="wp-block-image"><img src="{{ '/img/posts/julie-forrest.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Julie FORREST lawn bowls"/></figure>
 
 <h3><a href="#titles-3"></a>Titles</h3>
 
@@ -133,7 +133,7 @@ last_modified_at: 2026-11-04 15:05:00 +0000
 
 <h2><a href="#paul-foster"></a>Paul FOSTER</h2>
 
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/paul-foster.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Paul FOSTER lawn bowls"/></a></figure>
+<figure class="wp-block-image"><img src="{{ '/img/posts/paul-foster.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Paul FOSTER lawn bowls"/></figure>
 
 <h3><a href="#titles-4"></a>Titles</h3>
 
@@ -193,7 +193,7 @@ last_modified_at: 2026-11-04 15:05:00 +0000
 
 <h2><a href="#les-gillett"></a>Les GILLETT</h2>
 
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/les-gillett.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Les GILLETT lawn bowls"/></a></figure>
+<figure class="wp-block-image"><img src="{{ '/img/posts/les-gillett.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Les GILLETT lawn bowls"/></figure>
 
 <h3><a href="#titles-5"></a>Titles</h3>
 
@@ -219,7 +219,7 @@ last_modified_at: 2026-11-04 15:05:00 +0000
 
 <h2><a href="#greg-harlow"></a>Greg HARLOW</h2>
 
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/greg-harlow.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Greg HARLOW lawn bowls"/></a></figure>
+<figure class="wp-block-image"><img src="{{ '/img/posts/greg-harlow.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Greg HARLOW lawn bowls"/></figure>
 
 <h3><a href="#titles-6"></a>Titles</h3>
 
@@ -249,7 +249,7 @@ last_modified_at: 2026-11-04 15:05:00 +0000
 
 <h2><a href="#mervyn-king"></a>Mervyn KING</h2>
 
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/mervyn-king.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Mervyn KING lawn bowls"/></a></figure>
+<figure class="wp-block-image"><img src="{{ '/img/posts/mervyn-king.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Mervyn KING lawn bowls"/></figure>
 
 <h3><a href="#titles-7"></a>Titles</h3>
 
@@ -279,7 +279,7 @@ last_modified_at: 2026-11-04 15:05:00 +0000
 
 <h2><a href="#barrie-lester"></a>Barrie LESTER</h2>
 
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/barrie-lester.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Barrie LESTER lawn bowls"/></a></figure>
+<figure class="wp-block-image"><img src="{{ '/img/posts/barrie-lester.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Barrie LESTER lawn bowls"/></figure>
 
 <h3><a href="#titles-8"></a>Titles</h3>
 
@@ -299,7 +299,7 @@ last_modified_at: 2026-11-04 15:05:00 +0000
 
 <h2><a href="#alex-marshall"></a>Alex MARSHALL</h2>
 
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/alex-marshall.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Alex MARSHALL lawn bowls"/></a></figure>
+<figure class="wp-block-image"><img src="{{ '/img/posts/alex-marshall.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Alex MARSHALL lawn bowls"/></figure>
 
 <h3><a href="#titles-9"></a>Titles</h3>
 
@@ -375,7 +375,7 @@ last_modified_at: 2026-11-04 15:05:00 +0000
 
 <h2><a href="#karen-murphy"></a>Karen MURPHY</h2>
 
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/karen-murphy.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Karen MURPHY lawn bowls"/></a></figure>
+<figure class="wp-block-image"><img src="{{ '/img/posts/karen-murphy.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Karen MURPHY lawn bowls"/></figure>
 
 <h3><a href="#titles-10"></a>Titles</h3>
 
@@ -413,7 +413,7 @@ last_modified_at: 2026-11-04 15:05:00 +0000
 
 <h2><a href="#robert-paxton"></a>Robert PAXTON</h2>
 
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/robert-paxton.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Robert PAXTON lawn bowls"/></a></figure>
+<figure class="wp-block-image"><img src="{{ '/img/posts/robert-paxton.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Robert PAXTON lawn bowls"/></figure>
 
 <h3><a href="#titles-11"></a>Titles</h3>
 
@@ -447,7 +447,7 @@ last_modified_at: 2026-11-04 15:05:00 +0000
 
 <h2><a href="#katherine-rednall"></a>Katherine REDNALL</h2>
 
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/katherine-rednall.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Katherine REDNALL lawn bowls"/></a></figure>
+<figure class="wp-block-image"><img src="{{ '/img/posts/katherine-rednall.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Katherine REDNALL lawn bowls"/></figure>
 
 <h3><a href="#titles-12"></a>Titles</h3>
 
@@ -477,7 +477,7 @@ last_modified_at: 2026-11-04 15:05:00 +0000
 
 <h2><a href="#aron-sherriff"></a>Aron SHERRIFF</h2>
 
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/aron-sherriff.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Aron SHERRIFF lawn bowls"/></a></figure>
+<figure class="wp-block-image"><img src="{{ '/img/posts/aron-sherriff.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Aron SHERRIFF lawn bowls"/></figure>
 
 <h3><a href="#titles-13"></a>Titles</h3>
 
@@ -505,7 +505,7 @@ last_modified_at: 2026-11-04 15:05:00 +0000
 
 <h2><a href="#brett-wilkie"></a>Brett WILKIE</h2>
 
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/brett-wilkie.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Brett WILKIE lawn bowls"/></a></figure>
+<figure class="wp-block-image"><img src="{{ '/img/posts/brett-wilkie.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Brett WILKIE lawn bowls"/></figure>
 
 <h3><a href="#titles-14"></a>Titles</h3>
 

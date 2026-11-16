@@ -1,15 +1,16 @@
 ---
 layout: post
 title:  "Taylor Blaze vs Henselite Tiger EVO | Which is Best?"
+seo_title: "Taylor Blaze vs Henselite Tiger EVO: Bias, Grip & Price Comparison"
+model_a: "taylor-blaze"
+model_b: "henselite-tiger-evo"
 author: reece
 categories: [ review, bowls ]
 featured: false
-description: ""
-last_modified_at: 2026-10-29 15:45:00 +0000
+description: "Compare Taylor Blaze vs Henselite Tiger EVO: mid bias vs mid-wide bias line (5.8 vs 6.5) tested on outdoor grass surfaces. £395 vs £445 RRP (used £130–£180)."
+last_modified_at: 2026-11-15 09:05:42 +0000
 date: 2023-03-20 13:00:00 -0400
 ---
-    
-
 <p>Are you a beginner who's struggling to choose the perfect lawn bowl for your needs? Don't worry, I'm here to help! In this blog post, I'll be comparing two of the most popular lawn bowl models out there - the Taylor Blaze and the Henselite Tiger EVO. </p>
 
 <figure class="wp-block-image size-large"><img src="{{ '/img/posts/taylor-blaze-vs-henselite-tiger-evo-1024x576.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Taylor Blaze VS Henselite Tiger Evo lawn bowls comparison" class="wp-image-2039"/></figure>

@@ -1,15 +1,16 @@
 ---
 layout: post
 title:  "Taylor Lazer vs Aero Sonic | Which is Best?"
+seo_title: "Taylor Lazer vs Aero Sonic: Bias, Grip & Price Comparison"
+model_a: "taylor-lazer"
+model_b: "aero-sonic"
 author: reece
 categories: [ review, bowls ]
 featured: false
-description: ""
-last_modified_at: 2026-10-29 15:45:00 +0000
+description: "Compare Taylor Lazer vs Aero Sonic: Taylor Lazer draws tighter than Aero Sonic (2.5 vs 6.8 bias) for indoor carpet play. £385 vs £435 RRP (used £120–£160)."
+last_modified_at: 2026-11-15 09:05:42 +0000
 date: 2023-03-20 13:00:00 -0400
 ---
-    
-
 <p>Are you having trouble picking the right lawn bowl for your needs? If you're new to the game, it can be overwhelming to choose among the different options available. That's why I'm here to help! </p>
 
 <figure class="wp-block-image size-large"><img src="{{ '/img/posts/taylor-lazer-vs-aero-sonic-1024x576.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Taylor Lazer VS Aero Sonic lawn bowls comparison" class="wp-image-2068"/></figure>

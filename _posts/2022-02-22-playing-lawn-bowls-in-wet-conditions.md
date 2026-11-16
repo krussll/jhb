@@ -5,8 +5,8 @@ seo_title: "How to Play Lawn Bowls in Wet Conditions"
 author: reece
 categories: [ help ]
 featured: false
-description: ""
-last_modified_at: 2026-11-04 15:05:00 +0000
+description: "Playing lawn bowls in the rain can be tough. here is my guide on how to play to the best of your abilities in wet conditions."
+last_modified_at: 2026-11-15 11:15:00 +0000
 date: 2022-02-22 13:00:00 -0400
 ---
     

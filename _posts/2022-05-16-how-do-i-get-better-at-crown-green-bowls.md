@@ -4,8 +4,8 @@ title:  "How Do I Get Better At Crown Green Bowls? | A Beginner's Guide"
 author: reece
 categories: [ crown-green-bowls ]
 featured: false
-description: ""
-last_modified_at: 2026-10-29 15:45:00 +0000
+description: "While researching this subject, we have come across an old saying about bowling: 'The game comes down to the three L's = Line, Length, and Luck.' The."
+last_modified_at: 2026-11-15 11:15:00 +0000
 date: 2022-05-16 13:00:00 -0400
 ---
     

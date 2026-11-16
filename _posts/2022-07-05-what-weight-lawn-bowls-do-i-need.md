@@ -4,8 +4,8 @@ title:  "What Weight Lawn Bowls Do I Need? | A Complete Guide"
 author: reece
 categories: [ help ]
 featured: false
-description: ""
-last_modified_at: 2026-10-30 10:25:00 +0000
+description: "Getting a set of bowls is the most expensive task you will have to undertake as a lawn bowler. So it's important you get the right set."
+last_modified_at: 2026-11-15 11:15:00 +0000
 date: 2022-07-05 13:00:00 -0400
 ---
     

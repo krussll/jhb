@@ -5,9 +5,9 @@ seo_title: "How to Improve Grip on Your Lawn Bowls"
 author: reece
 categories: [ help ]
 featured: false
-description: ""
+description: "The grip is possibly the most important - and under appreciated - part of delivering a bowl. Your fingers will be the last thing to influence a bowl."
 date: 2022-05-23 13:00:00 -0400
-last_modified_at: 2026-11-04 15:05:00 +0000
+last_modified_at: 2026-11-15 11:15:00 +0000
 ---
     
 

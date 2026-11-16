@@ -4,8 +4,8 @@ title:  "How do you pick a Crown Green Bowl? | A Complete Guide"
 author: reece
 categories: [ crown-green-bowls ]
 featured: false
-description: ""
-last_modified_at: 2026-10-29 15:45:00 +0000
+description: "When bowling on grass was invented, bowls were made from lignum vitae many years ago. Lignum vitae is a type of hardwood that grows only in the southern."
+last_modified_at: 2026-11-15 11:15:00 +0000
 date: 2022-05-16 13:00:00 -0400
 ---
     

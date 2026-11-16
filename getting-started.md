@@ -4,7 +4,7 @@ title: Getting Started
 description: Follow this roadmap to learn the rules, choose your first bowls and practise with confidence.
 permalink: /getting-started/
 hide_page_hero: true
-last_modified_at: 2026-11-06T13:55:13Z
+last_modified_at: 2026-11-15T11:15:00Z
 ---
 
 <main class="getting-started">
@@ -94,6 +94,8 @@ last_modified_at: 2026-11-06T13:55:13Z
           {% include action-card.html url="/guide/how-to-choose-a-set-of-lawn-bowls" title="How to choose a set of lawn bowls" description="Work through bias charts, green speeds and budgets before you buy." %}
           {% include action-card.html url="/help/what-size-lawn-bowl-should-i-use" title="Find your perfect bowl size" description="Use proven grip checks to lock in the right size for your hand." %}
           {% include action-card.html url="/guide/best-rated-bowls-for-leads" title="Best rated bowls for leads" description="Narrow-bias models built for drawing precision in front-end positions." %}
+          {% include action-card.html url="/guide/best-straight-lawn-bowls" title="7 Best narrow & straight bowls" description="Find tight-line models engineered for indoor carpets and fast outdoor surfaces." %}
+          {% include action-card.html url="/guide/best-lawn-bowls-for-small-hands" title="Best bowls for small hands" description="Slim profiles and deep inset grips to prevent slipping and wrist strain." %}
           <article class="gs-resource" role="listitem">
             <h3><a href="{{ '/reviews' | relative_url }}">Compare bowls &amp; equipment reviews</a></h3>
             <p>See how leading models stack up before stepping into the shop.</p>

@@ -5,9 +5,9 @@ seo_title: "Lawn Bowls vs Bocce: 9 Similarities and Differences"
 author: reece
 categories: [ help ]
 featured: false
-description: ""
+description: "Discover 9 key differences and similarities between lawn bowls and bocce, from ball design and bias physics to court surfaces, scoring, and gameplay tactics."
 date: 2019-02-19 13:00:00 -0400
-last_modified_at: 2026-11-04 15:05:00 +0000
+last_modified_at: 2026-11-15 09:05:42 +0000
 ---
     
 
@@ -69,7 +69,7 @@ last_modified_at: 2026-11-04 15:05:00 +0000
 
 <p>Now we know how they are similar, it’s time to look at why bocce is different to lawn bowls. Here are the 5 main reasons.</p>
 
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/bocce.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="lawn bowls vs bocce"/></a><figcaption><a href="https://worldbocce.org/how-to-play-bocce.html">https://worldbocce.org/how-to-play-bocce.html</a></figcaption></figure>
+<figure class="wp-block-image"><img src="{{ '/img/posts/bocce.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="lawn bowls vs bocce"/><figcaption><a href="https://worldbocce.org/how-to-play-bocce.html">https://worldbocce.org/how-to-play-bocce.html</a></figcaption></figure>
 
 <h3><a href="#the-balls-used"></a>The balls used</h3>
 
@@ -93,7 +93,7 @@ last_modified_at: 2026-11-04 15:05:00 +0000
 
 <h3><a href="#the-ditch"></a>The ditch</h3>
 
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/lawn-bowls-ditch.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="lawn bowls vs bocce"/></a><figcaption><a href="https://www.cliftonrubber.co.uk/product/bowls-green-ditch-liner/">A lawn bowls ditch</a></figcaption></figure>
+<figure class="wp-block-image"><img src="{{ '/img/posts/lawn-bowls-ditch.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="lawn bowls vs bocce"/><figcaption><a href="https://www.cliftonrubber.co.uk/product/bowls-green-ditch-liner/">A lawn bowls ditch</a></figcaption></figure>
 
 <p>Bowls rinks have ditches at each end and have extra rules associated with them. This adds an extra dimension to how the game can be played, and the tactics used to win.</p>
 
@@ -101,7 +101,7 @@ last_modified_at: 2026-11-04 15:05:00 +0000
 
 <h3><a href="#regions-of-play"></a>Regions of play</h3>
 
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/guide-to-bocce.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="lawn bowls vs bocce"/></a><figcaption><a href="https://en.wikipedia.org/wiki/Bocce">A game of bocce</a></figcaption></figure>
+<figure class="wp-block-image"><img src="{{ '/img/posts/guide-to-bocce.png' | prepend: site.baseurl | replace: '//', '/' }}" alt="lawn bowls vs bocce"/><figcaption><a href="https://en.wikipedia.org/wiki/Bocce">A game of bocce</a></figcaption></figure>
 
 <p>Finally, Bocce and bowls are popular in different regions of the world. Bowls is mainly played in Commonwealth countries, especially in the UK, Australia and New Zealand. It is still growing in many other parts too.</p>
 

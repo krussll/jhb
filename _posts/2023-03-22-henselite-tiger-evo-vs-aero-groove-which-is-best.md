@@ -1,15 +1,16 @@
 ---
 layout: post
 title:  "Henselite Tiger EVO vs Aero GrooVe | Which is Best?"
+seo_title: "Henselite Tiger EVO vs Aero GrooVe: Bias, Grip & Price Comparison"
+model_a: "henselite-tiger-evo"
+model_b: "aero-groove"
 author: reece
 categories: [ review, bowls ]
 featured: false
-description: ""
-last_modified_at: 2026-10-29 15:45:00 +0000
+description: "Compare Henselite Tiger EVO vs Aero GrooVe: mid-wide bias vs mid bias line (6.5 vs 5.5) tested on outdoor grass surfaces. £445 vs £430 RRP (used £160–£180)."
+last_modified_at: 2026-11-15 09:05:42 +0000
 date: 2023-03-22 13:00:00 -0400
 ---
-    
-
 <p>Are you a beginner struggling to choose the right lawn bowl? With so many options out there, it can be overwhelming. That's why in this blog post, I'm going to compare two popular models - the Henselite Tiger EVO and the Aero Groove - to help you make an informed decision. </p>
 
 <figure class="wp-block-image size-large"><img src="{{ '/img/posts/henselite-tiger-evo-vs-aero-groove-1024x576.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Henselite Tiger Evo VS Aero Groove lawn bowls comparison" class="wp-image-1946"/></figure>

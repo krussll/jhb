@@ -1,15 +1,16 @@
 ---
 layout: post
 title:  "Taylor Ace vs Taylor Legacy SL | Which is Best?"
+seo_title: "Taylor Ace vs Taylor Legacy SL: Bias, Grip & Price Comparison"
+model_a: "taylor-ace"
+model_b: "taylor-legacy-sl"
 author: reece
 categories: [ review, bowls ]
 featured: false
-description: ""
-last_modified_at: 2026-10-29 15:45:00 +0000
+description: "Compare Taylor Ace vs Taylor Legacy SL: mid bias vs wide bias line (5.0 vs 8.0) on outdoor grass and outdoor grass greens. £395 vs £365 RRP (used £85–£120)."
+last_modified_at: 2026-11-15 09:05:42 +0000
 date: 2023-03-20 13:00:00 -0400
 ---
-    
-
 <p>Are you a beginner struggling to choose the right lawn bowl? It can be overwhelming with so many options out there. That's why I'm here to help. </p>
 
 <figure class="wp-block-image size-large"><img src="{{ '/img/posts/taylor-ace-vs-taylor-legacy-sl-1024x576.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Taylor Ace VS Taylor Legacy SL lawn bowls comparison" class="wp-image-2029"/></figure>

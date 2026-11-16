@@ -1,15 +1,16 @@
 ---
 layout: post
 title:  "Taylor Ace vs Aero Sonic | Which is Best?"
+seo_title: "Taylor Ace vs Aero Sonic: Bias, Grip & Price Comparison"
+model_a: "taylor-ace"
+model_b: "aero-sonic"
 author: reece
 categories: [ review, bowls ]
 featured: false
-description: ""
-last_modified_at: 2026-10-29 15:45:00 +0000
+description: "Compare Taylor Ace vs Aero Sonic: Taylor Ace draws tighter than Aero Sonic (5.0 vs 6.8 bias) for outdoor grass play. Compare £395 vs £435 RRP (from £120 used)."
+last_modified_at: 2026-11-15 09:05:42 +0000
 date: 2023-03-20 13:00:00 -0400
 ---
-    
-
 <p>Are you a beginner who's overwhelmed by the task of choosing the right lawn bowl? Don't worry, I've got you covered! In this blog post, I'll be comparing two popular lawn bowl models – the Taylor Ace and the Aero Sonic – to help you make an informed decision. </p>
 
 <figure class="wp-block-image size-large"><img src="{{ '/img/posts/taylor-ace-vs-aero-sonic-1024x576.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Taylor Ace VS Aero Sonic lawn bowls comparison" class="wp-image-2021"/></figure>

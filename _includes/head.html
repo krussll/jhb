@@ -195,15 +195,15 @@
     {% if page.collection == 'clubs' or page.layout == 'club' %}
     {% assign club_city_name = page.city_name | default: page.city | capitalize %}
     {% if page.city_breadcrumb %}
-      {% assign club_city_title = page.city_breadcrumb %}
+    {% assign club_city_title = page.city_breadcrumb %}
     {% else %}
-      {% assign club_city_title = 'Bowls Clubs in ' | append: club_city_name %}
+    {% assign club_city_title = 'Bowls Clubs in ' | append: club_city_name %}
     {% endif %}
     {% if page.city_url %}
-      {% assign club_city_url = page.city_url | absolute_url %}
+    {% assign club_city_url = page.city_url | absolute_url %}
     {% else %}
-      {% assign fallback_city_path = '/bowls-clubs/bowls-clubs-in-' | append: page.city | append: '/' %}
-      {% assign club_city_url = fallback_city_path | absolute_url %}
+    {% assign fallback_city_path = '/bowls-clubs/bowls-clubs-in-' | append: page.city | append: '/' %}
+    {% assign club_city_url = fallback_city_path | absolute_url %}
     {% endif %}
     {% capture club_breadcrumbs_json_ld -%}
     {
@@ -517,48 +517,60 @@
     "numberOfItems": {{ roundup_items.size }},
     "itemListElement": [
     {% for item in roundup_items %}
-      {% assign model = nil %}
-      {% if item.model_id %}
-        {% assign model = site.data.bowls_models[item.model_id] %}
-      {% endif %}
-      {% unless model %}
-        {% for entry in site.data.bowls_models %}
-          {% assign candidate = entry[1] %}
-          {% if candidate.name == item.name or candidate.id == item.name %}
-            {% assign model = candidate %}
-            {% break %}
-          {% endif %}
-        {% endfor %}
-      {% endunless %}
-      {% assign item_name = item.name | default: model.name %}
-      {% assign item_brand = item.brand | default: model.brand %}
-      {% assign item_description = item.verdict | default: item.description | default: model.finish_profile | default: item.award %}
-      {% assign item_url = item.url | default: model.review_url %}
-      {% assign item_image = item.image | default: model.image %}
-      {% assign item_price_low = item.price_low | default: item.price_used_low | default: model.price_used_low_gbp %}
-      {% assign item_price_high = item.price_high | default: item.price_new | default: model.price_new_gbp %}
+    {% assign model = nil %}
+    {% if item.model_id %}
+    {% assign model = site.data.bowls_models[item.model_id] %}
+    {% endif %}
+    {% unless model %}
+    {% for entry in site.data.bowls_models %}
+    {% assign candidate = entry[1] %}
+    {% if candidate.name == item.name or candidate.id == item.name %}
+    {% assign model = candidate %}
+    {% break %}
+    {% endif %}
+    {% endfor %}
+    {% endunless %}
+    {% assign item_name = item.name | default: model.name %}
+    {% assign item_brand = item.brand | default: model.brand %}
+    {% assign item_description = item.verdict | default: item.description | default: model.finish_profile | default:
+    item.award %}
+    {% assign raw_item_url = item.url | default: model.review_url %}
+    {% assign item_url = nil %}
+    {% if raw_item_url contains '#' %}
+    {% unless raw_item_url contains '/' %}
+    {% assign item_url = canonical_url | append: raw_item_url %}
+    {% endunless %}
+    {% endif %}
+    {% unless item_url %}
+    {% if raw_item_url %}
+    {% assign item_url = raw_item_url | absolute_url %}
+    {% endif %}
+    {% endunless %}
+    {% assign item_image = item.image | default: model.image %}
+    {% assign item_price_low = item.price_low | default: item.price_used_low | default: model.price_used_low_gbp %}
+    {% assign item_price_high = item.price_high | default: item.price_new | default: model.price_new_gbp %}
     {
-      "@type": "ListItem",
-      "position": {{ forloop.index }},
-      "name": {{ item_name | jsonify }},
-      "item": {
-        "@type": "Product",
-        "name": {{ item_name | jsonify }}{% if item_description %},
-        "description": {{ item_description | jsonify }}{% endif %}{% if item_url %},
-        "url": {{ item_url | absolute_url | jsonify }}{% endif %}{% if item_image %},
-        "image": {{ item_image | absolute_url | jsonify }}{% endif %}{% if item_brand %},
-        "brand": {
-          "@type": "Brand",
-          "name": {{ item_brand | jsonify }}
-        }{% endif %}{% if item_price_low or item_price_high %},
-        "offers": {
-          "@type": "AggregateOffer",
-          "priceCurrency": {{ page.price_currency | default: "GBP" | jsonify }},
-          "lowPrice": {{ item_price_low | default: item_price_high | append: '.00' | jsonify }},
-          "highPrice": {{ item_price_high | default: item_price_low | append: '.00' | jsonify }},
-          "offerCount": "2"
-        }{% endif %}
-      }
+    "@type": "ListItem",
+    "position": {{ forloop.index }},
+    "name": {{ item_name | jsonify }},
+    "item": {
+    "@type": "Product",
+    "name": {{ item_name | jsonify }}{% if item_description %},
+    "description": {{ item_description | jsonify }}{% endif %}{% if item_url %},
+    "url": {{ item_url | jsonify }}{% endif %}{% if item_image %},
+    "image": {{ item_image | absolute_url | jsonify }}{% endif %}{% if item_brand %},
+    "brand": {
+    "@type": "Brand",
+    "name": {{ item_brand | jsonify }}
+    }{% endif %}{% if item_price_low or item_price_high %},
+    "offers": {
+    "@type": "AggregateOffer",
+    "priceCurrency": {{ page.price_currency | default: "GBP" | jsonify }},
+    "lowPrice": {{ item_price_low | default: item_price_high | append: '.00' | jsonify }},
+    "highPrice": {{ item_price_high | default: item_price_low | append: '.00' | jsonify }},
+    "offerCount": "2"
+    }{% endif %}
+    }
     }{% unless forloop.last %},{% endunless %}
     {% endfor %}
     ]
@@ -581,20 +593,22 @@
     "numberOfItems": {{ region_clubs.size }},
     "itemListElement": [
     {% for club in region_clubs %}
-      {% if club.profile_page %}
-        {% assign club_item_url = '/bowls-clubs/' | append: club.city | append: '/' | append: club.slug | append: '/' | absolute_url %}
-      {% elsif club.website %}
-        {% assign club_item_url = club.website %}
-      {% else %}
-        {% assign club_item_url = canonical_url | append: '#' | append: club.slug %}
-      {% endif %}
-      {
-      "@type": "ListItem",
-      "position": {{ forloop.index }},
-      "name": {{ club.name | jsonify }},
-      "description": {{ club.summary | default: club.about | default: club.address | strip_html | normalize_whitespace | truncate: 200 | jsonify }},
-      "url": {{ club_item_url | jsonify }}
-      }{% unless forloop.last %},{% endunless %}
+    {% if club.profile_page %}
+    {% assign club_item_url = '/bowls-clubs/' | append: club.city | append: '/' | append: club.slug | append: '/' |
+    absolute_url %}
+    {% elsif club.website %}
+    {% assign club_item_url = club.website %}
+    {% else %}
+    {% assign club_item_url = canonical_url | append: '#' | append: club.slug %}
+    {% endif %}
+    {
+    "@type": "ListItem",
+    "position": {{ forloop.index }},
+    "name": {{ club.name | jsonify }},
+    "description": {{ club.summary | default: club.about | default: club.address | strip_html | normalize_whitespace |
+    truncate: 200 | jsonify }},
+    "url": {{ club_item_url | jsonify }}
+    }{% unless forloop.last %},{% endunless %}
     {% endfor %}
     ]
     }
@@ -706,47 +720,47 @@
     {% if page.surfaces or page.rinks_info or page.loan_bowls != nil or page.barefoot_social != nil %}
     , "amenityFeature": [
     {% if page.surfaces %}
-      {% for surf in page.surfaces %}
-      {
-        "@type": "LocationFeatureSpecification",
-        "name": {{ surf | append: ' Surface' | jsonify }},
-        "value": true
-      },
-      {% endfor %}
+    {% for surf in page.surfaces %}
+    {
+    "@type": "LocationFeatureSpecification",
+    "name": {{ surf | append: ' Surface' | jsonify }},
+    "value": true
+    },
+    {% endfor %}
     {% endif %}
     {% if page.rinks_info %}
-      {
-        "@type": "LocationFeatureSpecification",
-        "name": "Rink Facilities",
-        "value": {{ page.rinks_info | jsonify }}
-      },
+    {
+    "@type": "LocationFeatureSpecification",
+    "name": "Rink Facilities",
+    "value": {{ page.rinks_info | jsonify }}
+    },
     {% endif %}
     {% if page.loan_bowls != nil %}
-      {
-        "@type": "LocationFeatureSpecification",
-        "name": "Loan Bowls Available",
-        "value": {{ page.loan_bowls | jsonify }}
-      },
+    {
+    "@type": "LocationFeatureSpecification",
+    "name": "Loan Bowls Available",
+    "value": {{ page.loan_bowls | jsonify }}
+    },
     {% endif %}
     {% if page.barefoot_social != nil %}
-      {
-        "@type": "LocationFeatureSpecification",
-        "name": "Barefoot & Social Bowls",
-        "value": {{ page.barefoot_social | jsonify }}
-      },
+    {
+    "@type": "LocationFeatureSpecification",
+    "name": "Barefoot & Social Bowls",
+    "value": {{ page.barefoot_social | jsonify }}
+    },
     {% endif %}
     {% if page.bar_clubhouse != nil %}
-      {
-        "@type": "LocationFeatureSpecification",
-        "name": "Bar & Clubhouse Facilities",
-        "value": {{ page.bar_clubhouse | jsonify }}
-      },
+    {
+    "@type": "LocationFeatureSpecification",
+    "name": "Bar & Clubhouse Facilities",
+    "value": {{ page.bar_clubhouse | jsonify }}
+    },
     {% endif %}
-      {
-        "@type": "LocationFeatureSpecification",
-        "name": "Sport Type",
-        "value": "Lawn Bowls"
-      }
+    {
+    "@type": "LocationFeatureSpecification",
+    "name": "Sport Type",
+    "value": "Lawn Bowls"
+    }
     ]
     {% endif %}
     }

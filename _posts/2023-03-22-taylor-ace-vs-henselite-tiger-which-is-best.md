@@ -1,15 +1,16 @@
 ---
 layout: post
 title:  "Taylor Ace vs Henselite Tiger | Which is Best?"
+seo_title: "Taylor Ace vs Henselite Tiger: Bias, Grip & Price Comparison"
+model_a: "taylor-ace"
+model_b: "henselite-tiger"
 author: reece
 categories: [ review, bowls ]
 featured: false
-description: ""
-last_modified_at: 2026-10-29 15:45:00 +0000
+description: "Compare Taylor Ace vs Henselite Tiger: mid bias vs mid-wide bias line (5.0 vs 6.2) on outdoor grass and outdoor grass greens. £395 vs £425 RRP (used £120–£130)."
+last_modified_at: 2026-11-15 09:05:42 +0000
 date: 2023-03-22 13:00:00 -0400
 ---
-    
-
 <p>Do you feel overwhelmed when it comes to choosing the right lawn bowls? With so many options available, it can be hard to know where to start. Well, don't worry, because in this blog post, I'm going to help you compare two popular models - the Taylor Ace and the Henselite Tiger. </p>
 
 <figure class="wp-block-image size-large"><img src="{{ '/img/posts/taylor-ace-vs-henselite-tiger-1024x576.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Taylor Ace VS Henselite Tiger lawn bowls comparison" class="wp-image-2024"/></figure>

@@ -1,15 +1,16 @@
 ---
 layout: post
 title:  "Aero GrooVe vs Aero Sonic | Which is Best?"
+seo_title: "Aero GrooVe vs Aero Sonic: Bias, Grip & Price Comparison"
+model_a: "aero-groove"
+model_b: "aero-sonic"
 author: reece
 categories: [ guide ]
 featured: false
-description: ""
-last_modified_at: 2026-10-29 15:45:00 +0000
+description: "Compare Aero GrooVe vs Aero Sonic: Aero GrooVe draws tighter than Aero Sonic (5.5 vs 6.8 bias) for outdoor grass play. £430 vs £435 RRP (used £160–£160)."
+last_modified_at: 2026-11-15 09:05:42 +0000
 date: 2023-03-22 13:00:00 -0400
 ---
-    
-
 <p>Hey there! If you're new to lawn bowling, picking the right set of bowls can feel overwhelming. That's why I'm here to help. In this blog post, I'll be breaking down two of the most popular models - the Aero GrooVe and the Aero Sonic. </p>
 
 <figure class="wp-block-image size-large"><img src="{{ '/img/posts/aero-groove-vs-aero-sonic-1024x576.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Aero Groove VS Aero Sonic lawn bowls comparison" class="wp-image-1927"/></figure>

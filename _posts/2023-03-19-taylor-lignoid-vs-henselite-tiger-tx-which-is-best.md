@@ -1,15 +1,16 @@
 ---
 layout: post
 title:  "Taylor Lignoid vs Henselite Tiger TX | Which is Best?"
+seo_title: "Taylor Lignoid vs Henselite Tiger TX: Bias, Grip & Price Comparison"
+model_a: "taylor-lignoid"
+model_b: "henselite-tiger-tx"
 author: reece
 categories: [ review, bowls ]
 featured: false
-description: ""
-last_modified_at: 2026-10-29 15:45:00 +0000
+description: "Compare Taylor Lignoid vs Henselite Tiger TX: wide bias vs narrow bias line (8.5 vs 3.5) for heavy outdoor grass play. Compare £365 vs £435 RRP (from £80 used)."
+last_modified_at: 2026-11-15 09:05:42 +0000
 date: 2023-03-19 13:00:00 -0400
 ---
-    
-
 <p>Are you new to lawn bowling and feeling overwhelmed by the number of options available? Don't worry - choosing the right lawn bowl doesn't have to be a daunting task! </p>
 
 <figure class="wp-block-image size-large"><img src="{{ '/img/posts/taylor-lignoid-vs-henselite-tiger-tx-1024x576.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Taylor Lignoid VS Henselite Tiger TX lawn bowls comparison" class="wp-image-1990"/></figure>

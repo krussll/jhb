@@ -1,4 +1,4 @@
- ---
+---
 layout: post
 title:  "Best Lawn Bowls For Fast Greens"
 author: reece
@@ -6,7 +6,7 @@ categories: [ guide ]
 featured: false
 description: "The best lawn bowls for fast greens and indoor carpets: compare narrow-running profiles from Aero, Taylor, and Henselite designed for touch, wind stability, and line control."
 date: 2019-07-25 13:00:00 -0400
-last_modified_at: 2026-11-12 15:20:05 +0000
+last_modified_at: 2026-11-15 11:12:00 +0000
 items:
   - model_id: "aero-groove"
     name: "Aero GrooVe"

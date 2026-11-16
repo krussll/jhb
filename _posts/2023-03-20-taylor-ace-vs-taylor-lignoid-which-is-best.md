@@ -1,15 +1,16 @@
 ---
 layout: post
 title:  "Taylor Ace vs Taylor Lignoid | Which is Best?"
+seo_title: "Taylor Ace vs Taylor Lignoid: Bias, Grip & Price Comparison"
+model_a: "taylor-ace"
+model_b: "taylor-lignoid"
 author: reece
 categories: [ review, bowls ]
 featured: false
-description: ""
-last_modified_at: 2026-10-29 15:45:00 +0000
+description: "Compare Taylor Ace vs Taylor Lignoid: Taylor Ace draws tighter than Taylor Lignoid (5.0 vs 8.5 bias) for outdoor grass play. £395 vs £365 RRP (used £80–£120)."
+last_modified_at: 2026-11-15 09:05:42 +0000
 date: 2023-03-20 13:00:00 -0400
 ---
-    
-
 <p>Are you a beginner struggling to choose the right lawn bowl? It can be a tough decision when you're not familiar with all the options out there. That's why in this post, I'm going to compare two of the most popular models - the Taylor Ace and the Taylor Lignoid.</p>
 
 <figure class="wp-block-image size-large"><img src="{{ '/img/posts/taylor-ace-vs-taylor-lignoid-1024x576.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Taylor Ace VS Taylor Lignoid lawn bowls comparison" class="wp-image-2028"/></figure>

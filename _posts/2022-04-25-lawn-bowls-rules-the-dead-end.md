@@ -5,8 +5,8 @@ seo_title: "Lawn Bowls Rules: The Dead End Explained"
 author: reece
 categories: [ help ]
 featured: false
-description: ""
-last_modified_at: 2026-11-04 15:05:00 +0000
+description: "Bowlers get used to the basic rules of lawn bowls and how an end works pretty quickly - however there are other ways an end can play out other than the."
+last_modified_at: 2026-11-15 11:15:00 +0000
 date: 2022-04-25 13:00:00 -0400
 ---
     

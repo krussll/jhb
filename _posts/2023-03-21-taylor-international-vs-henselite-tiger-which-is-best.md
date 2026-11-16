@@ -1,15 +1,16 @@
 ---
 layout: post
 title:  "Taylor International vs Henselite Tiger | Which is Best?"
+seo_title: "Taylor International vs Henselite Tiger: Bias, Grip & Price Comparison"
+model_a: "taylor-international"
+model_b: "henselite-tiger"
 author: reece
 categories: [ review, bowls ]
 featured: false
-description: ""
-last_modified_at: 2026-10-29 15:45:00 +0000
+description: "Compare Taylor International vs Henselite Tiger: wide bias vs mid-wide bias line (7.2 vs 6.2) tested on slow outdoor surfaces. £375 vs £425 RRP (used £95–£130)."
+last_modified_at: 2026-11-15 09:05:42 +0000
 date: 2023-03-21 13:00:00 -0400
 ---
-    
-
 <p>Do you find it challenging to decide which lawn bowl to choose, especially if you are new to the game? Well, worry no more! </p>
 
 <figure class="wp-block-image size-large"><img src="{{ '/img/posts/taylor-international-vs-henselite-tiger-1024x576.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Taylor International VS Henselite Tiger lawn bowls comparison" class="wp-image-2011"/></figure>

@@ -5,9 +5,9 @@ seo_title: "Price of Aero Lawn Bowls: Aero Bowls Buyer's Guide"
 author: reece
 categories: [ help ]
 featured: false
-description: ""
+description: "Aero are one of the top brands in the world, but they are relatively new. This makes it tricky for bowlers to know how much Aero bowls cost - this is."
 date: 2022-05-21 13:00:00 -0400
-last_modified_at: 2026-11-04 15:05:00 +0000
+last_modified_at: 2026-11-15 11:15:00 +0000
 ---
     
 

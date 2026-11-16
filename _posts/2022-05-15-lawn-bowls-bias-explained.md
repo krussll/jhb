@@ -5,8 +5,8 @@ seo_title: "Lawn Bowls Bias Explained: How Bowls Curve"
 author: reece
 categories: [ help ]
 featured: false
-description: ""
-last_modified_at: 2026-11-04 15:05:00 +0000
+description: "The bias of a bowl is key to the game of bowls, but it can be a confusing concept for many beginners. Why does a bowl turn?"
+last_modified_at: 2026-11-15 11:15:00 +0000
 date: 2022-05-15 13:00:00 -0400
 ---
     

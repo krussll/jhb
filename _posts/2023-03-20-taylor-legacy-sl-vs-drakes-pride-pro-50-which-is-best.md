@@ -1,15 +1,16 @@
 ---
 layout: post
 title:  "Taylor Legacy SL vs Drakes Pride PRO-50 | Which is Best?"
+seo_title: "Taylor Legacy SL vs Drakes Pride PRO-50: Bias, Grip & Price Comparison"
+model_a: "taylor-legacy-sl"
+model_b: "drakes-pride-pro-50"
 author: reece
 categories: [ review, bowls ]
 featured: false
-description: ""
-last_modified_at: 2026-10-29 15:45:00 +0000
+description: "Compare Taylor Legacy SL vs Drakes Pride PRO-50: wide bias vs mid bias line (8.0 vs 5.2) tested on outdoor grass surfaces. £365 vs £395 RRP (used £85–£140)."
+last_modified_at: 2026-11-15 09:05:42 +0000
 date: 2023-03-20 13:00:00 -0400
 ---
-    
-
 <p>Are you a beginner struggling to choose the right lawn bowl? It can definitely feel overwhelming! That's why in this blog post, I've got you covered. </p>
 
 <figure class="wp-block-image size-large"><img src="{{ '/img/posts/taylor-legacy-sl-vs-drakes-pride-pro-50-1024x576.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Taylor Legacy SL VS Drakes Pride Pro lawn bowls comparison" class="wp-image-1992"/></figure>

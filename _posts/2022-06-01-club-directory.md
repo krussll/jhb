@@ -4,8 +4,8 @@ title:  "Indoor and Lawn Bowls Club Directory | Find A Club Near You"
 author: reece
 categories: [ bowls-clubs ]
 featured: false
-description: ""
-last_modified_at: 2026-10-30 10:25:00 +0000
+description: "Everything you need to know about Indoor and Lawn Bowls Club Directory. Practical lawn bowls tips, technique advice, and rules to improve your game on the."
+last_modified_at: 2026-11-15 11:15:00 +0000
 date: 2022-06-01 13:00:00 -0400
 ---
     

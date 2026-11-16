@@ -1,14 +1,16 @@
 ---
 layout: post
 title:  "Taylor Blaze vs Taylor Lignoid | Which is Best?"
+seo_title: "Taylor Blaze vs Taylor Lignoid: Bias, Grip & Price Comparison"
+model_a: "taylor-blaze"
+model_b: "taylor-lignoid"
 author: reece
 categories: [ review, bowls ]
 featured: false
-description: ""
+description: "Compare Taylor Blaze vs Taylor Lignoid: mid bias vs wide bias line (5.8 vs 8.5) tested on outdoor grass surfaces. Compare £395 vs £365 RRP (from £80 used)."
 date: 2023-03-20 13:00:00 -0400
----
-    
 
+last_modified_at: 2026-11-15 09:05:42 +0000---
 <p>Are you feeling overwhelmed trying to decide which lawn bowl to choose? Don't worry - I've got you covered! As a beginner, it can be tough to navigate the many options available. </p>
 
 <figure class="wp-block-image size-large"><img src="{{ '/img/posts/taylor-blaze-vs-taylor-lignoid-1024x576.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Taylor Blaze vs Taylor Lignoid" class="wp-image-2043"/></figure>

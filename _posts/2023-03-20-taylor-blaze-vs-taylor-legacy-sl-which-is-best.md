@@ -1,15 +1,16 @@
 ---
 layout: post
 title:  "Taylor Blaze vs Taylor Legacy SL | Which is Best?"
+seo_title: "Taylor Blaze vs Taylor Legacy SL: Bias, Grip & Price Comparison"
+model_a: "taylor-blaze"
+model_b: "taylor-legacy-sl"
 author: reece
 categories: [ review, bowls ]
 featured: false
-description: ""
-last_modified_at: 2026-10-29 15:45:00 +0000
+description: "Compare Taylor Blaze vs Taylor Legacy SL: mid bias vs wide bias line (5.8 vs 8.0) on outdoor grass and outdoor grass greens. £395 vs £365 RRP (used £85–£130)."
+last_modified_at: 2026-11-15 09:05:42 +0000
 date: 2023-03-20 13:00:00 -0400
 ---
-    
-
 <p>Hey there! I know that choosing the perfect lawn bowl can feel overwhelming, especially if you're new to the game and don't know where to start. That's why I'm here to help you out! </p>
 
 <figure class="wp-block-image size-large"><img src="{{ '/img/posts/taylor-blaze-vs-taylor-legacy-sl-1024x576.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Taylor Blaze VS Taylor Legacy SL lawn bowls comparison" class="wp-image-2044"/></figure>

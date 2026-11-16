@@ -1,15 +1,16 @@
 ---
 layout: post
 title:  "Drakes Pride D-TEC vs Drakes Pride Professional | Which is Best?"
+seo_title: "Drakes Pride d-tec vs Drakes Pride Professional: Bias, Grip & Price Comparison"
+model_a: "drakes-pride-d-tec"
+model_b: "drakes-pride-professional"
 author: reece
 categories: [ guide ]
 featured: false
-description: ""
-last_modified_at: 2026-10-29 15:45:00 +0000
+description: "Compare Drakes Pride d-tec vs Drakes Pride Professional: narrow bias vs mid bias line (2.0 vs 5.2) for indoor carpet play. £375 vs £375 RRP (used £100–£115)."
+last_modified_at: 2026-11-15 09:05:42 +0000
 date: 2023-03-22 13:00:00 -0400
 ---
-    
-
 <p>Are you feeling overwhelmed when it comes to choosing the perfect lawn bowl? As a beginner, it can be difficult to navigate the many options available. That's why I've created this blog post where I'll be comparing two popular models - the Drakes Pride D-TEC and the Drakes Pride Professional.</p>
 
 <figure class="wp-block-image size-large"><img src="{{ '/img/posts/drakes-pride-d-tec-vs-drakes-pride-professional-1024x576.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Drakes Pride D Tec VS Drakes Pride Professional lawn bowls comparison" class="wp-image-1918"/></figure>

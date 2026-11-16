@@ -2,10 +2,10 @@
 layout: post
 title:  "Taylor Lignoid Lawn Bowls Review"
 author: reece
-categories: [ guide ]
+categories: [ review, bowls ]
 featured: false
 description: "Taylor Lignoid lawn bowls review: wide bias profile, holding line on slow grass greens, second-hand affordability, and verdict."
-last_modified_at: 2026-11-06 13:55:13 +0000
+last_modified_at: 2026-11-15 11:15:00 +0000
 date: 2023-04-22 13:00:00 -0400
 review:
   name: "Taylor Lignoid Lawn Bowls"

@@ -5,9 +5,9 @@ seo_title: "5 Ways to Improve Concentration in Lawn Bowls"
 author: reece
 categories: [ help ]
 featured: false
-description: ""
+description: "Keeping your concentration is a key skill in lawn bowls. Its a game that can last several hours, and a drop in concentration at the wrong moment can cost."
 date: 2022-03-06 13:00:00 -0400
-last_modified_at: 2026-11-04 15:05:00 +0000
+last_modified_at: 2026-11-15 11:15:00 +0000
 ---
     
 

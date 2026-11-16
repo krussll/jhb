@@ -6,8 +6,8 @@ author: reece
 categories: [ bowls-clubs ]
 club_region: edinburgh
 featured: false
-description: ""
-last_modified_at: 2026-11-11 12:00:00 +0000
+description: "There are many lawn bowls clubs in Edinburgh, each with their own unique history and atmosphere. Some of the most popular clubs include the Edinburgh Lawn."
+last_modified_at: 2026-11-15 11:15:00 +0000
 date: 2022-05-02 13:00:00 -0400
 ---
     

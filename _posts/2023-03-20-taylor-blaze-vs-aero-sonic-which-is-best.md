@@ -1,14 +1,16 @@
 ---
 layout: post
 title:  "Taylor Blaze vs Aero Sonic | Which is Best?"
+seo_title: "Taylor Blaze vs Aero Sonic: Bias, Grip & Price Comparison"
+model_a: "taylor-blaze"
+model_b: "aero-sonic"
 author: reece
 categories: [ review, bowls ]
 featured: false
-description: ""
+description: "Compare Taylor Blaze vs Aero Sonic: Taylor Blaze draws tighter than Aero Sonic (5.8 vs 6.8 bias) for outdoor grass play. £395 vs £435 RRP (used £130–£160)."
 date: 2023-03-20 13:00:00 -0400
----
-    
 
+last_modified_at: 2026-11-15 09:05:42 +0000---
 <p>Are you struggling to choose the perfect lawn bowl? Don't worry, I've got you covered! As a beginner, I know how overwhelming it can be to navigate through the different types of lawn bowls available. </p>
 
 <figure class="wp-block-image size-large"><img src="{{ '/img/posts/taylor-blaze-vs-aero-sonic-1024x576.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Taylor Blaze vs Aero Sonic " class="wp-image-2035"/></figure>

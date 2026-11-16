@@ -4,8 +4,8 @@ title:  "What To Wear To Barefoot Bowls | A Beginners Guide"
 author: reece
 categories: [ help ]
 featured: false
-description: ""
-last_modified_at: 2026-10-29 15:45:00 +0000
+description: "Barefoot bowls is a great way to enjoy an evening with your mates. Nothing beats getting the competitive juices flowing over a few beers."
+last_modified_at: 2026-11-15 11:15:00 +0000
 date: 2022-07-07 13:00:00 -0400
 ---
     

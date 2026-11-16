@@ -4,9 +4,9 @@ title:  "How To Care For Lawn Bowls | A Helpful Guide"
 author: reece
 categories: [ help ]
 featured: false
-description: ""
+description: "Lawn bowls can last more decades, as long as they are cared for correctly. In this guide, we cover the most common bowls care questions we are asked on a."
 date: 2020-10-20 13:00:00 -0400
-last_modified_at: 2026-10-30 10:25:00 +0000
+last_modified_at: 2026-11-15 11:15:00 +0000
 ---
     
 

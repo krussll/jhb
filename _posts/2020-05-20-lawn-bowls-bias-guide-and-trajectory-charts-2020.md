@@ -5,8 +5,8 @@ seo_title: "Lawn Bowls Bias Guide and Trajectory Charts"
 author: reece
 categories: [ guide ]
 featured: false
-description: ""
-last_modified_at: 2026-11-06 13:55:13 +0000
+description: "Trajectory guides for the most popular lawn bowl brands: Drakes Pride, Taylor, Henselite, Aero, and Biased Bowls. In this guide we hope to give you some."
+last_modified_at: 2026-11-15 11:15:00 +0000
 date: 2020-05-20 13:00:00 -0400
 ---
     
@@ -61,7 +61,7 @@ date: 2020-05-20 13:00:00 -0400
 <ul>
   <li><a href="{{ '/review/bowls/aero-quantum-review/' | relative_url }}">Aero Quantum Review</a></li>
   <li><a href="{{ '/review/bowls/aero-groove-lawn-bowls-review/' | relative_url }}">Aero GrooVe Review</a></li>
-  <li><a href="{{ '/guide/aero-sonic-lawn-bowl-review' | relative_url }}">Aero Sonic Review</a></li>
+  <li><a href="{{ '/review/bowls/aero-sonic-lawn-bowl-review/' | relative_url }}">Aero Sonic Review</a></li>
 </ul>
 
 <h2><a href="#drakes-pride-bowls-bias-chart"></a>Drakes Pride bowls bias chart</h2>
@@ -102,9 +102,9 @@ date: 2020-05-20 13:00:00 -0400
 <h3><a href="#related-articles-henselite"></a>Related Articles</h3>
 
 <ul>
-  <li><a href="{{ '/guide/henselite-tiger-ii-lawn-bowls-review' | relative_url }}">Henselite Tiger II Review</a></li>
-  <li><a href="{{ '/guide/henselite-tiger-lawn-bowls-review' | relative_url }}">Henselite Tiger Review</a></li>
-  <li><a href="{{ '/guide/henselite-tiger-tx-lawn-bowls-review' | relative_url }}">Henselite Tiger TX Review</a></li>
+  <li><a href="{{ '/review/bowls/henselite-tiger-ii-lawn-bowls-review/' | relative_url }}">Henselite Tiger II Review</a></li>
+  <li><a href="{{ '/review/bowls/henselite-tiger-lawn-bowls-review/' | relative_url }}">Henselite Tiger Review</a></li>
+  <li><a href="{{ '/review/bowls/henselite-tiger-tx-lawn-bowls-review/' | relative_url }}">Henselite Tiger TX Review</a></li>
 </ul>
 
 <h2><a href="#taylor-bowls-bias-chart"></a>Taylor Bowls bias chart</h2>
@@ -125,7 +125,7 @@ date: 2020-05-20 13:00:00 -0400
   <li><a href="{{ '/review/bowls/taylor-vector-vs-review/' | relative_url }}">Taylor Vector VS Review</a></li>
   <li><a href="{{ '/review/bowls/taylor-legacy-sl-review/' | relative_url }}">Taylor Legacy SL Review</a></li>
   <li><a href="{{ '/review/bowls/taylor-blaze-lawn-bowls-review/' | relative_url }}">Taylor Blaze Review</a></li>
-  <li><a href="{{ '/guide/taylor-lignoid-lawn-bowls-review' | relative_url }}">Taylor Lignoid Review</a></li>
+  <li><a href="{{ '/review/bowls/taylor-lignoid-lawn-bowls-review/' | relative_url }}">Taylor Lignoid Review</a></li>
 </ul>
 
 <h2><a href="#biased-bowls-bias-chart"></a>Biased Bowls bias chart</h2>
@@ -144,6 +144,6 @@ date: 2020-05-20 13:00:00 -0400
 <h3><a href="#related-articles-biased"></a>Related Articles</h3>
 
 <ul>
-  <li><a href="{{ '/guide/biased-bowls-racing-line-lawn-bowl-review' | relative_url }}">Biased Bowls Racing Line Review</a></li>
+  <li><a href="{{ '/review/bowls/biased-bowls-racing-line-lawn-bowl-review/' | relative_url }}">Biased Bowls Racing Line Review</a></li>
 </ul>
 

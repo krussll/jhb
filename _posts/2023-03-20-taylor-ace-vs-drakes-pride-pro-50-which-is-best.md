@@ -1,15 +1,16 @@
 ---
 layout: post
 title:  "Taylor Ace vs Drakes Pride PRO-50 | Which is Best?"
+seo_title: "Taylor Ace vs Drakes Pride PRO-50: Bias, Grip & Price Comparison"
+model_a: "taylor-ace"
+model_b: "drakes-pride-pro-50"
 author: reece
 categories: [ review, bowls ]
 featured: false
-description: ""
-last_modified_at: 2026-10-29 15:45:00 +0000
+description: "Compare Taylor Ace vs Drakes Pride PRO-50: both feature balanced mid bias draw trajectories tested on outdoor grass surfaces. £395 vs £395 RRP (used £120–£140)."
+last_modified_at: 2026-11-15 09:05:42 +0000
 date: 2023-03-20 13:00:00 -0400
 ---
-    
-
 <p>Are you a beginner trying to choose the right lawn bowl, but feeling overwhelmed by the options available? Don't worry, I've got you covered. In this blog post, we'll be comparing two of the most popular models out there - the Taylor Ace and the Drakes Pride PRO-50. </p>
 
 <figure class="wp-block-image size-large"><img src="{{ '/img/posts/taylor-ace-vs-drakes-pride-pro-50-1024x576.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Taylor Ace VS Drakes Pride Pro lawn bowls comparison" class="wp-image-2019"/></figure>

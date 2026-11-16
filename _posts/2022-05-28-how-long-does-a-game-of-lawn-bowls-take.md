@@ -5,8 +5,8 @@ seo_title: "How Long Does a Game of Lawn Bowls Take?"
 author: reece
 categories: [ help ]
 featured: false
-description: ""
-last_modified_at: 2026-11-04 15:05:00 +0000
+description: "When starting out bowls it can be hard to know how much time you need to leave to play your game. Its one thing to arrange a game with a friend, but how."
+last_modified_at: 2026-11-15 11:15:00 +0000
 date: 2022-05-28 13:00:00 -0400
 ---
     

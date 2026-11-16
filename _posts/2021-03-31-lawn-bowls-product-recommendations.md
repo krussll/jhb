@@ -4,8 +4,8 @@ title:  "Lawn Bowls Product Recommendations 2023"
 author: reece
 categories: [ guide ]
 featured: false
-description: ""
-last_modified_at: 2026-10-30 10:25:00 +0000
+description: "Here are my top product recommendations for lawn bowls. Best lawn bowls for indoors, best lawn bowls for outdoors and best lawn bowls for beginners."
+last_modified_at: 2026-11-15 11:15:00 +0000
 date: 2021-03-31 13:00:00 -0400
 ---
     

@@ -1,15 +1,16 @@
 ---
 layout: post
 title:  "Aero Quantum vs Drakes Pride XP | Which is Best?"
+seo_title: "Aero Quantum vs Drakes Pride XP: Bias, Grip & Price Comparison"
+model_a: "aero-quantum"
+model_b: "drakes-pride-xp"
 author: reece
 categories: [ guide ]
 featured: false
-description: ""
-last_modified_at: 2026-10-29 15:45:00 +0000
+description: "Compare Aero Quantum vs Drakes Pride XP: mid-narrow bias vs wide bias line (4.2 vs 7.5) tested on outdoor grass surfaces. £425 vs £380 RRP (used £110–£160)."
+last_modified_at: 2026-11-15 09:05:42 +0000
 date: 2023-03-19 13:00:00 -0400
 ---
-    
-
 <p>Are you a beginner in lawn bowling and feeling overwhelmed with the options available? Choosing the right lawn bowl is crucial for your game, but it can be a daunting task. </p>
 
 <figure class="wp-block-image size-large"><img src="{{ '/img/posts/aero-quantum-vs-drakes-pride-xp-1024x576.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Aero Quantum VS Drakes Pride XP lawn bowls comparison" class="wp-image-1928"/></figure>

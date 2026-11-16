@@ -1,15 +1,16 @@
 ---
 layout: post
 title:  "Taylor Ace vs Drakes Pride D-TEC | Which is Best?"
+seo_title: "Taylor Ace vs Drakes Pride d-tec: Bias, Grip & Price Comparison"
+model_a: "taylor-ace"
+model_b: "drakes-pride-d-tec"
 author: reece
 categories: [ review, bowls ]
 featured: false
-description: ""
-last_modified_at: 2026-10-29 15:45:00 +0000
+description: "Compare Taylor Ace vs Drakes Pride d-tec: mid bias vs narrow bias line (5.0 vs 2.0) tested on outdoor grass surfaces. Compare £395 vs £375 RRP (from £115 used)."
+last_modified_at: 2026-11-15 09:05:42 +0000
 date: 2023-03-20 13:00:00 -0400
 ---
-    
-
 <p>Hey there! Are you in the market for a new lawn bowl, but feeling overwhelmed by all the different options? As a beginner, it can be tough to know where to start. Luckily, I'm here to help. </p>
 
 <figure class="wp-block-image size-large"><img src="{{ '/img/posts/taylor-ace-vs-drakes-pride-d-tec-1024x576.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Taylor Ace VS Drakes Pride D Tec lawn bowls comparison" class="wp-image-2020"/></figure>

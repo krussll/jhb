@@ -1,15 +1,16 @@
 ---
 layout: post
 title:  "Taylor Lazer vs Taylor Lignoid | Which is Best?"
+seo_title: "Taylor Lazer vs Taylor Lignoid: Bias, Grip & Price Comparison"
+model_a: "taylor-lazer"
+model_b: "taylor-lignoid"
 author: reece
 categories: [ review, bowls ]
 featured: false
-description: ""
-last_modified_at: 2026-10-29 15:45:00 +0000
+description: "Compare Taylor Lazer vs Taylor Lignoid: narrow bias vs wide bias line (2.5 vs 8.5) tested on indoor carpet surfaces. Compare £385 vs £365 RRP (from £80 used)."
+last_modified_at: 2026-11-15 09:05:42 +0000
 date: 2023-03-20 13:00:00 -0400
 ---
-    
-
 <p>Hey there! If you're new to the world of lawn bowling, trying to find the right set of bowls can be quite overwhelming. Thankfully, I'm here to help you out. </p>
 
 <figure class="wp-block-image size-large"><img src="{{ '/img/posts/taylor-lazer-vs-taylor-lignoid-1024x576.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Taylor Lazer VS Taylor Lignoid lawn bowls comparison" class="wp-image-2075"/></figure>

@@ -4,9 +4,9 @@ title:  "5 Reasons Why Lawn Bowls Is Great For Kids"
 author: reece
 categories: [ help ]
 featured: false
-description: ""
+description: "Here are my 5 reason why lawn bowls is great for kids. With so many youth sports for your kids to try, why should you consider lawn bowls?"
 date: 2019-05-05 13:00:00 -0400
-last_modified_at: 2026-10-30 10:25:00 +0000
+last_modified_at: 2026-11-15 11:15:00 +0000
 ---
     
 

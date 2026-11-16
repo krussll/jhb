@@ -4,8 +4,8 @@ title:  "Lawn Bowls Reading The Head For Beginners"
 author: reece
 categories: [ help ]
 featured: false
-description: ""
-last_modified_at: 2026-10-30 10:25:00 +0000
+description: "Lawn bowls reading the head for beginners. As a new bowler you are not often required to make judgements on how your team mates should play."
+last_modified_at: 2026-11-15 11:15:00 +0000
 date: 2019-09-30 13:00:00 -0400
 ---
     
@@ -140,7 +140,7 @@ date: 2019-09-30 13:00:00 -0400
 
 <h3><a href="#holding-shots"></a>Holding shots</h3>
 
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/reading-the-head-example-holding.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Reading the head in lawn bowls tactical diagram"/></a></figure>
+<figure class="wp-block-image"><img src="{{ '/img/posts/reading-the-head-example-holding.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Reading the head in lawn bowls tactical diagram"/></figure>
 
 <p>In this position we are holding two, but we have no back bowls.</p>
 
@@ -168,7 +168,7 @@ date: 2019-09-30 13:00:00 -0400
 
 <h3><a href="#down-shots"></a>Down shots</h3>
 
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/reading-the-head-example-down.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Reading the head in lawn bowls tactical diagram"/></a></figure>
+<figure class="wp-block-image"><img src="{{ '/img/posts/reading-the-head-example-down.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Reading the head in lawn bowls tactical diagram"/></figure>
 
 <p>In this situation we are down 2 shots, with one short bowl and one back bowl.</p>
 
@@ -194,7 +194,7 @@ date: 2019-09-30 13:00:00 -0400
 
 <h3><a href="#balanced"></a>Balanced</h3>
 
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/reading-the-head-example-balanced.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Reading the head in lawn bowls tactical diagram"/></a></figure>
+<figure class="wp-block-image"><img src="{{ '/img/posts/reading-the-head-example-balanced.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Reading the head in lawn bowls tactical diagram"/></figure>
 
 <p>In this situation it is a measure for shot, and both you and your opponent have strong second bowls and a covering back bowl.</p>
 

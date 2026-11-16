@@ -4,8 +4,8 @@ title:  "Jokes About Lawn Bowls"
 author: reece
 categories: [ help ]
 featured: false
-description: ""
-last_modified_at: 2026-10-29 15:45:00 +0000
+description: "A selection of jokes about lawn bowls. Cartoons and stories to brighten up your day. A Selectors Prayer Blessed are they who can play sport Blessed are."
+last_modified_at: 2026-11-15 11:15:00 +0000
 date: 2021-02-01 13:00:00 -0400
 ---
     
@@ -14,7 +14,7 @@ date: 2021-02-01 13:00:00 -0400
 
 <figure class="wp-block-image size-full"><img src="{{ '/img/posts/jokes-about-lawn-bowls.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Jokes About Lawn Bowls" class="wp-image-191"/></figure>
 
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/joke-1.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Joke - Jokes About Lawn Bowls"/></a></figure>
+<figure class="wp-block-image"><img src="{{ '/img/posts/joke-1.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Joke - Jokes About Lawn Bowls"/></figure>
 
 <h2><a href="#a-selectors-prayer"></a>A Selectors Prayer</h2>
 
@@ -44,7 +44,7 @@ date: 2021-02-01 13:00:00 -0400
 
 <p>No one cares for he's the marker!</p>
 
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/joke-3.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Joke - Jokes About Lawn Bowls"/></a></figure>
+<figure class="wp-block-image"><img src="{{ '/img/posts/joke-3.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Joke - Jokes About Lawn Bowls"/></figure>
 
 <h2><a href="#selectors-in-heaven"></a>Selectors in Heaven</h2>
 
@@ -72,9 +72,9 @@ date: 2021-02-01 13:00:00 -0400
 
 <p>You've had enough of hell!"</p>
 
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/joke-4.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Joke - Jokes About Lawn Bowls"/></a></figure>
+<figure class="wp-block-image"><img src="{{ '/img/posts/joke-4.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Joke - Jokes About Lawn Bowls"/></figure>
 
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/joke-5.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Joke - Jokes About Lawn Bowls"/></a></figure>
+<figure class="wp-block-image"><img src="{{ '/img/posts/joke-5.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Joke - Jokes About Lawn Bowls"/></figure>
 
 <h2><a href="#the-bowlers-own-language---how-to-translate"></a>The Bowlers' own language - how to translate</h2>
 
@@ -94,12 +94,12 @@ date: 2021-02-01 13:00:00 -0400
 
 <p>"I'd bowl with him any day" = he always buys the first round</p>
 
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/joke-7.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Joke - Jokes About Lawn Bowls"/></a></figure>
+<figure class="wp-block-image"><img src="{{ '/img/posts/joke-7.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Joke - Jokes About Lawn Bowls"/></figure>
 
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/joke-8.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Joke - Jokes About Lawn Bowls"/></a></figure>
+<figure class="wp-block-image"><img src="{{ '/img/posts/joke-8.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Joke - Jokes About Lawn Bowls"/></figure>
 
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/joke-9.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Joke - Jokes About Lawn Bowls"/></a></figure>
+<figure class="wp-block-image"><img src="{{ '/img/posts/joke-9.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Joke - Jokes About Lawn Bowls"/></figure>
 
-<figure class="wp-block-image"><a href="#" target="_blank" rel="noreferrer noopener"><img src="{{ '/img/posts/joke-10.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Joke - Jokes About Lawn Bowls"/></a></figure>
+<figure class="wp-block-image"><img src="{{ '/img/posts/joke-10.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Joke - Jokes About Lawn Bowls"/></figure>
 
     

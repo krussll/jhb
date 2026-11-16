@@ -1,15 +1,16 @@
 ---
 layout: post
 title:  "Taylor Legacy SL vs Drakes Pride D-TEC | Which is Best?"
+seo_title: "Taylor Legacy SL vs Drakes Pride d-tec: Bias, Grip & Price Comparison"
+model_a: "taylor-legacy-sl"
+model_b: "drakes-pride-d-tec"
 author: reece
 categories: [ review, bowls ]
 featured: false
-description: ""
-last_modified_at: 2026-10-29 15:45:00 +0000
+description: "Compare Taylor Legacy SL vs Drakes Pride d-tec: wide bias vs narrow bias line (8.0 vs 2.0) tested on outdoor grass surfaces. £365 vs £375 RRP (used £85–£115)."
+last_modified_at: 2026-11-15 09:05:42 +0000
 date: 2023-03-20 13:00:00 -0400
 ---
-    
-
 <p>Hey there! If you're new to lawn bowling, you might be feeling a bit overwhelmed with all the different options out there. But don't worry - I'm here to help! </p>
 
 <figure class="wp-block-image size-large"><img src="{{ '/img/posts/taylor-legacy-sl-vs-drakes-pride-d-tec-1024x576.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Taylor Legacy SL VS Drakes Pride D Tec lawn bowls comparison" class="wp-image-1994"/></figure>

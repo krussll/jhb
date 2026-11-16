@@ -4,8 +4,8 @@ title:  "Is Crown Green Bowls The Same as Lawn Bowls? | Answered!"
 author: reece
 categories: [ crown-green-bowls ]
 featured: false
-description: ""
-last_modified_at: 2026-10-30 10:25:00 +0000
+description: "Crown green bowls is an outdoor game that uses the same equipment as lawn bowls , but the rules are slightly different. The main difference between crown."
+last_modified_at: 2026-11-15 11:15:00 +0000
 date: 2022-05-16 13:00:00 -0400
 ---
     

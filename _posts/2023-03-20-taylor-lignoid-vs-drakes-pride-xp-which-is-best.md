@@ -1,15 +1,16 @@
 ---
 layout: post
 title:  "Taylor Lignoid vs Drakes Pride XP | Which is Best?"
+seo_title: "Taylor Lignoid vs Drakes Pride XP: Bias, Grip & Price Comparison"
+model_a: "taylor-lignoid"
+model_b: "drakes-pride-xp"
 author: reece
 categories: [ review, bowls ]
 featured: false
-description: ""
-last_modified_at: 2026-10-29 15:45:00 +0000
+description: "Compare Taylor Lignoid vs Drakes Pride XP: wide bias vs wide bias line (8.5 vs 7.5) tested on heavy outdoor grass surfaces. £365 vs £380 RRP (used £80–£110)."
+last_modified_at: 2026-11-15 09:05:42 +0000
 date: 2023-03-20 13:00:00 -0400
 ---
-    
-
 <p>Hey there! Are you a beginner struggling to choose the right lawn bowl for you? Don't worry, I know it can be overwhelming with so many options available. That's why I've got you covered with this helpful guide. </p>
 
 <figure class="wp-block-image size-large"><img src="{{ '/img/posts/taylor-lignoid-vs-drakes-pride-xp-1024x576.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Taylor Lignoid VS Drakes Pride XP lawn bowls comparison" class="wp-image-1979"/></figure>

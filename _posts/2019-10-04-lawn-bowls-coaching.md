@@ -4,8 +4,9 @@ title:  "Lawn Bowls Coaching"
 author: reece
 categories: [ help ]
 featured: false
-description: ""
+description: "The 30 best lawn coaching videos for beginner and intermediate players. Hours of coaching videos to improve your fundamentals."
 date: 2019-10-04 13:00:00 -0400
+last_modified_at: 2026-11-15 11:15:00 +0000
 ---
     
 

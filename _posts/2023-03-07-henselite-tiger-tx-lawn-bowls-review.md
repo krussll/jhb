@@ -2,10 +2,10 @@
 layout: post
 title:  "Henselite Tiger TX Lawn Bowls Review"
 author: reece
-categories: [ guide ]
+categories: [ review, bowls ]
 featured: false
 description: "Henselite Tiger TX lawn bowls review: ultra-narrow line analysis, indoor carpet testing, and suitability for leads."
-last_modified_at: 2026-10-30 09:30:00 +0000
+last_modified_at: 2026-11-15 11:15:00 +0000
 date: 2023-03-07 13:00:00 -0400
 review:
   name: "Henselite Tiger TX Lawn Bowls"

@@ -1,15 +1,16 @@
 ---
 layout: post
 title:  "Henselite Tiger vs Drakes Pride D-TEC | Which is Best?"
+seo_title: "Henselite Tiger vs Drakes Pride d-tec: Bias, Grip & Price Comparison"
+model_a: "henselite-tiger"
+model_b: "drakes-pride-d-tec"
 author: reece
 categories: [ review, bowls ]
 featured: false
-description: ""
-last_modified_at: 2026-10-29 15:45:00 +0000
+description: "Compare Henselite Tiger vs Drakes Pride d-tec: mid-wide bias vs narrow bias line (6.2 vs 2.0) for outdoor grass play. Compare £425 vs £375 RRP (from £115 used)."
+last_modified_at: 2026-11-15 09:05:42 +0000
 date: 2023-03-21 13:00:00 -0400
 ---
-    
-
 <p>Have you been searching for the perfect lawn bowl, but feel overwhelmed by all the options out there? Don't worry, I've got you covered! In this post, I will be comparing two of the top models - the Henselite Tiger and the Drakes Pride D-TEC. </p>
 
 <figure class="wp-block-image size-large"><img src="{{ '/img/posts/henselite-tiger-vs-drakes-pride-d-tec-1024x576.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Henselite Tiger VS Drakes Pride D Tec lawn bowls comparison" class="wp-image-1937"/></figure>

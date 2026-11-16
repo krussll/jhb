@@ -4,9 +4,9 @@ title:  "Second Hand And Pre-Loved Lawn Bowls Buyers Guide"
 author: reece
 categories: [ guide ]
 featured: false
-description: ""
+description: "How do you buy second hand lawn bowls online? Buying a new set of woods is always an exciting experience, however for most bowlers buying them brand new."
 date: 2018-01-12 13:00:00 -0400
-last_modified_at: 2026-11-05 15:30:00 +0000
+last_modified_at: 2026-11-15 11:15:00 +0000
 ---
     
 

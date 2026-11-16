@@ -1,15 +1,16 @@
 ---
 layout: post
 title:  "Taylor International vs Henselite Tiger EVO | Which is Best?"
+seo_title: "Taylor International vs Henselite Tiger EVO: Bias, Grip & Price Comparison"
+model_a: "taylor-international"
+model_b: "henselite-tiger-evo"
 author: reece
 categories: [ review, bowls ]
 featured: false
-description: ""
-last_modified_at: 2026-10-29 15:45:00 +0000
+description: "Compare Taylor International vs Henselite Tiger EVO: wide bias vs mid-wide bias line (7.2 vs 6.5) for slow outdoor play. £375 vs £445 RRP (used £95–£180)."
+last_modified_at: 2026-11-15 09:05:42 +0000
 date: 2023-03-20 13:00:00 -0400
 ---
-    
-
 <p>If you're new to lawn bowling, you may find yourself overwhelmed when it comes to choosing the right bowl for you. It's important to know your options and what sets each model apart. </p>
 
 <figure class="wp-block-image size-large"><img src="{{ '/img/posts/taylor-international-vs-henselite-tiger-evo-1024x576.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Taylor International VS Henselite Tiger Evo lawn bowls comparison" class="wp-image-2012"/></figure>

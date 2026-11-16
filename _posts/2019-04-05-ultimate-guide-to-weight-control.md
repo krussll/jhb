@@ -5,9 +5,9 @@ seo_title: "Weight Control in Lawn Bowls: Ultimate Guide"
 author: reece
 categories: [ help ]
 featured: false
-description: ""
+description: "Ultimate guide to weight control in lawn bowls. I thought today I'd go through what I believe to be the best guide on shot weight."
 date: 2019-04-05 13:00:00 -0400
-last_modified_at: 2026-11-05 15:30:00 +0000
+last_modified_at: 2026-11-15 11:15:00 +0000
 ---
     
 

@@ -5,8 +5,8 @@ seo_title: "The Draw Shot in Lawn Bowls: How to Play It"
 author: reece
 categories: [ help ]
 featured: false
-description: ""
-last_modified_at: 2026-11-05 15:30:00 +0000
+description: "Understanding the different types of shots in bowls is a fundamental in playing the game. It enables you to clearly decide what shot you want to play, and."
+last_modified_at: 2026-11-15 11:15:00 +0000
 date: 2022-06-11 13:00:00 -0400
 ---
     

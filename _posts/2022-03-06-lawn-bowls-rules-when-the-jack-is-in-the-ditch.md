@@ -5,8 +5,8 @@ seo_title: "Lawn Bowls Rules When the Jack Is in the Ditch"
 author: reece
 categories: [ help ]
 featured: false
-description: ""
-last_modified_at: 2026-11-04 15:05:00 +0000
+description: "The game of bowls is pretty simple. Just roll your bowls towards the jack and the closest one wins. However there are some common lawn bowls rules that."
+last_modified_at: 2026-11-15 11:15:00 +0000
 date: 2022-03-06 13:00:00 -0400
 ---
     

@@ -1,15 +1,16 @@
 ---
 layout: post
 title:  "Drakes Pride Professional vs Taylor Ace - Which To Choose?"
+seo_title: "Drakes Pride Professional vs Taylor Ace: Bias, Grip & Price Comparison"
+model_a: "drakes-pride-professional"
+model_b: "taylor-ace"
 author: reece
 categories: [ review, bowls ]
 featured: false
-description: "Drakes Pride Professional vs Taylor Ace head-to-head comparison: bias arc differences, grip choices, surface versatility, and verdict."
-last_modified_at: 2026-10-30 10:25:00 +0000
+description: "Compare Drakes Pride Professional vs Taylor Ace: both feature balanced mid bias draw trajectories for outdoor grass play. £375 vs £395 RRP (used £100–£120)."
+last_modified_at: 2026-11-15 09:05:42 +0000
 date: 2020-08-28 13:00:00 -0400
 ---
-    
-
 <p>We compare the two most popular lawn bowls models - the Taylor Ace v Drakes Pride Professional - to see which one is the best for you.</p>
 
 <figure class="wp-block-image size-full"><img src="{{ '/img/posts/drakes-pride-vs-taylor-ace.jpeg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Drakes Pride Professional vs Taylor Ace - Which to choose?" class="wp-image-262"/></figure>
@@ -23,16 +24,6 @@ date: 2020-08-28 13:00:00 -0400
   </ul>
 </div>
 
-### Side-by-Side Comparison
-
-| Feature / Specification | Taylor Ace | Drakes Pride Professional |
-| :--- | :--- | :--- |
-| **Bias Rating** | Mid Bias (Slightly wider finish) | Mid Bias (Continuous, even curve) |
-| **Best Playing Surfaces** | Outdoor Grass (12–15s) & Indoor | Outdoor Grass (11–15s) & Indoor |
-| **Best Position** | All positions (Lead to Skip) | All positions (Lead to Skip) |
-| **Grip Options** | Progrip, Half-Pipe, Plain | 30-Dimple, Plain |
-| **Size Range** | Size 00 to 5 | Size 0000 to 5 |
-| **Price Bracket** | £380 – £420 | £370 – £410 |
 
 <h2>Taylor Ace vs Drakes Pride Professional</h2>
 
