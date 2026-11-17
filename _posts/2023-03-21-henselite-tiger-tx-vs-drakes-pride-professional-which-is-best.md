@@ -10,7 +10,8 @@ featured: false
 description: "Compare Henselite Tiger TX vs Drakes Pride Professional: narrow bias vs mid bias line (3.5 vs 5.2) for indoor carpet play. £435 vs £375 RRP (used £100–£165)."
 date: 2023-03-21 13:00:00 -0400
 
-last_modified_at: 2026-11-15 09:05:42 +0000---
+last_modified_at: 2026-11-17 10:25:00 +0000
+---
 <p>If you're just starting out with lawn bowling, you may be feeling a bit overwhelmed by all the different types of bowls available. That's why I'm here to help. </p>
 
 <figure class="wp-block-image size-large"><img src="{{ '/img/posts/henselite-tiger-tx-vs-drakes-pride-professional-1024x576.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Henselite Tiger TX vs Drakes Pride Professional" class="wp-image-1970"/></figure>

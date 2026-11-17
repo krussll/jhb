@@ -10,7 +10,8 @@ featured: false
 description: "Compare Henselite Tiger Pro vs Drakes Pride d-tec: mid bias vs narrow bias line (5.4 vs 2.0) for outdoor grass play. Compare £435 vs £375 RRP (from £115 used)."
 date: 2023-03-22 13:00:00 -0400
 
-last_modified_at: 2026-11-15 09:05:42 +0000---
+last_modified_at: 2026-11-17 10:25:00 +0000
+---
 <p>Are you a beginner struggling to choose the perfect lawn bowl? With so many options available, it can feel overwhelming. That's why I'm here to help. </p>
 
 <figure class="wp-block-image size-large"><img src="{{ '/img/posts/henselite-tiger-pro-vs-drakes-pride-d-tec-1024x576.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Henselite Tiger Pro vs Drakes Pride D-TEC" class="wp-image-1952"/></figure>

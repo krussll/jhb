@@ -10,7 +10,8 @@ featured: false
 description: "Compare Taylor International vs Aero Quantum: wide bias vs mid-narrow bias line (7.2 vs 4.2) tested on slow outdoor surfaces. £375 vs £425 RRP (used £95–£160)."
 date: 2023-03-20 13:00:00 -0400
 
-last_modified_at: 2026-11-15 09:05:42 +0000---
+last_modified_at: 2026-11-17 10:25:00 +0000
+---
 <p>Hey there! If you're new to lawn bowling, you may find it hard to select the right bowl from the numerous options out there. That's why I'm here to help! </p>
 
 <figure class="wp-block-image size-large"><img src="{{ '/img/posts/taylor-international-vs-aero-quantum-1024x576.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Taylor International vs Aero Quantum" class="wp-image-2010"/></figure>

@@ -10,7 +10,8 @@ featured: false
 description: "Compare Taylor International vs Aero GrooVe: wide bias vs mid bias line (7.2 vs 5.5) on slow outdoor and outdoor grass greens. £375 vs £430 RRP (used £95–£160)."
 date: 2023-03-20 13:00:00 -0400
 
-last_modified_at: 2026-11-15 09:05:42 +0000---
+last_modified_at: 2026-11-17 10:25:00 +0000
+---
 <p>Are you a beginner struggling to choose the perfect lawn bowl? I totally get it – there are so many options out there! That's why I'm here to help. </p>
 
 <figure class="wp-block-image size-large"><img src="{{ '/img/posts/taylor-international-vs-aero-groove-1024x576.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Taylor International vs Aero GrooVe" class="wp-image-2009"/></figure>

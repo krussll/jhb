@@ -10,7 +10,8 @@ featured: false
 description: "Compare Taylor International vs Aero Sonic: wide bias vs mid-wide bias line (7.2 vs 6.8) tested on slow outdoor surfaces. £375 vs £435 RRP (used £95–£160)."
 date: 2023-03-21 13:00:00 -0400
 
-last_modified_at: 2026-11-15 09:05:42 +0000---
+last_modified_at: 2026-11-17 10:25:00 +0000
+---
 <p>Are you new to lawn bowls and finding it challenging to select the right one for you? I completely understand how overwhelming it can be to choose from a variety of options available. </p>
 
 <figure class="wp-block-image size-large"><img src="{{ '/img/posts/taylor-international-vs-aero-sonic-1024x576.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Taylor International vs Aero Sonic" class="wp-image-2008"/></figure>

@@ -10,7 +10,8 @@ featured: false
 description: "Compare Henselite Tiger EVO vs Drakes Pride XP: mid-wide bias vs wide bias line (6.5 vs 7.5) for outdoor grass play. Compare £445 vs £380 RRP (from £110 used)."
 date: 2023-03-22 13:00:00 -0400
 
-last_modified_at: 2026-11-15 09:05:42 +0000---
+last_modified_at: 2026-11-17 10:25:00 +0000
+---
 <p>Hey there! If you're new to lawn bowls, I know it can be overwhelming trying to pick the right one. That's why I'm here to help you out. In this post, we're going to compare two of the most popular lawn bowls around - the Henselite Tiger EVO and the Drakes Pride XP. </p>
 
 <figure class="wp-block-image size-large"><img src="{{ '/img/posts/henselite-tiger-evo-vs-drakes-pride-xp-1024x576.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Henselite Tiger EVO vs Drakes Pride XP" class="wp-image-1941"/></figure>

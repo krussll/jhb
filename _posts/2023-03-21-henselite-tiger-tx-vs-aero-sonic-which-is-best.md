@@ -10,7 +10,8 @@ featured: false
 description: "Compare Henselite Tiger TX vs Aero Sonic: narrow bias vs mid-wide bias line (3.5 vs 6.8) tested on indoor carpet surfaces. £435 vs £435 RRP (used £160–£165)."
 date: 2023-03-21 13:00:00 -0400
 
-last_modified_at: 2026-11-15 09:05:42 +0000---
+last_modified_at: 2026-11-17 10:25:00 +0000
+---
 <p>Are you a beginner looking to choose the right lawn bowl but feeling overwhelmed with all the options out there? Don't worry, I've got you covered. </p>
 
 <figure class="wp-block-image size-large"><img src="{{ '/img/posts/henselite-tiger-tx-vs-aero-sonic-1024x576.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Henselite Tiger TX vs Aero Sonic" class="wp-image-1972"/></figure>

@@ -10,7 +10,8 @@ featured: false
 description: "Compare Taylor International vs Drakes Pride PRO-50: wide bias vs mid bias line (7.2 vs 5.2) tested on slow outdoor surfaces. £375 vs £395 RRP (used £95–£140)."
 date: 2023-03-20 13:00:00 -0400
 
-last_modified_at: 2026-11-15 09:05:42 +0000---
+last_modified_at: 2026-11-17 10:25:00 +0000
+---
 <p>Hey there! If you're new to lawn bowling, you might be feeling overwhelmed by all the different options out there. But don't worry - I'm here to help! In this blog post, I'll walk you through two of the most popular models: the Taylor International and the Drakes Pride PRO-50. </p>
 
 <figure class="wp-block-image size-large"><img src="{{ '/img/posts/taylor-international-vs-drakes-pride-pro-50-1024x576.jpg' | prepend: site.baseurl | replace: '//', '/' }}" alt="Taylor International vs Drakes Pride PRO-50" class="wp-image-2005"/></figure>

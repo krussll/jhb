@@ -114,8 +114,8 @@ def main():
         else:
             # insert before closing ---
             parts = new_content.split('---', 2)
-            fm = parts[1].rstrip() + '\nlast_modified_at: 2026-11-15 11:15:00 +0000\n'
-            new_content = f"---{fm}---{parts[2]}"
+            fm = parts[1].strip() + '\nlast_modified_at: 2026-11-15 11:15:00 +0000\n'
+            new_content = f"---\n{fm}---\n\n{parts[2].lstrip()}"
             
         with open(f, 'w') as fp:
             fp.write(new_content)
