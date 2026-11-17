@@ -5,10 +5,11 @@ author: reece
 categories: [ review, bowls ]
 featured: false
 description: "In-depth Drakes Pride Professional review: trajectory analysis, grip variations, running surface versatility, and expert verdict."
-last_modified_at: 2026-11-05 15:30:00 +0000
+last_modified_at: 2026-11-17 10:28:00 +0000
 date: 2019-06-02 13:00:00 -0400
 review:
   name: "Drakes Pride Professional Lawn Bowls"
+  brand: "Drakes Pride"
   rating: 9.3
   best_rating: 10
   pros:

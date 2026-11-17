@@ -32,10 +32,10 @@ permalink: /llms.txt
 - [What Size Lawn Bowl Should I Use?]({{ '/guide/what-size-lawn-bowl-should-i-use' | absolute_url }}): Sizing charts and physical measurement tests to prevent finger cramping and bowl dumping.
 
 ## Brand Reviews & Flagship Models
-- [Taylor Lignoid Review]({{ '/guide/taylor-lignoid-lawn-bowls-review' | absolute_url }}): Wide-bias profile analysis for mid and slow grass greens.
-- [Drakes Pride Professional Review]({{ '/guide/drakes-pride-professional-review' | absolute_url }}): Classic mid-bias model assessment for all-round rink positions.
-- [Taylor Ace Review]({{ '/guide/taylor-ace-review' | absolute_url }}): Benchmark mid-bias review covering indoor and outdoor versatility.
-- [Aero Groove Review]({{ '/guide/aero-groove-lawn-bowls-review' | absolute_url }}): Precision-engineered trajectory evaluation for faster greens.
+- [Taylor Lignoid Review]({{ '/review/bowls/taylor-lignoid-lawn-bowls-review' | absolute_url }}): Wide-bias profile analysis for mid and slow grass greens.
+- [Drakes Pride Professional Review]({{ '/review/bowls/drakes-pride-professional-review' | absolute_url }}): Classic mid-bias model assessment for all-round rink positions.
+- [Taylor Ace Review]({{ '/review/bowls/taylor-ace-review' | absolute_url }}): Benchmark mid-bias review covering indoor and outdoor versatility.
+- [Aero Groove Review]({{ '/review/bowls/aero-groove-lawn-bowls-review' | absolute_url }}): Precision-engineered trajectory evaluation for faster greens.
 
 ## Editorial Credibility & Testing Standards
 - [About Us & Author Profile]({{ '/about-us' | absolute_url }}): Founder bio for Reece Williams, 15-year competitive and coaching record, club finalist achievements, and editorial mission.
