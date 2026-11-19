@@ -1,0 +1,432 @@
+- slug: "san-francisco-lawn-bowling-club"
+  name: "San Francisco Lawn Bowling Club"
+  city: "northern-california"
+  city_name: "Northern California"
+  city_url: "/bowls-clubs/bowls-clubs-in-northern-california/"
+  country: "United States"
+  country_code: "US"
+  area: "San Francisco (Golden Gate Park)"
+  address: "320 Bowling Green Drive, Golden Gate Park, San Francisco, CA"
+  postcode: "94122"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Flat Green"
+    - "Social Bowls"
+    - "Tournament"
+  season: "Year-round (Weekly draws, free public lessons & PIMD tournaments)"
+  rinks_info: "3 championship natural grass greens (24 rinks)"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://www.sflbc.org/"
+  maps_query: "San+Francisco+Lawn+Bowling+Club+320+Bowling+Green+Drive+San+Francisco+CA+94122"
+  profile_page: true
+  summary: "America's oldest municipal lawn bowling club, founded in 1901 in Golden Gate Park with three scenic natural grass greens and free weekly public lessons."
+  about: >
+    Founded in 1901 inside Golden Gate Park, the San Francisco Lawn Bowling Club is the oldest public lawn bowling club in the United States and the historic flagship of Bowls USA's Pacific Inter-Mountain Division. Surrounded by cypress trees and park meadows, the club maintains three manicured natural grass greens and a landmark 1915 clubhouse. Free introductory lessons, loan bowls, and lively social roll-ups welcome newcomers year-round alongside regional championship play.
+
+- slug: "berkeley-lawn-bowling-club"
+  name: "Berkeley Lawn Bowling Club"
+  city: "northern-california"
+  city_name: "Northern California"
+  city_url: "/bowls-clubs/bowls-clubs-in-northern-california/"
+  country: "United States"
+  country_code: "US"
+  area: "East Bay (West Berkeley)"
+  address: "2270 Acton Street, Berkeley, CA"
+  postcode: "94702"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Flat Green"
+    - "Social Bowls"
+    - "Tournament"
+  season: "Year-round (Daily social draws, open house sessions & PIMD events)"
+  rinks_info: "2 natural grass greens (16 rinks)"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://berkeleylawnbowling.org/"
+  maps_query: "Berkeley+Lawn+Bowling+Club+2270+Acton+Street+Berkeley+CA+94702"
+  profile_page: true
+  summary: "Vibrant East Bay club established in 1928 with two natural grass greens, regular beginner clinics, and a strong Pacific Inter-Mountain Division tournament program."
+  about: >
+    Established in 1928 on Acton Street near Bancroft Way, the Berkeley Lawn Bowling Club is one of the most active and welcoming clubs in the San Francisco Bay Area. Featuring two well-tended natural grass greens and a cozy community clubhouse, Berkeley LBC hosts regular social draws, free Sunday beginner sessions with loan bowls, and major Pacific Inter-Mountain Division (PIMD) tournaments throughout the year.
+
+- slug: "oakland-lawn-bowling-club"
+  name: "Oakland Lawn Bowling Club"
+  city: "northern-california"
+  city_name: "Northern California"
+  city_url: "/bowls-clubs/bowls-clubs-in-northern-california/"
+  country: "United States"
+  country_code: "US"
+  area: "East Bay (Lakeside Park / Lake Merritt)"
+  address: "660 Bellevue Avenue, Lakeside Park, Oakland, CA"
+  postcode: "94610"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Flat Green"
+    - "Social Bowls"
+    - "Tournament"
+  season: "Year-round (Weekly draws, beginner lessons & division tournaments)"
+  rinks_info: "3 natural grass greens (24 rinks)"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://www.oaklandlawnbowlingclub.com/"
+  maps_query: "Oakland+Lawn+Bowling+Club+660+Bellevue+Avenue+Oakland+CA+94610"
+  profile_page: true
+  summary: "Historic Lake Merritt club founded in 1903 inside Lakeside Park, offering three lush grass greens, complimentary beginner lessons, and social roll-ups."
+  about: >
+    Set beside the gardens of Lakeside Park on the shores of Lake Merritt, the Oakland Lawn Bowling Club dates back to 1903 and stands as one of Northern California's premier multi-green complexes. With three natural grass greens, a spacious clubhouse, and free introductory coaching using club loan bowls, Oakland LBC caters equally to first-time social bowlers and competitive PIMD tournament players.
+
+- slug: "palo-alto-lawn-bowls-club"
+  name: "Palo Alto Lawn Bowls Club"
+  city: "northern-california"
+  city_name: "Northern California"
+  city_url: "/bowls-clubs/bowls-clubs-in-northern-california/"
+  country: "United States"
+  country_code: "US"
+  area: "Peninsula / Silicon Valley (Palo Alto)"
+  address: "474 Embarcadero Road, Palo Alto, CA"
+  postcode: "94301"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Flat Green"
+    - "Social Bowls"
+    - "Tournament"
+  season: "Year-round (Scheduled social draws, free lessons & PIMD play)"
+  rinks_info: "1 natural grass green (8 rinks)"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://www.palbc.org/"
+  maps_query: "Palo+Alto+Lawn+Bowls+Club+474+Embarcadero+Road+Palo+Alto+CA+94301"
+  profile_page: true
+  summary: "Scenic Peninsula club beside Elizabeth F. Gamble Garden established in 1933, offering a manicured grass green, free lessons, and welcoming Silicon Valley draws."
+  about: >
+    Tucked next to the historic Elizabeth F. Gamble Garden on Embarcadero Road, the Palo Alto Lawn Bowls Club has been a Peninsula fixture since 1933. The club maintains a lush natural grass green sheltered from coastal gusts, making it a favorite venue for both casual social roll-ups and Bowls USA Pacific Inter-Mountain Division competitions. Visitors enjoy free introductory instruction and complimentary club bowls.
+
+- slug: "san-jose-lawn-bowls-club"
+  name: "San Jose Lawn Bowls Club"
+  city: "northern-california"
+  city_name: "Northern California"
+  city_url: "/bowls-clubs/bowls-clubs-in-northern-california/"
+  country: "United States"
+  country_code: "US"
+  area: "South Bay / Silicon Valley (Willow Glen / San Jose)"
+  address: "Frank Bramhall Park, 1173 Camino Ramon Street, San Jose, CA"
+  postcode: "95125"
+  surfaces:
+    - "Outdoor Synthetic"
+  formats:
+    - "Flat Green"
+    - "Social Bowls"
+    - "Tournament"
+  season: "Year-round (All-weather synthetic play & weekly draws)"
+  rinks_info: "1 championship all-weather synthetic green (8 rinks)"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://www.sjlbc.org/"
+  maps_query: "San+Jose+Lawn+Bowls+Club+1173+Camino+Ramon+St+San+Jose+CA+95125"
+  profile_page: true
+  summary: "South Bay club in Willow Glen's Frank Bramhall Park featuring a fast, all-weather championship synthetic green and year-round beginner-friendly draws."
+  about: >
+    Located in San Jose's leafy Willow Glen neighborhood at Frank Bramhall Park, the San Jose Lawn Bowls Club plays on a modern, true-running synthetic green that delivers consistent pace through every season. The club welcomes Silicon Valley newcomers with free introductory lessons, loan bowls, and friendly social draws, while also hosting competitive Pacific Inter-Mountain Division fixtures.
+
+- slug: "santa-clara-lawn-bowls-club"
+  name: "Santa Clara Lawn Bowls Club"
+  city: "northern-california"
+  city_name: "Northern California"
+  city_url: "/bowls-clubs/bowls-clubs-in-northern-california/"
+  country: "United States"
+  country_code: "US"
+  area: "South Bay / Silicon Valley (Central Park / Santa Clara)"
+  address: "Central Park, 2625 Patricia Drive, Santa Clara, CA"
+  postcode: "95050"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Flat Green"
+    - "Social Bowls"
+    - "Tournament"
+  season: "Year-round (Regular club draws, evening play & PIMD tournaments)"
+  rinks_info: "1 natural grass green (8 rinks)"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://www.santaclaralawnbowls.org/"
+  maps_query: "Santa+Clara+Lawn+Bowls+Club+2625+Patricia+Dr+Santa+Clara+CA+95050"
+  profile_page: true
+  summary: "Welcoming South Bay club in Santa Clara's Central Park featuring a natural grass green, free beginner coaching, and active social and tournament schedules."
+  about: >
+    Situated inside Santa Clara's Central Park on Patricia Drive, the Santa Clara Lawn Bowls Club offers a friendly, community-oriented atmosphere on a well-kept natural grass green. New bowlers can book free introductory lessons with club coaches and borrow loan bowls before joining weekly social draws or Pacific Inter-Mountain Division tournaments.
+
+- slug: "sunnyvale-lawn-bowls-club"
+  name: "Sunnyvale Lawn Bowls Club"
+  city: "northern-california"
+  city_name: "Northern California"
+  city_url: "/bowls-clubs/bowls-clubs-in-northern-california/"
+  country: "United States"
+  country_code: "US"
+  area: "South Bay / Silicon Valley (Sunnyvale)"
+  address: "Martin Murphy Jr. Historical Park, 250 N. Sunnyvale Avenue, Sunnyvale, CA"
+  postcode: "94086"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Flat Green"
+    - "Social Bowls"
+    - "Tournament"
+  season: "Year-round (Weekly draws, beginner clinics & regional play)"
+  rinks_info: "1 natural grass green (Vargas Lawn Bowling Green, 8 rinks)"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://www.svlbc.org/"
+  maps_query: "Sunnyvale+Lawn+Bowls+Club+250+N+Sunnyvale+Ave+Sunnyvale+CA+94086"
+  profile_page: true
+  summary: "Silicon Valley public-park club at Martin Murphy Jr. Historical Park playing on the natural grass Vargas Green with free lessons and club loan bowls."
+  about: >
+    Located at the corner of North Sunnyvale Avenue and East California Avenue in Martin Murphy Jr. Historical Park, the Sunnyvale Lawn Bowls Club plays on the historic natural grass Vargas Lawn Bowling Green. The club runs an approachable program for South Bay residents, featuring complimentary introductory lessons, loan bowls, social roll-ups, and Bowls USA PIMD tournament play.
+
+- slug: "rossmoor-lawn-bowling-club"
+  name: "Rossmoor Lawn Bowling Club"
+  city: "northern-california"
+  city_name: "Northern California"
+  city_url: "/bowls-clubs/bowls-clubs-in-northern-california/"
+  country: "United States"
+  country_code: "US"
+  area: "East Bay / Contra Costa County (Walnut Creek)"
+  address: "Hillside Clubhouse, 3400 Lower Golden Rain Road, Walnut Creek, CA"
+  postcode: "94595"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Flat Green"
+    - "Social Bowls"
+    - "Tournament"
+  season: "Year-round (Daily resident draws & PIMD open tournaments)"
+  rinks_info: "3 championship natural grass greens (24 rinks)"
+  beginner_friendly: true
+  barefoot_social: false
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://www.rossmoorlbc.com/"
+  maps_query: "Rossmoor+Lawn+Bowling+Club+3400+Lower+Golden+Rain+Road+Walnut+Creek+CA+94595"
+  profile_page: true
+  summary: "Major three-green natural grass complex in Walnut Creek's Rossmoor 55+ community, hosting daily draws and flagship Pacific Inter-Mountain Division tournaments."
+  about: >
+    Set in the scenic hills of Walnut Creek's Rossmoor active-adult community, the Rossmoor Lawn Bowling Club boasts three immaculately maintained natural grass greens at the Hillside Clubhouse complex. While regular membership is open to Rossmoor residents (with free resident training and loan bowls), the club is also a cornerstone tournament venue for visiting Bowls USA Pacific Inter-Mountain Division bowlers.
+
+- slug: "santa-cruz-lawn-bowls-club"
+  name: "Santa Cruz Lawn Bowls Club"
+  city: "northern-california"
+  city_name: "Northern California"
+  city_url: "/bowls-clubs/bowls-clubs-in-northern-california/"
+  country: "United States"
+  country_code: "US"
+  area: "Central Coast (San Lorenzo Park / Santa Cruz)"
+  address: "San Lorenzo Park, 137 Dakota Avenue, Santa Cruz, CA"
+  postcode: "95060"
+  surfaces:
+    - "Outdoor Synthetic"
+  formats:
+    - "Flat Green"
+    - "Social Bowls"
+    - "Tournament"
+  season: "Year-round (All-weather synthetic surface & weekly social draws)"
+  rinks_info: "1 all-weather synthetic green (8 rinks)"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://www.sclawnbowls.org/"
+  maps_query: "Santa+Cruz+Lawn+Bowls+Club+137+Dakota+Ave+Santa+Cruz+CA+95060"
+  profile_page: true
+  summary: "Friendly coastal club in Santa Cruz's San Lorenzo Park with a fast, all-weather synthetic green, free drop-in lessons, and year-round Monterey Bay play."
+  about: >
+    Located along the San Lorenzo River in downtown Santa Cruz's San Lorenzo Park, the Santa Cruz Lawn Bowls Club features a true-running synthetic green that stays playable even after coastal winter rain. Known for its relaxed beach-town atmosphere, the club offers free introductory lessons, club loan bowls, regular social draws, and regional PIMD events.
+
+- slug: "del-mesa-carmel-lawn-bowling-club"
+  name: "Del Mesa Carmel Lawn Bowling Club"
+  city: "northern-california"
+  city_name: "Northern California"
+  city_url: "/bowls-clubs/bowls-clubs-in-northern-california/"
+  country: "United States"
+  country_code: "US"
+  area: "Central Coast / Monterey Peninsula (Carmel)"
+  address: "297 Del Mesa Carmel, Carmel, CA"
+  postcode: "93923"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Flat Green"
+    - "Social Bowls"
+    - "Tournament"
+  season: "Year-round (Weekly draws & PIMD invitational tournaments)"
+  rinks_info: "1 natural grass green (8 rinks)"
+  beginner_friendly: true
+  barefoot_social: false
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://www.dmclbc.org/"
+  maps_query: "Del+Mesa+Carmel+Lawn+Bowling+Club+297+Del+Mesa+Carmel+Carmel+CA+93923"
+  profile_page: true
+  summary: "Picturesque Monterey Peninsula club in Carmel Valley with a manicured natural grass green, welcoming PIMD visitors and hosting regional tournaments."
+  about: >
+    Perched above Carmel Valley on the Monterey Peninsula, the Del Mesa Carmel Lawn Bowling Club enjoys cool coastal breezes and sweeping valley views. Operating inside the Del Mesa Carmel 55+ community, the club maintains a well-groomed natural grass green, provides coaching and loan bowls for newcomers, and warmly welcomes visiting Bowls USA members for draws and PIMD tournaments.
+
+- slug: "carmel-valley-manor-lawn-bowls-club"
+  name: "Carmel Valley Manor Lawn Bowls Club"
+  city: "northern-california"
+  city_name: "Northern California"
+  city_url: "/bowls-clubs/bowls-clubs-in-northern-california/"
+  country: "United States"
+  country_code: "US"
+  area: "Central Coast / Monterey Peninsula (Carmel Valley)"
+  address: "8545 Carmel Valley Road, Carmel, CA"
+  postcode: "93923"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Flat Green"
+    - "Social Bowls"
+  season: "Year-round (Resident social draws & friendly inter-club play)"
+  rinks_info: "1 natural grass community green"
+  beginner_friendly: true
+  barefoot_social: false
+  loan_bowls: true
+  bar_clubhouse: false
+  website: "https://cvmanor.com/"
+  maps_query: "Carmel+Valley+Manor+8545+Carmel+Valley+Road+Carmel+CA+93923"
+  profile_page: true
+  summary: "Sunlit Carmel Valley retirement community lawn bowling green affiliated with regional Monterey Peninsula bowls play and resident social draws."
+  about: >
+    Located along Carmel Valley Road just inland from coastal fog, Carmel Valley Manor maintains a dedicated natural grass bowling green for its active resident community. Players enjoy mild year-round sunshine, loan bowls for beginners, and friendly social matches alongside neighboring Del Mesa Carmel bowlers.
+
+- slug: "oakmont-lawn-bowling-club"
+  name: "Oakmont Lawn Bowling Club"
+  city: "northern-california"
+  city_name: "Northern California"
+  city_url: "/bowls-clubs/bowls-clubs-in-northern-california/"
+  country: "United States"
+  country_code: "US"
+  area: "Wine Country / Sonoma County (Santa Rosa)"
+  address: "310 White Oak Drive, Santa Rosa, CA"
+  postcode: "95409"
+  surfaces:
+    - "Outdoor Synthetic"
+  formats:
+    - "Flat Green"
+    - "Social Bowls"
+    - "Tournament"
+  season: "Year-round (Daily social draws & Wine Country tournaments)"
+  rinks_info: "1 championship all-weather synthetic green (8 rinks)"
+  beginner_friendly: true
+  barefoot_social: false
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://www.oakmontlawnbowling.com/"
+  maps_query: "Oakmont+Lawn+Bowling+Club+310+White+Oak+Drive+Santa+Rosa+CA+95409"
+  profile_page: true
+  summary: "Premier Wine Country lawn bowling club in Santa Rosa's Oakmont Village featuring a fast synthetic green, free lessons, and active Sonoma Valley social draws."
+  about: >
+    Nestled in the Valley of the Moon in Santa Rosa's Oakmont Village active-adult community, the Oakmont Lawn Bowling Club is Sonoma County's premier lawn bowls venue. Its fast, all-weather synthetic green allows year-round play under sunny Wine Country skies, supported by complimentary beginner coaching, club loan bowls, and friendly Pacific Inter-Mountain Division inter-club matches.
+
+- slug: "fresno-lawn-bowls-club"
+  name: "Fresno Lawn Bowls Club"
+  city: "northern-california"
+  city_name: "Northern California"
+  city_url: "/bowls-clubs/bowls-clubs-in-northern-california/"
+  country: "United States"
+  country_code: "US"
+  area: "Central Valley (Holmes Park / Fresno)"
+  address: "Holmes Park, 212 South 1st Street, Fresno, CA"
+  postcode: "93721"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Flat Green"
+    - "Social Bowls"
+    - "Tournament"
+  season: "Year-round (Morning/evening summer play & PIMD tournaments)"
+  rinks_info: "1 natural grass green (8 rinks)"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://www.fresnolawnbowls.org/"
+  maps_query: "Fresno+Lawn+Bowls+Club+212+South+1st+Street+Fresno+CA+93721"
+  profile_page: true
+  summary: "Central Valley's dedicated Bowls USA PIMD club in Fresno's Holmes Park, offering natural grass rinks, free beginner instruction, and friendly social play."
+  about: >
+    Operating in Fresno's Holmes Park, the Fresno Lawn Bowls Club is the anchor club for lawn bowling in California's Central Valley and an active member of Bowls USA's Pacific Inter-Mountain Division. With warm, dry summer afternoons producing brisk turf conditions, the club hosts morning and twilight draws, free introductory coaching with loan bowls, and regional division tournaments.
+
+- slug: "leisure-town-lawn-bowling-club"
+  name: "Leisure Town Lawn Bowling Club"
+  city: "northern-california"
+  city_name: "Northern California"
+  city_url: "/bowls-clubs/bowls-clubs-in-northern-california/"
+  country: "United States"
+  country_code: "US"
+  area: "Solano County / Sacramento Corridor (Vacaville)"
+  address: "543 Muir Court, Vacaville, CA"
+  postcode: "95687"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Flat Green"
+    - "Social Bowls"
+    - "Tournament"
+  season: "Year-round (Resident draws & regional PIMD play)"
+  rinks_info: "1 outdoor community green (8 rinks)"
+  beginner_friendly: true
+  barefoot_social: false
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://www.ltha.org/"
+  maps_query: "Leisure+Town+Lawn+Bowling+Club+543+Muir+Ct+Vacaville+CA+95687"
+  profile_page: true
+  summary: "Active Solano County lawn bowling club in Vacaville's Leisure Town 55+ community, bridging the East Bay and Sacramento Valley under Bowls USA PIMD."
+  about: >
+    Conveniently situated along the I-80 corridor between the Bay Area and Sacramento, the Leisure Town Lawn Bowling Club serves residents of Vacaville's Leisure Town active-adult community. Affiliated with Bowls USA's Pacific Inter-Mountain Division, the club provides introductory coaching, loan bowls, regular social draws, and regional inter-club matches.
+
+- slug: "sun-city-lincoln-hills-lawn-bowling-club"
+  name: "Sun City Lincoln Hills Lawn Bowling Club"
+  city: "northern-california"
+  city_name: "Northern California"
+  city_url: "/bowls-clubs/bowls-clubs-in-northern-california/"
+  country: "United States"
+  country_code: "US"
+  area: "Greater Sacramento / Placer County (Lincoln)"
+  address: "Orchard Creek Lodge, 965 Orchard Creek Lane, Lincoln, CA"
+  postcode: "95648"
+  surfaces:
+    - "Outdoor Synthetic"
+  formats:
+    - "Flat Green"
+    - "Social Bowls"
+  season: "Year-round (Resident social draws & beginner sessions)"
+  rinks_info: "1 outdoor community green at Orchard Creek Lodge"
+  beginner_friendly: true
+  barefoot_social: false
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://suncity-lincolnhills.org/"
+  maps_query: "Sun+City+Lincoln+Hills+965+Orchard+Creek+Lane+Lincoln+CA+95648"
+  profile_page: true
+  summary: "Greater Sacramento active-adult community lawn bowling club at Sun City Lincoln Hills in Placer County, offering social draws and resident coaching."
+  about: >
+    Located northeast of Sacramento in Placer County, the Sun City Lincoln Hills active-adult community hosts an enthusiastic resident lawn bowling group at its Orchard Creek Lodge recreation complex. With mild Sierra foothill winters and sunny summers, residents enjoy year-round social roll-ups, introductory guidance, and club loan bowls for newcomers.

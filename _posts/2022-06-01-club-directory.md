@@ -10,7 +10,7 @@ description: "Find indoor and lawn bowls clubs near you with our comprehensive d
 background: "/img/posts/Club-Directory-1024x576.jpg"
 image: "/img/posts/Club-Directory-1024x576.jpg"
 date: 2022-06-01 13:00:00 -0400
-last_modified_at: 2026-11-16 19:00:00 +0000
+last_modified_at: 2026-11-19 09:38:00 +0000
 faqs:
   - question: "Can I try lawn bowls at a club without buying my own bowls?"
     answer: "Yes, almost every bowling club maintains sets of club loan bowls in various sizes and weights that visitors and prospective members can borrow free of charge for open days, coaching sessions, or casual roll-ups. Club coaches and experienced bowlers will measure your hand and help you pick a comfortable size before you step onto the green."
@@ -353,6 +353,58 @@ Use our master directory, regional city guides, and national governing body find
     <div class="club-region-card__footer">
       <a href="{{ '/bowls-clubs/bowls-clubs-in-auckland-new-zealand/' | relative_url }}" class="btn btn-brand-primary btn-sm">
         Explore Auckland Clubs &rarr;
+      </a>
+    </div>
+  </article>
+
+  <!-- Southern California Guide Card -->
+  <article class="club-region-card club-region-card--featured">
+    <div class="club-region-card__header">
+      <h3 class="club-region-card__title">
+        <a href="{{ '/bowls-clubs/bowls-clubs-in-southern-california/' | relative_url }}">Southern California Bowls Clubs</a>
+      </h3>
+      <span class="club-badge club-badge--gold">Complete Guide</span>
+    </div>
+    <p class="club-region-card__location">
+      <i class="fas fa-map-marker-alt text-muted" aria-hidden="true"></i> California, USA (LA, Orange County, San Diego &amp; Santa Barbara)
+    </p>
+    <div class="club-region-card__badges">
+      <span class="club-badge club-badge--light"><i class="fas fa-sun" aria-hidden="true"></i> Year-Round Play (13–17s)</span>
+      <span class="club-badge club-badge--light"><i class="fas fa-leaf" aria-hidden="true"></i> Grass &amp; Synthetic</span>
+      <span class="club-badge club-badge--info"><i class="fas fa-bowling-ball" aria-hidden="true"></i> Free Lessons &amp; Loan Bowls</span>
+    </div>
+    <p class="club-region-card__desc">
+      Explore 25 Bowls USA Southwest Division clubs across Southern California—from oceanfront greens in Laguna Beach and Santa Monica to Balboa Park in San Diego and U.S. Open venues in Long Beach and Newport Harbor.
+    </p>
+    <div class="club-region-card__footer">
+      <a href="{{ '/bowls-clubs/bowls-clubs-in-southern-california/' | relative_url }}" class="btn btn-brand-primary btn-sm">
+        Explore Southern California Clubs &rarr;
+      </a>
+    </div>
+  </article>
+
+  <!-- Northern California Guide Card -->
+  <article class="club-region-card club-region-card--featured">
+    <div class="club-region-card__header">
+      <h3 class="club-region-card__title">
+        <a href="{{ '/bowls-clubs/bowls-clubs-in-northern-california/' | relative_url }}">Northern California Bowls Clubs</a>
+      </h3>
+      <span class="club-badge club-badge--gold">Complete Guide</span>
+    </div>
+    <p class="club-region-card__location">
+      <i class="fas fa-map-marker-alt text-muted" aria-hidden="true"></i> California, USA (SF Bay Area, Santa Cruz, Carmel &amp; Wine Country)
+    </p>
+    <div class="club-region-card__badges">
+      <span class="club-badge club-badge--light"><i class="fas fa-leaf" aria-hidden="true"></i> Coastal Grass (11–14s)</span>
+      <span class="club-badge club-badge--light"><i class="fas fa-layer-group" aria-hidden="true"></i> Synthetic Greens</span>
+      <span class="club-badge club-badge--info"><i class="fas fa-bowling-ball" aria-hidden="true"></i> Free Lessons &amp; Loan Bowls</span>
+    </div>
+    <p class="club-region-card__desc">
+      Explore 15 Bowls USA Pacific Inter-Mountain Division (PIMD) clubs across Northern California—from historic Golden Gate Park (est. 1901) and Lake Merritt to Silicon Valley, Santa Cruz, Carmel, and Sonoma Wine Country.
+    </p>
+    <div class="club-region-card__footer">
+      <a href="{{ '/bowls-clubs/bowls-clubs-in-northern-california/' | relative_url }}" class="btn btn-brand-primary btn-sm">
+        Explore Northern California Clubs &rarr;
       </a>
     </div>
   </article>

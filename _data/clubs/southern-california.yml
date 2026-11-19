@@ -1,0 +1,719 @@
+- slug: "laguna-beach-lawn-bowling-club"
+  name: "Laguna Beach Lawn Bowling Club"
+  city: "southern-california"
+  city_name: "Southern California"
+  city_url: "/bowls-clubs/bowls-clubs-in-southern-california/"
+  country: "United States"
+  country_code: "US"
+  area: "Orange County (Heisler Park / Coastal)"
+  address: "455 Cliff Drive, Heisler Park, Laguna Beach, CA"
+  postcode: "92651"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Flat Green"
+    - "Social Bowls"
+    - "Tournament"
+  season: "Year-round (Daily social draw & Southwest Division tournaments)"
+  rinks_info: "2 championship oceanfront natural grass greens (16 rinks)"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://www.lagunabeachlawnbowlingclub.com/"
+  maps_query: "Laguna+Beach+Lawn+Bowling+Club+455+Cliff+Drive+Laguna+Beach+CA+92651"
+  profile_page: true
+  summary: "Iconic oceanfront lawn bowling club in Heisler Park established in 1931, featuring two manicured grass greens overlooking the Pacific Ocean."
+  about: >
+    Perched directly above the Pacific Ocean in Laguna Beach's scenic Heisler Park, the Laguna Beach Lawn Bowling Club is widely regarded as one of the most picturesque bowling venues in North America. Founded in 1931, the club maintains two championship natural grass greens and regularly hosts Bowls USA Southwest Division tournaments and U.S. Open matches. Free introductory lessons, loan bowls, and daily social draws make it exceptionally welcoming for beginners and visiting bowlers alike.
+
+- slug: "newport-harbor-lawn-bowling-club"
+  name: "Newport Harbor Lawn Bowling Club"
+  city: "southern-california"
+  city_name: "Southern California"
+  city_url: "/bowls-clubs/bowls-clubs-in-southern-california/"
+  country: "United States"
+  country_code: "US"
+  area: "Orange County (Corona del Mar)"
+  address: "1550 Crown Drive North, Corona del Mar, CA"
+  postcode: "92625"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Flat Green"
+    - "Social Bowls"
+    - "Tournament"
+  season: "Year-round (Regular club draws & national championship events)"
+  rinks_info: "2 championship natural grass greens (16 rinks)"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://www.newportharborlbc.com/"
+  maps_query: "Newport+Harbor+Lawn+Bowling+Club+1550+Crown+Drive+North+Corona+del+Mar+CA+92625"
+  profile_page: true
+  summary: "Premier Orange County club in Corona del Mar with two fast grass greens, a spacious clubhouse, and a strong calendar of national tournaments."
+  about: >
+    Located in Corona del Mar overlooking Newport Beach, the Newport Harbor Lawn Bowling Club is a cornerstone of Bowls USA's Southwest Division. Featuring two fast, immaculately maintained natural grass greens and a welcoming clubhouse, the club regularly serves as a flagship host venue for the U.S. Open and Bowls USA National Championships. Newcomers can take advantage of free beginner clinics, club loan bowls, and friendly weekly social draws.
+
+- slug: "long-beach-lawn-bowling-club"
+  name: "Long Beach Lawn Bowling Club"
+  city: "southern-california"
+  city_name: "Southern California"
+  city_url: "/bowls-clubs/bowls-clubs-in-southern-california/"
+  country: "United States"
+  country_code: "US"
+  area: "Los Angeles County (Recreation Park / Long Beach)"
+  address: "1109 Federation Drive, Long Beach, CA"
+  postcode: "90804"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Flat Green"
+    - "Social Bowls"
+    - "Tournament"
+  season: "Year-round (Multiple weekly draws & major U.S. Open host)"
+  rinks_info: "3 championship natural grass greens (24 rinks)"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://longbeachlbc.com/"
+  maps_query: "Long+Beach+Lawn+Bowling+Club+1109+Federation+Drive+Long+Beach+CA+90804"
+  profile_page: true
+  summary: "One of America's largest and most historic clubs with three full grass greens in Recreation Park, regularly hosting the U.S. Open of Lawn Bowls."
+  about: >
+    Established in 1928 inside Long Beach's Recreation Park, the Long Beach Lawn Bowling Club boasts three full-size natural grass greens—making it one of the largest lawn bowls complexes in the United States. The club is a perennial host for Bowls USA Southwest Division events and the U.S. Open. Alongside its strong competitive tradition, Long Beach LBC offers free introductory coaching, club bowls for visitors, and a vibrant social calendar year-round.
+
+- slug: "santa-monica-lawn-bowling-club"
+  name: "Santa Monica Lawn Bowling Club"
+  city: "southern-california"
+  city_name: "Southern California"
+  city_url: "/bowls-clubs/bowls-clubs-in-southern-california/"
+  country: "United States"
+  country_code: "US"
+  area: "West Los Angeles (Douglas Park / Santa Monica)"
+  address: "Douglas Park, 2439 Wilshire Blvd, Santa Monica, CA"
+  postcode: "90403"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Flat Green"
+    - "Social Bowls"
+    - "Tournament"
+  season: "Year-round (Daily social bowling & weekend lessons)"
+  rinks_info: "2 natural grass greens (16 rinks)"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://www.santamonicalawnbowls.org/"
+  maps_query: "Santa+Monica+Lawn+Bowling+Club+Douglas+Park+2439+Wilshire+Blvd+Santa+Monica+CA+90403"
+  profile_page: true
+  summary: "Historic Westside Los Angeles club in Douglas Park offering two lush coastal grass greens, free beginner lessons, and lively social draws."
+  about: >
+    Set among the trees and reflecting ponds of Santa Monica's Douglas Park since 1945, the Santa Monica Lawn Bowling Club is a welcoming Westside hub for both casual newcomers and competitive tournament bowlers. The club maintains two manicured natural grass greens cooled by Pacific breezes, provides free introductory lessons with club loan bowls, and hosts regular mixed social draws and Southwest Division competitions.
+
+- slug: "beverly-hills-lawn-bowling-club"
+  name: "Beverly Hills Lawn Bowling Club"
+  city: "southern-california"
+  city_name: "Southern California"
+  city_url: "/bowls-clubs/bowls-clubs-in-southern-california/"
+  country: "United States"
+  country_code: "US"
+  area: "West Los Angeles (Roxbury Park / Beverly Hills)"
+  address: "400 S. Roxbury Drive, Roxbury Park, Beverly Hills, CA"
+  postcode: "90212"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Flat Green"
+    - "Social Bowls"
+    - "Tournament"
+  season: "Year-round (Open play & scheduled weekly draws)"
+  rinks_info: "2 manicured natural grass greens (16 rinks)"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://www.bhlbc.com/"
+  maps_query: "Beverly+Hills+Lawn+Bowling+Club+400+S+Roxbury+Drive+Beverly+Hills+CA+90212"
+  profile_page: true
+  summary: "Storied 1926 club in Roxbury Park featuring two classic grass greens, Hollywood heritage, and complimentary beginner coaching."
+  about: >
+    Founded in 1926 in the heart of Roxbury Park, the Beverly Hills Lawn Bowling Club combines old-school Southern California charm with an active modern bowling community. Once frequented by classic Hollywood stars, the club today offers two fine grass greens, friendly weekly social games, and Southwest Division tournament play. Visitors and prospective members are welcomed with free lessons and borrowed club bowls.
+
+- slug: "holmby-park-lawn-bowling-club"
+  name: "Holmby Park Lawn Bowling Club"
+  city: "southern-california"
+  city_name: "Southern California"
+  city_url: "/bowls-clubs/bowls-clubs-in-southern-california/"
+  country: "United States"
+  country_code: "US"
+  area: "West Los Angeles (Westwood / Holmby Hills)"
+  address: "646 Comstock Ave, Holmby Park, Los Angeles, CA"
+  postcode: "90024"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Flat Green"
+    - "Social Bowls"
+    - "Tournament"
+  season: "Year-round (Weekly draws & beginner clinics)"
+  rinks_info: "2 natural grass greens (16 rinks)"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://www.losangeleslawnbowling.com/"
+  maps_query: "Holmby+Park+Lawn+Bowling+Club+646+Comstock+Ave+Los+Angeles+CA+90024"
+  profile_page: true
+  summary: "Peaceful, park-side club in Holmby Park near Westwood and UCLA with two grass greens, open-to-the-public lessons, and active league play."
+  about: >
+    Tucked into the leafy surroundings of Holmby Park between Westwood and Beverly Hills, the Holmby Park Lawn Bowling Club (established 1927) is one of Los Angeles's most active public-park bowling venues. With two full-size natural grass greens, a welcoming clubhouse, and regular free Sunday/weekend introductory sessions with loan bowls, Holmby Park attracts everyone from UCLA students and local newcomers to seasoned Bowls USA competitors.
+
+- slug: "san-diego-lawn-bowling-club"
+  name: "San Diego Lawn Bowling Club"
+  city: "southern-california"
+  city_name: "Southern California"
+  city_url: "/bowls-clubs/bowls-clubs-in-southern-california/"
+  country: "United States"
+  country_code: "US"
+  area: "Central San Diego (Balboa Park)"
+  address: "Balboa Park, 702 El Prado, San Diego, CA"
+  postcode: "92101"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Flat Green"
+    - "Social Bowls"
+    - "Tournament"
+  season: "Year-round (Daily social draws & Balboa Park open days)"
+  rinks_info: "2 championship natural grass greens (16 rinks)"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://www.sandiegolawnbowling.org/"
+  maps_query: "San+Diego+Lawn+Bowling+Club+Balboa+Park+702+El+Prado+San+Diego+CA+92101"
+  profile_page: true
+  summary: "Historic 1932 club in the heart of Balboa Park beside the Cabrillo Bridge, featuring two grass greens and free public introductory sessions."
+  about: >
+    Situated in world-famous Balboa Park right beside the Cabrillo Bridge, the San Diego Lawn Bowling Club has been a local landmark since 1932. The club maintains two lush grass greens surrounded by Balboa Park's historic Spanish Colonial architecture and gardens. Open to visitors and new players with free coaching and loan sets, San Diego LBC runs daily social games, twilight bowling, and competitive Southwest Division events.
+
+- slug: "coronado-lawn-bowling-club"
+  name: "Coronado Lawn Bowling Club"
+  city: "southern-california"
+  city_name: "Southern California"
+  city_url: "/bowls-clubs/bowls-clubs-in-southern-california/"
+  country: "United States"
+  country_code: "US"
+  area: "San Diego Bay (Coronado Island)"
+  address: "John D. Spreckels Center, 1019 7th Street, Coronado, CA"
+  postcode: "92118"
+  surfaces:
+    - "Outdoor Synthetic"
+  formats:
+    - "Flat Green"
+    - "Social Bowls"
+    - "Tournament"
+  season: "Year-round (All-weather synthetic surface with coastal breezes)"
+  rinks_info: "1 modern championship synthetic green (8 rinks)"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://coronadolawnbowling.com/"
+  maps_query: "Coronado+Lawn+Bowling+Club+1019+7th+Street+Coronado+CA+92118"
+  profile_page: true
+  summary: "Premier synthetic-green club on Coronado Island adjacent to the John D. Spreckels Center, offering true, fast year-round play."
+  about: >
+    Founded in 1935 and now paired with the modern John D. Spreckels Center on Coronado Island, the Coronado Lawn Bowling Club features a fast, true artificial turf bowling green that plays consistently in every season. Visitors from across San Diego and traveling bowlers are warmly welcomed for free introductory lessons, loan bowls, casual social roll-ups, and competitive tournaments.
+
+- slug: "santa-barbara-lawn-bowls-club"
+  name: "Santa Barbara Lawn Bowls Club"
+  city: "southern-california"
+  city_name: "Southern California"
+  city_url: "/bowls-clubs/bowls-clubs-in-southern-california/"
+  country: "United States"
+  country_code: "US"
+  area: "Santa Barbara (Downtown / Spencer Adams Park)"
+  address: "Spencer Adams Park, 1216 De La Vina Street, Santa Barbara, CA"
+  postcode: "93101"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Flat Green"
+    - "Social Bowls"
+    - "Tournament"
+  season: "Year-round (Regular social draws & coastal tournaments)"
+  rinks_info: "2 natural grass greens (16 rinks)"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://www.santabarbaralbc.org/"
+  maps_query: "Santa+Barbara+Lawn+Bowls+Club+1216+De+La+Vina+Street+Santa+Barbara+CA+93101"
+  profile_page: true
+  summary: "Classic 1937 downtown Santa Barbara club in Spencer Adams Park with two coastal grass greens and a friendly, active membership."
+  about: >
+    Located in downtown Santa Barbara's Spencer Adams Park since 1937, the Santa Barbara Lawn Bowls Club is a thriving Central Coast institution. Its two natural grass greens enjoy Santa Barbara's mild Mediterranean climate year-round. The club provides complimentary lessons and loan bowls for first-timers alongside regular social games, summer twilight sessions, and Bowls USA regional events.
+
+- slug: "mackenzie-park-lawn-bowls-club"
+  name: "MacKenzie Park Lawn Bowls Club"
+  city: "southern-california"
+  city_name: "Southern California"
+  city_url: "/bowls-clubs/bowls-clubs-in-southern-california/"
+  country: "United States"
+  country_code: "US"
+  area: "Santa Barbara (MacKenzie Park / San Roque)"
+  address: "Las Positas Rd & McCaw Ave, MacKenzie Park, Santa Barbara, CA"
+  postcode: "93105"
+  surfaces:
+    - "Outdoor Synthetic"
+  formats:
+    - "Flat Green"
+    - "Social Bowls"
+    - "Tournament"
+  season: "Year-round (All-weather synthetic green)"
+  rinks_info: "1 full-size championship synthetic green (8 rinks)"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://www.mplbc.org/"
+  maps_query: "MacKenzie+Park+Lawn+Bowls+Club+Las+Positas+Rd+Santa+Barbara+CA+93105"
+  profile_page: true
+  summary: "Friendly Santa Barbara club featuring a fast, low-maintenance synthetic green in scenic MacKenzie Park with free beginner instruction."
+  about: >
+    Situated in Santa Barbara's MacKenzie Park, the MacKenzie Park Lawn Bowls Club offers an all-weather synthetic bowling green that provides consistent pace throughout the year. Known for its welcoming community atmosphere, the club hosts regular social draws, free beginner lessons with club equipment, and inter-club matches with nearby Santa Barbara and Ventura County clubs.
+
+- slug: "pasadena-lawn-bowling-club"
+  name: "Pasadena Lawn Bowling & Croquet Club"
+  city: "southern-california"
+  city_name: "Southern California"
+  city_url: "/bowls-clubs/bowls-clubs-in-southern-california/"
+  country: "United States"
+  country_code: "US"
+  area: "San Gabriel Valley (Central Park / Old Pasadena)"
+  address: "275 S. Raymond Ave, Central Park, Pasadena, CA"
+  postcode: "91105"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Flat Green"
+    - "Social Bowls"
+    - "Tournament"
+  season: "Year-round (Weekly draws & Old Pasadena social events)"
+  rinks_info: "2 natural grass greens in historic Central Park"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://plbcc.org/"
+  maps_query: "Pasadena+Lawn+Bowling+Club+275+S+Raymond+Ave+Pasadena+CA+91105"
+  profile_page: true
+  summary: "One of Southern California's oldest lawn bowling clubs (est. 1921), set in Pasadena's Central Park just steps from Old Pasadena."
+  about: >
+    Established in 1921 in Pasadena's historic Central Park, the Pasadena Lawn Bowling & Croquet Club is a beloved San Gabriel Valley institution. Featuring two natural grass greens and a classic Craftsman-style clubhouse, the club welcomes newcomers for free lessons, loan bowls, casual weekend social games, and Bowls USA Southwest Division tournaments.
+
+- slug: "santa-anita-lawn-bowling-club"
+  name: "Santa Anita Lawn Bowling Club"
+  city: "southern-california"
+  city_name: "Southern California"
+  city_url: "/bowls-clubs/bowls-clubs-in-southern-california/"
+  country: "United States"
+  country_code: "US"
+  area: "San Gabriel Valley (Arcadia County Park)"
+  address: "Arcadia County Park, 405 S. Santa Anita Ave, Arcadia, CA"
+  postcode: "91006"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Flat Green"
+    - "Social Bowls"
+    - "Tournament"
+  season: "Year-round (Regular draws & Southwest Division events)"
+  rinks_info: "2 championship natural grass greens (16 rinks)"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://santaanitalawnbowling.com/"
+  maps_query: "Santa+Anita+Lawn+Bowling+Club+405+S+Santa+Anita+Ave+Arcadia+CA+91006"
+  profile_page: true
+  summary: "Scenic San Gabriel Valley club in Arcadia County Park with two well-kept grass greens and views of the San Gabriel Mountains."
+  about: >
+    Located inside Arcadia County Park with the San Gabriel Mountains as a backdrop, the Santa Anita Lawn Bowling Club offers two full-size natural grass greens and a welcoming clubhouse. The club is a popular host for Southwest Division tournaments and provides free introductory lessons and club bowls for anyone in the Pasadena/Arcadia area wanting to try lawn bowling.
+
+- slug: "hermosa-beach-lawn-bowling-club"
+  name: "Hermosa Beach Lawn Bowling Club"
+  city: "southern-california"
+  city_name: "Southern California"
+  city_url: "/bowls-clubs/bowls-clubs-in-southern-california/"
+  country: "United States"
+  country_code: "US"
+  area: "South Bay Los Angeles (Hermosa Beach)"
+  address: "861 Valley Drive, Hermosa Beach, CA"
+  postcode: "90254"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Flat Green"
+    - "Social Bowls"
+  season: "Year-round (Laid-back coastal play & weekly draws)"
+  rinks_info: "1 coastal natural grass green (8 rinks)"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://hblbc.org/"
+  maps_query: "Hermosa+Beach+Lawn+Bowling+Club+861+Valley+Drive+Hermosa+Beach+CA+90254"
+  profile_page: true
+  summary: "Relaxed South Bay beach-town club just blocks from the Pacific, ideal for casual social bowls and beginner roll-ups."
+  about: >
+    Just a short stroll from the Hermosa Beach pier and oceanfront, the Hermosa Beach Lawn Bowling Club (established 1936) is the South Bay's friendly home for lawn bowling. Its single natural grass green enjoys cool coastal temperatures year-round. New bowlers are warmly welcomed with complimentary lessons, loan bowls, and relaxed weekly social draws.
+
+- slug: "laguna-woods-lawn-bowling-club"
+  name: "Laguna Woods Lawn Bowling Club"
+  city: "southern-california"
+  city_name: "Southern California"
+  city_url: "/bowls-clubs/bowls-clubs-in-southern-california/"
+  country: "United States"
+  country_code: "US"
+  area: "South Orange County (Laguna Woods Village)"
+  address: "24112 Moulton Pkwy, Clubhouse Two, Laguna Woods, CA"
+  postcode: "92637"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Flat Green"
+    - "Social Bowls"
+    - "Tournament"
+  season: "Year-round (Daily club draws & major U.S. Open host)"
+  rinks_info: "2 tournament-grade natural grass greens (16 rinks)"
+  beginner_friendly: true
+  barefoot_social: false
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://lwlbc.org/"
+  maps_query: "Laguna+Woods+Lawn+Bowling+Club+24112+Moulton+Pkwy+Laguna+Woods+CA+92637"
+  profile_page: true
+  summary: "Powerhouse South Orange County club with two championship grass greens, extensive coaching programs, and regular U.S. Open hosting duties."
+  about: >
+    Situated at Clubhouse Two inside Laguna Woods Village (a 55+ active adult community), the Laguna Woods Lawn Bowling Club is one of the largest and most competitive clubs in California. Its two immaculate grass greens regularly host Bowls USA Southwest Division championships and U.S. Open rounds. The club runs structured beginner clinics, daily social games, and competitive leagues for residents and invited tournament guests.
+
+- slug: "sun-city-lawn-bowling-club-menifee"
+  name: "Sun City Lawn Bowling Club"
+  city: "southern-california"
+  city_name: "Southern California"
+  city_url: "/bowls-clubs/bowls-clubs-in-southern-california/"
+  country: "United States"
+  country_code: "US"
+  area: "Inland Empire / Riverside County (Menifee)"
+  address: "26850 Sun City Blvd, Menifee, CA"
+  postcode: "92586"
+  surfaces:
+    - "Outdoor Synthetic"
+  formats:
+    - "Flat Green"
+    - "Social Bowls"
+    - "Tournament"
+  season: "Year-round (Fast synthetic greens & regional tournaments)"
+  rinks_info: "2 championship synthetic greens (16 rinks)"
+  beginner_friendly: true
+  barefoot_social: false
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://www.suncitylawnbowls.com/"
+  maps_query: "Sun+City+Lawn+Bowling+Club+26850+Sun+City+Blvd+Menifee+CA+92586"
+  profile_page: true
+  summary: "Major Inland Empire lawn bowls venue in Menifee featuring two fast synthetic greens and an active Bowls USA tournament calendar."
+  about: >
+    Located at the Sun City Civic Association in Menifee, the Sun City Lawn Bowling Club boasts two high-speed synthetic bowling greens that play reliably through Southern California's warm inland summers and mild winters. The club hosts regular Southwest Division opens, offers free beginner instruction with loan bowls, and maintains a lively schedule of weekly social and league play.
+
+- slug: "redlands-lawn-bowling-club"
+  name: "Redlands Lawn Bowling Club"
+  city: "southern-california"
+  city_name: "Southern California"
+  city_url: "/bowls-clubs/bowls-clubs-in-southern-california/"
+  country: "United States"
+  country_code: "US"
+  area: "Inland Empire (Redlands)"
+  address: "411 N. University Street, Redlands, CA"
+  postcode: "92374"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Flat Green"
+    - "Social Bowls"
+    - "Tournament"
+  season: "Year-round (Weekly draws & evening summer bowls)"
+  rinks_info: "2 natural grass greens (16 rinks)"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://www.redlandslawnbowlingclub.com/"
+  maps_query: "Redlands+Lawn+Bowling+Club+411+N+University+Street+Redlands+CA+92374"
+  profile_page: true
+  summary: "Historic 1921 Inland Empire club in Redlands with two grass greens, shaded patios, and welcoming public open sessions."
+  about: >
+    One of the founding pillars of lawn bowls in California since 1921, the Redlands Lawn Bowling Club features two full grass greens and a charming historic clubhouse near the University of Redlands. The club welcomes beginners of all ages with free introductory lessons and club bowls, running regular daytime draws, summer evening bowls under the lights, and regional tournaments.
+
+- slug: "riverside-lawn-bowling-club"
+  name: "Riverside Lawn Bowling Club"
+  city: "southern-california"
+  city_name: "Southern California"
+  city_url: "/bowls-clubs/bowls-clubs-in-southern-california/"
+  country: "United States"
+  country_code: "US"
+  area: "Inland Empire (Fairmount Park / Riverside)"
+  address: "Fairmount Park, 4020 Bowling Green Dr, Riverside, CA"
+  postcode: "92501"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Flat Green"
+    - "Social Bowls"
+    - "Tournament"
+  season: "Year-round (Morning draws & evening social play)"
+  rinks_info: "1 historic natural grass green (8 rinks)"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://www.riversidelawnbowlingclub.com/"
+  maps_query: "Riverside+Lawn+Bowling+Club+Fairmount+Park+4020+Bowling+Green+Dr+Riverside+CA+92501"
+  profile_page: true
+  summary: "Scenic public-park club in Riverside's Fairmount Park offering friendly social bowling, free lessons, and a century of local tradition."
+  about: >
+    Nestled beside Lake Evans in Riverside's Olmsted-designed Fairmount Park, the Riverside Lawn Bowling Club has been welcoming Inland Empire bowlers since 1925. Its natural grass green provides a relaxed, community-oriented setting for newcomers and seasoned players alike, with free beginner instruction, loan bowls, and regular Southwest Division friendly matches.
+
+- slug: "oaks-north-lawn-bowling-club"
+  name: "Oaks North Lawn Bowling Club"
+  city: "southern-california"
+  city_name: "Southern California"
+  city_url: "/bowls-clubs/bowls-clubs-in-southern-california/"
+  country: "United States"
+  country_code: "US"
+  area: "North County San Diego (Rancho Bernardo)"
+  address: "12578 Oaks North Drive, San Diego, CA"
+  postcode: "92128"
+  surfaces:
+    - "Outdoor Synthetic"
+  formats:
+    - "Flat Green"
+    - "Social Bowls"
+    - "Tournament"
+  season: "Year-round (Fast synthetic surface)"
+  rinks_info: "1 full-size synthetic green (8 rinks)"
+  beginner_friendly: true
+  barefoot_social: false
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://southwestlawnbowls.com/club-info"
+  maps_query: "Oaks+North+Community+Center+12578+Oaks+North+Drive+San+Diego+CA+92128"
+  profile_page: true
+  summary: "Active North County San Diego club in Rancho Bernardo featuring a true synthetic green and regular Bowls USA Southwest Division events."
+  about: >
+    Located at the Oaks North Community Center in Rancho Bernardo, the Oaks North Lawn Bowling Club serves North County San Diego with a fast, all-weather synthetic bowling green. The club offers structured beginner lessons, club bowls, regular weekly social draws, and inter-club tournaments with San Diego and Coronado clubs.
+
+- slug: "casta-del-sol-lawn-bowling-club"
+  name: "Casta del Sol Lawn Bowling Club"
+  city: "southern-california"
+  city_name: "Southern California"
+  city_url: "/bowls-clubs/bowls-clubs-in-southern-california/"
+  country: "United States"
+  country_code: "US"
+  area: "South Orange County (Mission Viejo)"
+  address: "27651 Casta del Sol, Mission Viejo, CA"
+  postcode: "92692"
+  surfaces:
+    - "Outdoor Synthetic"
+  formats:
+    - "Flat Green"
+    - "Social Bowls"
+  season: "Year-round (Daily social draws)"
+  rinks_info: "1 synthetic bowling green (8 rinks)"
+  beginner_friendly: true
+  barefoot_social: false
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://southwestlawnbowls.com/club-info"
+  maps_query: "Casta+del+Sol+27651+Casta+del+Sol+Mission+Viejo+CA+92692"
+  profile_page: true
+  summary: "Welcoming Mission Viejo active-adult community club with a fast synthetic green and daily social bowling sessions."
+  about: >
+    Set within the Casta del Sol 55+ community in Mission Viejo, the Casta del Sol Lawn Bowling Club provides South Orange County residents and invited tournament guests with a smooth, consistent synthetic green. The club emphasizes friendly daily draws, complimentary new-bowler coaching, and social events throughout the year.
+
+- slug: "leisure-world-seal-beach-lawn-bowling-club"
+  name: "Leisure World Seal Beach Lawn Bowling Club"
+  city: "southern-california"
+  city_name: "Southern California"
+  city_url: "/bowls-clubs/bowls-clubs-in-southern-california/"
+  country: "United States"
+  country_code: "US"
+  area: "Orange County (Seal Beach)"
+  address: "13531 St. Andrews Drive, Seal Beach, CA"
+  postcode: "90740"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Flat Green"
+    - "Social Bowls"
+  season: "Year-round (Regular club games & clinics)"
+  rinks_info: "2 natural grass greens inside Leisure World Seal Beach"
+  beginner_friendly: true
+  barefoot_social: false
+  loan_bowls: true
+  bar_clubhouse: true
+  website: "https://southwestlawnbowls.com/club-info"
+  maps_query: "Leisure+World+Seal+Beach+13531+St+Andrews+Drive+Seal+Beach+CA+90740"
+  profile_page: true
+  summary: "Well-established Seal Beach community club featuring two manicured grass greens, free resident coaching, and friendly inter-club play."
+  about: >
+    Situated inside the gated Leisure World Seal Beach active-adult community near the Orange County / Long Beach border, this club maintains two natural grass greens and an active membership. Residents and visiting Southwest Division tournament bowlers enjoy regular weekly draws, beginner clinics with loan bowls, and mild coastal playing conditions.
+
+- slug: "alhambra-bowls-club"
+  name: "Alhambra Bowls Club"
+  city: "southern-california"
+  city_name: "Southern California"
+  city_url: "/bowls-clubs/bowls-clubs-in-southern-california/"
+  country: "United States"
+  country_code: "US"
+  area: "San Gabriel Valley (Almansor Park / Alhambra)"
+  address: "Almansor Park, 800 S. Almansor St, Alhambra, CA"
+  postcode: "91801"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Flat Green"
+    - "Social Bowls"
+    - "Tournament"
+  season: "Year-round (Weekly social play & open draws)"
+  rinks_info: "1 public-park natural grass green (8 rinks)"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: false
+  website: "https://southwestlawnbowls.com/club-info"
+  maps_query: "Almansor+Park+800+S+Almansor+St+Alhambra+CA+91801"
+  profile_page: true
+  summary: "Accessible San Gabriel Valley public-park club at Almansor Park offering relaxed social bowling and beginner-friendly roll-ups."
+  about: >
+    Playing out of Alhambra's scenic Almansor Park, the Alhambra Bowls Club is a welcoming San Gabriel Valley club affiliated with Bowls USA's Southwest Division. Offering a single natural grass green in a public park setting, the club encourages local newcomers to drop in for free introductory sessions, loan bowls, and friendly weekend matches.
+
+- slug: "pomona-lawn-bowling-club"
+  name: "Pomona Lawn Bowling Club"
+  city: "southern-california"
+  city_name: "Southern California"
+  city_url: "/bowls-clubs/bowls-clubs-in-southern-california/"
+  country: "United States"
+  country_code: "US"
+  area: "East Los Angeles County / Pomona Valley"
+  address: "451 E. Arrow Hwy, Pomona, CA"
+  postcode: "91767"
+  surfaces:
+    - "Outdoor Grass"
+  formats:
+    - "Flat Green"
+    - "Social Bowls"
+  season: "Year-round (Weekly club draws)"
+  rinks_info: "1 historic natural grass green beside Palomares Adobe"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: false
+  website: "https://southwestlawnbowls.com/club-info"
+  maps_query: "Pomona+Lawn+Bowling+Club+451+E+Arrow+Hwy+Pomona+CA+91767"
+  profile_page: true
+  summary: "Historic Pomona Valley club located adjacent to the Palomares Adobe, offering a friendly local grass green and beginner coaching."
+  about: >
+    Located right next to the historic Palomares Adobe in Pomona, the Pomona Lawn Bowling Club serves bowlers across the Pomona Valley and eastern San Gabriel Valley. Its natural grass green provides a welcoming environment for casual social games, free newcomer instruction with club bowls, and friendly inter-club visits.
+
+- slug: "hemet-joslyn-lawn-bowls-club"
+  name: "Hemet-Joslyn Lawn Bowls Club"
+  city: "southern-california"
+  city_name: "Southern California"
+  city_url: "/bowls-clubs/bowls-clubs-in-southern-california/"
+  country: "United States"
+  country_code: "US"
+  area: "Inland Empire / Hemet Valley"
+  address: "2625 W. Devonshire Ave, Hemet, CA"
+  postcode: "92545"
+  surfaces:
+    - "Outdoor Synthetic"
+  formats:
+    - "Flat Green"
+    - "Social Bowls"
+  season: "Year-round (Peak play October – May)"
+  rinks_info: "1 synthetic bowling green (8 rinks)"
+  beginner_friendly: true
+  barefoot_social: false
+  loan_bowls: true
+  bar_clubhouse: false
+  website: "https://southwestlawnbowls.com/club-info"
+  maps_query: "Hemet+Joslyn+Lawn+Bowls+Club+2625+W+Devonshire+Ave+Hemet+CA+92545"
+  profile_page: true
+  summary: "Friendly Hemet Valley club featuring an all-weather synthetic green and welcoming winter-season social draws."
+  about: >
+    Situated at the Joslyn Center in Hemet, the Hemet-Joslyn Lawn Bowls Club offers an all-weather synthetic bowling green that is especially popular during the mild autumn, winter, and spring months. New players are welcome to try the sport with free loan bowls and coaching from experienced club members.
+
+- slug: "oxnard-joslyn-lawn-bowls-club"
+  name: "Oxnard-Joslyn Lawn Bowls Club"
+  city: "southern-california"
+  city_name: "Southern California"
+  city_url: "/bowls-clubs/bowls-clubs-in-southern-california/"
+  country: "United States"
+  country_code: "US"
+  area: "Ventura County (Oxnard)"
+  address: "350 N. C Street, Oxnard, CA"
+  postcode: "93030"
+  surfaces:
+    - "Outdoor Synthetic"
+  formats:
+    - "Flat Green"
+    - "Social Bowls"
+    - "Tournament"
+  season: "Year-round (Mild coastal Ventura County climate)"
+  rinks_info: "1 full-size synthetic green (8 rinks)"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: false
+  website: "https://southwestlawnbowls.com/club-info"
+  maps_query: "Oxnard+Joslyn+Lawn+Bowls+Club+350+N+C+Street+Oxnard+CA+93030"
+  profile_page: true
+  summary: "Ventura County's premier lawn bowling club in Oxnard, featuring a fast synthetic green and welcoming year-round social draws."
+  about: >
+    Serving Ventura County from its coastal location in Oxnard, the Oxnard-Joslyn Lawn Bowls Club operates a consistent, all-weather synthetic green in one of Southern California's mildest microclimates. The club welcomes beginners with complimentary lessons and loan bowls, and hosts regular weekly draws and friendly regional competitions.
+
+- slug: "cambria-lawn-bowls-club"
+  name: "Cambria Lawn Bowls Club"
+  city: "southern-california"
+  city_name: "Southern California"
+  city_url: "/bowls-clubs/bowls-clubs-in-southern-california/"
+  country: "United States"
+  country_code: "US"
+  area: "Central Coast (San Luis Obispo County / Cambria)"
+  address: "950 Main Street, Joslyn Recreation Center, Cambria, CA"
+  postcode: "93428"
+  surfaces:
+    - "Outdoor Synthetic"
+  formats:
+    - "Flat Green"
+    - "Social Bowls"
+    - "Tournament"
+  season: "Year-round (Cool coastal Central Coast climate)"
+  rinks_info: "1 championship synthetic green (8 rinks)"
+  beginner_friendly: true
+  barefoot_social: true
+  loan_bowls: true
+  bar_clubhouse: false
+  website: "https://www.cambrialawnbowls.com/"
+  maps_query: "Cambria+Lawn+Bowls+Club+950+Main+Street+Cambria+CA+93428"
+  profile_page: true
+  summary: "Northernmost club in Bowls USA's Southwest Division, offering a scenic synthetic green in coastal Cambria along Highway 1."
+  about: >
+    Nestled among the coastal pines of Cambria along California's Highway 1, the Cambria Lawn Bowls Club is the northernmost outpost of Bowls USA's Southwest Division. Its well-maintained synthetic green at the Joslyn Recreation Center welcomes locals and Central Coast visitors alike for free introductory sessions, loan bowls, and regular social draws.
