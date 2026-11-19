@@ -24,10 +24,11 @@ barefoot_social: true
 loan_bowls: true
 bar_clubhouse: true
 website: "https://www.riversidelawnbowlingclub.com/"
-maps_query: "Riverside+Lawn+Bowling+Club+Fairmount+Park+4020+Bowling+Green+Dr+Riverside+CA+92501"
+maps_query: >
+  Riverside+Lawn+Bowling+Club+Fairmount+Park+4020+Bowling+Green+Dr+Riverside+CA+92501
 summary: >
   Scenic public-park club in Riverside's Fairmount Park offering friendly social bowling, free lessons, and a century of local tradition.
 about: >
   Nestled beside Lake Evans in Riverside's Olmsted-designed Fairmount Park, the Riverside Lawn Bowling Club has been welcoming Inland Empire bowlers since 1925. Its natural grass green provides a relaxed, community-oriented setting for newcomers and seasoned players alike, with free beginner instruction, loan bowls, and regular Southwest Division friendly matches.
-last_modified_at: 2026-11-19 09:12:00 +0000
+last_modified_at: 2026-11-19 17:28:50 +0000
 ---

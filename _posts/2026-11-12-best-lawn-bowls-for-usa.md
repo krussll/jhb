@@ -12,7 +12,7 @@ ebay_domain: "ebay.com"
 currency_symbol: "$"
 price_currency: "USD"
 date: 2026-11-12 09:00:00 +0000
-last_modified_at: 2026-11-19 09:38:00 +0000
+last_modified_at: 2026-11-19 17:30:00 +0000
 items:
   - model_id: "taylor-vector-vs"
     name: "Taylor Vector VS"
@@ -93,7 +93,7 @@ faqs:
 <p>Green speed is measured in seconds—the time it takes a bowl to roll 27 metres (approx. 90 feet) before stopping. Across the major Bowls USA divisions, speeds fall into two distinct groups:</p>
 
 <ul>
-  <li><strong>Sunbelt &amp; Synthetic Turf (14–18+ seconds):</strong> Clubs in the <a href="{{ '/bowls-clubs/bowls-clubs-in-southern-california/' | relative_url }}">Southwest (Southern California)</a>, South Central (Arizona and Texas), and Southeast (Florida) predominantly use hybrid Bermuda grass (such as TifDwarf or Champion) or high-speed artificial carpets. These surfaces run fast and true year-round, meaning a bowl spends longer decelerating and has more time for its bias to bite.</li>
+  <li><strong>Sunbelt &amp; Synthetic Turf (14–18+ seconds):</strong> Clubs in the <a href="{{ '/bowls-clubs/bowls-clubs-in-southern-california/' | relative_url }}">Southwest (Southern California)</a>, South Central (Arizona and Texas), and <a href="{{ '/bowls-clubs/bowls-clubs-in-florida-and-southeast-usa/' | relative_url }}">Southeast (Florida &amp; Southeast USA)</a> predominantly use hybrid Bermuda grass (such as TifDwarf or Champion), fast-drying Har-Tru clay, or high-speed artificial carpets. These surfaces run fast and true year-round, meaning a bowl spends longer decelerating and has more time for its bias to bite.</li>
   <li><strong>Northern, Midwest &amp; Pacific Northwest Grass (12–14.5 seconds):</strong> Clubs in the Northeast, Central, Northwest, and <a href="{{ '/bowls-clubs/bowls-clubs-in-northern-california/' | relative_url }}">Pacific Inter-Mountain (Northern California)</a> divisions often play on bentgrass or cool-season natural turf. Early spring and late autumn sessions can play slightly heavier, rewarding a moderate mid-bias arc.</li>
 </ul>
 

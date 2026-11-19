@@ -24,10 +24,11 @@ barefoot_social: true
 loan_bowls: true
 bar_clubhouse: true
 website: "https://www.santamonicalawnbowls.org/"
-maps_query: "Santa+Monica+Lawn+Bowling+Club+Douglas+Park+2439+Wilshire+Blvd+Santa+Monica+CA+90403"
+maps_query: >
+  Santa+Monica+Lawn+Bowling+Club+Douglas+Park+2439+Wilshire+Blvd+Santa+Monica+CA+90403
 summary: >
   Historic Westside Los Angeles club in Douglas Park offering two lush coastal grass greens, free beginner lessons, and lively social draws.
 about: >
   Set among the trees and reflecting ponds of Santa Monica's Douglas Park since 1945, the Santa Monica Lawn Bowling Club is a welcoming Westside hub for both casual newcomers and competitive tournament bowlers. The club maintains two manicured natural grass greens cooled by Pacific breezes, provides free introductory lessons with club loan bowls, and hosts regular mixed social draws and Southwest Division competitions.
-last_modified_at: 2026-11-19 09:12:00 +0000
+last_modified_at: 2026-11-19 17:28:50 +0000
 ---

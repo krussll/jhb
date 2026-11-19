@@ -10,7 +10,7 @@ description: "Find indoor and lawn bowls clubs near you with our comprehensive d
 background: "/img/posts/Club-Directory-1024x576.jpg"
 image: "/img/posts/Club-Directory-1024x576.jpg"
 date: 2022-06-01 13:00:00 -0400
-last_modified_at: 2026-11-19 09:38:00 +0000
+last_modified_at: 2026-11-19 17:30:00 +0000
 faqs:
   - question: "Can I try lawn bowls at a club without buying my own bowls?"
     answer: "Yes, almost every bowling club maintains sets of club loan bowls in various sizes and weights that visitors and prospective members can borrow free of charge for open days, coaching sessions, or casual roll-ups. Club coaches and experienced bowlers will measure your hand and help you pick a comfortable size before you step onto the green."
@@ -405,6 +405,32 @@ Use our master directory, regional city guides, and national governing body find
     <div class="club-region-card__footer">
       <a href="{{ '/bowls-clubs/bowls-clubs-in-northern-california/' | relative_url }}" class="btn btn-brand-primary btn-sm">
         Explore Northern California Clubs &rarr;
+      </a>
+    </div>
+  </article>
+
+  <!-- Florida & Southeast USA Guide Card -->
+  <article class="club-region-card club-region-card--featured">
+    <div class="club-region-card__header">
+      <h3 class="club-region-card__title">
+        <a href="{{ '/bowls-clubs/bowls-clubs-in-florida-and-southeast-usa/' | relative_url }}">Florida &amp; Southeast USA Bowls Clubs</a>
+      </h3>
+      <span class="club-badge club-badge--gold">Complete Guide</span>
+    </div>
+    <p class="club-region-card__location">
+      <i class="fas fa-map-marker-alt text-muted" aria-hidden="true"></i> Southeast USA (Florida, North Carolina &amp; Tennessee)
+    </p>
+    <div class="club-region-card__badges">
+      <span class="club-badge club-badge--light"><i class="fas fa-sun" aria-hidden="true"></i> Winter Snowbird Season</span>
+      <span class="club-badge club-badge--light"><i class="fas fa-layer-group" aria-hidden="true"></i> Har-Tru, Grass &amp; Synthetic</span>
+      <span class="club-badge club-badge--info"><i class="fas fa-bowling-ball" aria-hidden="true"></i> Loan Bowls &amp; Lessons</span>
+    </div>
+    <p class="club-region-card__desc">
+      Explore 15 Bowls USA Southeast Division clubs across Florida, North Carolina, and Tennessee—from historic St. Petersburg (est. 1916) and Mount Dora's 14 Har-Tru rinks to Sun City Center, Sarasota, Delray Beach, Pinehurst, and Nashville.
+    </p>
+    <div class="club-region-card__footer">
+      <a href="{{ '/bowls-clubs/bowls-clubs-in-florida-and-southeast-usa/' | relative_url }}" class="btn btn-brand-primary btn-sm">
+        Explore Florida &amp; Southeast Clubs &rarr;
       </a>
     </div>
   </article>
